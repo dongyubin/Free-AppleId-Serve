@@ -2,20 +2,6 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-## 软件介绍
-
-**SS**，全称为 **Shadowsocks**（下文简称为`SS`），是一种基于 Socks5 代理方式的网络数据加密传输包的工具，可以使用其于**科学上网** _也就是翻墙_ ，是目前最稳定，最常用的科学上网工具之一，**全平台支持**
-
-**SSR**，全称为 **ShadowsocksR**（下文简称为`SSR`）
-来历：
-
-> ShadowsocksR是breakwa11发起的Shadowsocks分支，在Shadowsocks的基础上增加了一些数据混淆方式，称修复了部分安全问题并可以提高QoS优先级。后来贡献者Librehat也为Shadowsocks补上了一些此类特性，甚至增加了类似Tor的可插拔传输层功能。
->
-> ShadowsocksR开始时曾有过违反GPL、发放二进制时不发放源码的争议，不过后来ShadowsocksR项目由breakwa11转为了与Shadowsocks相同的GPL、Apache许可证、MIT许可证等多重自由软件许可协议。
->
-> 2017年7月19日，ShadowsocksR作者breakwa11在Telegram频道ShadowsocksR news里转发了深圳市启用SS协议检测并被大量用户转发，引发恐慌。7月24日，breakwa11发布了闭源的SS被动检测程序，引发争议。 2017年7月27日，breakwa11遭到自称 “ESU.TV” 的不明身份人士人身攻击，对方宣称如果不停止开发并阻止用户讨论此事件将发布更多包含个人隐私的资料，随后breakwa11表示遭到对方人肉搜索并公开个人资料的是无关人士，为了防止对方继续伤害无关人士，breakwa11将删除GitHub上的所有代码、解散相关交流群组，停止ShadowsocksR项目。但项目已被多人fork。并有人在其基础上继续发布新的版本，例如SSRR
->
-> **引用于维基百科**
 
 ## 使用教程（以SS为例，SSR差不多）
 
@@ -170,4 +156,14 @@
 - 个人版：45元/月，129/季，519元/年，每月300G流量；限制3个客户端在线；
 - 团队版：89元/月，259/季，999元/年，每月800G流量；限制10个客户端在线。
 
+## Shadowrocket账号
 
+注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
+
+```html
+账号1：misaka4@misaka.best
+密码：Kfd762135
+
+账号2：misaka6@misaka.best
+密码：Ean945681
+```
