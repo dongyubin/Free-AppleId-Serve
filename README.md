@@ -111,21 +111,21 @@ PS：最好月付，防止跑路！
 
 ### 金坷垃（博主在用）
 
-[金坷垃](https://jinkela.bar/auth/register?code=FumX)：创建账号送1元启动资金
+[金坷垃](https://jinkela.lol/auth/register?code=FumX)：创建账号送1元启动资金
 
 套餐：
 
-- VIP1基础版：月付10.9，每月146G，3设备；季付35，每月596G,3设备；年付298，每月60G;年付118，每月2566G，5设备。 
-- VIP1豪华版：月付19.8，每月296G，5设备；季付58，每月1196G,5设备；年付298，每月60G;年付188，每月4886G，8设备。 
+- VIP1基础版：月付11.5，每月146G，3设备；季付35，每月596G,3设备；年付298，每月60G;年付118，每月2566G，5设备。 
+- VIP1豪华版：月付20.9，每月296G，5设备；季付58，每月1196G,5设备；年付298，每月60G;年付188，每月4886G，8设备。 
 
 ### BK网络（博主在用）
 
-[BK网络](https://bkwljsq.shop/#/register?code=KcXyne3U)：5元的用着不错，现在用的10元的
+[BK网络](https://bkwljsq.shop/#/register?code=KcXyne3U)
 
 套餐：
 
-- VIP1基础版：月付5，每月100G，不限设备；月付7，每月250G,不限设备；年付60，每年3000G，不限设备，解锁部分流媒体
-- VIP2：月付10，每月60G，不限设备；月付7，每月250G,不限设备；年付60，每年3000G不限设备 ，解锁全部流媒体
+- VIP2：月付12，每月60G，不限设备；有IPLC/IEPL节点 ，解锁全部流媒体
+- VIP3：月付15，每月150G，不限设备；有IPLC/IEPL节点，解锁全部流媒体
 
 ### IKUUU
 
@@ -165,14 +165,16 @@ PS：最好月付，防止跑路！
 
 ## Shadowrocket账号
 
+更新时间：**2022-11-02 10:21:40**
+
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
 ```html
-账号1：misaka4@misaka.best
-密码：Kfd762135
+账号1：lisazhaomusic@yahoo.com
+密码：Rcq275861
 
-账号2：misaka6@misaka.best
-密码：Ean945681
+账号2：tp1957155@163.com
+密码：VMEcloud12349
 ```
 ### 使用教程
 ![](https://tvax1.sinaimg.cn/large/006xxuvply1h5hzjotjhzj30rs12z7bk.jpg)
