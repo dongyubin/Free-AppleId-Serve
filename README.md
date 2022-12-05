@@ -169,6 +169,8 @@ PS：最好月付，防止跑路！
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
+成品账号：[小火箭 Shadowrocket 成品号 美国区](https://wp.wangdu.site/buy/6):账号购买后可以自行修改密码，并永久使用
+
 ```html
 账号1：lisazhaomusic@yahoo.com
 密码：Xlp937012
