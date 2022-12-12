@@ -2,6 +2,10 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
+TG群：[wwkjs888](https://t.me/wwkjs888)
+
+![](https://count.zburu.com/get/?name=Free-AppleId-Serve)
+
 ## 软件介绍
 
 **SS**，全称为 **Shadowsocks**（下文简称为`SS`），是一种基于 Socks5 代理方式的网络数据加密传输包的工具，可以使用其于**科学上网** _也就是翻墙_ ，是目前最稳定，最常用的科学上网工具之一，**全平台支持**
@@ -166,7 +170,7 @@ PS：最好月付，防止跑路！
 
 ## Shadowrocket账号
 
-更新时间：**2022-12-08**
+更新时间：**2022-12-12**
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
@@ -174,7 +178,7 @@ PS：最好月付，防止跑路！
 
 ```html
 账号1：lisazhaomusic@yahoo.com
-密码：Dmc689573
+密码：Iyl940851
 
 账号2：tp1957155@163.com
 密码：VMEcloud12349
@@ -183,3 +187,7 @@ PS：最好月付，防止跑路！
 ![](https://tvax1.sinaimg.cn/large/006xxuvply1h5hzjotjhzj30rs12z7bk.jpg)
 
 ![](https://tvax2.sinaimg.cn/large/006xxuvply1h5hzjkdnjfj31c90g0tcv.jpg)
+
+## 作者网站
+
+- [文武科技柜](https://www.wangdu.site/)：实用工具、黑苹果、高效教程
