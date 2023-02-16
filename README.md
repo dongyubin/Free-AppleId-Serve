@@ -4,7 +4,13 @@
 
 TG群：[wwkjs888](https://t.me/wwkjs888)
 
-![](https://count.zburu.com/get/?name=Free-AppleId-Serve)
+## ChatGPT
+>ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
+>—— 维基百科
+
+- [ChatGPT个人注册教程](https://www.wangdu.site/course/1302.html)
+- [ChatGPT成品账号带API](https://wp.wangdu.site/buy/8)
+
 
 ## 软件介绍
 
@@ -184,9 +190,9 @@ PS：最好月付，防止跑路！
 密码：VMEcloud12349
 ```
 ### 使用教程
-![](https://tvax1.sinaimg.cn/large/006xxuvply1h5hzjotjhzj30rs12z7bk.jpg)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.jpg)
 
-![](https://tvax2.sinaimg.cn/large/006xxuvply1h5hzjkdnjfj31c90g0tcv.jpg)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060909853.jpg)
 
 ## 作者网站
 
