@@ -183,11 +183,11 @@ PS：最好月付，防止跑路！
 成品账号：[小火箭 Shadowrocket 成品号 美国区](https://wp.wangdu.site/buy/6):账号购买后可以自行修改密码，并永久使用
 
 ```html
-账号1：lisazhaomusic@yahoo.com
-密码：Xjw610453
+账号1：sethandaksf@outlook.com
+密码：Euf241705
 
-账号2：tp1957155@163.com
-密码：VMEcloud12349
+账号2：bsgall@hotmail.com
+密码：Oyp391068
 ```
 ### 使用教程
 ![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.jpg)
