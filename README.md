@@ -180,14 +180,15 @@ PS：最好月付，防止跑路！
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
-成品账号：[小火箭 Shadowrocket 成品号 美国区](https://wp.wangdu.site/buy/6):账号购买后可以自行修改密码，并永久使用
+1. 成品账号：[小火箭 Shadowrocket 成品号 美国区](https://wp.wangdu.site/buy/6):账号购买后可以自行修改密码，并永久使用
+2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
 ```html
-账号1：ntmcedvf@outlook.com
-密码：Bqn738541
+账号1：pswqmmwkxnq@outlook.com
+密码：Hvx804516
 
-账号2：shisleacpjdy@outlook.com
-密码：Jtu697840
+账号2：ntmcedvf@outlook.com
+密码：Jwk029756
 ```
 ### 使用教程
 ![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.jpg)
