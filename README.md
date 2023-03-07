@@ -41,7 +41,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 
 免费的看视频没问题，资金雄厚的可以300多购买2年的优惠
 
-![](https://tva3.sinaimg.cn/large/006xxuvply1gm13gumhivj31740m87km.jpg)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202303071054112.jpg)
 
 如果用着好用，请填写我的邀请码：**28712435**，让我为你的奖励发光发热
 
@@ -49,19 +49,14 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 
 免费的，速度也挺快的，就一个底部的广告
 
-![](https://tva1.sinaimg.cn/large/006xxuvply1gm14ev67e9j30lq0m8qas.jpg)
-
 ### WhaleBlue（APP）
 
 免费的有很多线路，选择最快的起飞?️就行
-
-![](https://tvax2.sinaimg.cn/large/006xxuvply1gm14tn4izhj30lq0m87dk.jpg)
 
 ### 老王（APP）
 
 免费的线路不少，可以智能连接，看一段广告就可以使用VIP加速了。
 
-![](https://tva3.sinaimg.cn/large/006xxuvply1gm155f0ipuj30lq0m8dp1.jpg)
 
 ## 下载地址
 
@@ -70,7 +65,6 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 公众号：文武科技社
 
 回复关键词：`网上学科`
-
 
 
 |                          客户端名称                          |    支持系统     | 最后更新时间 |
