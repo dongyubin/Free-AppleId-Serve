@@ -9,7 +9,6 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 >—— 维基百科
 
 - [ChatGPT个人注册教程](https://www.wangdu.site/course/1302.html)
-- [ChatGPT成品账号带API](https://wp.wangdu.site/buy/8)
 
 
 ## 软件介绍
