@@ -126,14 +126,14 @@ PS：最好月付，防止跑路！
 - VIP1基础版：月付11.5，每月146G，3设备；季付35，每月596G,3设备；年付298，每月60G;年付118，每月2566G，5设备。 
 - VIP1豪华版：月付20.9，每月296G，5设备；季付58，每月1196G,5设备；年付298，每月60G;年付188，每月4886G，8设备。 
 
-### BK网络（博主在用）
+### FlyingBird（博主在用）
 
-[BK网络](https://bkwljsq.shop/#/register?code=KcXyne3U)
+[FlyingBird](https://www.fyb-aff.com/auth/register?code=jvQ5)
 
 套餐：
 
-- VIP2：月付12，每月60G，不限设备；有IPLC/IEPL节点 ，解锁全部流媒体
-- VIP3：月付15，每月150G，不限设备；有IPLC/IEPL节点，解锁全部流媒体
+- 青铜：月付15，每月100G，不限设备；有IPLC/IEPL节点 ，解锁全部流媒体
+- 白银：月付30，每月200G，不限设备；有IPLC/IEPL节点，解锁全部流媒体
 
 ### IKUUU
 
