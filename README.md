@@ -128,7 +128,7 @@ PS：最好月付，防止跑路！
 
 ### FlyingBird（博主在用）
 
-[FlyingBird](https://www.fyb-aff.com/auth/register?code=jvQ5)
+[FlyingBird](https://www.fyb-aff.com/auth/register?code=jvQ5):月/季/半年付 85折 , 优惠码：`FB5185`;年付8折（站内折上折，高达64折) ，优惠码：`FB5108`,即日起至2023年5月7日23点59分
 
 套餐：
 
