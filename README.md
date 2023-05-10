@@ -7,6 +7,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 ## 🔥推荐服务器
 
 - （美国免备案vps，配置2核2G仅需`20.98$`≈`145RMB`一年/支持支付宝付款）[👉🏻点我直达](https://my.racknerd.com/aff.php?aff=6200&pid=681)
+- [RackNerd，美国便宜VPS低至$10/年～](https://www.wangdu.site/course/1266.html)：可自行百度搭建T子
 
 ## ChatGPT
 >ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
