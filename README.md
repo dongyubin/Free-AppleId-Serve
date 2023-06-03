@@ -82,6 +82,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 |  [Clash](https://github.com/Fndroid/clash_for_windows_pkg)   |       Win       |     2022     |
 |          [V2rayU](https://github.com/yanue/V2rayU)           |       Mac       |     2021     |
 |       [clashX](https://github.com/yichengchen/clashX)        |       Mac       |     2022     |
+| [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)| Mac | 2023 |
 |         [v2rayNG](https://github.com/2dust/v2rayNG)          |     Android     |     2022     |
 | [V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) | Mac、Win、Linux |     2022     |
 | [SS](https://github.com/shadowsocks/shadowsocks-windows/releases) |       Win       |     2022     |
@@ -92,8 +93,8 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 | [Loon on the App Store](https://apps.apple.com/us/app/loon/id1373567447?platform=iphone)：收费，不在国区 |       iOS       |     2022     |
 | [Stash on the App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=iphone)：收费，不在国区 |       iOS       |     2022     |
 |    [OneClick](https://github.com/oneclickearth/oneclick)     |    安卓、iOS    |     2022     |
-| [Clash](https://apkpure.com/cn/clash-for-android/com.github.kr328.clash/versions) |      安卓       |     2022     |
-| [clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) | Mac、Win、Linux |     2022     |
+| [Clash👍🏻](https://apkpure.com/cn/clash-for-android/com.github.kr328.clash/versions) |      安卓       |     2022     |
+| [clash👍🏻](https://github.com/Fndroid/clash_for_windows_pkg/releases/)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) | Mac、Win、Linux |     2022     |
 
 ## 机场测速
 
