@@ -188,7 +188,7 @@ PS：最好月付，防止跑路！
 
 ```html
 账号1：dnwaoig59odwa@appleshare.club
-密码：Https://appleshop001.club
+密码：HTTPs://appleshop001.club
 ```
 ### 使用教程
 ![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.jpg)
