@@ -125,15 +125,21 @@ PS：最好月付，防止跑路！
 
 ### FlyingBird（博主在用）
 
-[FlyingBird](https://www.fyb-aff.com/auth/register?code=jvQ5):618活动来啦！优惠码可重复使用`2`次！
-1. 月/季/半年付 85折 , 优惠码：`61885`
-2. 年付8折（站内折上折，高达64折 ，优惠码：`61880`
-活动时间：即日起至**2023年6月18日23点59分**
+[FlyingBird](https://www.fyb-aff.com/auth/register?code=jvQ5)
 
 套餐：
 
 - 青铜：月付15，每月100G，不限设备；有IPLC/IEPL节点 ，解锁全部流媒体
 - 白银：月付30，每月200G，不限设备；有IPLC/IEPL节点，解锁全部流媒体
+
+### 懂得都懂
+
+[懂得都懂](https://dddd.cool/#/register?code=JMLF7NrI)：有 1 元尝试款
+
+套餐：
+
+- 一次性：60G/5.8，150G/13.8，1000G/78，2000G/136
+- 周期：月付3，每月30G；月付10，每月220G，解锁流媒体；月付20，每月380G，解锁流媒体；月付28，每月480G，解锁流媒体
 
 ### 金坷垃
 
@@ -194,9 +200,9 @@ PS：最好月付，防止跑路！
 密码：HTTPS://APPLEShop001.club
 ```
 ### 使用教程
-![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.jpg)
+![](https://img.wangdu.site/2023/202302060908426.jpg)
 
-![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060909853.jpg)
+![](https://img.wangdu.site/2023/202302060909853.jpg)
 
 ## 作者网站
 
