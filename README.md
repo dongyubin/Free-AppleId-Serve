@@ -95,6 +95,11 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 |    [OneClick](https://github.com/oneclickearth/oneclick)     |    安卓、iOS    |     2022     |
 | [Clash👍🏻](https://apkpure.com/cn/clash-for-android/com.github.kr328.clash/versions) |      安卓       |     2022     |
 | [clash👍🏻](https://github.com/Fndroid/clash_for_windows_pkg/releases/)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) | Mac、Win、Linux |     2022     |
+|[Wrap+](https://1.1.1.1/)：Cloudflare 公司开发的，[教程：Warp+ 24PB 无限流量密钥](https://www.ahhhhfs.com/40632/)|Win、Mac、Linux、安卓、iOS|2023|
+
+## 其他教程
+
+- [使用不限流量的cloudflare VPN并且自选IP](https://duangks.com/archives/124/)：需要富强
 
 ## 机场测速
 
