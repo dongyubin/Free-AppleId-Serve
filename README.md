@@ -124,6 +124,17 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 *   ishadow（点击美食图片即可显示二维码！）：[isx.yt](http://isx.yt) 、 [dwz.pm/x](https://dwz.pm/x)、[iShadow](https://my.ishadowx.biz/)
 *   [芒果云👍](https://mangguoyun.vip/)：注册送15G免费流量
 
+### 更新免费节点的GitHub库
+
+PS：**仓库中付费的内容，请谨慎购买，只推荐使用免费**，下面付费机场为博主在用的，求稳定的还是使用付费的吧。
+
+- [free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash)：SSR/SS/V2RAY/VPN/CLASH订阅节点
+- [getNode](https://github.com/Flik6/getNode)：每小时更新最新的Clash、v2ray节点信息
+
+### TG群
+
+- [长风分享频道](https://t.me/changfengchannel)：每4小时更新一次，最多一次显示50条
+
 ## 付费机场
 
 PS：最好月付，防止跑路！
@@ -192,7 +203,7 @@ PS：最好月付，防止跑路！
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
-1. 成品账号：[小火箭 Shadowrocket 成品号 美国区](https://wp.wwkejishe.top/buy/6):账号购买后可以自行修改密码，并永久使用
+1. 成品账号：[小火箭 Shadowrocket 成品号 美国区](https://wp.wwkejishe.top/buy/6)（账号购买后可以自行修改密码，并永久使用）
 2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
 ```html
