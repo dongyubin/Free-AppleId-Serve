@@ -199,7 +199,7 @@ PS：最好月付，防止跑路！
 
 ## Shadowrocket账号
 
-更新时间：**2023-07-24**
+更新时间：**2023-8-8**
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
@@ -207,8 +207,8 @@ PS：最好月付，防止跑路！
 2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
 ```html
-账号1：nfogp58dnaio@appleshare.club
-密码：httPs://APPLESHOP001.club
+账号1：fapg61nodaw@appleshare.club
+密码：SSa94g92
 ```
 ### 使用教程
 ![](https://img.wangdu.site/2023/202302060908426.jpg)
