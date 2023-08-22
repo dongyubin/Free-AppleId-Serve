@@ -143,6 +143,13 @@ PS：最好月付，防止跑路！
 
 [FlyingBird](https://fbaff01.flyb-aff01.com/auth/register?code=jvQ5)
 
+飞鸟七夕活动来啦！优惠码可重复使用2次！
+
+1: 月/季/半年付 85折 , 优惠码：`qx85`
+2: 年付8折（站内折上折，高达64折 ，优惠码：`qx80`
+
+活动时间：即日起至2023年9月1日23点59分
+
 ### 懂得都懂
 
 [懂得都懂](https://dddd.cool/#/register?code=JMLF7NrI)：有 1 元尝试款
