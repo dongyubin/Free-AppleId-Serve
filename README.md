@@ -141,7 +141,10 @@ PS：最好月付，防止跑路！
 
 ### FlyingBird（博主在用）
 
-[FlyingBird](https://fbaff01.flyb-aff01.com/auth/register?code=jvQ5)
+[FlyingBird](https://fbaff01.flyb-aff01.com/auth/register?code=jvQ5)：优惠码可重复使用**3**次！
+
+1: 月/季/半年付 85 折 , 优惠码：`ZQ85`
+2: 年付8折（站内折上折，高达 64 折)，优惠码：`GQ80`
 
 ### 懂得都懂
 
