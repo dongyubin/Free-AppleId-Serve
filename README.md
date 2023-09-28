@@ -192,7 +192,7 @@ PS：最好月付，防止跑路！
 
 ### 少数派
 
-[少数派](https://ssp-net.me/#/register?code=FhxwBddd)
+[少数派]([https://ssp-net.me/#/register?code=FhxwBddd](https://sspinet.com/#/register?code=FhxwBddd))（富强访问）
 
 套餐情况：
 
