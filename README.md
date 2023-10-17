@@ -141,10 +141,7 @@ PS：最好月付，防止跑路！
 
 ### FlyingBird（博主在用）
 
-[FlyingBird](https://fbaff01.flyb-aff01.com/auth/register?code=jvQ5)：优惠码可重复使用**3**次！
-
-1. 月/季/半年付 85 折 , 优惠码：`ZQ85`
-2. 年付8折（站内折上折，高达 64 折)，优惠码：`GQ80`
+[FlyingBird](https://fbaff01.flyb-aff01.com/auth/register?code=jvQ5)
 
 ### 懂得都懂
 
@@ -202,7 +199,7 @@ PS：最好月付，防止跑路！
 
 ## Shadowrocket账号
 
-更新时间：**2023年10月9日**
+更新时间：**2023年10月17日**
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
@@ -210,11 +207,11 @@ PS：最好月付，防止跑路！
 2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
 ```html
-账号1：nofei03nmof@appleshare.club
-密码：HTTPS://APPLeshop001.com/
+账号1：ddnfow07dno@appleshare.club
+密码：HTTPS://APPLEShop001.com/
 
-账号2：amopwf04ofd@appleshare.club
-密码：HTTPS://APPLeshop001.com/
+账号2：pdnofg08nodno@appleshare.club
+密码：HTTPS://APPLEShop001.com/
 ```
 ### 使用教程
 ![](https://img.wangdu.site/2023/202302060908426.jpg)
