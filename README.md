@@ -4,6 +4,8 @@
 
 TG群：[wwkjs888](https://t.me/wwkjs888)
 
+[福利：免费领取京豆](https://www.wangdu.site/software/950.html)
+
 ## 🔥推荐服务器
 
 - （美国免备案vps，配置2核2G仅需`20.98$`≈`145RMB`一年/支持支付宝付款）[👉🏻点我直达](https://my.racknerd.com/aff.php?aff=6200&pid=681)
