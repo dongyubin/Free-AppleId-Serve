@@ -145,6 +145,12 @@ PS：最好月付，防止跑路！
 
 [FlyingBird](https://fbaff01.flyb-aff01.com/auth/register?code=jvQ5)
 
+周年庆加双十一活动来了哦！
+1: 月/季/半年付 `85` 折 , 优惠码：`111185`
+2: 年付8折（站内折上折，高达`64`折），优惠码：`111180`
+
+活动时间：即日起至2023年11月21日23点59分
+
 ### 懂得都懂
 
 [懂得都懂](https://dddd.cool/#/register?code=JMLF7NrI)：有 1 元尝试款
