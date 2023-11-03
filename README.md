@@ -81,7 +81,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 | :----------------------------------------------------------: | :-------------: | :----------: |
 |         [V2RayW](https://github.com/Cenmrev/V2RayW)          |       Win       |     2019     |
 |          [V2RayN](https://github.com/2dust/v2rayN)           |       Win       |     2022     |
-|  [Clash](https://github.com/Fndroid/clash_for_windows_pkg)   |       Win       |     2022     |
+|  [Clash](https://github.com/Fndroid/clash_for_windows_pkg)(已删库：20231103)   |       Win       |     2022     |
 |          [V2rayU](https://github.com/yanue/V2rayU)           |       Mac       |     2021     |
 |       [clashX](https://github.com/yichengchen/clashX)        |       Mac       |     2022     |
 | [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)| Mac | 2023 |
