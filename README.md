@@ -82,6 +82,8 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 |         [V2RayW](https://github.com/Cenmrev/V2RayW)          |       Win       |     2019     |
 |          [V2RayN](https://github.com/2dust/v2rayN)           |       Win       |     2022     |
 |  [Clash](https://github.com/Fndroid/clash_for_windows_pkg)(已删库：20231103)   |       Win       |     2022     |
+|[clash-verge](https://github.com/zzzgydi/clash-verge)（clash暂时替代品）|Win、Mac、Linux|2023|
+|[ClashDotNetFramework)|Win、Linux|2021|
 |          [V2rayU](https://github.com/yanue/V2rayU)           |       Mac       |     2021     |
 |       [clashX](https://github.com/yichengchen/clashX)        |       Mac       |     2022     |
 | [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)| Mac | 2023 |
@@ -96,7 +98,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 | [Stash on the App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=iphone)：收费，不在国区 |       iOS       |     2022     |
 |    [OneClick](https://github.com/oneclickearth/oneclick)     |    安卓、iOS    |     2022     |
 | [Clash👍🏻](https://apkpure.com/cn/clash-for-android/com.github.kr328.clash/versions) |      安卓       |     2022     |
-| [clash👍🏻](https://github.com/Fndroid/clash_for_windows_pkg/releases/)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) | Mac、Win、Linux |     2022     |
+| [Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) | Mac、Win、Linux |     2022     |
 |[Wrap+](https://1.1.1.1/)：Cloudflare 公司开发的，[教程：Warp+ 24PB 无限流量密钥](https://www.ahhhhfs.com/40632/)|Win、Mac、Linux、安卓、iOS|2023|
 
 ## 其他教程
