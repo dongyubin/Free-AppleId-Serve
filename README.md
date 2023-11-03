@@ -68,7 +68,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 免费的线路不少，可以智能连接，看一段广告就可以使用VIP加速了。
 
 
-## 下载地址
+## APP下载地址
 
 ### APP下载
 
@@ -76,29 +76,39 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 
 回复关键词：`网上学科`
 
+## 其他客户端
+
 
 |                          客户端名称                          |    支持系统     | 最后更新时间 |
 | :----------------------------------------------------------: | :-------------: | :----------: |
-|         [V2RayW](https://github.com/Cenmrev/V2RayW)          |       Win       |     2019     |
-|          [V2RayN](https://github.com/2dust/v2rayN)           |       Win       |     2022     |
-|  [Clash](https://github.com/Fndroid/clash_for_windows_pkg)(已删库：20231103)   |       Win       |     2022     |
+|  | Clash系列 |  |
+|  [Clash](https://github.com/Fndroid/clash_for_windows_pkg)(已删库：20231103)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[备份版本：0.20.39](https://app.nloli.xyz/static/Clash.for.Windows.Setup.0.20.39.exe)、[备份](https://archive.org/details/clash_for_windows_pkg)  |       Win       |     2022     |
 |[clash-verge](https://github.com/zzzgydi/clash-verge)（clash暂时替代品）|Win、Mac、Linux|2023|
-|[ClashDotNetFramework)|Win、Linux|2021|
-|          [V2rayU](https://github.com/yanue/V2rayU)           |       Mac       |     2021     |
+|[ClashDotNetFramework](https://github.com/ClashDotNetFramework/experimental-clash)|Win、Linux|2021|
+|[clashN](https://github.com/2dust/clashN)|Win|2023|
+| [Fclash](https://github.com/Fclash/Fclash)（20231102只读，没有Release安装包） |  Windows、MacOS、Android   |     2023     |
 |       [clashX](https://github.com/yichengchen/clashX)        |       Mac       |     2022     |
 | [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)| Mac | 2023 |
+| [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter) | Win、Mac、Linux | 2023 |
+| [Clashy](https://github.com/SpongeNobody/Clashy) | Win、Mac、Ubuntu | 2022 |
+| [ClashPro](https://github.com/ClashForIOS/ClashPro) | Win、Mac、iOS | 2023 |
+| |  |  |
+| [V2RayW](https://github.com/Cenmrev/V2RayW) | Win | 2019 |
+| [V2RayN](https://github.com/2dust/v2rayN) | Win | 2022 |
 |         [v2rayNG](https://github.com/2dust/v2rayNG)          |     Android     |     2022     |
 | [V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) | Mac、Win、Linux |     2022     |
+| [V2rayU](https://github.com/yanue/V2rayU) | Mac | 2021 |
+|  |  |  |
 | [SS](https://github.com/shadowsocks/shadowsocks-windows/releases) |       Win       |     2022     |
 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) |       Mac       |     2019     |
 | [SSR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) |       Win       |     2019     |
+|  |  |  |
 | [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费，不在国区👍 |       iOS       |     2022     |
 | [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费，不在国区 |       iOS       |     2022     |
 | [Loon on the App Store](https://apps.apple.com/us/app/loon/id1373567447?platform=iphone)：收费，不在国区 |       iOS       |     2022     |
 | [Stash on the App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=iphone)：收费，不在国区 |       iOS       |     2022     |
 |    [OneClick](https://github.com/oneclickearth/oneclick)     |    安卓、iOS    |     2022     |
 | [Clash👍🏻](https://apkpure.com/cn/clash-for-android/com.github.kr328.clash/versions) |      安卓       |     2022     |
-| [Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) | Mac、Win、Linux |     2022     |
 |[Wrap+](https://1.1.1.1/)：Cloudflare 公司开发的，[教程：Warp+ 24PB 无限流量密钥](https://www.ahhhhfs.com/40632/)|Win、Mac、Linux、安卓、iOS|2023|
 
 ## 其他教程
