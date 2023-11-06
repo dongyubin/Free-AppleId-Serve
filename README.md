@@ -9,7 +9,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 ## 🔥推荐服务器
 
 - （美国免备案vps，配置2核2G仅需`20.98$`≈`145RMB`一年/支持支付宝付款）[👉🏻点我直达](https://my.racknerd.com/aff.php?aff=6200&pid=681)
-- [RackNerd，美国便宜VPS低至$10/年～](https://www.wangdu.site/course/1266.html)：可自行百度搭建T子
+- [RackNerd，美国便宜VPS低至$10/年～](https://www.wangdu.site/course/1266.html)、[RackNerd双11优惠👍](https://www.wangdu.site/course/1852.html)：可自行百度搭建T子
 
 ## ChatGPT
 >ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
@@ -92,17 +92,17 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 | [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter) | Win、Mac、Linux | 2023 |
 | [Clashy](https://github.com/SpongeNobody/Clashy) | Win、Mac、Ubuntu | 2022 |
 | [ClashPro](https://github.com/ClashForIOS/ClashPro) | Win、Mac、iOS | 2023 |
-| |  |  |
+| | V2Ray系列 |  |
 | [V2RayW](https://github.com/Cenmrev/V2RayW) | Win | 2019 |
 | [V2RayN](https://github.com/2dust/v2rayN) | Win | 2022 |
 |         [v2rayNG](https://github.com/2dust/v2rayNG)          |     Android     |     2022     |
 | [V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) | Mac、Win、Linux |     2022     |
 | [V2rayU](https://github.com/yanue/V2rayU) | Mac | 2021 |
-|  |  |  |
+|  | SS系列 |  |
 | [SS](https://github.com/shadowsocks/shadowsocks-windows/releases) |       Win       |     2022     |
 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) |       Mac       |     2019     |
 | [SSR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) |       Win       |     2019     |
-|  |  |  |
+|  | 其他 |  |
 | [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费，不在国区👍 |       iOS       |     2022     |
 | [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费，不在国区 |       iOS       |     2022     |
 | [Loon on the App Store](https://apps.apple.com/us/app/loon/id1373567447?platform=iphone)：收费，不在国区 |       iOS       |     2022     |
