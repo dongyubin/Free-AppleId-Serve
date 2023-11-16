@@ -223,21 +223,21 @@ PS：最好月付，防止跑路！
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
-1. 成品账号：[小火箭 Shadowrocket 成品号 美国区](https://fk.wwkejishe.top/buy/6)（账号购买后可以自行修改密码，并永久使用）双11优惠码：`wwkjs666`
+1. 成品账号：[小火箭 Shadowrocket 成品号 美国区](https://fk.wwkejishe.top/buy/6)（账号购买后可以自行修改密码，并永久使用）
 2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
 ```html
-账号1：ddnfow07dno@appleshare.club
-密码：HTTPS://APPLEShop001.com/
+账号1：sonno10anf@appleshare.club
+密码：Uid56w3d
 
-账号2：pdnofg08nodno@appleshare.club
-密码：HTTPS://APPLEShop001.com/
+账号2：niofop11mjoid@appleshare.club
+密码：Uid56w3d
 ```
 ### 使用教程
-![](https://img.wangdu.site/2023/202302060908426.jpg)
+![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060908426.jpg)
 
-![](https://img.wangdu.site/2023/202302060909853.jpg)
+![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060909853.jpg)
 
 ## 作者网站
 
-- [文武科技柜](https://www.wangdu.site/)：实用工具、黑苹果、高效教程
+- [文武科技柜](https://www.wangdu.site/)：实用工具、黑苹果、高效教程、Nas
