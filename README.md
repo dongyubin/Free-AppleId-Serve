@@ -2,13 +2,12 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-TG群：[wwkjs888](https://t.me/wwkjs888)
+TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看`付费机场`）
 
 [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
 
 ## 🔥推荐服务器
 
-- （美国免备案vps，配置2核2G仅需`20.98$`≈`145RMB`一年/支持支付宝付款）[👉🏻点我直达](https://my.racknerd.com/aff.php?aff=6200&pid=681)
 - [RackNerd，美国便宜VPS低至$10/年～](https://www.wangdu.site/course/1266.html)、[RackNerd双11优惠👍](https://www.wangdu.site/course/1852.html)、[2023 RackNerd 黑色星期五最新促销](https://www.wangdu.site/course/1878.html)：可自行百度搭建T子
 
 ## ChatGPT
@@ -128,23 +127,20 @@ TG群：[wwkjs888](https://t.me/wwkjs888)
 
 ### SS/SSR 免费节点订阅地址（不保证都可用/多切换试试）
 
-*   [https://yzzz.ml/freessr](https://yzzz.ml/freessr)
-*   [https://jiang.netlify.com/?adoncn.com](https://jiang.netlify.com/?adoncn.com)
-*   [https://muma16fx.netlify.com/?adoncn.com](https://muma16fx.netlify.com/?adoncn.com)
-*   [https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com](https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com)
-*   [https://bihai-free-ssr.netlify.com/?adoncn.com](https://bihai-free-ssr.netlify.com/?adoncn.com)
-*   [https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb?adoncn.com](https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb?adoncn.com)
-*   [https://qiaomenzhuanfx.netlify.com/?adoncn.com](https://qiaomenzhuanfx.netlify.com/?adoncn.com)
-*   FreeSS （点击图片即可显示二维码！）：[http://ssx.re](http://ssx.re) 或 [http://dwz.pm/g](http://dwz.pm/g)
-*   ishadow（点击美食图片即可显示二维码！）：[isx.yt](http://isx.yt) 、 [dwz.pm/x](https://dwz.pm/x)、[iShadow](https://my.ishadowx.biz/)
-*   [芒果云👍](https://mangguoyun.vip/)：注册送15G免费流量
+*   [https://jiang.netlify.com/](https://jiang.netlify.com/?adoncn.com)
+*   [https://muma16fx.netlify.com/](https://muma16fx.netlify.com/?adoncn.com)
+*   [https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub](https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com)
+*   [https://bihai-free-ssr.netlify.com/](https://bihai-free-ssr.netlify.com/?adoncn.com)
+*   [https://www.liesauer.net/yogurt/subscribe](https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb?adoncn.com)
+*   [https://qiaomenzhuanfx.netlify.com/](https://qiaomenzhuanfx.netlify.com/?adoncn.com)
 
 ### 更新免费节点的GitHub库
 
-PS：**仓库中付费的内容，请谨慎购买，只推荐使用免费**，下面付费机场为博主在用的，求稳定的还是使用付费的吧。
+PS：**下面仓库中付费的内容，请谨慎购买，只推荐使用免费**，下面付费机场为博主在用的，求稳定的还是使用付费的吧。
 
 - [free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash)：SSR/SS/V2RAY/VPN/CLASH订阅节点
 - [getNode](https://github.com/Flik6/getNode)：每小时更新最新的Clash、v2ray节点信息
+- [v2cross](https://v2cross.com/archives/1884)：SS节点（富强获取）
 
 ### TG群
 
@@ -229,10 +225,10 @@ PS：最好月付，防止跑路！
 
 ```html
 账号1：sonno10anf@appleshare.club
-密码：Uid56w3d
+密码：Uid56w3d112
 
 账号2：niofop11mjoid@appleshare.club
-密码：Uid56w3d
+密码：Uid56w3d112
 ```
 ### 使用教程
 ![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060908426.jpg)
