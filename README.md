@@ -95,6 +95,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 | [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter) | Win、Mac、Linux | 2023 |
 | [Clashy](https://github.com/SpongeNobody/Clashy) | Win、Mac、Ubuntu | 2022 |
 | [ClashPro](https://github.com/ClashForIOS/ClashPro) | Win、Mac、iOS | 2023 |
+| [Clash Nyanpasu](https://github.com/keiko233/clash-nyanpasu) | Win、Mac、Linux | 2023 |
 | | V2Ray系列 |  |
 | [V2RayW](https://github.com/Cenmrev/V2RayW) | Win | 2019 |
 | [V2RayN](https://github.com/2dust/v2rayN) | Win | 2022 |
