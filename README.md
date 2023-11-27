@@ -158,13 +158,7 @@ PS：最好月付，防止跑路！
 
 [FlyingBird](https://fbaff01.flyb-aff01.com/auth/register?code=jvQ5)
 
-周年庆加双十一活动来了哦！
-1: 月/季/半年付 `85` 折 , 优惠码：`111185`
-2: 年付8折（站内折上折，高达`64`折），优惠码：`111180`
-
-活动时间：即日起至2023年11月21日23点59分
-
-### 懂得都懂
+### 懂得都懂（博主在用）
 
 [懂得都懂](https://dddd.cool/#/register?code=JMLF7NrI)：有 1 元尝试款
 
@@ -200,7 +194,7 @@ PS：最好月付，防止跑路！
 
 ## Shadowrocket账号
 
-更新时间：**2023年10月17日**
+更新时间：**2023年11月27日**
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
@@ -209,7 +203,7 @@ PS：最好月付，防止跑路！
 
 ```html
 账号1：sonno10anf@appleshare.club
-密码：Uid56w3d112
+密码：Uid6wd3d112
 
 账号2：niofop11mjoid@appleshare.club
 密码：Uid56w3d112
