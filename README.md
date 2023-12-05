@@ -204,10 +204,10 @@ PS：最好月付，防止跑路！
 
 ```html
 账号1：sonno10anf@appleshare.club
-密码：Uid6wd3d112
+密码：Uif3d112
 
 账号2：niofop11mjoid@appleshare.club
-密码：Uid56w3d112
+密码：Uif3d112
 ```
 ### 使用教程
 ![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060908426.jpg)
