@@ -161,7 +161,7 @@ PS：最好月付，防止跑路！
 
 ### 懂得都懂（博主在用）
 
-[懂得都懂](https://dddd.cool/#/register?code=JMLF7NrI)：有 1 元尝试款
+[懂得都懂](https://dddd.pics/#/register?code=JMLF7NrI)：有 1 元尝试款
 
 套餐：
 
