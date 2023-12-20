@@ -159,6 +159,11 @@ PS：最好月付，防止跑路！
 
 [FlyingBird](https://fbaff01.flyb-aff01.com/auth/register?code=jvQ5)
 
+1. 月/季/半年付 85 折 , 优惠码：`202485`
+2. 年付 8 折（站内折上折，高达64折)优惠码：`202480`
+
+活动时间：即日起至 2024年1月10日23点59分
+
 ### 懂得都懂（博主在用）折扣码：1208
 
 [懂得都懂](https://dddd.pics/#/register?code=JMLF7NrI)：有 1 元尝试款
