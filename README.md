@@ -208,11 +208,11 @@ PS：最好月付，防止跑路！
 2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
 ```html
-账号1：sonno10anf@appleshare.club
-密码：Uif3d112
+账号1：fonwo12niiof@appleshare.club
+密码：Xx553355
 
-账号2：niofop11mjoid@appleshare.club
-密码：Uif3d112
+账号2：opsow13nof@appleshare.club
+密码：Xx553355
 ```
 ### 使用教程
 ![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060908426.jpg)
