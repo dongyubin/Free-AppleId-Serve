@@ -4,7 +4,9 @@
 
 TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看`付费机场`）
 
-[福利：免费领取京豆](https://www.wangdu.site/software/950.html)
+- [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
+
+- [Skinny 手机卡](https://fk.wwkejishe.top/buy/13)：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（价格优惠，先到先得）
 
 ## 🔥推荐服务器
 
