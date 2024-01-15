@@ -38,4 +38,4 @@ jobs:
     - name: Commit
       uses: EndBug/add-and-commit@v9
       with:
-        message: 'Updated content'
+        message: '更新：小火箭账号'
