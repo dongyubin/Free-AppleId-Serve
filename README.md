@@ -202,7 +202,7 @@ PS：最好月付，防止跑路！
 
 ## Shadowrocket账号
 
-更新时间：**2024年1月2日**
+更新时间：**2024年1月15日**
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
@@ -210,11 +210,11 @@ PS：最好月付，防止跑路！
 2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
 ```html
-账号1：noidw14dwg@appleshare.club
-密码：Gs1268534
+账号1：opsow13nof@appleshare.club
+密码：Gs58675134
 
-账号2：opsow13nof@appleshare.club
-密码：Gs1268534
+账号2：noidw14dwg@appleshare.club
+密码：Gs58675134
 ```
 ### 使用教程
 ![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060908426.jpg)
