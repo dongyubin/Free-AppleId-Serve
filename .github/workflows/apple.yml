@@ -33,7 +33,7 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Update README
       run: |-
-        python build_readme.py
+        python apple.py
         cat README.md
     - name: Commit
       uses: EndBug/add-and-commit@v9
