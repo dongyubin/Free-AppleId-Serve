@@ -1,0 +1,41 @@
+name: Build README
+
+on:
+  schedule:
+    - cron:  '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      unconditional-invoking:
+        description: '更新ReadMe'
+        type: boolean
+        required: true
+        default: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.8'
+    - uses: actions/cache@v3
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        python -m pip install -r requirements.txt
+    - name: Update README
+      run: |-
+        python build_readme.py
+        cat README.md
+    - name: Commit
+      uses: EndBug/add-and-commit@v9
+      with:
+        message: 'Updated content'

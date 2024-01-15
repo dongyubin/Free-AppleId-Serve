@@ -202,20 +202,22 @@ PS：最好月付，防止跑路！
 
 ## Shadowrocket账号
 
-更新时间：**2024年1月15日**
+<!-- updateTime starts -->
+更新时间：**2024-01-15**
+<!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
 1. 成品账号：[小火箭 Shadowrocket 成品号 美国区](https://fk.wwkejishe.top/buy/6)（账号购买后可以自行修改密码，并永久使用）
 2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
-```html
-账号1：opsow13nof@appleshare.club
-密码：Gs58675134
+<!-- apple starts -->
+* 账号：`opsow13nof@appleshare.club` 
+ * 密码：`Gs58675134`
+* 账号：`noidw14dwg@appleshare.club` 
+ * 密码：`Gs58675134`
+<!-- apple ends -->
 
-账号2：noidw14dwg@appleshare.club
-密码：Gs58675134
-```
 ### 使用教程
 ![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060908426.jpg)
 
