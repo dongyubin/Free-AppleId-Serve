@@ -3,8 +3,15 @@ from bs4 import BeautifulSoup
 import re
 import pathlib
 from datetime import datetime
+import json
 
 root = pathlib.Path(__file__).parent.resolve()
+
+urls = [
+    'https://idshare001.me/Anode1.html',
+    'https://aunlock.laogoubi.net/p/f27e04f3c4a411a751319837b4571fa2',
+    'https://aunlock.laogoubi.net/p/441cbf5a478534e747c3e32d2dd58de6'
+]
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -16,69 +23,71 @@ def replace_chunk(content, marker, chunk, inline=False):
     chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
     return r.sub(chunk, content)
 
-def fetch_apple_count():
-    url = 'https://idshare001.me/Anode1.html'
 
+def fetch_apple_count(urls):
+    # 存储所有网站的账号密码
+    all_credentials = []
     # 发起请求获取网页内容
-    response = requests.get(url)
-    accounts = []
-    passwords = []
-    # 检查请求是否成功
-    if response.status_code == 200:
-        html_doc = response.content
-        # print(html_doc)
-        # 使用BeautifulSoup解析HTML
-        soup = BeautifulSoup(html_doc, 'html.parser')
-
-        # 找到对应的button元素
-        buttons = soup.find_all('button', {'class': 'btn-outline-secondary'})
-        # print(buttons)
-        # 遍历所有匹配的元素
-        for button in buttons:
-            # 获取onclick属性的值
-            onclick_value = button.get('onclick')
-
-            if '复制帐号' in button.text and '账号维护中' not in onclick_value:
-              start_index = onclick_value.find("(") + 1
-              end_index = onclick_value.find(")")
-              account = onclick_value[start_index:end_index].replace("'", "")
-              accounts.append(account)
-            elif '复制密码' in button.text:
-                start_index = onclick_value.find("(") + 1
-                end_index = onclick_value.find(")")
-                password = onclick_value[start_index:end_index].replace("'", "")
-                passwords.append(password)
-
-        # 输出账号和密码
-        if len(passwords) == 1:
-            return [
-                {
-                    "account": account,
-                    "passwords": passwords[0]
-                }
-                for account in accounts
-            ]
-            # for account in accounts:
-            #     print(f"账号: {account}")
-            # print(f"密码: {passwords[0]}")
+    headers = {
+        'Accept': 'application/json'
+    }
+    for url in urls:
+        if url.startswith('https://aunlock.laogoubi.net'):
+            response = requests.get(url, headers=headers)
+            res_text = response.text
+            # print(res_text)
+            data = json.loads(res_text)
+            credentials = []
+            for item in data:
+                if 'username' in item and 'password' in item:
+                    credentials.append({"account": item['username'], "password": item['password']})
+            all_credentials.extend(credentials)
         else:
-            for i in range(min(len(accounts), len(passwords))):
-                print(f"账号{i+1}: {accounts[i]}")
-                print(f"密码{i+1}: {passwords[i]}")
-    else:
-        print("Failed to retrieve the webpage")
+            response = requests.get(url)
+            accounts = []
+            passwords = []
+            # 检查请求是否成功
+            if response.status_code == 200:
+                html_doc = response.content
+                # print(html_doc)
+                # 使用BeautifulSoup解析HTML
+                soup = BeautifulSoup(html_doc, 'html.parser')
+                # print(url, html_doc , '\n')
+                # 找到对应的button元素
+                buttons = soup.find_all('button', {'class': 'btn-outline-secondary'})
+                # print(buttons)
+                # 遍历所有匹配的元素
+                for button in buttons:
+                    # 获取onclick属性的值
+                    onclick_value = button.get('onclick')
+                    if '复制帐号' in button.text and '账号维护中' not in onclick_value:
+                        start_index = onclick_value.find("(") + 1
+                        end_index = onclick_value.find(")")
+                        account = onclick_value[start_index:end_index].replace("'", "")
+                        accounts.append(account)
+                    elif '复制密码' in button.text:
+                        start_index = onclick_value.find("(") + 1
+                        end_index = onclick_value.find(")")
+                        password = onclick_value[start_index:end_index].replace("'", "")
+                        passwords.append(password)
+            # 结合账号和密码
+                if len(passwords) == 1:
+                    passwords = passwords * len(accounts)
+                credentials = [{"account": a, "password": p} for a, p in zip(accounts, passwords)]
+                all_credentials.extend(credentials)
+            else:
+                print(f"Failed to retrieve the webpage from {url}")
+    # print(all_credentials)
+    return all_credentials
 
 
 if __name__ == "__main__":
-    readme = root / "README.md"
+    readme = root/"README.md"
     readme_contents = readme.open(encoding="utf-8").read()
-    accounts = fetch_apple_count()
-    # print(accounts)
-    # if not entries:
-    #     entries = fetch_blog_entries()
+    accounts = fetch_apple_count(urls)
     entries_md = "\n".join(
         [
-            "* 账号：`{account}` \n * 密码：`{passwords}`".format(
+            "* 账号：`{account}` \n * 密码：`{password}`".format(
                 **account
             )
             for account in accounts
@@ -95,7 +104,5 @@ if __name__ == "__main__":
             .format(current_date=current_date)
         ]
     )
-    
-    # print("Number of entries:", len(entries_md))
     rewritten_update = replace_chunk(readme_contents, "updateTime", entries_update_md)
     readme.open("w", encoding="utf-8").write(rewritten_update)
