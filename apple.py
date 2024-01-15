@@ -78,31 +78,39 @@ def fetch_apple_count(urls):
             else:
                 print(f"Failed to retrieve the webpage from {url}")
     # print(all_credentials)
-    return all_credentials
+    return [
+        {
+            'account': account['account'],
+            'password': account['password']
+        }
+        for account in all_credentials
+        ]
 
 
 if __name__ == "__main__":
-    readme = root/"README.md"
+    readme = root / "README.md"
     readme_contents = readme.open(encoding="utf-8").read()
+
+    # 获取账号信息
     accounts = fetch_apple_count(urls)
-    entries_md = "\n".join(
-        [
-            "* 账号：`{account}` \n * 密码：`{password}`".format(
-                **account
-            )
-            for account in accounts
-        ]
-    )
-    print(entries_md)
+
+    # 构建账号信息的Markdown格式
+    entries_md = "\n".join([
+        "* 账号：`{account}` \n * 密码：`{password}`".format(**account)
+        for account in accounts
+    ])
+
+    # 更新账号信息
     rewritten = replace_chunk(readme_contents, "apple", entries_md)
-    readme.open("w", encoding="utf-8").write(rewritten)
+
     # 获取当前日期
-    current_date = datetime.now().date()
-    entries_update_md = "\n".join(
-        [
-            "更新时间：**{current_date}**"
-            .format(current_date=current_date)
-        ]
-    )
-    rewritten_update = replace_chunk(readme_contents, "updateTime", entries_update_md)
+    current_datetime = datetime.now()
+    entries_update_md = "\n".join([
+        "更新时间：**{}**".format(current_datetime.strftime("%Y-%m-%d %H:%M:%S"))
+    ])
+
+    # 更新日期信息
+    rewritten_update = replace_chunk(rewritten, "updateTime", entries_update_md)
+
+    # 写入全部更新
     readme.open("w", encoding="utf-8").write(rewritten_update)
