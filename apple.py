@@ -4,6 +4,7 @@ import re
 import pathlib
 from datetime import datetime
 import json
+import pytz
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -105,8 +106,10 @@ if __name__ == "__main__":
 
     # 获取当前日期
     current_datetime = datetime.now()
+    target_timezone = pytz.timezone('Asia/Shanghai')
+    target_datetime = current_datetime.astimezone(target_timezone)
     entries_update_md = "\n".join([
-        "更新时间：**{}**".format(current_datetime.strftime("%Y-%m-%d %H:%M:%S"))
+        "更新时间：**{}**".format(target_datetime.strftime("%Y-%m-%d %H:%M:%S"))
     ])
 
     # 更新日期信息
