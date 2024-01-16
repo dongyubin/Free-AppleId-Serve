@@ -117,6 +117,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 | [Clash👍🏻](https://apkpure.com/cn/clash-for-android/com.github.kr328.clash/versions) |      安卓       |     2022     |
 |[Wrap+](https://1.1.1.1/)：Cloudflare 公司开发的，[教程：Warp+ 24PB 无限流量密钥](https://www.ahhhhfs.com/40632/)|Win、Mac、Linux、安卓、iOS|2023|
 |[Surfboard](https://manual.getsurfboard.com/)|安卓|2023|
+|[Surge](https://nssurge.com/)：收费，不在国内|Mac、iOS|2023|
 
 ## 其他教程
 
@@ -126,28 +127,29 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 [DuyaoSS](https://www.duyaoss.com/)
 
-## 免费机场
+## 免费机场（不保证都可用/多切换试试）
 
 ### 免费SS账号
 
 [https://free-ss.site](https://free-ss.site/)
 
-### SS/SSR 免费节点订阅地址（不保证都可用/多切换试试）
+### SS/SSR 免费节点订阅地址
 
-*   [https://jiang.netlify.com/](https://jiang.netlify.com/?adoncn.com)
-*   [https://muma16fx.netlify.com/](https://muma16fx.netlify.com/?adoncn.com)
-*   [https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub](https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com)
-*   [https://bihai-free-ssr.netlify.com/](https://bihai-free-ssr.netlify.com/?adoncn.com)
-*   [https://www.liesauer.net/yogurt/subscribe](https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb?adoncn.com)
-*   [https://qiaomenzhuanfx.netlify.com/](https://qiaomenzhuanfx.netlify.com/?adoncn.com)
+*   [https://jiang.netlify.com/](https://jiang.netlify.com/)
+*   [https://muma16fx.netlify.com/](https://muma16fx.netlify.com/)
+*   [https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub](https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub)
+*   [https://bihai-free-ssr.netlify.com/](https://bihai-free-ssr.netlify.com/)
+*   [https://www.liesauer.net/yogurt/subscribe](https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb)
+*   [https://qiaomenzhuanfx.netlify.com/](https://qiaomenzhuanfx.netlify.com/)
 
-### 更新免费节点的GitHub库
+### 免费节点GitHub库
 
 PS：**下面仓库中付费的内容，请谨慎购买，只推荐使用免费**，下面付费机场为博主在用的，求稳定的还是使用付费的吧。
 
-- [free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash)：SSR/SS/V2RAY/VPN/CLASH订阅节点
-- [getNode](https://github.com/Flik6/getNode)：每小时更新最新的Clash、v2ray节点信息
-- [v2cross](https://v2cross.com/archives/1884)：SS节点（富强获取）
+- 小火箭 / V2RAY 订阅地址：`https://www.xrayvip.com/free.txt`
+- Clash 订阅地址：`https://www.xrayvip.com/free.yaml`
+- [getNode](https://github.com/Flik6/getNode)：每小时更新最新的 Clash、v2ray 节点信息
+- [v2cross](https://v2cross.com/archives/1884)：SS 节点（富强获取）
 
 ### TG群
 
