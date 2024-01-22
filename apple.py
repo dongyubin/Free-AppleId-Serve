@@ -90,7 +90,7 @@ if __name__ == "__main__":
     readme_contents = readme.open(encoding="utf-8").read()
 
     # 获取账号信息
-    accounts = fetch_apple_count(urls)
+    accounts = fetch_apple_count(urls.split(','))
 
     # 构建账号信息的Markdown格式
     entries_md = "\n".join([
