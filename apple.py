@@ -9,7 +9,7 @@ import os
 
 root = pathlib.Path(__file__).parent.resolve()
 
-urls = os.getenv("urls")
+urls = os.getenv("urls").split(',')
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -29,7 +29,7 @@ def fetch_apple_count(urls):
     headers = {
         'Accept': 'application/json'
     }
-    for url in urls.split(','):
+    for url in urls:
         if url.startswith('https://aunlock.laogoubi.net'):
             response = requests.get(url, headers=headers)
             res_text = response.text
