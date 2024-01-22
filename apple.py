@@ -9,7 +9,7 @@ import os
 
 root = pathlib.Path(__file__).parent.resolve()
 
-urls = os.getenv("urls").split(',')
+urls = os.getenv("urls")
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -88,7 +88,7 @@ def fetch_apple_count(urls):
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open(encoding="utf-8").read()
-
+    urls = urls.split(',')
     # 获取账号信息
     accounts = fetch_apple_count(urls)
 
