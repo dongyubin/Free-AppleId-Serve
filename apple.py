@@ -29,7 +29,7 @@ def fetch_apple_count(urls):
     headers = {
         'Accept': 'application/json'
     }
-    for url in urls:
+    for url in urls.split(','):
         if url.startswith('https://aunlock.laogoubi.net'):
             response = requests.get(url, headers=headers)
             res_text = response.text
@@ -90,7 +90,7 @@ if __name__ == "__main__":
     readme_contents = readme.open(encoding="utf-8").read()
 
     # 获取账号信息
-    accounts = fetch_apple_count(urls.split(','))
+    accounts = fetch_apple_count(urls)
 
     # 构建账号信息的Markdown格式
     entries_md = "\n".join([
