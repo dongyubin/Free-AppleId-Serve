@@ -5,14 +5,11 @@ import pathlib
 from datetime import datetime
 import json
 import pytz
+import os
 
 root = pathlib.Path(__file__).parent.resolve()
 
-urls = [
-    'https://idshare001.me/Anode1.html',
-    'https://aunlock.laogoubi.net/p/f27e04f3c4a411a751319837b4571fa2',
-    'https://aunlock.laogoubi.net/p/441cbf5a478534e747c3e32d2dd58de6'
-]
+urls = os.getenv("urls")
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
