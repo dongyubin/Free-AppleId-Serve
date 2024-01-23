@@ -205,7 +205,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-01-23 10:32:47**
+更新时间：**2024-01-23 11:18:59**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -214,7 +214,7 @@ PS：最好月付，防止跑路！
 2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
 <!-- apple starts -->
-* 账号：`fonwo12niiof@appleshare.club` 
+* 账号：`noidw14dwg@appleshare.club` 
  * 密码：`Gs2385923`
 * 账号：`opsow13nof@appleshare.club` 
  * 密码：`Gs2385923`
