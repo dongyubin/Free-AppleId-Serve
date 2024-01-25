@@ -89,7 +89,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open(encoding="utf-8").read()
     urls = urls.split(',')
-    print(urls)
+    # print(urls)
     # 获取账号信息
     accounts = fetch_apple_count(urls)
 
