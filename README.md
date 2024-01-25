@@ -86,7 +86,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 |                          客户端名称                          |    支持系统     | 最后更新时间 |
 | :----------------------------------------------------------: | :-------------: | :----------: |
-| [sing-box](https://github.com/SagerNet/sing-box) | [MacOS、iOS](https://sing-box.sagernet.org/zh/clients/apple/)、[Android](https://sing-box.sagernet.org/zh/clients/android/) | 2024 |
+| [sing-box](https://github.com/SagerNet/sing-box) | [MacOS、iOS](https://sing-box.sagernet.org/zh/clients/apple/)（需要美区账号：[Apple Store注册外国Apple ID教程](https://www.wangdu.site/course/705.html)）、[Android](https://sing-box.sagernet.org/zh/clients/android/) | 2024 |
 |  | Clash系列 |  |
 |  [Clash](https://github.com/Fndroid/clash_for_windows_pkg)(已删库：20231103)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[备份版本：0.20.39](https://app.nloli.xyz/static/Clash.for.Windows.Setup.0.20.39.exe)、[备份](https://archive.org/details/clash_for_windows_pkg)  |       Win       |     2022     |
 |[clash-verge](https://github.com/zzzgydi/clash-verge)（clash暂时替代品）|Win、Mac、Linux|2023|
