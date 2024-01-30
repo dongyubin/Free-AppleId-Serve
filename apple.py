@@ -9,7 +9,8 @@ import os
 
 root = pathlib.Path(__file__).parent.resolve()
 
-urls = os.getenv("urls")
+# urls = os.getenv("urls")
+urls = 'https://bpdx4q.laogou.cx/p/6f12cf2ffd1ff6e502a75ff56ec54abb,https://ay1tj5.laogou.cx/p/2257b031b4f38362e215d159080bc75c,https://apple.laogoubi.net/p/a4b9f9509b46c05cef78a052c5363647,https://apple.laogoubi.net/s/9f6b8dae0a078750b4e7c9a5eddc6e19,https://apple.laogoubi.net/s/c7d1e73290a646f2513f6f0b75843b0b,https://apple.laogoubi.net/s/2792b9ed836eca1111823b2bd0930647,https://apple.laogoubi.net/s/3c97a5c6dde4e1012d31dbef3b445864,https://apple.laogoubi.net/s/947df5b1a0781f25e910f005108f8208,https://apple.laogoubi.net/p/39244056192a2ff726befdc13830e8c0,https://ccbaohe.com/appleID2,https://apid.jcnf.xyz/share/fzeFczfgDoYwLSe,https://free.iosapp.icu/get_apple_id.php,https://eg.id888.one/s?at=f9b4dea4265443d9a5c72ccb3a28b697'
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -31,7 +32,7 @@ def fetch_apple_count(urls):
         'Accept':'application/json, text/javascript, */*; q=0.01'
     }
     for url in urls:
-        # print('url:',url)
+        print('url:',url)
         # if url.startswith('https://aunlock.laogoubi.net') or url.startswith('https://apple.laogoubi.net'):
         if 'laogou' in url :
             response = requests.get(url, headers=headers)
