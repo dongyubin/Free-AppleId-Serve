@@ -2,7 +2,7 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看`付费机场`）
+TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看`<a href="#付费机场">付费机场</a>`）
 
 - [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
 
