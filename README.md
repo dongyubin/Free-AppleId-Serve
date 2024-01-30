@@ -216,6 +216,29 @@ PS：最好月付，防止跑路！
 1. 成品账号：[小火箭 Shadowrocket 成品号 美国区](https://fk.wwkejishe.top/buy/6)（账号购买后可以自行修改密码，并永久使用）
 2. 共享账号容易失效，需要稳定的请自行购买成品账号
 
+<input type="password" id="password" style="width:60%" placeholder="公众号：文武科技社,回复关键词：网上学科">
+<button onclick="checkPassword()">提交</button>
+
+<script>
+function checkPassword() {
+    var passwordInput = document.getElementById("password");
+    // 获取密码输入框的内容
+    var passwordValue = passwordInput.value;
+
+    if (passwordValue === "wwkjs") {
+        // 如果密码匹配，设置 class 为 "appleid"，并显示元素
+        passwordInput.classList.add("appleid");
+        passwordInput.style.display = "block";
+    } else {
+        // 如果密码不匹配，移除 class，隐藏元素
+        passwordInput.classList.remove("appleid");
+        passwordInput.style.display = "none";
+    }
+}
+</script>
+
+<div class="appleid" style="display:none">
+
 <!-- apple starts -->
 
 --------- 1 ---------
@@ -354,6 +377,8 @@ PS：最好月付，防止跑路！
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd165f807`
 <!-- apple ends -->
+
+</div>
 
 ### 使用教程
 ![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060908426.jpg)
