@@ -31,7 +31,7 @@ def fetch_apple_count(urls):
         'Accept':'application/json, text/javascript, */*; q=0.01'
     }
     for url in urls:
-        print('url:',url)
+        # print('url:',url)
         # if url.startswith('https://aunlock.laogoubi.net') or url.startswith('https://apple.laogoubi.net'):
         if 'laogou' in url :
             response = requests.get(url, headers=headers)
@@ -111,8 +111,7 @@ def fetch_apple_count(urls):
                 buttons = soup.find_all('button', {'class': 'btn-outline-secondary'})
                 # 账号状态:获取class为card-title
                 card_status = soup.find_all(class_='card-title')
-                print(card_status)
-
+                # print(card_status)
                 for i,card_statu in enumerate(card_status):
                     if '正常' in card_statu.get_text():
                         account_normal_index.append(i)
@@ -139,7 +138,7 @@ def fetch_apple_count(urls):
                     all_credentials.extend(credentials)
             else:
                 print(f"Failed to retrieve the webpage from {url}")
-    print(all_credentials)
+    # print(all_credentials)
     return [
         {
             'account': account['account'],
