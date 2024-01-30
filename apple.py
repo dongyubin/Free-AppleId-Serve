@@ -48,12 +48,17 @@ def fetch_apple_count(urls):
             }
             credentials = []
             response = requests.get(url, headers=headers)
-            res_text = response.text
-            data = json.loads(res_text)
-            for item in data:
-                if 'apple_id' in item and 'apple_pwd' in item:
-                    credentials.append({"account": item['apple_id'], "password": item['apple_pwd'], "country": ''})
+            if response.status_code == 200:
+                try:
+                    # 尝试解析 JSON 数据
+                    data = response.json()
+                    for item in data:
+                        if 'apple_id' in item and 'apple_pwd' in item:
+                            credentials.append({"account": item['apple_id'], "password": item['apple_pwd'], "country": ''})
+                except json.decoder.JSONDecodeError as e:
+                    print(f"Error decoding JSON: {e}")
             all_credentials.extend(credentials)
+            
         elif url.startswith('https://apid.jcnf.xyz'):
             response = requests.get(url)
             accounts = []
