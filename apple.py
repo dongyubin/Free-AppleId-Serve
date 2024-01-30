@@ -95,6 +95,19 @@ def fetch_apple_count(urls):
                         passwords.append(button.get('title'))
             credentials = [{"account": a, "password": p, "country": ''} for a, p in zip(accounts, passwords)]
             all_credentials.extend(credentials)
+        elif url.startswith('https://w.jiesuo.link'):
+            response = requests.get(url)
+            credentials = []
+            if response.status_code == 200:
+                html_doc = response.content
+                # print(html_doc)
+                # 使用BeautifulSoup解析HTML
+                soup = BeautifulSoup(html_doc, 'html.parser')
+                account_input = soup.select_one('input', {'id': 'email'})
+                password_input = soup.select_one('input', {'id': 'pass'})
+                if account_input and password_input:
+                    credentials.append({"account": account_input.get('value'), "password": password_input.get('value'), "country": ''})
+            all_credentials.extend(credentials)
         else:
             response = requests.get(url)
             accounts = []
