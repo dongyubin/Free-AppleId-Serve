@@ -159,7 +159,7 @@ if __name__ == "__main__":
 
     # 构建账号信息的Markdown格式
     entries_md = "\n".join([
-        "--------- {i} ---------\n* {country}账号：`{account}`\n* 密码：`{password}`".format(i=i+1, **account)
+        "\n--------- {i} ---------\n* {country}账号：`{account}`\n* 密码：`{password}`".format(i=i+1, **account)
         for i, account in enumerate(accounts)
     ])
 
