@@ -103,10 +103,12 @@ def fetch_apple_count(urls):
                 # print(html_doc)
                 # 使用BeautifulSoup解析HTML
                 soup = BeautifulSoup(html_doc, 'html.parser')
-                account_input = soup.select_one('input', {'id': 'email'})
-                password_input = soup.select_one('input', {'id': 'pass'})
+                account_input = soup.select_one('input#email')
+                password_input = soup.select_one('input#pass')
                 if account_input and password_input:
-                    credentials.append({"account": account_input.get('value'), "password": password_input.get('value'), "country": ''})
+                    account_value = account_input.get('value')
+                    password_value = password_input.get('value')
+                    credentials.append({"account": account_value, "password": password_value, "country": ''})
             all_credentials.extend(credentials)
         else:
             response = requests.get(url)
@@ -151,7 +153,7 @@ def fetch_apple_count(urls):
                     all_credentials.extend(credentials)
             else:
                 print(f"Failed to retrieve the webpage from {url}")
-    # print(all_credentials)
+    print(all_credentials)
     return [
         {
             'account': account['account'],
@@ -170,25 +172,25 @@ if __name__ == "__main__":
     # 获取账号信息
     accounts = fetch_apple_count(urls)
 
-    # 构建账号信息的Markdown格式
-    entries_md = "\n".join([
-        "\n--------- {i} ---------\n* {country}账号：`{account}`\n* 密码：`{password}`".format(i=i+1, **account)
-        for i, account in enumerate(accounts)
-    ])
+    # # 构建账号信息的Markdown格式
+    # entries_md = "\n".join([
+    #     "\n--------- {i} ---------\n* {country}账号：`{account}`\n* 密码：`{password}`".format(i=i+1, **account)
+    #     for i, account in enumerate(accounts)
+    # ])
 
-    # 更新账号信息
-    rewritten = replace_chunk(readme_contents, "apple", entries_md)
+    # # 更新账号信息
+    # rewritten = replace_chunk(readme_contents, "apple", entries_md)
 
-    # 获取当前日期
-    current_datetime = datetime.now()
-    target_timezone = pytz.timezone('Asia/Shanghai')
-    target_datetime = current_datetime.astimezone(target_timezone)
-    entries_update_md = "\n".join([
-        "更新时间：**{}**".format(target_datetime.strftime("%Y-%m-%d %H:%M:%S"))
-    ])
+    # # 获取当前日期
+    # current_datetime = datetime.now()
+    # target_timezone = pytz.timezone('Asia/Shanghai')
+    # target_datetime = current_datetime.astimezone(target_timezone)
+    # entries_update_md = "\n".join([
+    #     "更新时间：**{}**".format(target_datetime.strftime("%Y-%m-%d %H:%M:%S"))
+    # ])
 
-    # 更新日期信息
-    rewritten_update = replace_chunk(rewritten, "updateTime", entries_update_md)
+    # # 更新日期信息
+    # rewritten_update = replace_chunk(rewritten, "updateTime", entries_update_md)
 
-    # 写入全部更新
-    readme.open("w", encoding="utf-8").write(rewritten_update)
+    # # 写入全部更新
+    # readme.open("w", encoding="utf-8").write(rewritten_update)
