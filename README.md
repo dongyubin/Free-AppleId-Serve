@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-01 05:12:46**
+更新时间：**2024-02-01 06:12:40**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,7 +228,7 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 日本账号：`lukehar0l@hotmail.com`
-* 密码：`YBz06k40`
+* 密码：`EZz69q81`
 
 --------- 4 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
@@ -240,11 +240,11 @@ PS：最好月付，防止跑路！
 
 --------- 6 ---------
 * 美国账号：`wdeavmgy@hotmail.com`
-* 密码：`GNc33h86`
+* 密码：`GQs07r10`
 
 --------- 7 ---------
 * 美国账号：`matbxgsantos@hotmail.com`
-* 密码：`ABu73w24`
+* 密码：`NWf35g89`
 
 --------- 8 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
@@ -268,39 +268,39 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 美国账号：`easternnovellar99812l@gmail.com`
-* 密码：`ZCk78w87`
+* 密码：`KFf28t70`
 
 --------- 14 ---------
 * 美国账号：`liamzpjben@hotmail.com`
-* 密码：`NPw25g91`
+* 密码：`WGv73k08`
 
 --------- 15 ---------
-* 账号：`samuel13emhayes@hotmail.com`
-* 密码：`Dd17ea034`
-
---------- 16 ---------
 * 账号：`kerimazissist@outlook.com`
 * 密码：`Dd11a699d`
 
---------- 17 ---------
+--------- 16 ---------
 * 账号：`jarrydmensehm@outlook.com`
 * 密码：`UU77ff77`
 
---------- 18 ---------
+--------- 17 ---------
 * 账号：`julianwestxzu@hotmail.com`
 * 密码：`Dd1846d3d`
 
+--------- 18 ---------
+* 账号：`eliaszb7butler@hotmail.com`
+* 密码：`AA24fu52`
+
 --------- 19 ---------
 * 账号：`fydshmhjrra@hotmail.com`
-* 密码：`mhiMDfr5T8`
+* 密码：`cbLPyHjn9B`
 
 --------- 20 ---------
-* 账号：`craiglyonsk926@gmail.com`
-* 密码：`6ej5F9OPLX`
-
---------- 21 ---------
 * 账号：`aevksufumpwc@outlook.com`
 * 密码：`s0qa76WMEK`
+
+--------- 21 ---------
+* 账号：`craiglyonsk926@gmail.com`
+* 密码：`6ej5F9OPLX`
 
 --------- 22 ---------
 * 账号：`sebastiansanu8@hotmail.com`
@@ -308,15 +308,15 @@ PS：最好月付，防止跑路！
 
 --------- 23 ---------
 * 账号：`brackdaisal@hotmail.com`
-* 密码：`b0Z8c0Hht1`
+* 密码：`Q2b2N80omy`
 
 --------- 24 ---------
-* 账号：`pansy8030@aabmail.com`
-* 密码：`zqCuf1rn3D`
+* 账号：`dengbaikeji05@gmail.com`
+* 密码：`5dBb91l8EY`
 
 --------- 25 ---------
 * 账号：`vivian9603@aabmail.com`
-* 密码：`L7E5J6nlw3`
+* 密码：`bAuvLxO7PD`
 
 --------- 26 ---------
 * 账号：`carter7euscott@hotmail.com`
@@ -324,7 +324,7 @@ PS：最好月付，防止跑路！
 
 --------- 27 ---------
 * 账号：`fydshmhjrra@hotmail.com`
-* 密码：`mhiMDfr5T8`
+* 密码：`cbLPyHjn9B`
 
 --------- 28 ---------
 * 账号：`cwagqxu777k@163.com`
