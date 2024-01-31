@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-01 04:12:44**
+更新时间：**2024-02-01 05:12:46**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -232,7 +232,7 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
-* 密码：`DDf02z01`
+* 密码：`PBl00i31`
 
 --------- 5 ---------
 * 台湾账号：`maverickmi54@hotmail.com`
@@ -268,7 +268,7 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 美国账号：`easternnovellar99812l@gmail.com`
-* 密码：`FBq61s20`
+* 密码：`ZCk78w87`
 
 --------- 14 ---------
 * 美国账号：`liamzpjben@hotmail.com`
@@ -283,40 +283,40 @@ PS：最好月付，防止跑路！
 * 密码：`Dd11a699d`
 
 --------- 17 ---------
+* 账号：`jarrydmensehm@outlook.com`
+* 密码：`UU77ff77`
+
+--------- 18 ---------
 * 账号：`julianwestxzu@hotmail.com`
 * 密码：`Dd1846d3d`
 
---------- 18 ---------
+--------- 19 ---------
 * 账号：`fydshmhjrra@hotmail.com`
 * 密码：`mhiMDfr5T8`
 
---------- 19 ---------
+--------- 20 ---------
 * 账号：`craiglyonsk926@gmail.com`
 * 密码：`6ej5F9OPLX`
 
---------- 20 ---------
+--------- 21 ---------
 * 账号：`aevksufumpwc@outlook.com`
 * 密码：`s0qa76WMEK`
 
---------- 21 ---------
+--------- 22 ---------
 * 账号：`sebastiansanu8@hotmail.com`
 * 密码：`C1XsthI71N`
 
---------- 22 ---------
+--------- 23 ---------
 * 账号：`brackdaisal@hotmail.com`
 * 密码：`b0Z8c0Hht1`
 
---------- 23 ---------
-* 账号：`dengbaikeji05@gmail.com`
-* 密码：`k131uJiZGN`
-
 --------- 24 ---------
-* 账号：`vivian9603@aabmail.com`
-* 密码：`e021U8ZhiD`
-
---------- 25 ---------
 * 账号：`pansy8030@aabmail.com`
 * 密码：`zqCuf1rn3D`
+
+--------- 25 ---------
+* 账号：`vivian9603@aabmail.com`
+* 密码：`L7E5J6nlw3`
 
 --------- 26 ---------
 * 账号：`carter7euscott@hotmail.com`
