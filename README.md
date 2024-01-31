@@ -348,3 +348,7 @@ PS：最好月付，防止跑路！
 ## 作者网站
 
 - [文武科技柜](https://www.wangdu.site/)：实用工具、黑苹果、高效教程、Nas
+
+## Star History
+
+![](https://api.star-history.com/svg?repos=dongyubin/Free-AppleId-Serve&type=Date)
