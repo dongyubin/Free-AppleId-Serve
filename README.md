@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-03 06:12:07**
+更新时间：**2024-02-03 08:58:11**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,7 +224,7 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
-* 密码：`DAh40o65`
+* 密码：`URq53g10`
 
 --------- 3 ---------
 * 中国大陆账号：`maverickmi54@hotmail.com`
@@ -232,11 +232,11 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 美国账号：`wdeavmgy@hotmail.com`
-* 密码：`WUk76r37`
+* 密码：`IKx62v10`
 
 --------- 5 ---------
 * 加纳账号：`mav6lnajames@hotmail.com`
-* 密码：`YRh96g21`
+* 密码：`WCx83w85`
 
 --------- 6 ---------
 * 美国账号：`labranchebritts27205w@gmail.com`
@@ -252,7 +252,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 美国账号：`michaelhozlwas@hotmail.com`
-* 密码：`SYk22z46`
+* 密码：`BCg11p70`
 
 --------- 10 ---------
 * 美国账号：`lukev34gri@hotmail.com`
@@ -263,12 +263,12 @@ PS：最好月付，防止跑路！
 * 密码：`VQp25g88`
 
 --------- 12 ---------
-* 账号：`samuel13emhayes@hotmail.com`
-* 密码：`Dd151ee1d`
+* 账号：`kerimazissist@outlook.com`
+* 密码：`Dd10943e6`
 
 --------- 13 ---------
-* 账号：`julianwestxzu@hotmail.com`
-* 密码：`Dd14709a0`
+* 账号：`jarrydmensehm@outlook.com`
+* 密码：`Dd1a9d2ba`
 
 --------- 14 ---------
 * 账号：`cwagqxu777k@163.com`
@@ -279,12 +279,12 @@ PS：最好月付，防止跑路！
 * 密码：`2jdQJXMipB`
 
 --------- 16 ---------
-* 账号：`sebastiansanu8@hotmail.com`
-* 密码：`8REQDcb41g`
-
---------- 17 ---------
 * 账号：`craiglyonsk926@gmail.com`
 * 密码：`bTgNFYXkn4`
+
+--------- 17 ---------
+* 账号：`sebastiansanu8@hotmail.com`
+* 密码：`8REQDcb41g`
 
 --------- 18 ---------
 * 账号：`aevksufumpwc@outlook.com`
@@ -296,15 +296,15 @@ PS：最好月付，防止跑路！
 
 --------- 20 ---------
 * 账号：`jackjoh7gf@hotmail.com`
-* 密码：`60f6lP7k5R`
+* 密码：`hc8QV1xdHS`
 
 --------- 21 ---------
-* 账号：`vivian9603@aabmail.com`
-* 密码：`IM544RbnHX`
-
---------- 22 ---------
 * 账号：`pansy8030@aabmail.com`
 * 密码：`7YtBg9m24K`
+
+--------- 22 ---------
+* 账号：`wylie2980@aabmail.com`
+* 密码：`xjUf7CJaki`
 
 --------- 23 ---------
 * 账号：`carter7euscott@hotmail.com`
@@ -317,18 +317,6 @@ PS：最好月付，防止跑路！
 --------- 25 ---------
 * 账号：`cwagqxu777k@163.com`
 * 密码：`TY68bq10`
-
---------- 26 ---------
-* 账号：`julianwestxzu@hotmail.com`
-* 密码：`Dd14709a0`
-
---------- 27 ---------
-* 账号：`samuel13emhayes@hotmail.com`
-* 密码：`Dd151ee1d`
-
---------- 28 ---------
-* 账号：`empathicEland8@leo3van.com`
-* 密码：`Dd1420d04`
 <!-- apple ends -->
 
 
