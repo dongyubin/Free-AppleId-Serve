@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-04 04:14:03**
+更新时间：**2024-02-04 06:12:22**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -240,7 +240,7 @@ PS：最好月付，防止跑路！
 
 --------- 6 ---------
 * 越南账号：`xpsl053@pigu666.cn`
-* 密码：`LBc45y13`
+* 密码：`NHf52b83`
 
 --------- 7 ---------
 * 马来西亚账号：`geza935@id648.com`
@@ -252,7 +252,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 美国账号：`lukev34gri@hotmail.com`
-* 密码：`WFi43y06`
+* 密码：`VWr40n55`
 
 --------- 10 ---------
 * 阿拉伯联合酋长国账号：`easternnovellar99812l@gmail.com`
@@ -263,8 +263,8 @@ PS：最好月付，防止跑路！
 * 密码：`PGx21k99`
 
 --------- 12 ---------
-* 账号：`tenchu_the_fallen_angel4@tavie.cloud`
-* 密码：`EE88yy22`
+* 账号：`mitch939@tavie.cloud`
+* 密码：`GG88kk77`
 
 --------- 13 ---------
 * 账号：`mack.rees8@poman.cloud`
@@ -283,16 +283,16 @@ PS：最好月付，防止跑路！
 * 密码：`esPB77Lv8d`
 
 --------- 17 ---------
-* 账号：`sebastiansanu8@hotmail.com`
-* 密码：`f9pMCd0Ywa`
+* 账号：`aevksufumpwc@outlook.com`
+* 密码：`jp5eL9uf83`
 
 --------- 18 ---------
 * 账号：`craiglyonsk926@gmail.com`
 * 密码：`jKLAd2W9Mp`
 
 --------- 19 ---------
-* 账号：`aevksufumpwc@outlook.com`
-* 密码：`jp5eL9uf83`
+* 账号：`sebastiansanu8@hotmail.com`
+* 密码：`f9pMCd0Ywa`
 
 --------- 20 ---------
 * 账号：`jackjoh7gf@hotmail.com`
@@ -303,34 +303,38 @@ PS：最好月付，防止跑路！
 * 密码：`78er56Kx08`
 
 --------- 22 ---------
-* 账号：`dengbaikeji05@gmail.com`
-* 密码：`ecxnWXV75y`
+* 账号：`vivian9603@aabmail.com`
+* 密码：`9t137P6rnj`
 
 --------- 23 ---------
-* 账号：`wylie2980@aabmail.com`
-* 密码：`Z23CSueBmg`
-
---------- 24 ---------
 * 账号：`pansy8030@aabmail.com`
 * 密码：`9urcw2T677`
 
+--------- 24 ---------
+* 账号：`wylie2980@aabmail.com`
+* 密码：`80R105Qi8C`
+
 --------- 25 ---------
+* 账号：`carter7euscott@hotmail.com`
+* 密码：`u5em6S7KCr`
+
+--------- 26 ---------
 * 账号：`fydshmhjrra@hotmail.com`
 * 密码：`esPB77Lv8d`
 
---------- 26 ---------
+--------- 27 ---------
 * 账号：`cwagqxu777k@163.com`
 * 密码：`JT12gh86`
 
---------- 27 ---------
+--------- 28 ---------
 * 账号：`justustucker53@tavie.cloud`
 * 密码：`NN77tt11`
 
---------- 28 ---------
+--------- 29 ---------
 * 账号：`mitch939@tavie.cloud`
 * 密码：`GG88kk77`
 
---------- 29 ---------
+--------- 30 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd1bba805`
 <!-- apple ends -->
