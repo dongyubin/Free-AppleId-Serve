@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-04 06:12:22**
+更新时间：**2024-02-04 09:03:20**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,11 +224,11 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
-* 密码：`UNr24i89`
+* 密码：`XGq52y27`
 
 --------- 3 ---------
 * 美国账号：`leobakeronq4@hotmail.com`
-* 密码：`MLk92y75`
+* 密码：`YWa43w76`
 
 --------- 4 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
@@ -263,56 +263,56 @@ PS：最好月付，防止跑路！
 * 密码：`PGx21k99`
 
 --------- 12 ---------
-* 账号：`mitch939@tavie.cloud`
-* 密码：`GG88kk77`
+* 账号：`tenchu_the_fallen_angel4@tavie.cloud`
+* 密码：`Dd19799ee`
 
 --------- 13 ---------
 * 账号：`mack.rees8@poman.cloud`
-* 密码：`FF88kk11`
+* 密码：`Dd1fdee52`
 
 --------- 14 ---------
 * 账号：`justustucker53@tavie.cloud`
-* 密码：`NN77tt11`
+* 密码：`Dd1965e3a`
 
 --------- 15 ---------
+* 账号：`eliaszb7butler@hotmail.com`
+* 密码：`CE87hk45`
+
+--------- 16 ---------
 * 账号：`cwagqxu777k@163.com`
 * 密码：`JT12gh86`
 
---------- 16 ---------
+--------- 17 ---------
 * 账号：`fydshmhjrra@hotmail.com`
 * 密码：`esPB77Lv8d`
 
---------- 17 ---------
-* 账号：`aevksufumpwc@outlook.com`
-* 密码：`jp5eL9uf83`
-
 --------- 18 ---------
+* 账号：`aevksufumpwc@outlook.com`
+* 密码：`vN5PeWd7s9`
+
+--------- 19 ---------
 * 账号：`craiglyonsk926@gmail.com`
 * 密码：`jKLAd2W9Mp`
 
---------- 19 ---------
+--------- 20 ---------
 * 账号：`sebastiansanu8@hotmail.com`
 * 密码：`f9pMCd0Ywa`
 
---------- 20 ---------
-* 账号：`jackjoh7gf@hotmail.com`
-* 密码：`smre4BojJ6`
-
 --------- 21 ---------
 * 账号：`carterhoqp@hotmail.com`
-* 密码：`78er56Kx08`
+* 密码：`8b1M20ylPT`
 
 --------- 22 ---------
-* 账号：`vivian9603@aabmail.com`
-* 密码：`9t137P6rnj`
+* 账号：`jackjoh7gf@hotmail.com`
+* 密码：`ZUmLPT3X8N`
 
 --------- 23 ---------
-* 账号：`pansy8030@aabmail.com`
-* 密码：`9urcw2T677`
+* 账号：`dengbaikeji05@gmail.com`
+* 密码：`3YVeBrJ0am`
 
 --------- 24 ---------
-* 账号：`wylie2980@aabmail.com`
-* 密码：`80R105Qi8C`
+* 账号：`vivian9603@aabmail.com`
+* 密码：`Cile3vQNRa`
 
 --------- 25 ---------
 * 账号：`carter7euscott@hotmail.com`
@@ -328,15 +328,15 @@ PS：最好月付，防止跑路！
 
 --------- 28 ---------
 * 账号：`justustucker53@tavie.cloud`
-* 密码：`NN77tt11`
+* 密码：`Dd1965e3a`
 
 --------- 29 ---------
 * 账号：`mitch939@tavie.cloud`
-* 密码：`GG88kk77`
+* 密码：`Dd1b727e7`
 
 --------- 30 ---------
 * 账号：`empathicEland8@leo3van.com`
-* 密码：`Dd1bba805`
+* 密码：`Dd12fd19e`
 <!-- apple ends -->
 
 
