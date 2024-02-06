@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-06 12:15:35**
+更新时间：**2024-02-06 14:17:08**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,11 +224,11 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
-* 密码：`GFm87h18`
+* 密码：`VOu61l43`
 
 --------- 3 ---------
 * 美国账号：`leobakeronq4@hotmail.com`
-* 密码：`NBv27d05`
+* 密码：`XKo29m70`
 
 --------- 4 ---------
 * 美国账号：`lifisher2nnl@hotmail.com`
@@ -240,7 +240,7 @@ PS：最好月付，防止跑路！
 
 --------- 6 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`NBe16w53`
+* 密码：`LLq86h33`
 
 --------- 7 ---------
 * 美国账号：`labranchebritts27205w@gmail.com`
@@ -252,7 +252,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 美国账号：`michaelhozlwas@hotmail.com`
-* 密码：`VSh57w90`
+* 密码：`LQr75f51`
 
 --------- 10 ---------
 * 美国账号：`lukev34gri@hotmail.com`
@@ -260,7 +260,7 @@ PS：最好月付，防止跑路！
 
 --------- 11 ---------
 * 日本账号：`easternnovellar99812l@gmail.com`
-* 密码：`FXh96v26`
+* 密码：`PKw21l76`
 
 --------- 12 ---------
 * 中国大陆账号：`jamesestli@hotmail.com`
@@ -268,23 +268,23 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 美国账号：`sunkengl-aPu114@outlook.com`
-* 密码：`GEq35p00`
+* 密码：`WEl73z05`
 
 --------- 14 ---------
 * 账号：`mitch939@tavie.cloud`
-* 密码：`Dd118f7c5`
+* 密码：`Dd152d800`
 
 --------- 15 ---------
 * 账号：`tenchu_the_fallen_angel4@tavie.cloud`
-* 密码：`Dd1212e68`
+* 密码：`Dd1dc72c6`
 
 --------- 16 ---------
 * 账号：`mack.rees8@poman.cloud`
-* 密码：`Dd13de13c`
+* 密码：`Dd1977ef8`
 
 --------- 17 ---------
 * 账号：`justustucker53@tavie.cloud`
-* 密码：`Dd12e307c`
+* 密码：`Dd19cb443`
 
 --------- 18 ---------
 * 账号：`cwagqxu777k@163.com`
@@ -295,12 +295,12 @@ PS：最好月付，防止跑路！
 * 密码：`cwnFV3u76q`
 
 --------- 20 ---------
-* 账号：`craiglyonsk926@gmail.com`
-* 密码：`UZv6yG8YA1`
+* 账号：`sebastiansanu8@hotmail.com`
+* 密码：`W31DJns41B`
 
 --------- 21 ---------
-* 账号：`sebastiansanu8@hotmail.com`
-* 密码：`rOj7d1IEan`
+* 账号：`craiglyonsk926@gmail.com`
+* 密码：`UZv6yG8YA1`
 
 --------- 22 ---------
 * 账号：`aevksufumpwc@outlook.com`
@@ -311,20 +311,20 @@ PS：最好月付，防止跑路！
 * 密码：`h0DTo479t7`
 
 --------- 24 ---------
-* 账号：`priscilla8369@aabmail.com`
-* 密码：`T1t5fwu32A`
+* 账号：`pansy8030@aabmail.com`
+* 密码：`5vXYj7tm8I`
 
 --------- 25 ---------
 * 账号：`wylie2980@aabmail.com`
-* 密码：`1tK3B55rWu`
+* 密码：`cNnM6ib53E`
 
 --------- 26 ---------
-* 账号：`pansy8030@aabmail.com`
-* 密码：`O12loEC9Ng`
+* 账号：`horace2824@aabmail.com`
+* 密码：`2Xa3hERL09`
 
 --------- 27 ---------
-* 账号：`horace2824@aabmail.com`
-* 密码：`W7JcogwjG3`
+* 账号：`priscilla8369@aabmail.com`
+* 密码：`3vbEP9rN1T`
 
 --------- 28 ---------
 * 账号：`fydshmhjrra@hotmail.com`
@@ -336,11 +336,11 @@ PS：最好月付，防止跑路！
 
 --------- 30 ---------
 * 账号：`justustucker53@tavie.cloud`
-* 密码：`Dd12e307c`
+* 密码：`Dd19cb443`
 
 --------- 31 ---------
 * 账号：`mitch939@tavie.cloud`
-* 密码：`Dd118f7c5`
+* 密码：`Dd152d800`
 
 --------- 32 ---------
 * 账号：`empathicEland8@leo3van.com`
