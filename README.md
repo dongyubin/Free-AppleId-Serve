@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-06 08:58:55**
+更新时间：**2024-02-06 10:18:43**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,7 +224,7 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
-* 密码：`CDf17t34`
+* 密码：`FAt85x47`
 
 --------- 3 ---------
 * 美国账号：`leobakeronq4@hotmail.com`
@@ -240,11 +240,11 @@ PS：最好月付，防止跑路！
 
 --------- 6 ---------
 * 日本账号：`mav6lnajames@hotmail.com`
-* 密码：`HZh98c55`
+* 密码：`XHl67z66`
 
 --------- 7 ---------
 * 美国账号：`labranchebritts27205w@gmail.com`
-* 密码：`SHm81w80`
+* 密码：`OGu65i81`
 
 --------- 8 ---------
 * 美国账号：`matharrisgfsx@hotmail.com`
@@ -252,7 +252,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 美国账号：`michaelhozlwas@hotmail.com`
-* 密码：`ZDx23o34`
+* 密码：`OIw06x76`
 
 --------- 10 ---------
 * 美国账号：`lukev34gri@hotmail.com`
@@ -268,11 +268,11 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 美国账号：`sunkengl-aPu114@outlook.com`
-* 密码：`WTv74n55`
+* 密码：`EKt15i42`
 
 --------- 14 ---------
 * 账号：`mitch939@tavie.cloud`
-* 密码：`Dd13d7ef1`
+* 密码：`Dd188a438`
 
 --------- 15 ---------
 * 账号：`tenchu_the_fallen_angel4@tavie.cloud`
@@ -284,7 +284,7 @@ PS：最好月付，防止跑路！
 
 --------- 17 ---------
 * 账号：`justustucker53@tavie.cloud`
-* 密码：`Dd15012d6`
+* 密码：`Dd1efeff1`
 
 --------- 18 ---------
 * 账号：`cwagqxu777k@163.com`
@@ -307,42 +307,26 @@ PS：最好月付，防止跑路！
 * 密码：`03JmjSV2iQ`
 
 --------- 23 ---------
-* 账号：`liamwagner6wae@hotmail.com`
-* 密码：`ByXh1x4Hi7`
+* 账号：`dengbaikeji05@gmail.com`
+* 密码：`Oo23rw4hRq`
 
 --------- 24 ---------
-* 账号：`priscilla8369@aabmail.com`
-* 密码：`lLGkF1vx3u`
-
---------- 25 ---------
-* 账号：`pansy8030@aabmail.com`
-* 密码：`jU0w28V9Fc`
-
---------- 26 ---------
-* 账号：`horace2824@aabmail.com`
-* 密码：`63gci0DJEf`
-
---------- 27 ---------
-* 账号：`carter7euscott@hotmail.com`
-* 密码：`H9aUPd4I48`
-
---------- 28 ---------
 * 账号：`fydshmhjrra@hotmail.com`
 * 密码：`ayB1DY2ofx`
 
---------- 29 ---------
+--------- 25 ---------
 * 账号：`cwagqxu777k@163.com`
 * 密码：`EC12ve44`
 
---------- 30 ---------
+--------- 26 ---------
 * 账号：`justustucker53@tavie.cloud`
-* 密码：`Dd15012d6`
+* 密码：`Dd1efeff1`
 
---------- 31 ---------
+--------- 27 ---------
 * 账号：`mitch939@tavie.cloud`
-* 密码：`Dd13d7ef1`
+* 密码：`Dd188a438`
 
---------- 32 ---------
+--------- 28 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd142e558`
 <!-- apple ends -->
