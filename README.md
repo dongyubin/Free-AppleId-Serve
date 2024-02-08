@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-08 14:17:52**
+更新时间：**2024-02-08 16:16:25**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,95 +224,87 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
-* 密码：`WQl06v93`
+* 密码：`VAq25g60`
 
 --------- 3 ---------
 * 美国账号：`leobakeronq4@hotmail.com`
-* 密码：`GBv04f81`
+* 密码：`VRa73g32`
 
 --------- 4 ---------
 * 美国账号：`lifisher2nnl@hotmail.com`
-* 密码：`LYl13c32`
+* 密码：`NZd31s25`
 
 --------- 5 ---------
 * 美国账号：`wnobharper@hotmail.com`
-* 密码：`RRi16w87`
+* 密码：`ICo64c53`
 
 --------- 6 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`VLo71z37`
+* 密码：`ZGu26y55`
 
 --------- 7 ---------
 * 美国账号：`labranchebritts27205w@gmail.com`
-* 密码：`VVb53e53`
+* 密码：`LLs62z76`
 
 --------- 8 ---------
 * 美国账号：`michaelhozlwas@hotmail.com`
-* 密码：`NYn24m50`
+* 密码：`LXr56m78`
 
 --------- 9 ---------
 * 美国账号：`lukev34gri@hotmail.com`
-* 密码：`REk37c93`
+* 密码：`EAh34y50`
 
 --------- 10 ---------
 * 日本账号：`easternnovellar99812l@gmail.com`
-* 密码：`CPk31h50`
+* 密码：`UKs10d42`
 
 --------- 11 ---------
-* 美国账号：`jamesestli@hotmail.com`
-* 密码：`ZUd61y45`
-
---------- 12 ---------
 * 美国账号：`sunkengl-aPu114@outlook.com`
 * 密码：`DLf16i85`
 
---------- 13 ---------
+--------- 12 ---------
 * 账号：`conormaho72@tavie.cloud`
-* 密码：`Dd11b74c5`
+* 密码：`Dd19feaf3`
+
+--------- 13 ---------
+* 账号：`gina.azofeifa6@tavie.cloud`
+* 密码：`Dd1e408cc`
 
 --------- 14 ---------
-* 账号：`gina.azofeifa6@tavie.cloud`
-* 密码：`Dd103e993`
+* 账号：`jewuandunning6@tavie.cloud`
+* 密码：`Dd1cef69a`
 
 --------- 15 ---------
-* 账号：`jewuandunning6@tavie.cloud`
-* 密码：`Dd1465727`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd15d5c11`
 
 --------- 16 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1523ac6`
+* 账号：`cwagqxu777k@163.com`
+* 密码：`GP72nk52`
 
 --------- 17 ---------
-* 账号：`cwagqxu777k@163.com`
-* 密码：`HF37ax52`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`cfk1mZrWu3`
 
 --------- 18 ---------
 * 账号：`upxaxxqf@outlook.com`
-* 密码：`8QVP3n0TuD`
+* 密码：`cfk1mZrWu3`
 
 --------- 19 ---------
-* 账号：`carter7euscott@hotmail.com`
-* 密码：`Aabb1234`
+* 账号：`cwagqxu777k@163.com`
+* 密码：`GP72nk52`
 
 --------- 20 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`8QVP3n0TuD`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd15d5c11`
 
 --------- 21 ---------
-* 账号：`cwagqxu777k@163.com`
-* 密码：`HF37ax52`
+* 账号：`conormaho72@tavie.cloud`
+* 密码：`Dd19feaf3`
 
 --------- 22 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1523ac6`
-
---------- 23 ---------
-* 账号：`conormaho72@tavie.cloud`
-* 密码：`Dd11b74c5`
-
---------- 24 ---------
 * 账号：`empathicEland8@leo3van.com`
-* 密码：`Dd12215b1`
+* 密码：`Dd1dd6848`
 <!-- apple ends -->
 
 
