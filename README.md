@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-08 06:12:24**
+更新时间：**2024-02-08 08:58:15**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -243,78 +243,74 @@ PS：最好月付，防止跑路！
 * 密码：`MKv39z48`
 
 --------- 7 ---------
+* 美国账号：`labranchebritts27205w@gmail.com`
+* 密码：`TCk09u31`
+
+--------- 8 ---------
 * 美国账号：`michaelhozlwas@hotmail.com`
 * 密码：`VVu37x43`
 
---------- 8 ---------
+--------- 9 ---------
 * 美国账号：`lukev34gri@hotmail.com`
 * 密码：`ARg92n32`
 
---------- 9 ---------
+--------- 10 ---------
 * 日本账号：`easternnovellar99812l@gmail.com`
 * 密码：`MYf26u87`
 
---------- 10 ---------
+--------- 11 ---------
 * 美国账号：`jamesestli@hotmail.com`
 * 密码：`OEp94f05`
 
---------- 11 ---------
+--------- 12 ---------
 * 美国账号：`sunkengl-aPu114@outlook.com`
 * 密码：`SDu67m37`
 
---------- 12 ---------
-* 账号：`conormaho72@tavie.cloud`
-* 密码：`Dd147b650`
-
 --------- 13 ---------
-* 账号：`gina.azofeifa6@tavie.cloud`
-* 密码：`Dd1ac8d1c`
+* 账号：`conormaho72@tavie.cloud`
+* 密码：`Dd160356d`
 
 --------- 14 ---------
-* 账号：`jewuandunning6@tavie.cloud`
-* 密码：`Dd1658d2b`
+* 账号：`gina.azofeifa6@tavie.cloud`
+* 密码：`Dd120d8c5`
 
 --------- 15 ---------
+* 账号：`jewuandunning6@tavie.cloud`
+* 密码：`Dd1b7d3d8`
+
+--------- 16 ---------
 * 账号：`qqhound1@tavie.cloud`
 * 密码：`Dd191dfb4`
 
---------- 16 ---------
+--------- 17 ---------
 * 账号：`cwagqxu777k@163.com`
 * 密码：`UB40kk67`
 
---------- 17 ---------
+--------- 18 ---------
 * 账号：`sebastiansanu8@hotmail.com`
 * 密码：`J0B96nEWR7`
 
---------- 18 ---------
-* 账号：`priscilla8369@aabmail.com`
-* 密码：`iRZ249WM2Q`
-
 --------- 19 ---------
-* 账号：`wylie2980@aabmail.com`
-* 密码：`h0M7x8PYfA`
+* 账号：`dylan0ebpet@hotmail.com`
+* 密码：`AqQLlm8C8D`
 
 --------- 20 ---------
-* 账号：`horace2824@aabmail.com`
-* 密码：`066W8USgTC`
+* 账号：`pansy8030@aabmail.com`
+* 密码：`Khrjc6Cdep`
 
 --------- 21 ---------
-* 账号：`carter7euscott@hotmail.com`
-* 密码：`9M6cS1IzF4`
-
---------- 22 ---------
 * 账号：`cwagqxu777k@163.com`
 * 密码：`UB40kk67`
 
---------- 23 ---------
+--------- 22 ---------
 * 账号：`qqhound1@tavie.cloud`
 * 密码：`Dd191dfb4`
 
---------- 24 ---------
+--------- 23 ---------
 * 账号：`conormaho72@tavie.cloud`
-* 密码：`Dd147b650`
+* 密码：`Dd160356d`
 
---------- 25 ---------
+--------- 24 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd12215b1`
 <!-- apple ends -->
