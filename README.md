@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-08 08:58:15**
+更新时间：**2024-02-08 10:18:33**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,11 +228,11 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 美国账号：`leobakeronq4@hotmail.com`
-* 密码：`FXv27c38`
+* 密码：`APo21l20`
 
 --------- 4 ---------
 * 美国账号：`lifisher2nnl@hotmail.com`
-* 密码：`MIl24e29`
+* 密码：`CTa85i41`
 
 --------- 5 ---------
 * 美国账号：`wnobharper@hotmail.com`
@@ -252,7 +252,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 美国账号：`lukev34gri@hotmail.com`
-* 密码：`ARg92n32`
+* 密码：`DAq34x08`
 
 --------- 10 ---------
 * 日本账号：`easternnovellar99812l@gmail.com`
@@ -268,7 +268,7 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 账号：`conormaho72@tavie.cloud`
-* 密码：`Dd160356d`
+* 密码：`Dd1e4df9d`
 
 --------- 14 ---------
 * 账号：`gina.azofeifa6@tavie.cloud`
@@ -276,41 +276,25 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`jewuandunning6@tavie.cloud`
-* 密码：`Dd1b7d3d8`
+* 密码：`Dd12adbda`
 
 --------- 16 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd191dfb4`
+* 账号：`cwagqxu777k@163.com`
+* 密码：`NJ67ce38`
 
 --------- 17 ---------
 * 账号：`cwagqxu777k@163.com`
-* 密码：`UB40kk67`
+* 密码：`NJ67ce38`
 
 --------- 18 ---------
-* 账号：`sebastiansanu8@hotmail.com`
-* 密码：`J0B96nEWR7`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd1523ac6`
 
 --------- 19 ---------
-* 账号：`dylan0ebpet@hotmail.com`
-* 密码：`AqQLlm8C8D`
+* 账号：`conormaho72@tavie.cloud`
+* 密码：`Dd1354b0a`
 
 --------- 20 ---------
-* 账号：`pansy8030@aabmail.com`
-* 密码：`Khrjc6Cdep`
-
---------- 21 ---------
-* 账号：`cwagqxu777k@163.com`
-* 密码：`UB40kk67`
-
---------- 22 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd191dfb4`
-
---------- 23 ---------
-* 账号：`conormaho72@tavie.cloud`
-* 密码：`Dd160356d`
-
---------- 24 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd12215b1`
 <!-- apple ends -->
