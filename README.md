@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-10 08:56:57**
+更新时间：**2024-02-10 10:16:51**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -220,7 +220,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 日本账号：`lukehar0l@hotmail.com`
-* 密码：`ESn65h38`
+* 密码：`DVp29k34`
 
 --------- 2 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
@@ -236,15 +236,15 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`KNy19d59`
+* 密码：`OUw83z52`
 
 --------- 6 ---------
 * 美国账号：`labranchebritts27205w@gmail.com`
-* 密码：`RLv87h29`
+* 密码：`HNk05g64`
 
 --------- 7 ---------
 * 美国账号：`michaelhozlwas@hotmail.com`
-* 密码：`DTn05o40`
+* 密码：`OSd63c93`
 
 --------- 8 ---------
 * 英国账号：`lukev34gri@hotmail.com`
@@ -264,7 +264,7 @@ PS：最好月付，防止跑路！
 
 --------- 12 ---------
 * 账号：`conormaho72@tavie.cloud`
-* 密码：`Dd1f2a15c`
+* 密码：`Dd112c07d`
 
 --------- 13 ---------
 * 账号：`gina.azofeifa6@tavie.cloud`
@@ -304,7 +304,7 @@ PS：最好月付，防止跑路！
 
 --------- 22 ---------
 * 账号：`conormaho72@tavie.cloud`
-* 密码：`Dd1f2a15c`
+* 密码：`Dd112c07d`
 
 --------- 23 ---------
 * 账号：`empathicEland8@leo3van.com`
