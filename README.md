@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-11 14:17:01**
+更新时间：**2024-02-11 16:16:00**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -220,65 +220,69 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
-* 密码：`NQe85n64`
+* 密码：`YEt64t85`
 
 --------- 2 ---------
 * 美国账号：`wnobharper@hotmail.com`
-* 密码：`ARf27f60`
+* 密码：`WKp57n68`
 
 --------- 3 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`AMd45s27`
+* 密码：`MQp52p90`
 
 --------- 4 ---------
 * 美国账号：`michaelhozlwas@hotmail.com`
-* 密码：`ZPu06r73`
+* 密码：`DSm77c28`
 
 --------- 5 ---------
 * 英国账号：`lukev34gri@hotmail.com`
 * 密码：`GTx31i46`
 
 --------- 6 ---------
-* 账号：`moughsmblcwu@outlook.com`
-* 密码：`Dd112f4f7`
+* 美国账号：`jamesestli@hotmail.com`
+* 密码：`BQp35g66`
 
 --------- 7 ---------
-* 账号：`akv627@hotmail.com`
-* 密码：`Dd14c377c`
+* 账号：`moughsmblcwu@outlook.com`
+* 密码：`Dd16966c2`
 
 --------- 8 ---------
-* 账号：`dishasonltvx@outlook.com`
-* 密码：`Dd16a2f52`
+* 账号：`akv627@hotmail.com`
+* 密码：`Dd1e4a3c5`
 
 --------- 9 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd131030c`
+* 账号：`dishasonltvx@outlook.com`
+* 密码：`Dd16d1b20`
 
 --------- 10 ---------
-* 账号：`julianvn3wat@hotmail.com`
-* 密码：`NS53uc82`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd189bd13`
 
 --------- 11 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`oXQL9IaEsG`
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`NS53uc82`
 
 --------- 12 ---------
 * 账号：`upxaxxqf@outlook.com`
-* 密码：`1Sq4nEykd9`
+* 密码：`YAJfTZ2nXk`
 
 --------- 13 ---------
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`YAJfTZ2nXk`
+
+--------- 14 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`NS53uc82`
 
---------- 14 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd131030c`
-
 --------- 15 ---------
-* 账号：`moughsmblcwu@outlook.com`
-* 密码：`Dd112f4f7`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd189bd13`
 
 --------- 16 ---------
+* 账号：`moughsmblcwu@outlook.com`
+* 密码：`Dd16966c2`
+
+--------- 17 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd1809b11`
 <!-- apple ends -->
