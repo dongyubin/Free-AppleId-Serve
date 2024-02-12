@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-13 00:17:35**
+更新时间：**2024-02-13 02:15:42**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -220,15 +220,15 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`josephkc0fmiller@hotmail.com`
-* 密码：`GRv42y62`
+* 密码：`IWb54r21`
 
 --------- 2 ---------
 * 美国账号：`noahtucker6fc@hotmail.com`
-* 密码：`CZd57p60`
+* 密码：`GZk36d90`
 
 --------- 3 ---------
 * 美国账号：`lucamwawarren@hotmail.com`
-* 密码：`VIu17m58`
+* 密码：`RAr34g67`
 
 --------- 4 ---------
 * 美国账号：`lucasbell5z2r@hotmail.com`
@@ -236,65 +236,61 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 美国账号：`wnobharper@hotmail.com`
-* 密码：`GAe99v70`
+* 密码：`IOh83e72`
 
 --------- 6 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`AKd86i65`
+* 密码：`ZWk47o62`
 
 --------- 7 ---------
 * 美国账号：`michaelhozlwas@hotmail.com`
-* 密码：`DIs99p54`
+* 密码：`IXi62g26`
 
 --------- 8 ---------
 * 英国账号：`lukev34gri@hotmail.com`
-* 密码：`LMf50t45`
+* 密码：`IMx08i38`
 
 --------- 9 ---------
 * 美国账号：`jamesestli@hotmail.com`
-* 密码：`OHa63w28`
+* 密码：`QZp43m90`
 
 --------- 10 ---------
-* 账号：`moughsmblcwu@outlook.com`
-* 密码：`Dd12b5ef8`
+* 账号：`akv627@hotmail.com`
+* 密码：`Dd1727b4c`
 
 --------- 11 ---------
-* 账号：`akv627@hotmail.com`
-* 密码：`Dd187a896`
+* 账号：`dishasonltvx@outlook.com`
+* 密码：`Dd1db75b4`
 
 --------- 12 ---------
-* 账号：`dishasonltvx@outlook.com`
-* 密码：`Dd1f41325`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd1c5e7f2`
 
 --------- 13 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd11bbed6`
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`QS26xf53`
 
 --------- 14 ---------
-* 账号：`julianvn3wat@hotmail.com`
-* 密码：`RE76jt28`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`5Bm5Fj8R3p`
 
 --------- 15 ---------
 * 账号：`upxaxxqf@outlook.com`
-* 密码：`Da2IQg2UL3`
+* 密码：`5Bm5Fj8R3p`
 
 --------- 16 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`Da2IQg2UL3`
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`QS26xf53`
 
 --------- 17 ---------
-* 账号：`julianvn3wat@hotmail.com`
-* 密码：`RE76jt28`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd1c5e7f2`
 
 --------- 18 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd11bbed6`
+* 账号：`moughsmblcwu@outlook.com`
+* 密码：`Dd1938100`
 
 --------- 19 ---------
-* 账号：`moughsmblcwu@outlook.com`
-* 密码：`Dd12b5ef8`
-
---------- 20 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd1cdb8e8`
 <!-- apple ends -->
