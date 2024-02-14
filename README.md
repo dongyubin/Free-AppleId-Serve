@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-14 12:16:32**
+更新时间：**2024-02-14 14:17:37**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,7 +224,7 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`lucamwawarren@hotmail.com`
-* 密码：`UUo11l77`
+* 密码：`IAg83k28`
 
 --------- 3 ---------
 * 美国账号：`lucasbell5z2r@hotmail.com`
@@ -232,15 +232,15 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 美国账号：`wnobharper@hotmail.com`
-* 密码：`GPl76h47`
+* 密码：`EYz73k49`
 
 --------- 5 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`GGu98u12`
+* 密码：`QCa95o14`
 
 --------- 6 ---------
 * 美国账号：`michaelhozlwas@hotmail.com`
-* 密码：`TRt08d69`
+* 密码：`BNq98g18`
 
 --------- 7 ---------
 * 英国账号：`lukev34gri@hotmail.com`
@@ -251,38 +251,46 @@ PS：最好月付，防止跑路！
 * 密码：`TQl51i00`
 
 --------- 9 ---------
-* 账号：`dishasonltvx@outlook.com`
-* 密码：`Dd1c37e5b`
+* 账号：`moughsmblcwu@outlook.com`
+* 密码：`Dd17d9981`
 
 --------- 10 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1a08cca`
+* 账号：`akv627@hotmail.com`
+* 密码：`Dd1a212d0`
 
 --------- 11 ---------
-* 账号：`julianvn3wat@hotmail.com`
-* 密码：`HR30mm77`
+* 账号：`dishasonltvx@outlook.com`
+* 密码：`Dd1cfc851`
 
 --------- 12 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`V6di8pSgH1`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd129c037`
 
 --------- 13 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`V6di8pSgH1`
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`DE21ew33`
 
 --------- 14 ---------
-* 账号：`julianvn3wat@hotmail.com`
-* 密码：`HR30mm77`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`9SzOXC2fiE`
 
 --------- 15 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1a08cca`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`9SzOXC2fiE`
 
 --------- 16 ---------
-* 账号：`moughsmblcwu@outlook.com`
-* 密码：`Dd143619f`
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`DE21ew33`
 
 --------- 17 ---------
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd1da9f64`
+
+--------- 18 ---------
+* 账号：`moughsmblcwu@outlook.com`
+* 密码：`Dd17d9981`
+
+--------- 19 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd1cdb8e8`
 <!-- apple ends -->
