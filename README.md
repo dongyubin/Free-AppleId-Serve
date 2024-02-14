@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-15 04:13:38**
+更新时间：**2024-02-15 06:12:22**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,7 +224,7 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`lucamwawarren@hotmail.com`
-* 密码：`GVv83m95`
+* 密码：`YWs71m87`
 
 --------- 3 ---------
 * 美国账号：`lucasbell5z2r@hotmail.com`
@@ -240,7 +240,7 @@ PS：最好月付，防止跑路！
 
 --------- 6 ---------
 * 美国账号：`labranchebritts27205w@gmail.com`
-* 密码：`SEn69r94`
+* 密码：`CHl60b77`
 
 --------- 7 ---------
 * 英国账号：`lukev34gri@hotmail.com`
@@ -255,42 +255,34 @@ PS：最好月付，防止跑路！
 * 密码：`Dd162c364`
 
 --------- 10 ---------
-* 账号：`dishasonltvx@outlook.com`
-* 密码：`Dd17e7a00`
+* 账号：`veighshtdh@outlook.com`
+* 密码：`SS66mm77`
 
 --------- 11 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1f65bd7`
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`AR72wm79`
 
 --------- 12 ---------
-* 账号：`eliaszb7butler@hotmail.com`
-* 密码：`UY44ar76`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`vynWu85RM5`
 
 --------- 13 ---------
-* 账号：`julianvn3wat@hotmail.com`
-* 密码：`AR72wm79`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`vynWu85RM5`
 
 --------- 14 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`qveWnrm30y`
-
---------- 15 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`qveWnrm30y`
-
---------- 16 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`AR72wm79`
 
---------- 17 ---------
+--------- 15 ---------
 * 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1f65bd7`
+* 密码：`Dd1bf4a23`
 
---------- 18 ---------
-* 账号：`moughsmblcwu@outlook.com`
-* 密码：`Dd1740184`
+--------- 16 ---------
+* 账号：`ymvvtxtqn@hotmail.com`
+* 密码：`MM77mm33`
 
---------- 19 ---------
+--------- 17 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd15ad455`
 <!-- apple ends -->
