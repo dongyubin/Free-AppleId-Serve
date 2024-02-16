@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-16 16:17:04**
+更新时间：**2024-02-16 18:14:26**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -219,64 +219,64 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 美国账号：`josephkc0fmiller@hotmail.com`
-* 密码：`MXf07g21`
+* 美国账号：`jaydenz4ziwright@hotmail.com`
+* 密码：`DHp20v32`
 
 --------- 2 ---------
-* 美国账号：`jaydenz4ziwright@hotmail.com`
-* 密码：`Xx223322`
+* 美国账号：`lucasbell5z2r@hotmail.com`
+* 密码：`QVg81x09`
 
 --------- 3 ---------
-* 美国账号：`lucasbell5z2r@hotmail.com`
-* 密码：`SRc15u75`
+* 美国账号：`wnobharper@hotmail.com`
+* 密码：`GRb81d96`
 
 --------- 4 ---------
-* 美国账号：`wnobharper@hotmail.com`
-* 密码：`WYz43e58`
+* 中国大陆账号：`mav6lnajames@hotmail.com`
+* 密码：`IKq71w69`
 
 --------- 5 ---------
-* 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`WKo68g82`
+* 美国账号：`labranchebritts27205w@gmail.com`
+* 密码：`GXu52d98`
 
 --------- 6 ---------
-* 美国账号：`labranchebritts27205w@gmail.com`
-* 密码：`WPg27h72`
+* 台湾账号：`jamesestli@hotmail.com`
+* 密码：`HCm82h90`
 
 --------- 7 ---------
-* 台湾账号：`jamesestli@hotmail.com`
-* 密码：`XBq44t20`
+* 账号：`ymvvtxtqn@hotmail.com`
+* 密码：`Dd106c971`
 
 --------- 8 ---------
-* 账号：`ymvvtxtqn@hotmail.com`
-* 密码：`Dd1cc0726`
+* 账号：`akv627@hotmail.com`
+* 密码：`Dd1a22751`
 
 --------- 9 ---------
-* 账号：`akv627@hotmail.com`
-* 密码：`Dd1ac4058`
+* 账号：`veighshtdh@outlook.com`
+* 密码：`Dd1791da6`
 
 --------- 10 ---------
-* 账号：`veighshtdh@outlook.com`
-* 密码：`Dd1afba66`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd1fb466c`
 
 --------- 11 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd14c3386`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`b0iePw3hGu`
 
 --------- 12 ---------
 * 账号：`upxaxxqf@outlook.com`
-* 密码：`DLboUszfH0`
+* 密码：`b0iePw3hGu`
 
 --------- 13 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`DLboUszfH0`
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`RA56tv64`
 
 --------- 14 ---------
 * 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd14c3386`
+* 密码：`Dd1fb466c`
 
 --------- 15 ---------
 * 账号：`ymvvtxtqn@hotmail.com`
-* 密码：`Dd1cc0726`
+* 密码：`Dd106c971`
 
 --------- 16 ---------
 * 账号：`empathicEland8@leo3van.com`
