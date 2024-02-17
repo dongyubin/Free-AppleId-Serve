@@ -208,7 +208,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-17 10:17:47**
+更新时间：**2024-02-17 12:17:15**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -220,31 +220,31 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`josephkc0fmiller@hotmail.com`
-* 密码：`XOn86s02`
+* 密码：`SAn66l38`
 
 --------- 2 ---------
 * 美国账号：`jaydenz4ziwright@hotmail.com`
-* 密码：`TDf32u48`
+* 密码：`RVi39z93`
 
 --------- 3 ---------
 * 美国账号：`lucasbell5z2r@hotmail.com`
-* 密码：`GAk08y08`
+* 密码：`GWl46o02`
 
 --------- 4 ---------
 * 美国账号：`wnobharper@hotmail.com`
-* 密码：`BQu52f18`
+* 密码：`LIn11z28`
 
 --------- 5 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`KLt00p43`
+* 密码：`OGf22r75`
 
 --------- 6 ---------
 * 美国账号：`labranchebritts27205w@gmail.com`
-* 密码：`KOg05g92`
+* 密码：`EMe65b27`
 
 --------- 7 ---------
 * 美国账号：`hudsonknights1@hotmail.com`
-* 密码：`MUn63y26`
+* 密码：`TBe95l26`
 
 --------- 8 ---------
 * 美国账号：`asherkxth@hotmail.com`
@@ -252,35 +252,35 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 美国账号：`dylanwebbjez@hotmail.com`
-* 密码：`CSh71o72`
+* 密码：`IGk35w86`
 
 --------- 10 ---------
 * 台湾账号：`jamesestli@hotmail.com`
-* 密码：`OVg53q64`
+* 密码：`PDg92e06`
 
 --------- 11 ---------
 * 账号：`ymvvtxtqn@hotmail.com`
-* 密码：`Dd1ffbcf8`
+* 密码：`Dd1aeb6e9`
 
 --------- 12 ---------
 * 账号：`akv627@hotmail.com`
-* 密码：`Dd1bfe180`
+* 密码：`Dd14516e9`
 
 --------- 13 ---------
 * 账号：`veighshtdh@outlook.com`
-* 密码：`Dd1a1882f`
+* 密码：`Dd1afc324`
 
 --------- 14 ---------
 * 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1025fb2`
+* 密码：`Dd1bf7c85`
 
 --------- 15 ---------
 * 账号：`upxaxxqf@outlook.com`
-* 密码：`3hbvQgxty9`
+* 密码：`54v9Z1z73S`
 
 --------- 16 ---------
 * 账号：`upxaxxqf@outlook.com`
-* 密码：`2v6JEP3hqS`
+* 密码：`54v9Z1z73S`
 
 --------- 17 ---------
 * 账号：`julianvn3wat@hotmail.com`
@@ -288,11 +288,11 @@ PS：最好月付，防止跑路！
 
 --------- 18 ---------
 * 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1025fb2`
+* 密码：`Dd1bf7c85`
 
 --------- 19 ---------
 * 账号：`ymvvtxtqn@hotmail.com`
-* 密码：`Dd1ffbcf8`
+* 密码：`Dd1aeb6e9`
 
 --------- 20 ---------
 * 账号：`empathicEland8@leo3van.com`
