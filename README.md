@@ -156,6 +156,10 @@ PS：**下面仓库中付费的内容，请谨慎购买，只推荐使用免费*
 
 - [长风分享频道](https://t.me/changfengchannel)：每4小时更新一次，最多一次显示50条
 
+### 网站
+
+- [长风分享](https://www.cfmem.com/search/label/free)：每天更新 Clash、v2ray 节点信息
+
 ## 付费机场
 
 PS：最好月付，防止跑路！
