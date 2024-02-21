@@ -212,7 +212,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-21 22:12:04**
+更新时间：**2024-02-22 00:17:07**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,65 +224,61 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`jameshkgb5@hotmail.com`
-* 密码：`WVd60g62`
+* 密码：`GLq33m43`
 
 --------- 2 ---------
-* 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`RHr04p37`
+* 美国账号：`beischeid36@wolfcan.cloud`
+* 密码：`HWp36t95`
 
 --------- 3 ---------
-* 中国大陆账号：`hudsonknights1@hotmail.com`
-* 密码：`GAi40t18`
+* 中国大陆账号：`mav6lnajames@hotmail.com`
+* 密码：`GCv75b36`
 
 --------- 4 ---------
-* 账号：`jimmihousa31@gmail.com`
-* 密码：`A0E3ZPz9da`
+* 中国大陆账号：`hudsonknights1@hotmail.com`
+* 密码：`CUi81m93`
 
 --------- 5 ---------
-* 账号：`stajaezxyd@outlook.com`
-* 密码：`Dd195cee5`
+* 账号：`jimmihousa31@gmail.com`
+* 密码：`o2rzDk31g8`
 
 --------- 6 ---------
-* 账号：`zpfkmnmt@outlook.com`
-* 密码：`Dd1c35c0a`
+* 账号：`stajaezxyd@outlook.com`
+* 密码：`Dd1179db3`
 
 --------- 7 ---------
-* 账号：`cartersilvadah@hotmail.com`
-* 密码：`Dd1bcf941`
+* 账号：`zpfkmnmt@outlook.com`
+* 密码：`Dd138f42e`
 
 --------- 8 ---------
-* 账号：`davidmoore6j3@hotmail.com`
-* 密码：`Dd1ef2e34`
+* 账号：`josiahbellof8@hotmail.com`
+* 密码：`Dd1e46da5`
 
 --------- 9 ---------
-* 账号：`mateo75ortega@hotmail.com`
-* 密码：`Dd1515ac4`
+* 账号：`cartersilvadah@hotmail.com`
+* 密码：`Dd162fc46`
 
 --------- 10 ---------
-* 账号：`18758954609@163.com`
-* 密码：`Dd179568f`
+* 账号：`davidmoore6j3@hotmail.com`
+* 密码：`Dd142956f`
 
 --------- 11 ---------
-* 账号：`sp0353@163.com`
-* 密码：`Dd1e9c609`
+* 账号：`jimmihousa31@gmail.com`
+* 密码：`o2rzDk31g8`
 
 --------- 12 ---------
-* 账号：`jimmihousa31@gmail.com`
-* 密码：`A0E3ZPz9da`
-
---------- 13 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 14 ---------
+--------- 13 ---------
 * 账号：`seteedhjhe@outlook.com`
 * 密码：`MM66nn33`
 
---------- 15 ---------
+--------- 14 ---------
 * 账号：`thoanebjayvl@outlook.com`
 * 密码：`Dd1bd5eb4`
 
---------- 16 ---------
+--------- 15 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd17e588c`
 <!-- apple ends -->
