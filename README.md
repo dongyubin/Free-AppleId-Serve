@@ -212,7 +212,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-21 18:15:01**
+更新时间：**2024-02-21 20:24:29**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -223,70 +223,74 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 中国大陆账号：`kurinu707@wolfcan.cloud`
-* 密码：`HWd56q07`
+* 美国账号：`kurinu707@wolfcan.cloud`
+* 密码：`UYz12w81`
 
 --------- 2 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`VHk18n70`
+* 密码：`XGp08v04`
 
 --------- 3 ---------
 * 美国账号：`labranchebritts27205w@gmail.com`
-* 密码：`SOq37d54`
+* 密码：`QCe22d29`
 
 --------- 4 ---------
-* 美国账号：`carternguyenfd@hotmail.com`
-* 密码：`HCa60q35`
+* 中国大陆账号：`hudsonknights1@hotmail.com`
+* 密码：`LHy28k33`
 
 --------- 5 ---------
-* 账号：`theautdnns@outlook.com`
-* 密码：`QQ77tt11`
+* 美国账号：`aidenwood0z@hotmail.com`
+* 密码：`FNh37b39`
 
 --------- 6 ---------
-* 账号：`junesmeyqjwg@outlook.com`
-* 密码：`ZZ77yy33`
+* 美国账号：`carternguyenfd@hotmail.com`
+* 密码：`QVi14w18`
 
 --------- 7 ---------
 * 账号：`jimmihousa31@gmail.com`
 * 密码：`ltI4z9OCM7`
 
 --------- 8 ---------
-* 账号：`junesmeyqjwg@outlook.com`
-* 密码：`ZZ77yy33`
+* 账号：`zpfkmnmt@outlook.com`
+* 密码：`Dd1843ec6`
 
 --------- 9 ---------
-* 账号：`theautdnns@outlook.com`
-* 密码：`QQ77tt11`
+* 账号：`josiahbellof8@hotmail.com`
+* 密码：`Dd178f942`
 
 --------- 10 ---------
-* 账号：`zpfkmnmt@outlook.com`
-* 密码：`Dd14f066e`
+* 账号：`cartersilvadah@hotmail.com`
+* 密码：`Dd1ee9716`
 
 --------- 11 ---------
-* 账号：`josiahbellof8@hotmail.com`
-* 密码：`Dd137f744`
+* 账号：`davidmoore6j3@hotmail.com`
+* 密码：`Dd1e0ce8e`
 
 --------- 12 ---------
-* 账号：`cartersilvadah@hotmail.com`
-* 密码：`Dd10bb2d6`
+* 账号：`18758954609@163.com`
+* 密码：`aDd1566d89a`
 
 --------- 13 ---------
-* 账号：`davidmoore6j3@hotmail.com`
-* 密码：`Dd1495b83`
+* 账号：`sp0353@163.com`
+* 密码：`bDd132b1b2a`
 
 --------- 14 ---------
 * 账号：`jimmihousa31@gmail.com`
 * 密码：`ltI4z9OCM7`
 
 --------- 15 ---------
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`RA56tv64`
+
+--------- 16 ---------
 * 账号：`seteedhjhe@outlook.com`
 * 密码：`MM66nn33`
 
---------- 16 ---------
-* 账号：`thoanebjayvl@outlook.com`
-* 密码：`TT22ff11`
-
 --------- 17 ---------
+* 账号：`thoanebjayvl@outlook.com`
+* 密码：`Dd1bd5eb4`
+
+--------- 18 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd17e588c`
 <!-- apple ends -->
