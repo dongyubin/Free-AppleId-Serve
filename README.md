@@ -212,7 +212,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-21 14:17:12**
+更新时间：**2024-02-21 16:17:49**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,59 +224,63 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 中国大陆账号：`kurinu707@wolfcan.cloud`
-* 密码：`AOr63b71`
+* 密码：`KYl69z73`
 
 --------- 2 ---------
-* 中国大陆账号：`bettenhausenfamily7@wolfcan.cloud`
-* 密码：`BYa12a94`
+* 中国大陆账号：`mav6lnajames@hotmail.com`
+* 密码：`BKf42w83`
 
 --------- 3 ---------
-* 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`FBt73y91`
+* 中国大陆账号：`hudsonknights1@hotmail.com`
+* 密码：`QLg66m46`
 
 --------- 4 ---------
-* 中国大陆账号：`hudsonknights1@hotmail.com`
-* 密码：`GYv15s64`
+* 中国大陆账号：`carternguyenfd@hotmail.com`
+* 密码：`HCa60q35`
 
 --------- 5 ---------
-* 中国大陆账号：`carternguyenfd@hotmail.com`
-* 密码：`LFe61i82`
+* 美国账号：`lucapena3bs@hotmail.com`
+* 密码：`WQi12g68`
 
 --------- 6 ---------
-* 美国账号：`lucapena3bs@hotmail.com`
-* 密码：`KMz91a44`
+* 美国账号：`elias7mocook@hotmail.com`
+* 密码：`AQv32r43`
 
 --------- 7 ---------
-* 美国账号：`elias7mocook@hotmail.com`
-* 密码：`MLv03k28`
+* 账号：`jimmihousa31@gmail.com`
+* 密码：`jOmg4eNHEh`
 
 --------- 8 ---------
-* 账号：`cartersilvadah@hotmail.com`
-* 密码：`Dd147df32`
+* 账号：`josiahbellof8@hotmail.com`
+* 密码：`Dd12b8894`
 
 --------- 9 ---------
-* 账号：`davidmoore6j3@hotmail.com`
-* 密码：`Dd1f98085`
+* 账号：`cartersilvadah@hotmail.com`
+* 密码：`Dd1cd6c81`
 
 --------- 10 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`0OJcQzG5N6`
+* 账号：`davidmoore6j3@hotmail.com`
+* 密码：`Dd1d9b01b`
 
 --------- 11 ---------
+* 账号：`jimmihousa31@gmail.com`
+* 密码：`wnP94hkMtW`
+
+--------- 12 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 12 ---------
+--------- 13 ---------
 * 账号：`qqhound1@tavie.cloud`
 * 密码：`Dd11526ae`
 
---------- 13 ---------
+--------- 14 ---------
 * 账号：`ymvvtxtqn@hotmail.com`
 * 密码：`Dd170e6e6`
 
---------- 14 ---------
+--------- 15 ---------
 * 账号：`empathicEland8@leo3van.com`
-* 密码：`Dd1701edb`
+* 密码：`Dd14effc1`
 <!-- apple ends -->
 
 
