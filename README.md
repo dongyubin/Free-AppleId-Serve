@@ -212,7 +212,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-21 06:12:19**
+更新时间：**2024-02-21 08:59:06**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -223,98 +223,94 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 美国账号：`johnbxn@hotmail.com`
-* 密码：`Om1866352`
-
---------- 2 ---------
-* 美国账号：`beischeid36@wolfcan.cloud`
+* 中国大陆账号：`beischeid36@wolfcan.cloud`
 * 密码：`YGa77q36`
 
---------- 3 ---------
+--------- 2 ---------
 * 中国大陆账号：`kurinu707@wolfcan.cloud`
 * 密码：`ZIi96w61`
 
---------- 4 ---------
-* 香港账号：`bettenhausenfamily7@wolfcan.cloud`
+--------- 3 ---------
+* 中国大陆账号：`bettenhausenfamily7@wolfcan.cloud`
 * 密码：`DFr87w29`
 
---------- 5 ---------
+--------- 4 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`POi11u78`
+* 密码：`OPd25p13`
 
---------- 6 ---------
-* 美国账号：`labranchebritts27205w@gmail.com`
-* 密码：`AXn15y94`
-
---------- 7 ---------
-* 美国账号：`isaacgeorge6o2m@hotmail.com`
-* 密码：`IFx22h92`
-
---------- 8 ---------
+--------- 5 ---------
 * 中国大陆账号：`hudsonknights1@hotmail.com`
 * 密码：`ORz89g00`
 
+--------- 6 ---------
+* 中国大陆账号：`carternguyenfd@hotmail.com`
+* 密码：`BTb92p59`
+
+--------- 7 ---------
+* 中国大陆账号：`jamesestli@hotmail.com`
+* 密码：`GVu35c11`
+
+--------- 8 ---------
+* 账号：`akv627@hotmail.com`
+* 密码：`Dd1d8934a`
+
 --------- 9 ---------
-* 美国账号：`carternguyenfd@hotmail.com`
-* 密码：`ENq51i65`
+* 账号：`qqhound1@tavie.cloud`
+* 密码：`Dd11526ae`
 
 --------- 10 ---------
-* 台湾账号：`jamesestli@hotmail.com`
-* 密码：`GVu35c11`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`0OJcQzG5N6`
 
 --------- 11 ---------
 * 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1b8203a`
+* 密码：`Dd11526ae`
 
 --------- 12 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`0OJcQzG5N6`
+* 账号：`akv627@hotmail.com`
+* 密码：`Dd1d8934a`
 
 --------- 13 ---------
-* 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1b8203a`
-
---------- 14 ---------
 * 账号：`ja19ushenry@hotmail.com`
 * 密码：`Dd1f74d7a`
 
---------- 15 ---------
+--------- 14 ---------
 * 账号：`cartersilvadah@hotmail.com`
 * 密码：`Dd140eea0`
 
---------- 16 ---------
+--------- 15 ---------
 * 账号：`irihaenceg@outlook.com`
-* 密码：`Dd16470b0`
+* 密码：`Dd1201a16`
+
+--------- 16 ---------
+* 账号：`18758954609@163.com`
+* 密码：`Dd1566d89`
 
 --------- 17 ---------
-* 账号：`18758954609@163.com`
-* 密码：`Dd1ac3130`
-
---------- 18 ---------
 * 账号：`sp0353@163.com`
 * 密码：`Dd132b1b2`
 
---------- 19 ---------
+--------- 18 ---------
 * 账号：`dalaisegua@outlook.com`
-* 密码：`Dd14971c0`
+* 密码：`Dd1599636`
 
---------- 20 ---------
+--------- 19 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`0OJcQzG5N6`
 
---------- 21 ---------
+--------- 20 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 22 ---------
+--------- 21 ---------
 * 账号：`qqhound1@tavie.cloud`
-* 密码：`Dd1b8203a`
+* 密码：`Dd11526ae`
 
---------- 23 ---------
+--------- 22 ---------
 * 账号：`ymvvtxtqn@hotmail.com`
 * 密码：`Dd170e6e6`
 
---------- 24 ---------
+--------- 23 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd145e06e`
 <!-- apple ends -->
