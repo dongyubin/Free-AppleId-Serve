@@ -212,7 +212,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-22 10:18:32**
+更新时间：**2024-02-22 12:15:06**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,19 +224,19 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 中国大陆账号：`jameshkgb5@hotmail.com`
-* 密码：`UBk20i67`
+* 密码：`ZAz28y50`
 
 --------- 2 ---------
-* 中国大陆账号：`beischeid36@wolfcan.cloud`
-* 密码：`FPu70y12`
+* 美国账号：`nurat_letap7@83zo.cloud`
+* 密码：`UGo41s62`
 
 --------- 3 ---------
-* 中国大陆账号：`kurinu707@wolfcan.cloud`
-* 密码：`BFe57o10`
+* 美国账号：`dallas1@83zo.cloud`
+* 密码：`OZe60m57`
 
 --------- 4 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`FAc02m05`
+* 密码：`BKs34w12`
 
 --------- 5 ---------
 * 中国大陆账号：`hudsonknights1@hotmail.com`
@@ -244,53 +244,37 @@ PS：最好月付，防止跑路！
 
 --------- 6 ---------
 * 中国大陆账号：`aidenwood0z@hotmail.com`
-* 密码：`TKn56t00`
+* 密码：`TUf83h43`
 
 --------- 7 ---------
 * 中国大陆账号：`carternguyenfd@hotmail.com`
-* 密码：`GRi62l85`
+* 密码：`XFt48z37`
 
 --------- 8 ---------
-* 中国大陆账号：`lucapena3bs@hotmail.com`
-* 密码：`LZz79b68`
-
---------- 9 ---------
-* 中国大陆账号：`elias7mocook@hotmail.com`
+* 美国账号：`elias7mocook@hotmail.com`
 * 密码：`NUn39i91`
 
---------- 10 ---------
-* 账号：`zpfkmnmt@outlook.com`
-* 密码：`Dd1c3801c`
-
---------- 11 ---------
+--------- 9 ---------
 * 账号：`josiahbellof8@hotmail.com`
-* 密码：`Dd1957df1`
+* 密码：`Dd1c07626`
 
---------- 12 ---------
-* 账号：`cartersilvadah@hotmail.com`
-* 密码：`Dd1b2c0c0`
-
---------- 13 ---------
-* 账号：`mateo75ortega@hotmail.com`
-* 密码：`Dd1abfac9`
-
---------- 14 ---------
+--------- 10 ---------
 * 账号：`jimmihousa31@gmail.com`
 * 密码：`zv80tEuB1k`
 
---------- 15 ---------
+--------- 11 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 16 ---------
+--------- 12 ---------
 * 账号：`jacksonchc3@hotmail.com`
 * 密码：`CC77ss66`
 
---------- 17 ---------
+--------- 13 ---------
 * 账号：`ezraporterpqr@hotmail.com`
 * 密码：`Dd1a9e1db`
 
---------- 18 ---------
+--------- 14 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd17e588c`
 <!-- apple ends -->
