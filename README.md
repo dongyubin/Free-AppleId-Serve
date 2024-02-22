@@ -212,7 +212,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-22 12:15:06**
+更新时间：**2024-02-22 14:17:40**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,57 +224,41 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 中国大陆账号：`jameshkgb5@hotmail.com`
-* 密码：`ZAz28y50`
+* 密码：`NIt47t40`
 
 --------- 2 ---------
-* 美国账号：`nurat_letap7@83zo.cloud`
-* 密码：`UGo41s62`
+* 美国账号：`masonfldwatson@hotmail.com`
+* 密码：`ENe39o97`
 
 --------- 3 ---------
-* 美国账号：`dallas1@83zo.cloud`
-* 密码：`OZe60m57`
-
---------- 4 ---------
-* 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`BKs34w12`
-
---------- 5 ---------
 * 中国大陆账号：`hudsonknights1@hotmail.com`
 * 密码：`ZDw51r70`
 
---------- 6 ---------
+--------- 4 ---------
 * 中国大陆账号：`aidenwood0z@hotmail.com`
-* 密码：`TUf83h43`
+* 密码：`HAu96v86`
 
---------- 7 ---------
+--------- 5 ---------
 * 中国大陆账号：`carternguyenfd@hotmail.com`
 * 密码：`XFt48z37`
 
---------- 8 ---------
-* 美国账号：`elias7mocook@hotmail.com`
-* 密码：`NUn39i91`
-
---------- 9 ---------
-* 账号：`josiahbellof8@hotmail.com`
-* 密码：`Dd1c07626`
-
---------- 10 ---------
+--------- 6 ---------
 * 账号：`jimmihousa31@gmail.com`
 * 密码：`zv80tEuB1k`
 
---------- 11 ---------
+--------- 7 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 12 ---------
+--------- 8 ---------
 * 账号：`jacksonchc3@hotmail.com`
 * 密码：`CC77ss66`
 
---------- 13 ---------
+--------- 9 ---------
 * 账号：`ezraporterpqr@hotmail.com`
 * 密码：`Dd1a9e1db`
 
---------- 14 ---------
+--------- 10 ---------
 * 账号：`empathicEland8@leo3van.com`
 * 密码：`Dd17e588c`
 <!-- apple ends -->
