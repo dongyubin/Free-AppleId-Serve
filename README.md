@@ -212,7 +212,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-26 10:36:53**
+更新时间：**2024-02-26 11:36:11**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,7 +224,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`josephkc0fmiller@hotmail.com`
-* 密码：`WRn83n83`
+* 密码：`BSx76t66`
 
 --------- 2 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
@@ -232,43 +232,43 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 美国账号：`labranchebritts27205w@gmail.com`
-* 密码：`EYw48y87`
+* 密码：`PNw99x33`
 
 --------- 4 ---------
 * 香港账号：`masonfldwatson@hotmail.com`
-* 密码：`WOe25k73`
+* 密码：`PTd81u92`
 
 --------- 5 ---------
 * 土耳其账号：`hudsonknights1@hotmail.com`
-* 密码：`SFr74t99`
+* 密码：`ZQd95z77`
 
 --------- 6 ---------
-* 越南账号：`aidenwood0z@hotmail.com`
-* 密码：`KVl61v70`
-
---------- 7 ---------
 * 中国大陆账号：`carternguyenfd@hotmail.com`
 * 密码：`XWn13a79`
 
---------- 8 ---------
+--------- 7 ---------
 * 韩国账号：`elias7mocook@hotmail.com`
 * 密码：`VUs26s45`
 
---------- 9 ---------
+--------- 8 ---------
 * 美国账号：`henryellis4yqr@hotmail.com`
-* 密码：`NOc98z97`
+* 密码：`FXx89f80`
+
+--------- 9 ---------
+* 账号：`xuqbopjmkuljg@outlook.com`
+* 密码：`Dd15acdc5`
 
 --------- 10 ---------
-* 账号：`xuqbopjmkuljg@outlook.com`
-* 密码：`Dd1650cd1`
+* 账号：`cmtqjgnfx@hotmail.com`
+* 密码：`Dd1e6730e`
 
 --------- 11 ---------
-* 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd1d06cd9`
+* 账号：`bskpncreb@hotmail.com`
+* 密码：`Dd1c55d38`
 
 --------- 12 ---------
-* 账号：`bskpncreb@hotmail.com`
-* 密码：`Dd168b0e1`
+* 账号：`ftxsmmk@hotmail.com`
+* 密码：`Dd15c3f04`
 
 --------- 13 ---------
 * 账号：`upxaxxqf@outlook.com`
@@ -276,23 +276,23 @@ PS：最好月付，防止跑路！
 
 --------- 14 ---------
 * 账号：`xo739m0jh4f@gmx.com`
-* 密码：`Dd15d5684`
+* 密码：`Dd1dfbd5d`
 
 --------- 15 ---------
-* 账号：`bskpncreb@hotmail.com`
-* 密码：`Dd168b0e1`
+* 账号：`ftxsmmk@hotmail.com`
+* 密码：`Dd15c3f04`
 
 --------- 16 ---------
-* 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd1d06cd9`
+* 账号：`bskpncreb@hotmail.com`
+* 密码：`Dd1c55d38`
 
 --------- 17 ---------
-* 账号：`josiahbellof8@hotmail.com`
-* 密码：`Dd1693ae5`
+* 账号：`cmtqjgnfx@hotmail.com`
+* 密码：`Dd1e6730e`
 
 --------- 18 ---------
-* 账号：`cartersilvadah@hotmail.com`
-* 密码：`Dd152815c`
+* 账号：`josiahbellof8@hotmail.com`
+* 密码：`Dd1693ae5`
 
 --------- 19 ---------
 * 账号：`irihaenceg@outlook.com`
@@ -300,33 +300,29 @@ PS：最好月付，防止跑路！
 
 --------- 20 ---------
 * 账号：`ma23ckelly@hotmail.com`
-* 密码：`Dd11bccd2`
+* 密码：`Dd1d1381e`
 
 --------- 21 ---------
-* 账号：`mateo75ortega@hotmail.com`
-* 密码：`Dd1459304`
+* 账号：`xuqbopjmkuljg@outlook.com`
+* 密码：`Dd15acdc5`
 
 --------- 22 ---------
-* 账号：`xuqbopjmkuljg@outlook.com`
-* 密码：`Dd1650cd1`
-
---------- 23 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`wZnfRQuud9`
 
---------- 24 ---------
+--------- 23 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 25 ---------
+--------- 24 ---------
 * 账号：`ftxsmmk@hotmail.com`
-* 密码：`Dd190272d`
+* 密码：`Dd15c3f04`
+
+--------- 25 ---------
+* 账号：`xuqbopjmkuljg@outlook.com`
+* 密码：`Dd15acdc5`
 
 --------- 26 ---------
-* 账号：`xuqbopjmkuljg@outlook.com`
-* 密码：`Dd1650cd1`
-
---------- 27 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1136a8c`
 <!-- apple ends -->
