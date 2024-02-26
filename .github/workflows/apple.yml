@@ -3,7 +3,7 @@ name: Build README
 on:
   schedule:
     # - cron:  '0 */2 * * *'
-    - cron:  '30 * * * *'
+    - cron:  '*/30 * * * *'
   workflow_dispatch:
     inputs:
       unconditional-invoking:
