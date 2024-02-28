@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-29 05:10:09**
+更新时间：**2024-02-29 05:35:43**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -261,7 +261,7 @@ PS：最好月付，防止跑路！
 
 --------- 10 ---------
 * 美国账号：`henryellis4yqr@hotmail.com`
-* 密码：`HTi92d08`
+* 密码：`NLm47v82`
 
 --------- 11 ---------
 * 账号：`xuqbopjmkuljg@outlook.com`
@@ -304,38 +304,42 @@ PS：最好月付，防止跑路！
 * 密码：`Dd133a234`
 
 --------- 21 ---------
+* 账号：`josiahbellof8@hotmail.com`
+* 密码：`Dd1295ded`
+
+--------- 22 ---------
 * 账号：`cartersilvadah@hotmail.com`
 * 密码：`Dd1ccaffa`
 
---------- 22 ---------
+--------- 23 ---------
 * 账号：`ma23ckelly@hotmail.com`
 * 密码：`Dd1654842`
 
---------- 23 ---------
+--------- 24 ---------
 * 账号：`mateo75ortega@hotmail.com`
 * 密码：`Dd18fab7e`
 
---------- 24 ---------
+--------- 25 ---------
 * 账号：`xuqbopjmkuljg@outlook.com`
 * 密码：`Dd1ffcf42`
 
---------- 25 ---------
+--------- 26 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`aNrjp8A79p`
 
---------- 26 ---------
+--------- 27 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 27 ---------
+--------- 28 ---------
 * 账号：`ftxsmmk@hotmail.com`
 * 密码：`Dd1583874`
 
---------- 28 ---------
+--------- 29 ---------
 * 账号：`xuqbopjmkuljg@outlook.com`
 * 密码：`Dd1ffcf42`
 
---------- 29 ---------
+--------- 30 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd190a4fb`
 <!-- apple ends -->
