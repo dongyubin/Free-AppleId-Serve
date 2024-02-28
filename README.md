@@ -123,6 +123,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 ## 其他教程
 
 - [使用不限流量的cloudflare VPN并且自选IP](https://duangks.com/archives/124/)：需要富强
+- [WARP-Clash-API👍](https://github.com/vvbbnn00/WARP-Clash-API)：该项目可以让你通过订阅的方式使用 Cloudflare WARP+，自动获取流量（[在线服务](https://tofree.zeabur.app/)：支持Clash、Surge、Shadowrocket）
 
 ## 机场测速
 
