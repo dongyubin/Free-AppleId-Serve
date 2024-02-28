@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-28 21:35:02**
+更新时间：**2024-02-28 22:09:50**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,7 +229,7 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`efrasgibram@hotmail.com`
-* 密码：`TUd58p50`
+* 密码：`SGp70i82`
 
 --------- 3 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
@@ -245,7 +245,7 @@ PS：最好月付，防止跑路！
 
 --------- 6 ---------
 * 美国账号：`hudsonknights1@hotmail.com`
-* 密码：`KAg07u73`
+* 密码：`YAv82z83`
 
 --------- 7 ---------
 * 越南账号：`aidenwood0z@hotmail.com`
@@ -260,48 +260,48 @@ PS：最好月付，防止跑路！
 * 密码：`TZp08a69`
 
 --------- 10 ---------
-* 账号：`xuqbopjmkuljg@outlook.com`
-* 密码：`Dd1cd2412`
+* 美国账号：`henryellis4yqr@hotmail.com`
+* 密码：`FGf05f52`
 
 --------- 11 ---------
-* 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd14d02f5`
+* 账号：`xuqbopjmkuljg@outlook.com`
+* 密码：`Dd14ceaaf`
 
 --------- 12 ---------
-* 账号：`isaacx5ms@hotmail.com`
-* 密码：`Dd19b30d1`
+* 账号：`cmtqjgnfx@hotmail.com`
+* 密码：`Dd1b231db`
 
 --------- 13 ---------
+* 账号：`isaacx5ms@hotmail.com`
+* 密码：`Dd1570e2a`
+
+--------- 14 ---------
 * 账号：`ftxsmmk@hotmail.com`
 * 密码：`Dd1349f22`
 
---------- 14 ---------
+--------- 15 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`924w7JvkRr`
 
---------- 15 ---------
-* 账号：`xo739m0jh4f@gmx.com`
-* 密码：`Dd14f18a9`
-
 --------- 16 ---------
+* 账号：`xo739m0jh4f@gmx.com`
+* 密码：`Dd1226f9a`
+
+--------- 17 ---------
 * 账号：`ftxsmmk@hotmail.com`
 * 密码：`Dd1349f22`
 
---------- 17 ---------
-* 账号：`isaacx5ms@hotmail.com`
-* 密码：`Dd19b30d1`
-
 --------- 18 ---------
-* 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd14d02f5`
+* 账号：`isaacx5ms@hotmail.com`
+* 密码：`Dd1570e2a`
 
 --------- 19 ---------
-* 账号：`aideneclcmurray@hotmail.com`
-* 密码：`Dd10e7721`
+* 账号：`cmtqjgnfx@hotmail.com`
+* 密码：`Dd1b231db`
 
 --------- 20 ---------
 * 账号：`josiahbellof8@hotmail.com`
-* 密码：`Dd1a011e0`
+* 密码：`Dd173f4aa`
 
 --------- 21 ---------
 * 账号：`cartersilvadah@hotmail.com`
@@ -309,7 +309,7 @@ PS：最好月付，防止跑路！
 
 --------- 22 ---------
 * 账号：`ma23ckelly@hotmail.com`
-* 密码：`Dd12d4761`
+* 密码：`Dd17ba37d`
 
 --------- 23 ---------
 * 账号：`mateo75ortega@hotmail.com`
@@ -317,7 +317,7 @@ PS：最好月付，防止跑路！
 
 --------- 24 ---------
 * 账号：`xuqbopjmkuljg@outlook.com`
-* 密码：`Dd1cd2412`
+* 密码：`Dd14ceaaf`
 
 --------- 25 ---------
 * 账号：`upxaxxqf@outlook.com`
@@ -333,7 +333,7 @@ PS：最好月付，防止跑路！
 
 --------- 28 ---------
 * 账号：`xuqbopjmkuljg@outlook.com`
-* 密码：`Dd1cd2412`
+* 密码：`Dd14ceaaf`
 
 --------- 29 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
