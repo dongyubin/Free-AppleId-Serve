@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-01 03:35:36**
+更新时间：**2024-03-01 04:12:49**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -237,7 +237,7 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 美国账号：`sheabonygjim@hotmail.com`
-* 密码：`QCc56e18`
+* 密码：`VYb15a09`
 
 --------- 5 ---------
 * 乌兹别克斯坦账号：`masonfldwatson@hotmail.com`
@@ -265,11 +265,11 @@ PS：最好月付，防止跑路！
 
 --------- 11 ---------
 * 美国账号：`henryellis4yqr@hotmail.com`
-* 密码：`DFb72r25`
+* 密码：`ZTq36c41`
 
 --------- 12 ---------
 * 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd16e05b8`
+* 密码：`Dd16d504d`
 
 --------- 13 ---------
 * 账号：`isaacx5ms@hotmail.com`
@@ -284,8 +284,8 @@ PS：最好月付，防止跑路！
 * 密码：`wr7Nmf98JJ`
 
 --------- 16 ---------
-* 账号：`filipesherril@gmail.com`
-* 密码：`7ks254mnyQ`
+* 账号：`sanahdavidlee@gmail.com`
+* 密码：`ndj2KFaAru`
 
 --------- 17 ---------
 * 账号：`ftxsmmk@hotmail.com`
@@ -297,7 +297,7 @@ PS：最好月付，防止跑路！
 
 --------- 19 ---------
 * 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd16e05b8`
+* 密码：`Dd16d504d`
 
 --------- 20 ---------
 * 账号：`aideneclcmurray@hotmail.com`
@@ -316,60 +316,60 @@ PS：最好月付，防止跑路！
 * 密码：`Dd1d1f86e`
 
 --------- 24 ---------
-* 账号：`jameshkgb5@hotmail.com`
-* 密码：`ZRh45r96`
+* 账号：`mateo75ortega@hotmail.com`
+* 密码：`Dd1e7f575`
 
 --------- 25 ---------
+* 账号：`jameshkgb5@hotmail.com`
+* 密码：`NMu03r07`
+
+--------- 26 ---------
 * 账号：`efrasgibram@hotmail.com`
 * 密码：`EEf37g95`
 
---------- 26 ---------
+--------- 27 ---------
 * 账号：`mav6lnajames@hotmail.com`
 * 密码：`DTa31r52`
 
---------- 27 ---------
+--------- 28 ---------
 * 账号：`sheabonygjim@hotmail.com`
 * 密码：`QCc56e18`
 
---------- 28 ---------
+--------- 29 ---------
 * 账号：`thomasnnlane@hotmail.com`
 * 密码：`PKk77h78`
 
---------- 29 ---------
-* 账号：`henryellis4yqr@hotmail.com`
-* 密码：`QUs68g06`
-
 --------- 30 ---------
+* 账号：`henryellis4yqr@hotmail.com`
+* 密码：`DFb72r25`
+
+--------- 31 ---------
 * 账号：`josephkc0fmiller@hotmail.com`
 * 密码：`GTg40i32`
 
---------- 31 ---------
+--------- 32 ---------
 * 账号：`luke5vas@hotmail.com`
 * 密码：`BGh50k41`
 
---------- 32 ---------
-* 账号：`jeromemazin633@gmail.com`
-* 密码：`AWb83d73`
-
 --------- 33 ---------
+* 账号：`jeromemazin633@gmail.com`
+* 密码：`GHr65x17`
+
+--------- 34 ---------
 * 账号：`aidenwood0z@hotmail.com`
 * 密码：`XKk60h48`
 
---------- 34 ---------
-* 账号：`graysonrqn4k@hotmail.com`
-* 密码：`NFt53r03`
-
 --------- 35 ---------
+* 账号：`graysonrqn4k@hotmail.com`
+* 密码：`TGi25z11`
+
+--------- 36 ---------
 * 账号：`c9vevans@hotmail.com`
 * 密码：`TWf97d42`
 
---------- 36 ---------
+--------- 37 ---------
 * 账号：`dunajsironv@hotmail.com`
 * 密码：`MEu87q80`
-
---------- 37 ---------
-* 账号：`masonfldwatson@hotmail.com`
-* 密码：`LEc18a50`
 
 --------- 38 ---------
 * 账号：`hudsonknights1@hotmail.com`
