@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-29 11:12:36**
+更新时间：**2024-02-29 11:35:48**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,7 +229,7 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`efrasgibram@hotmail.com`
-* 密码：`BAo23u95`
+* 密码：`PKa64f53`
 
 --------- 3 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
@@ -248,7 +248,7 @@ PS：最好月付，防止跑路！
 * 密码：`GEv06n11`
 
 --------- 7 ---------
-* 越南账号：`aidenwood0z@hotmail.com`
+* 美国账号：`aidenwood0z@hotmail.com`
 * 密码：`YIo15e95`
 
 --------- 8 ---------
@@ -273,53 +273,57 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 账号：`upxaxxqf@outlook.com`
-* 密码：`P3d3N15BRF`
+* 密码：`7Uj6qQB65p`
 
 --------- 14 ---------
+* 账号：`xo739m0jh4f@gmx.com`
+* 密码：`Dd10228ad`
+
+--------- 15 ---------
 * 账号：`isaacx5ms@hotmail.com`
 * 密码：`Dd1a9186a`
 
---------- 15 ---------
+--------- 16 ---------
 * 账号：`cmtqjgnfx@hotmail.com`
 * 密码：`Dd14e11a6`
 
---------- 16 ---------
+--------- 17 ---------
 * 账号：`aideneclcmurray@hotmail.com`
 * 密码：`Dd10576c8`
 
---------- 17 ---------
+--------- 18 ---------
 * 账号：`josiahbellof8@hotmail.com`
 * 密码：`Dd15cdb93`
 
---------- 18 ---------
+--------- 19 ---------
 * 账号：`cartersilvadah@hotmail.com`
 * 密码：`Dd1203f92`
 
---------- 19 ---------
-* 账号：`ma23ckelly@hotmail.com`
-* 密码：`Dd1654842`
-
 --------- 20 ---------
-* 账号：`mateo75ortega@hotmail.com`
-* 密码：`Dd1708ff0`
+* 账号：`ma23ckelly@hotmail.com`
+* 密码：`Dd183459b`
 
 --------- 21 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`P3d3N15BRF`
+* 账号：`mateo75ortega@hotmail.com`
+* 密码：`Dd17d5195`
 
 --------- 22 ---------
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`7Uj6qQB65p`
+
+--------- 23 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 23 ---------
+--------- 24 ---------
 * 账号：`ftxsmmk@hotmail.com`
 * 密码：`Dd1ff2437`
 
---------- 24 ---------
+--------- 25 ---------
 * 账号：`xuqbopjmkuljg@outlook.com`
 * 密码：`Dd119919f`
 
---------- 25 ---------
+--------- 26 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd190a4fb`
 <!-- apple ends -->
