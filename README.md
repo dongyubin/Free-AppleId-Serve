@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-02-29 17:11:47**
+更新时间：**2024-02-29 17:34:48**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,7 +229,7 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`efrasgibram@hotmail.com`
-* 密码：`DZw82r83`
+* 密码：`GEu30w74`
 
 --------- 3 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
@@ -265,15 +265,15 @@ PS：最好月付，防止跑路！
 
 --------- 11 ---------
 * 美国账号：`henryellis4yqr@hotmail.com`
-* 密码：`GQe52k77`
+* 密码：`RPo77n66`
 
 --------- 12 ---------
 * 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd1acc362`
+* 密码：`Dd194c4f0`
 
 --------- 13 ---------
 * 账号：`isaacx5ms@hotmail.com`
-* 密码：`Dd1bb4705`
+* 密码：`Dd1817df3`
 
 --------- 14 ---------
 * 账号：`ftxsmmk@hotmail.com`
@@ -284,8 +284,8 @@ PS：最好月付，防止跑路！
 * 密码：`Tqwmc65eA5`
 
 --------- 16 ---------
-* 账号：`aurelianoheather@gmail.com`
-* 密码：`QHyZ7cFWwn`
+* 账号：`sanahdavidlee@gmail.com`
+* 密码：`y6H6E4GmTc`
 
 --------- 17 ---------
 * 账号：`ftxsmmk@hotmail.com`
@@ -293,15 +293,15 @@ PS：最好月付，防止跑路！
 
 --------- 18 ---------
 * 账号：`isaacx5ms@hotmail.com`
-* 密码：`Dd1bb4705`
+* 密码：`Dd1817df3`
 
 --------- 19 ---------
 * 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd1acc362`
+* 密码：`Dd194c4f0`
 
 --------- 20 ---------
 * 账号：`aideneclcmurray@hotmail.com`
-* 密码：`Dd1b752a4`
+* 密码：`Dd1568ff6`
 
 --------- 21 ---------
 * 账号：`josiahbellof8@hotmail.com`
@@ -321,7 +321,7 @@ PS：最好月付，防止跑路！
 
 --------- 25 ---------
 * 账号：`jameshkgb5@hotmail.com`
-* 密码：`ELc23f89`
+* 密码：`GYg57q51`
 
 --------- 26 ---------
 * 账号：`efrasgibram@hotmail.com`
@@ -337,11 +337,11 @@ PS：最好月付，防止跑路！
 
 --------- 29 ---------
 * 账号：`thomasnnlane@hotmail.com`
-* 密码：`XQk71w75`
+* 密码：`LEr43q36`
 
 --------- 30 ---------
 * 账号：`henryellis4yqr@hotmail.com`
-* 密码：`WKl16d61`
+* 密码：`GQe52k77`
 
 --------- 31 ---------
 * 账号：`josephkc0fmiller@hotmail.com`
@@ -349,7 +349,7 @@ PS：最好月付，防止跑路！
 
 --------- 32 ---------
 * 账号：`luke5vas@hotmail.com`
-* 密码：`UQz05u71`
+* 密码：`VVe95i85`
 
 --------- 33 ---------
 * 账号：`jeromemazin633@gmail.com`
@@ -357,7 +357,7 @@ PS：最好月付，防止跑路！
 
 --------- 34 ---------
 * 账号：`aidenwood0z@hotmail.com`
-* 密码：`TWm78a18`
+* 密码：`GWw04m20`
 
 --------- 35 ---------
 * 账号：`graysonrqn4k@hotmail.com`
@@ -368,38 +368,34 @@ PS：最好月付，防止跑路！
 * 密码：`KFg57n52`
 
 --------- 37 ---------
-* 账号：`dunajsironv@hotmail.com`
-* 密码：`OCl60a99`
-
---------- 38 ---------
 * 账号：`masonfldwatson@hotmail.com`
 * 密码：`XKd05y55`
 
---------- 39 ---------
+--------- 38 ---------
 * 账号：`hudsonknights1@hotmail.com`
 * 密码：`GPv35x00`
 
---------- 40 ---------
+--------- 39 ---------
 * 账号：`ezra17ca@hotmail.com`
 * 密码：`LWt15c33`
 
---------- 41 ---------
+--------- 40 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`Tqwmc65eA5`
 
---------- 42 ---------
+--------- 41 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 43 ---------
+--------- 42 ---------
 * 账号：`ftxsmmk@hotmail.com`
 * 密码：`Dd1fc1c60`
 
---------- 44 ---------
+--------- 43 ---------
 * 账号：`xuqbopjmkuljg@outlook.com`
 * 密码：`Dd119919f`
 
---------- 45 ---------
+--------- 44 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd190a4fb`
 <!-- apple ends -->
