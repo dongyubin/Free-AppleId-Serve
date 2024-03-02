@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-02 23:10:15**
+更新时间：**2024-03-02 23:34:17**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,7 +225,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`josephkc0fmiller@hotmail.com`
-* 密码：`VGo53a40`
+* 密码：`PFq29h85`
 
 --------- 2 ---------
 * 美国账号：`efrasgibram@hotmail.com`
@@ -237,7 +237,7 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 乌兹别克斯坦账号：`masonfldwatson@hotmail.com`
-* 密码：`DPh11g15`
+* 密码：`MRs84x45`
 
 --------- 5 ---------
 * 美国账号：`hudsonknights1@hotmail.com`
@@ -245,11 +245,11 @@ PS：最好月付，防止跑路！
 
 --------- 6 ---------
 * 香港账号：`aidenwood0z@hotmail.com`
-* 密码：`CEe74t37`
+* 密码：`SYq51s95`
 
 --------- 7 ---------
 * 美国账号：`graysonrqn4k@hotmail.com`
-* 密码：`GDn11h04`
+* 密码：`OQd17u87`
 
 --------- 8 ---------
 * 美国账号：`c9vevans@hotmail.com`
@@ -257,7 +257,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 美国账号：`dunajsironv@hotmail.com`
-* 密码：`VMs15r02`
+* 密码：`UXt28v01`
 
 --------- 10 ---------
 * 巴西账号：`henryellis4yqr@hotmail.com`
@@ -265,11 +265,11 @@ PS：最好月付，防止跑路！
 
 --------- 11 ---------
 * 账号：`ktmgawwqd@outlook.com`
-* 密码：`Dd1c9b082`
+* 密码：`Dd12a9482`
 
 --------- 12 ---------
 * 账号：`isaacx5ms@hotmail.com`
-* 密码：`Dd1a67846`
+* 密码：`Dd18decc7`
 
 --------- 13 ---------
 * 账号：`ftxsmmk@hotmail.com`
@@ -281,11 +281,11 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`shaindykeyundra@gmail.com`
-* 密码：`6Qby8PWF6H`
+* 密码：`CQXW5G6kB7`
 
 --------- 16 ---------
 * 账号：`albaikszofiai@outlook.com`
-* 密码：`Dd1d19097`
+* 密码：`Dd160a03f`
 
 --------- 17 ---------
 * 账号：`ftxsmmk@hotmail.com`
@@ -293,11 +293,11 @@ PS：最好月付，防止跑路！
 
 --------- 18 ---------
 * 账号：`isaacx5ms@hotmail.com`
-* 密码：`Dd1a67846`
+* 密码：`Dd18decc7`
 
 --------- 19 ---------
 * 账号：`aideneclcmurray@hotmail.com`
-* 密码：`Dd19ea42c`
+* 密码：`Dd1b9714f`
 
 --------- 20 ---------
 * 账号：`josiahbellof8@hotmail.com`
@@ -317,81 +317,73 @@ PS：最好月付，防止跑路！
 
 --------- 24 ---------
 * 账号：`ktmgawwqd@outlook.com`
-* 密码：`Dd1c9b082`
+* 密码：`Dd12a9482`
 
 --------- 25 ---------
-* 账号：`jameshkgb5@hotmail.com`
-* 密码：`STv61p55`
+* 账号：`efrasgibram@hotmail.com`
+* 密码：`TGn67c73`
 
 --------- 26 ---------
-* 账号：`efrasgibram@hotmail.com`
-* 密码：`FGq58t16`
-
---------- 27 ---------
 * 账号：`mav6lnajames@hotmail.com`
 * 密码：`TGh18q51`
 
---------- 28 ---------
+--------- 27 ---------
 * 账号：`thomasnnlane@hotmail.com`
-* 密码：`HYk88f98`
+* 密码：`YIe89b87`
+
+--------- 28 ---------
+* 账号：`henryellis4yqr@hotmail.com`
+* 密码：`TAg88n66`
 
 --------- 29 ---------
-* 账号：`henryellis4yqr@hotmail.com`
-* 密码：`ZQk44g36`
+* 账号：`josephkc0fmiller@hotmail.com`
+* 密码：`VGo53a40`
 
 --------- 30 ---------
-* 账号：`josephkc0fmiller@hotmail.com`
-* 密码：`AHx93z11`
-
---------- 31 ---------
 * 账号：`luke5vas@hotmail.com`
 * 密码：`CPq72q75`
 
---------- 32 ---------
+--------- 31 ---------
 * 账号：`aidenwood0z@hotmail.com`
 * 密码：`CEe74t37`
 
---------- 33 ---------
-* 账号：`graysonrqn4k@hotmail.com`
-* 密码：`ZSa60s15`
-
---------- 34 ---------
+--------- 32 ---------
 * 账号：`c9vevans@hotmail.com`
 * 密码：`KUn79z89`
 
---------- 35 ---------
+--------- 33 ---------
 * 账号：`dunajsironv@hotmail.com`
-* 密码：`LEa62w73`
+* 密码：`VMs15r02`
+
+--------- 34 ---------
+* 账号：`masonfldwatson@hotmail.com`
+* 密码：`DPh11g15`
+
+--------- 35 ---------
+* 账号：`hudsonknights1@hotmail.com`
+* 密码：`STf83e29`
 
 --------- 36 ---------
-* 账号：`masonfldwatson@hotmail.com`
-* 密码：`AFc96k52`
+* 账号：`ezra17ca@hotmail.com`
+* 密码：`LDo19r90`
 
 --------- 37 ---------
-* 账号：`hudsonknights1@hotmail.com`
-* 密码：`ORg99i34`
-
---------- 38 ---------
-* 账号：`ezra17ca@hotmail.com`
-* 密码：`GLx23f19`
-
---------- 39 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`B59ZGYP7Mm`
 
---------- 40 ---------
+--------- 38 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 41 ---------
+--------- 39 ---------
 * 账号：`ftxsmmk@hotmail.com`
 * 密码：`Dd1a31f46`
 
---------- 42 ---------
+--------- 40 ---------
 * 账号：`ktmgawwqd@outlook.com`
-* 密码：`Dd1c9b082`
+* 密码：`Dd12a9482`
 
---------- 43 ---------
+--------- 41 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1d3e027`
 <!-- apple ends -->
