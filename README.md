@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-03 02:14:07**
+更新时间：**2024-03-03 02:34:34**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,16 +228,16 @@ PS：最好月付，防止跑路！
 * 密码：`PFq29h85`
 
 --------- 2 ---------
-* 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`GMh76z59`
-
---------- 3 ---------
 * 乌兹别克斯坦账号：`masonfldwatson@hotmail.com`
 * 密码：`NTn65s98`
 
+--------- 3 ---------
+* 美国账号：`hudsonknights1@hotmail.com`
+* 密码：`ZDn13u51`
+
 --------- 4 ---------
 * 香港账号：`aidenwood0z@hotmail.com`
-* 密码：`NGg43o95`
+* 密码：`VMy56a31`
 
 --------- 5 ---------
 * 美国账号：`graysonrqn4k@hotmail.com`
@@ -272,8 +272,8 @@ PS：最好月付，防止跑路！
 * 密码：`X8Xez4kpvk`
 
 --------- 13 ---------
-* 账号：`tnbqygbnem@outlook.com`
-* 密码：`Nj5Dj1uKQ8`
+* 账号：`taneikachauntel@gmail.com`
+* 密码：`JhXp92uVX1`
 
 --------- 14 ---------
 * 账号：`albaikszofiai@outlook.com`
@@ -320,62 +320,66 @@ PS：最好月付，防止跑路！
 * 密码：`EQw52k31`
 
 --------- 25 ---------
+* 账号：`mav6lnajames@hotmail.com`
+* 密码：`GMh76z59`
+
+--------- 26 ---------
 * 账号：`thomasnnlane@hotmail.com`
 * 密码：`YIe89b87`
 
---------- 26 ---------
+--------- 27 ---------
 * 账号：`josephkc0fmiller@hotmail.com`
 * 密码：`PFq29h85`
 
---------- 27 ---------
+--------- 28 ---------
 * 账号：`luke5vas@hotmail.com`
 * 密码：`BEd39k69`
 
---------- 28 ---------
+--------- 29 ---------
 * 账号：`aidenwood0z@hotmail.com`
 * 密码：`NGg43o95`
 
---------- 29 ---------
+--------- 30 ---------
 * 账号：`graysonrqn4k@hotmail.com`
 * 密码：`CIm88a32`
 
---------- 30 ---------
+--------- 31 ---------
 * 账号：`c9vevans@hotmail.com`
 * 密码：`KUn79z89`
 
---------- 31 ---------
+--------- 32 ---------
 * 账号：`dunajsironv@hotmail.com`
 * 密码：`UXt28v01`
 
---------- 32 ---------
-* 账号：`masonfldwatson@hotmail.com`
-* 密码：`MRs84x45`
-
 --------- 33 ---------
-* 账号：`hudsonknights1@hotmail.com`
-* 密码：`GOg85u42`
+* 账号：`masonfldwatson@hotmail.com`
+* 密码：`NTn65s98`
 
 --------- 34 ---------
+* 账号：`hudsonknights1@hotmail.com`
+* 密码：`FAo79d06`
+
+--------- 35 ---------
 * 账号：`ezra17ca@hotmail.com`
 * 密码：`LDo19r90`
 
---------- 35 ---------
+--------- 36 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`X8Xez4kpvk`
 
---------- 36 ---------
+--------- 37 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 37 ---------
+--------- 38 ---------
 * 账号：`ftxsmmk@hotmail.com`
 * 密码：`Dd1df6315`
 
---------- 38 ---------
+--------- 39 ---------
 * 账号：`ktmgawwqd@outlook.com`
 * 密码：`Dd113d165`
 
---------- 39 ---------
+--------- 40 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1f8d841`
 <!-- apple ends -->
