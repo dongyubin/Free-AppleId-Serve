@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-04 02:12:35**
+更新时间：**2024-03-04 02:35:36**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -237,7 +237,7 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 美国账号：`hudsonknights1@hotmail.com`
-* 密码：`VUd65y98`
+* 密码：`VZg51o57`
 
 --------- 5 ---------
 * 美国账号：`tenen07@21cn.com`
@@ -337,29 +337,25 @@ PS：最好月付，防止跑路！
 
 --------- 29 ---------
 * 账号：`masonfldwatson@hotmail.com`
-* 密码：`YCl73g33`
+* 密码：`XXm81v43`
 
 --------- 30 ---------
-* 账号：`hudsonknights1@hotmail.com`
-* 密码：`VUd65y98`
-
---------- 31 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`V3MdPRwnay`
 
---------- 32 ---------
+--------- 31 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 33 ---------
+--------- 32 ---------
 * 账号：`zintlwenqi8@outlook.com`
 * 密码：`YY44vv66`
 
---------- 34 ---------
+--------- 33 ---------
 * 账号：`ktmgawwqd@outlook.com`
 * 密码：`Dd1bde11d`
 
---------- 35 ---------
+--------- 34 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1532171`
 <!-- apple ends -->
