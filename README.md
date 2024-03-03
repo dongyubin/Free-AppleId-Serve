@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-04 02:35:36**
+更新时间：**2024-03-04 03:08:04**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -241,7 +241,7 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 美国账号：`tenen07@21cn.com`
-* 密码：`PDa62y44`
+* 密码：`BQc99a01`
 
 --------- 6 ---------
 * 美国账号：`hite5824@21cn.com`
@@ -253,11 +253,11 @@ PS：最好月付，防止跑路！
 
 --------- 8 ---------
 * 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd1313975`
+* 密码：`Dd10612cc`
 
 --------- 9 ---------
 * 账号：`ymdvhghbev@outlook.com`
-* 密码：`KK11cc33`
+* 密码：`Dd1ef6cc8`
 
 --------- 10 ---------
 * 账号：`zintlwenqi8@outlook.com`
@@ -268,8 +268,8 @@ PS：最好月付，防止跑路！
 * 密码：`V3MdPRwnay`
 
 --------- 12 ---------
-* 账号：`sanahdavidlee@gmail.com`
-* 密码：`8NYyXAeyVS`
+* 账号：`taneikachauntel@gmail.com`
+* 密码：`dE8aCkZZ1G`
 
 --------- 13 ---------
 * 账号：`albaikszofiai@outlook.com`
@@ -281,11 +281,11 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`ymdvhghbev@outlook.com`
-* 密码：`KK11cc33`
+* 密码：`Dd1ef6cc8`
 
 --------- 16 ---------
 * 账号：`cmtqjgnfx@hotmail.com`
-* 密码：`Dd1313975`
+* 密码：`Dd10612cc`
 
 --------- 17 ---------
 * 账号：`aideneclcmurray@hotmail.com`
@@ -297,47 +297,47 @@ PS：最好月付，防止跑路！
 
 --------- 19 ---------
 * 账号：`cartersilvadah@hotmail.com`
-* 密码：`DdBMWde3a`
+* 密码：`Dd1a5b3b2`
 
 --------- 20 ---------
-* 账号：`ma23ckelly@hotmail.com`
-* 密码：`Dd1703e99`
-
---------- 21 ---------
 * 账号：`mateo75ortega@hotmail.com`
 * 密码：`Dd1de30a5`
 
---------- 22 ---------
+--------- 21 ---------
 * 账号：`ktmgawwqd@outlook.com`
 * 密码：`Dd1bde11d`
 
---------- 23 ---------
+--------- 22 ---------
 * 账号：`josiahhen6crm@hotmail.com`
 * 密码：`YTk49g80`
 
---------- 24 ---------
+--------- 23 ---------
 * 账号：`mav6lnajames@hotmail.com`
 * 密码：`EGu61a50`
 
---------- 25 ---------
+--------- 24 ---------
 * 账号：`cnwcnh@hotmail.com`
 * 密码：`BEf54b49`
 
---------- 26 ---------
+--------- 25 ---------
 * 账号：`luke5vas@hotmail.com`
 * 密码：`BAd55k85`
 
---------- 27 ---------
+--------- 26 ---------
 * 账号：`tenen07@21cn.com`
 * 密码：`PDa62y44`
 
---------- 28 ---------
+--------- 27 ---------
 * 账号：`hite5824@21cn.com`
 * 密码：`QEr59b07`
 
---------- 29 ---------
+--------- 28 ---------
 * 账号：`masonfldwatson@hotmail.com`
 * 密码：`XXm81v43`
+
+--------- 29 ---------
+* 账号：`hudsonknights1@hotmail.com`
+* 密码：`VZg51o57`
 
 --------- 30 ---------
 * 账号：`upxaxxqf@outlook.com`
