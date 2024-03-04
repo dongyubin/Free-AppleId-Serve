@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-05 01:34:29**
+更新时间：**2024-03-05 02:14:09**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -232,134 +232,102 @@ PS：最好月付，防止跑路！
 * 密码：`IAc45g70`
 
 --------- 3 ---------
-* 美国账号：`sismes58@21cn.com`
-* 密码：`RAw50e90`
+* 账号：`puuptrrkbgv@outlook.com`
+* 密码：`Dd182c407`
 
 --------- 4 ---------
-* 美国账号：`poshyez17351@21cn.com`
-* 密码：`URs19o14`
-
---------- 5 ---------
-* 美国账号：`carteru80jen@hotmail.com`
-* 密码：`YNs74m90`
-
---------- 6 ---------
-* 账号：`puuptrrkbgv@outlook.com`
-* 密码：`Dd1b4f502`
-
---------- 7 ---------
-* 账号：`jhfxtmbcmg@outlook.com`
-* 密码：`Dd1f63ffa`
-
---------- 8 ---------
 * 账号：`kamariataureon@gmail.com`
 * 密码：`Dd128e24a`
 
---------- 9 ---------
+--------- 5 ---------
 * 账号：`vervezometi0@outlook.com`
-* 密码：`Dd178b3d4`
+* 密码：`Dd1e045ea`
 
---------- 10 ---------
+--------- 6 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`pcqMRd6b7a`
 
---------- 11 ---------
-* 账号：`cherokonyg@outlook.com`
-* 密码：`ke2K7XkWP5`
+--------- 7 ---------
+* 账号：`pdpvsy9w@outlook.com`
+* 密码：`NT3C9YCbkt`
 
---------- 12 ---------
-* 账号：`cherokonyg@outlook.com`
-* 密码：`ke2K7XkWP5`
+--------- 8 ---------
+* 账号：`pdpvsy9w@outlook.com`
+* 密码：`NT3C9YCbkt`
 
---------- 13 ---------
+--------- 9 ---------
 * 账号：`btqutgenyrt@outlook.com`
-* 密码：`Dd1899b6b`
+* 密码：`Dd15b4a6e`
 
---------- 14 ---------
+--------- 10 ---------
 * 账号：`vervezometi0@outlook.com`
-* 密码：`Dd178b3d4`
+* 密码：`Dd1e045ea`
 
---------- 15 ---------
+--------- 11 ---------
 * 账号：`kamariataureon@gmail.com`
 * 密码：`Dd128e24a`
 
---------- 16 ---------
-* 账号：`jhfxtmbcmg@outlook.com`
-* 密码：`Dd1f63ffa`
-
---------- 17 ---------
+--------- 12 ---------
 * 账号：`ylayaskorrit@outlook.com`
 * 密码：`Dd1906f20`
 
---------- 18 ---------
+--------- 13 ---------
 * 账号：`sebe0higeorge@hotmail.com`
 * 密码：`Dd1f71771`
 
---------- 19 ---------
+--------- 14 ---------
 * 账号：`noahwdcox@hotmail.com`
 * 密码：`Dd1ba9a50`
 
---------- 20 ---------
+--------- 15 ---------
 * 账号：`irihaenceg@outlook.com`
 * 密码：`Dd1ffdf1e`
 
---------- 21 ---------
+--------- 16 ---------
 * 账号：`puuptrrkbgv@outlook.com`
-* 密码：`Dd1b4f502`
+* 密码：`Dd182c407`
 
---------- 22 ---------
+--------- 17 ---------
 * 账号：`pfsgym@hotmail.com`
 * 密码：`QCg69o17`
 
---------- 23 ---------
+--------- 18 ---------
 * 账号：`mav6lnajames@hotmail.com`
 * 密码：`IAc45g70`
 
---------- 24 ---------
+--------- 19 ---------
 * 账号：`serenwalker@hotmail.com`
 * 密码：`ATn88z01`
 
---------- 25 ---------
+--------- 20 ---------
 * 账号：`jtfsqaqpek@hotmail.com`
 * 密码：`UDs97g45`
 
---------- 26 ---------
+--------- 21 ---------
 * 账号：`khristianwentzx1yg@gmail.com`
 * 密码：`XNm00z23`
 
---------- 27 ---------
+--------- 22 ---------
 * 账号：`thomaswykspe@hotmail.com`
 * 密码：`Km526863`
 
---------- 28 ---------
-* 账号：`carteru80jen@hotmail.com`
-* 密码：`YNs74m90`
-
---------- 29 ---------
-* 账号：`sismes58@21cn.com`
-* 密码：`RAw50e90`
-
---------- 30 ---------
-* 账号：`poshyez17351@21cn.com`
-* 密码：`URs19o14`
-
---------- 31 ---------
+--------- 23 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`pcqMRd6b7a`
 
---------- 32 ---------
+--------- 24 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 33 ---------
+--------- 25 ---------
 * 账号：`vervezometi0@outlook.com`
-* 密码：`Dd178b3d4`
+* 密码：`Dd1e045ea`
 
---------- 34 ---------
+--------- 26 ---------
 * 账号：`puuptrrkbgv@outlook.com`
-* 密码：`Dd1b4f502`
+* 密码：`Dd182c407`
 
---------- 35 ---------
+--------- 27 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd15bd5a3`
 <!-- apple ends -->
