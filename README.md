@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-05 03:09:35**
+更新时间：**2024-03-05 03:34:35**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,28 +224,28 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`kamariataureon@gmail.com`
-* 密码：`Dd10a8eb9`
+* 美国账号：`davidwat3cx@hotmail.com`
+* 密码：`EGe86x17`
 
 --------- 2 ---------
+* 美国账号：`benjaminst0zu@hotmail.com`
+* 密码：`YPa38k49`
+
+--------- 3 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`pcqMRd6b7a`
 
---------- 3 ---------
-* 账号：`xfadfhhd@outlook.com`
-* 密码：`b9JFxbZrtE`
-
 --------- 4 ---------
-* 账号：`naspvm@outlook.com`
-* 密码：`r1eQxnaQUS`
+* 账号：`pdpvsy9w@outlook.com`
+* 密码：`yuyp6SpKDb`
 
 --------- 5 ---------
-* 账号：`kamariataureon@gmail.com`
-* 密码：`Dd10a8eb9`
+* 账号：`tnbqygbnem@outlook.com`
+* 密码：`Pp6DEs14uT`
 
 --------- 6 ---------
 * 账号：`ylayaskorrit@outlook.com`
-* 密码：`Dd1906f20`
+* 密码：`Dd186db1c`
 
 --------- 7 ---------
 * 账号：`noahwdcox@hotmail.com`
