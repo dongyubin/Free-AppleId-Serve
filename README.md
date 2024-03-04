@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-05 02:35:55**
+更新时间：**2024-03-05 03:09:35**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,70 +224,54 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`IAc45g70`
+* 账号：`kamariataureon@gmail.com`
+* 密码：`Dd10a8eb9`
 
 --------- 2 ---------
-* 账号：`kamariataureon@gmail.com`
-* 密码：`Dd128e24a`
-
---------- 3 ---------
-* 账号：`vervezometi0@outlook.com`
-* 密码：`Dd1e045ea`
-
---------- 4 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`pcqMRd6b7a`
 
---------- 5 ---------
-* 账号：`tnbqygbnem@outlook.com`
-* 密码：`Mrf1SrN2PN`
-
---------- 6 ---------
+--------- 3 ---------
 * 账号：`xfadfhhd@outlook.com`
 * 密码：`b9JFxbZrtE`
 
---------- 7 ---------
-* 账号：`btqutgenyrt@outlook.com`
-* 密码：`Dd15b4a6e`
+--------- 4 ---------
+* 账号：`naspvm@outlook.com`
+* 密码：`r1eQxnaQUS`
 
---------- 8 ---------
-* 账号：`vervezometi0@outlook.com`
-* 密码：`Dd1e045ea`
-
---------- 9 ---------
+--------- 5 ---------
 * 账号：`kamariataureon@gmail.com`
-* 密码：`Dd128e24a`
+* 密码：`Dd10a8eb9`
 
---------- 10 ---------
+--------- 6 ---------
 * 账号：`ylayaskorrit@outlook.com`
 * 密码：`Dd1906f20`
 
---------- 11 ---------
+--------- 7 ---------
 * 账号：`noahwdcox@hotmail.com`
-* 密码：`Dd1ba9a50`
+* 密码：`Dd1BMWe1b`
 
---------- 12 ---------
+--------- 8 ---------
 * 账号：`mav6lnajames@hotmail.com`
-* 密码：`IAc45g70`
+* 密码：`GDg48a02`
 
---------- 13 ---------
+--------- 9 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`pcqMRd6b7a`
 
---------- 14 ---------
+--------- 10 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 15 ---------
+--------- 11 ---------
 * 账号：`vervezometi0@outlook.com`
 * 密码：`Dd1e045ea`
 
---------- 16 ---------
+--------- 12 ---------
 * 账号：`puuptrrkbgv@outlook.com`
 * 密码：`Dd182c407`
 
---------- 17 ---------
+--------- 13 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd15bd5a3`
 <!-- apple ends -->
