@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-04 14:59:03**
+更新时间：**2024-03-04 15:57:25**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,127 +225,111 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`jtfsqaqpek@hotmail.com`
-* 密码：`DGg37b54`
+* 密码：`HAf10a82`
 
 --------- 2 ---------
 * 中国大陆账号：`mav6lnajames@hotmail.com`
-* 密码：`YQd84p73`
+* 密码：`DEd15k19`
 
 --------- 3 ---------
 * 美国账号：`jvdkgwe@hotmail.com`
-* 密码：`YGz63v73`
+* 密码：`XYm34x31`
 
 --------- 4 ---------
 * 账号：`puuptrrkbgv@outlook.com`
-* 密码：`Dd1605988`
+* 密码：`Dd1cc23ed`
 
 --------- 5 ---------
-* 账号：`jhfxtmbcmg@outlook.com`
-* 密码：`Dd1dac5cf`
+* 账号：`vervezometi0@outlook.com`
+* 密码：`Dd1ab282a`
 
 --------- 6 ---------
-* 账号：`awedlikumr@outlook.com`
-* 密码：`Dd125fe7b`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`D6vT5AZtuT`
 
 --------- 7 ---------
-* 账号：`vervezometi0@outlook.com`
-* 密码：`Dd144abd7`
+* 账号：`sanahdavidlee@gmail.com`
+* 密码：`AE9a6bRkq4`
 
 --------- 8 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`Fn6V564RTG`
+* 账号：`pdpvsy9w@outlook.com`
+* 密码：`8wUqaXGQ87`
 
 --------- 9 ---------
-* 账号：`cherokonyg@outlook.com`
-* 密码：`AuTXM6GZnv`
+* 账号：`vervezometi0@outlook.com`
+* 密码：`Dd1ab282a`
 
 --------- 10 ---------
-* 账号：`tnbqygbnem@outlook.com`
-* 密码：`Kpd1XP62Jt`
+* 账号：`ylayaskorrit@outlook.com`
+* 密码：`Dd1fe3d9e`
 
 --------- 11 ---------
-* 账号：`btqutgenyrt@outlook.com`
-* 密码：`Dd1619afe`
-
---------- 12 ---------
-* 账号：`vervezometi0@outlook.com`
-* 密码：`Dd144abd7`
-
---------- 13 ---------
-* 账号：`awedlikumr@outlook.com`
-* 密码：`Dd125fe7b`
-
---------- 14 ---------
-* 账号：`jhfxtmbcmg@outlook.com`
-* 密码：`Dd1dac5cf`
-
---------- 15 ---------
 * 账号：`irihaenceg@outlook.com`
 * 密码：`Dd17b6fd6`
 
---------- 16 ---------
+--------- 12 ---------
 * 账号：`puuptrrkbgv@outlook.com`
-* 密码：`Dd1605988`
+* 密码：`Dd1cc23ed`
 
---------- 17 ---------
+--------- 13 ---------
 * 账号：`pfsgym@hotmail.com`
 * 密码：`DVc76o40`
 
---------- 18 ---------
+--------- 14 ---------
 * 账号：`mav6lnajames@hotmail.com`
-* 密码：`AVr57p50`
+* 密码：`DEd15k19`
 
---------- 19 ---------
+--------- 15 ---------
 * 账号：`serenwalker@hotmail.com`
-* 密码：`UUn28e40`
+* 密码：`XNg00k48`
 
---------- 20 ---------
+--------- 16 ---------
 * 账号：`jvdkgwe@hotmail.com`
-* 密码：`NSm00i97`
+* 密码：`YGz63v73`
 
---------- 21 ---------
+--------- 17 ---------
 * 账号：`tceynv@hotmail.com`
 * 密码：`WZb16v23`
 
---------- 22 ---------
+--------- 18 ---------
 * 账号：`feytpjay@hotmail.com`
-* 密码：`CTi16k75`
+* 密码：`ITd32h02`
+
+--------- 19 ---------
+* 账号：`tcxrayaxatf@hotmail.com`
+* 密码：`KBd58s63`
+
+--------- 20 ---------
+* 账号：`jtfsqaqpek@hotmail.com`
+* 密码：`YWh08g00`
+
+--------- 21 ---------
+* 账号：`khristianwentzx1yg@gmail.com`
+* 密码：`KXl17r79`
+
+--------- 22 ---------
+* 账号：`saucedoartemio354@gmail.com`
+* 密码：`BWi21g70`
 
 --------- 23 ---------
-* 账号：`tcxrayaxatf@hotmail.com`
-* 密码：`BWk43y56`
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`D6vT5AZtuT`
 
 --------- 24 ---------
-* 账号：`jtfsqaqpek@hotmail.com`
-* 密码：`DGg37b54`
-
---------- 25 ---------
-* 账号：`khristianwentzx1yg@gmail.com`
-* 密码：`LCq32s47`
-
---------- 26 ---------
-* 账号：`saucedoartemio354@gmail.com`
-* 密码：`NIg50s18`
-
---------- 27 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`Fn6V564RTG`
-
---------- 28 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 29 ---------
+--------- 25 ---------
 * 账号：`vervezometi0@outlook.com`
-* 密码：`Dd144abd7`
+* 密码：`Dd1ab282a`
 
---------- 30 ---------
+--------- 26 ---------
 * 账号：`puuptrrkbgv@outlook.com`
-* 密码：`Dd1605988`
+* 密码：`Dd1cc23ed`
 
---------- 31 ---------
+--------- 27 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
-* 密码：`Dd102cc00`
+* 密码：`Dd1810b3e`
 <!-- apple ends -->
 
 
