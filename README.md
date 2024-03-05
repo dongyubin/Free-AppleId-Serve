@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-05 17:35:44**
+更新时间：**2024-03-05 18:12:25**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,90 +224,98 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`doctorjoviuidvnsux@gmail.com`
-* 密码：`Dd1f6fa4e`
+* 美国账号：`rftswfgxvn@hotmail.com`
+* 密码：`KCe06i18`
 
 --------- 2 ---------
-* 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1900e33`
+* 美国账号：`fshgtbdma@hotmail.com`
+* 密码：`SWv75g25`
 
 --------- 3 ---------
-* 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd173474f`
-
---------- 4 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`MxQwYwP8Mw`
-
---------- 5 ---------
-* 账号：`jfvkbujhde@outlook.com`
-* 密码：`TUqBA1Sbff`
-
---------- 6 ---------
-* 账号：`ttudkveppd@outlook.com`
-* 密码：`4svk4KGBrK`
-
---------- 7 ---------
-* 账号：`kallistajeralynn@gmail.com`
-* 密码：`Dd1d45f37`
-
---------- 8 ---------
-* 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd173474f`
-
---------- 9 ---------
-* 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1900e33`
-
---------- 10 ---------
-* 账号：`doctorjoviuidvnsux@gmail.com`
-* 密码：`Dd1f6fa4e`
-
---------- 11 ---------
-* 账号：`cyduhrh@outlook.com`
-* 密码：`Dd1a46c3f`
-
---------- 12 ---------
-* 账号：`nffmeiquid@outlook.com`
-* 密码：`Dd15972fb`
-
---------- 13 ---------
-* 账号：`baizen3142@163.com`
-* 密码：`Dd1f3f726`
-
---------- 14 ---------
-* 账号：`svgyekvj@hotmail.com`
-* 密码：`6mvSWvPP39`
-
---------- 15 ---------
-* 账号：`rftswfgxvn@hotmail.com`
-* 密码：`npYnpA4T16`
-
---------- 16 ---------
-* 账号：`ndxfwf@hotmail.com`
-* 密码：`hM2annMDM8`
-
---------- 17 ---------
-* 账号：`fshgtbdma@hotmail.com`
-* 密码：`NGr73u44`
-
---------- 18 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`MxQwYwP8Mw`
-
---------- 19 ---------
-* 账号：`julianvn3wat@hotmail.com`
-* 密码：`RA56tv64`
-
---------- 20 ---------
-* 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd173474f`
-
---------- 21 ---------
 * 账号：`jocelindory@gmail.com`
 * 密码：`Dd16aade5`
 
+--------- 4 ---------
+* 账号：`doctorjoviuidvnsux@gmail.com`
+* 密码：`Dd1f6fa4e`
+
+--------- 5 ---------
+* 账号：`uqaknjyg@outlook.com`
+* 密码：`Dd1900e33`
+
+--------- 6 ---------
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`Dd1c53ebe`
+
+--------- 7 ---------
+* 账号：`eliaszb7butler@hotmail.com`
+* 密码：`SH18pc10`
+
+--------- 8 ---------
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`MxQwYwP8Mw`
+
+--------- 9 ---------
+* 账号：`ttudkveppd@outlook.com`
+* 密码：`MFH9sQkUKf`
+
+--------- 10 ---------
+* 账号：`ttudkveppd@outlook.com`
+* 密码：`MFH9sQkUKf`
+
+--------- 11 ---------
+* 账号：`kallistajeralynn@gmail.com`
+* 密码：`Dd1d012fb`
+
+--------- 12 ---------
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`Dd1c53ebe`
+
+--------- 13 ---------
+* 账号：`uqaknjyg@outlook.com`
+* 密码：`Dd1900e33`
+
+--------- 14 ---------
+* 账号：`doctorjoviuidvnsux@gmail.com`
+* 密码：`Dd1f6fa4e`
+
+--------- 15 ---------
+* 账号：`cyduhrh@outlook.com`
+* 密码：`Dd1f42d8f`
+
+--------- 16 ---------
+* 账号：`nffmeiquid@outlook.com`
+* 密码：`Dd15972fb`
+
+--------- 17 ---------
+* 账号：`baizen3142@163.com`
+* 密码：`Dd1f3f726`
+
+--------- 18 ---------
+* 账号：`jocelindory@gmail.com`
+* 密码：`Dd16aade5`
+
+--------- 19 ---------
+* 账号：`ndxfwf@hotmail.com`
+* 密码：`npYnpA4T16`
+
+--------- 20 ---------
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`8MShDydrAw`
+
+--------- 21 ---------
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`RA56tv64`
+
 --------- 22 ---------
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`Dd1c53ebe`
+
+--------- 23 ---------
+* 账号：`jocelindory@gmail.com`
+* 密码：`Dd16aade5`
+
+--------- 24 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd15bd5a3`
 <!-- apple ends -->
