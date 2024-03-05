@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-05 14:34:54**
+更新时间：**2024-03-05 15:10:23**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,69 +225,85 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`rftswfgxvn@hotmail.com`
-* 密码：`BXl28b06`
+* 密码：`XAd72g05`
 
 --------- 2 ---------
 * 账号：`jocelindory@gmail.com`
-* 密码：`Dd1864292`
+* 密码：`Dd1e5cfca`
 
 --------- 3 ---------
-* 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd19aaeca`
+* 账号：`doctorjoviuidvnsux@gmail.com`
+* 密码：`Dd14907cc`
 
 --------- 4 ---------
-* 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd13f0450`
+* 账号：`uqaknjyg@outlook.com`
+* 密码：`Dd1fe6a89`
 
 --------- 5 ---------
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`Dd12a1310`
+
+--------- 6 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`MxQwYwP8Mw`
 
---------- 6 ---------
-* 账号：`ebxaehdnct@outlook.com`
-* 密码：`D2vZGaTZPM`
-
 --------- 7 ---------
-* 账号：`ebxaehdnct@outlook.com`
-* 密码：`D2vZGaTZPM`
+* 账号：`fkfetm@outlook.com`
+* 密码：`Aa112211`
 
 --------- 8 ---------
+* 账号：`fkfetm@outlook.com`
+* 密码：`Aa112211`
+
+--------- 9 ---------
 * 账号：`kallistajeralynn@gmail.com`
 * 密码：`Dd1e39c1d`
 
---------- 9 ---------
-* 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd13f0450`
-
 --------- 10 ---------
-* 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd19aaeca`
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`Dd12a1310`
 
 --------- 11 ---------
-* 账号：`baizen3142@163.com`
-* 密码：`Dd1969b1e`
+* 账号：`uqaknjyg@outlook.com`
+* 密码：`Dd1fe6a89`
 
 --------- 12 ---------
-* 账号：`jocelindory@gmail.com`
-* 密码：`Dd1864292`
+* 账号：`doctorjoviuidvnsux@gmail.com`
+* 密码：`Dd14907cc`
 
 --------- 13 ---------
+* 账号：`cyduhrh@outlook.com`
+* 密码：`YY11ww44`
+
+--------- 14 ---------
+* 账号：`jocelindory@gmail.com`
+* 密码：`Dd1e5cfca`
+
+--------- 15 ---------
+* 账号：`svgyekvj@hotmail.com`
+* 密码：`6mvSWvPP39`
+
+--------- 16 ---------
+* 账号：`rftswfgxvn@hotmail.com`
+* 密码：`auFdrMG8az`
+
+--------- 17 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`MxQwYwP8Mw`
 
---------- 14 ---------
+--------- 18 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 15 ---------
+--------- 19 ---------
 * 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd13f0450`
+* 密码：`Dd12a1310`
 
---------- 16 ---------
+--------- 20 ---------
 * 账号：`jocelindory@gmail.com`
-* 密码：`Dd1864292`
+* 密码：`Dd1e5cfca`
 
---------- 17 ---------
+--------- 21 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd15bd5a3`
 <!-- apple ends -->
