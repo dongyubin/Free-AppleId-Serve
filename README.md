@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-05 10:34:33**
+更新时间：**2024-03-05 11:12:22**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,51 +225,51 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`pz89jymnpa57496@hotmail.com`
-* 密码：`OFs41f72`
+* 密码：`TIx20t88`
 
 --------- 2 ---------
-* 账号：`jocelindory@gmail.com`
-* 密码：`Dd14cbcb6`
+* 账号：`josiedeon8@gmail.com`
+* 密码：`Dd1e0d9d1`
 
 --------- 3 ---------
-* 账号：`josiedeon8@gmail.com`
-* 密码：`Dd11a3178`
-
---------- 4 ---------
 * 账号：`uqaknjyg@outlook.com`
 * 密码：`Dd1ef18f9`
 
---------- 5 ---------
+--------- 4 ---------
 * 账号：`rhnjgkum@outlook.com`
 * 密码：`Dd169d7de`
 
---------- 6 ---------
+--------- 5 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`z771ehzARN`
 
---------- 7 ---------
+--------- 6 ---------
 * 账号：`kallistajeralynn@gmail.com`
 * 密码：`Dd1e1450c`
 
---------- 8 ---------
+--------- 7 ---------
 * 账号：`rhnjgkum@outlook.com`
 * 密码：`Dd169d7de`
 
+--------- 8 ---------
+* 账号：`uqaknjyg@outlook.com`
+* 密码：`Dd1ef18f9`
+
 --------- 9 ---------
 * 账号：`josiedeon8@gmail.com`
-* 密码：`Dd11a3178`
+* 密码：`Dd1e0d9d1`
 
 --------- 10 ---------
 * 账号：`nhynpqyrbq@outlook.com`
-* 密码：`Dd140df6f`
+* 密码：`Dd115469f`
 
 --------- 11 ---------
 * 账号：`jocelindory@gmail.com`
-* 密码：`Dd14cbcb6`
+* 密码：`Dd16554d3`
 
 --------- 12 ---------
 * 账号：`pz89jymnpa57496@hotmail.com`
-* 密码：`5VC1gPdbA4`
+* 密码：`3avQhKAT92`
 
 --------- 13 ---------
 * 账号：`upxaxxqf@outlook.com`
@@ -285,7 +285,7 @@ PS：最好月付，防止跑路！
 
 --------- 16 ---------
 * 账号：`jocelindory@gmail.com`
-* 密码：`Dd14cbcb6`
+* 密码：`Dd16554d3`
 
 --------- 17 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
