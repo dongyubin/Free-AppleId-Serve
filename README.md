@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-05 09:42:18**
+更新时间：**2024-03-05 10:16:25**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,30 +224,50 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`skd1A6NBWU`
+* 账号：`jocelindory@gmail.com`
+* 密码：`TT44nn55`
 
 --------- 2 ---------
-* 账号：`nhynpqyrbq@outlook.com`
-* 密码：`FF11pp55`
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`ZZ22rr77`
 
 --------- 3 ---------
 * 账号：`upxaxxqf@outlook.com`
 * 密码：`skd1A6NBWU`
 
 --------- 4 ---------
+* 账号：`kallistajeralynn@gmail.com`
+* 密码：`Dd1e1450c`
+
+--------- 5 ---------
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`ZZ22rr77`
+
+--------- 6 ---------
+* 账号：`nhynpqyrbq@outlook.com`
+* 密码：`Dd189dbde`
+
+--------- 7 ---------
+* 账号：`jocelindory@gmail.com`
+* 密码：`TT44nn55`
+
+--------- 8 ---------
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`skd1A6NBWU`
+
+--------- 9 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 5 ---------
-* 账号：`vervezometi0@outlook.com`
-* 密码：`Dd1e045ea`
+--------- 10 ---------
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`ZZ22rr77`
 
---------- 6 ---------
-* 账号：`puuptrrkbgv@outlook.com`
-* 密码：`Dd182c407`
+--------- 11 ---------
+* 账号：`jocelindory@gmail.com`
+* 密码：`TT44nn55`
 
---------- 7 ---------
+--------- 12 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd15bd5a3`
 <!-- apple ends -->
