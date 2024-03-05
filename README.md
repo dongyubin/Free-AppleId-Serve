@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-05 22:10:56**
+更新时间：**2024-03-05 22:36:07**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,35 +225,35 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`rftswfgxvn@hotmail.com`
-* 密码：`KCe06i18`
+* 密码：`LSv17b46`
 
 --------- 2 ---------
 * 账号：`jocelindory@gmail.com`
-* 密码：`Dd1d6747e`
+* 密码：`Dd1a3bc45`
 
 --------- 3 ---------
 * 账号：`doctorjoviuidvnsux@gmail.com`
-* 密码：`Dd175af21`
+* 密码：`Dd1221a4f`
 
 --------- 4 ---------
 * 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd12b045a`
+* 密码：`Dd1ecf6c6`
 
 --------- 5 ---------
 * 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd1b162c1`
+* 密码：`Dd17e9c46`
 
 --------- 6 ---------
 * 账号：`upxaxxqf@outlook.com`
-* 密码：`Ud6jPemDVM`
+* 密码：`43c4FTgeBj`
 
 --------- 7 ---------
-* 账号：`jfvkbujhde@outlook.com`
-* 密码：`2UjvQQ4AMR`
+* 账号：`jsbeude@outlook.com`
+* 密码：`Xu2rzyRtFk`
 
 --------- 8 ---------
-* 账号：`jfvkbujhde@outlook.com`
-* 密码：`2UjvQQ4AMR`
+* 账号：`jsbeude@outlook.com`
+* 密码：`Xu2rzyRtFk`
 
 --------- 9 ---------
 * 账号：`kallistajeralynn@gmail.com`
@@ -261,19 +261,19 @@ PS：最好月付，防止跑路！
 
 --------- 10 ---------
 * 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd1b162c1`
+* 密码：`Dd17e9c46`
 
 --------- 11 ---------
 * 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd12b045a`
+* 密码：`Dd1ecf6c6`
 
 --------- 12 ---------
 * 账号：`doctorjoviuidvnsux@gmail.com`
-* 密码：`Dd175af21`
+* 密码：`Dd1221a4f`
 
 --------- 13 ---------
 * 账号：`cyduhrh@outlook.com`
-* 密码：`Dd16fc87b`
+* 密码：`Dd1da963d`
 
 --------- 14 ---------
 * 账号：`nffmeiquid@outlook.com`
@@ -285,7 +285,7 @@ PS：最好月付，防止跑路！
 
 --------- 16 ---------
 * 账号：`jocelindory@gmail.com`
-* 密码：`Dd1d6747e`
+* 密码：`Dd1a3bc45`
 
 --------- 17 ---------
 * 账号：`svgyekvj@hotmail.com`
@@ -297,7 +297,7 @@ PS：最好月付，防止跑路！
 
 --------- 19 ---------
 * 账号：`upxaxxqf@outlook.com`
-* 密码：`Ud6jPemDVM`
+* 密码：`43c4FTgeBj`
 
 --------- 20 ---------
 * 账号：`julianvn3wat@hotmail.com`
@@ -309,7 +309,7 @@ PS：最好月付，防止跑路！
 
 --------- 22 ---------
 * 账号：`jocelindory@gmail.com`
-* 密码：`Dd1d6747e`
+* 密码：`Dd1a3bc45`
 
 --------- 23 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
