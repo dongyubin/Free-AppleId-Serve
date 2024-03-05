@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-05 12:34:46**
+更新时间：**2024-03-05 13:10:52**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,65 +225,89 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`pz89jymnpa57496@hotmail.com`
-* 密码：`EQw31y76`
+* 密码：`PZm68k87`
 
 --------- 2 ---------
 * 账号：`jocelindory@gmail.com`
-* 密码：`Dd1b7e184`
+* 密码：`Dd113cdcc`
 
 --------- 3 ---------
-* 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd19a760c`
+* 账号：`josiedeon8@gmail.com`
+* 密码：`Dd1e9c59b`
 
 --------- 4 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`abP7bJJ4vd`
+* 账号：`uqaknjyg@outlook.com`
+* 密码：`Dd1337fb8`
 
 --------- 5 ---------
-* 账号：`kallistajeralynn@gmail.com`
-* 密码：`Dd1af3a48`
-
---------- 6 ---------
-* 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd19a760c`
-
---------- 7 ---------
-* 账号：`nhynpqyrbq@outlook.com`
-* 密码：`Dd11a33e5`
-
---------- 8 ---------
-* 账号：`oliversb005@hotmail.com`
-* 密码：`Nf919312`
-
---------- 9 ---------
-* 账号：`baizen3142@163.com`
-* 密码：`Gs919312`
-
---------- 10 ---------
-* 账号：`jocelindory@gmail.com`
-* 密码：`Dd1b7e184`
-
---------- 11 ---------
-* 账号：`pz89jymnpa57496@hotmail.com`
-* 密码：`QxrgbGaTc1`
-
---------- 12 ---------
-* 账号：`upxaxxqf@outlook.com`
-* 密码：`PAgSRp3kJV`
-
---------- 13 ---------
-* 账号：`julianvn3wat@hotmail.com`
-* 密码：`RA56tv64`
-
---------- 14 ---------
 * 账号：`rhnjgkum@outlook.com`
 * 密码：`Dd13f0450`
 
+--------- 6 ---------
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`PAgSRp3kJV`
+
+--------- 7 ---------
+* 账号：`ebxaehdnct@outlook.com`
+* 密码：`Aa112211`
+
+--------- 8 ---------
+* 账号：`ttudkveppd@outlook.com`
+* 密码：`Aa112211`
+
+--------- 9 ---------
+* 账号：`kallistajeralynn@gmail.com`
+* 密码：`Dd1b873b4`
+
+--------- 10 ---------
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`Dd13f0450`
+
+--------- 11 ---------
+* 账号：`uqaknjyg@outlook.com`
+* 密码：`Dd1337fb8`
+
+--------- 12 ---------
+* 账号：`josiedeon8@gmail.com`
+* 密码：`Dd1e9c59b`
+
+--------- 13 ---------
+* 账号：`nhynpqyrbq@outlook.com`
+* 密码：`Dd11a33e5`
+
+--------- 14 ---------
+* 账号：`oliversb005@hotmail.com`
+* 密码：`Nf?Dd1fbb20a`
+
 --------- 15 ---------
-* 账号：`jocelindory@gmail.com`
-* 密码：`Dd1b7e184`
+* 账号：`baizen3142@163.com`
+* 密码：`Nf?Dd1006ade`
 
 --------- 16 ---------
+* 账号：`jocelindory@gmail.com`
+* 密码：`Dd113cdcc`
+
+--------- 17 ---------
+* 账号：`pz89jymnpa57496@hotmail.com`
+* 密码：`QxrgbGaTc1`
+
+--------- 18 ---------
+* 账号：`upxaxxqf@outlook.com`
+* 密码：`PAgSRp3kJV`
+
+--------- 19 ---------
+* 账号：`julianvn3wat@hotmail.com`
+* 密码：`RA56tv64`
+
+--------- 20 ---------
+* 账号：`rhnjgkum@outlook.com`
+* 密码：`Dd13f0450`
+
+--------- 21 ---------
+* 账号：`jocelindory@gmail.com`
+* 密码：`Dd113cdcc`
+
+--------- 22 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd15bd5a3`
 <!-- apple ends -->
