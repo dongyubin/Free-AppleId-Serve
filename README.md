@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-06 13:10:45**
+更新时间：**2024-03-06 13:35:13**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,77 +229,73 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1b506e5`
+* 密码：`Dd1b467a0`
 
 --------- 3 ---------
 * 账号：`aolsqguvlnvs@outlook.com`
-* 密码：`2hPjW5mrym`
+* 密码：`Agh7SHKSBC`
 
 --------- 4 ---------
-* 账号：`gmuhwbwaxt@hotmail.com`
-* 密码：`BFD5AR1trU`
+* 账号：`ebxaehdnct@outlook.com`
+* 密码：`QbxeWQEJ6u`
 
 --------- 5 ---------
-* 账号：`gmuhwbwaxt@hotmail.com`
-* 密码：`BFD5AR1trU`
+* 账号：`jfvkbujhde@outlook.com`
+* 密码：`5MXGrt44MV`
 
 --------- 6 ---------
 * 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1b506e5`
+* 密码：`Dd1b467a0`
 
 --------- 7 ---------
-* 账号：`cyduhrh@outlook.com`
-* 密码：`Dd12339a2`
-
---------- 8 ---------
 * 账号：`nffmeiquid@outlook.com`
 * 密码：`Dd1e210a2`
 
---------- 9 ---------
+--------- 8 ---------
 * 账号：`nffhkid@outlook.com`
 * 密码：`Dd1f5eb5d`
 
---------- 10 ---------
+--------- 9 ---------
 * 账号：`aclxglb732503@icloud.com`
-* 密码：`hxdrBj9D42`
+* 密码：`z2fn6GhYmt`
+
+--------- 10 ---------
+* 账号：`idshare.me_003@icloud.com`
+* 密码：`XyYNK8jkP6`
 
 --------- 11 ---------
-* 账号：`idshare.me_003@icloud.com`
-* 密码：`J7aDsxhdxB`
-
---------- 12 ---------
 * 账号：`idshare.me_001@icloud.com`
 * 密码：`6SkNuBXVEx`
 
---------- 13 ---------
+--------- 12 ---------
 * 账号：`rftswfgxvn@hotmail.com`
 * 密码：`GKe44x29`
 
---------- 14 ---------
+--------- 13 ---------
 * 账号：`idshare.me_004@icloud.com`
 * 密码：`VOg85h68`
 
---------- 15 ---------
+--------- 14 ---------
 * 账号：`mavericklbqfe@outlook.com`
 * 密码：`IKy50g43`
 
---------- 16 ---------
+--------- 15 ---------
 * 账号：`aolsqguvlnvs@outlook.com`
-* 密码：`2hPjW5mrym`
+* 密码：`Agh7SHKSBC`
 
---------- 17 ---------
+--------- 16 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 18 ---------
+--------- 17 ---------
 * 账号：`rhnjgkum@outlook.com`
 * 密码：`Dd1655e47`
 
---------- 19 ---------
+--------- 18 ---------
 * 账号：`fksvttwe@outlook.com`
 * 密码：`MM33ff22`
 
---------- 20 ---------
+--------- 19 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd15bd5a3`
 <!-- apple ends -->
