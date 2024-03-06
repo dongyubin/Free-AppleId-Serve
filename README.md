@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-06 12:12:46**
+更新时间：**2024-03-06 12:34:16**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,39 +229,39 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 账号：`doctorjoviuidvnsux@gmail.com`
-* 密码：`Dd1093f44`
+* 密码：`Dd15aea63`
 
 --------- 3 ---------
 * 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1a12f7a`
+* 密码：`Dd104ae2a`
 
 --------- 4 ---------
 * 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd1acf361`
+* 密码：`Dd1655e47`
 
 --------- 5 ---------
 * 账号：`aolsqguvlnvs@outlook.com`
-* 密码：`uGMnxS5uZD`
+* 密码：`QNt6v8c8e3`
 
 --------- 6 ---------
+* 账号：`ebxaehdnct@outlook.com`
+* 密码：`3GsrxFRPsU`
+
+--------- 7 ---------
 * 账号：`gmuhwbwaxt@hotmail.com`
 * 密码：`uyXV26gBf1`
 
---------- 7 ---------
-* 账号：`jdmanvxxnx@outlook.com`
-* 密码：`eNfWt7AhqY`
-
 --------- 8 ---------
 * 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd1acf361`
+* 密码：`Dd1655e47`
 
 --------- 9 ---------
 * 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1a12f7a`
+* 密码：`Dd104ae2a`
 
 --------- 10 ---------
 * 账号：`doctorjoviuidvnsux@gmail.com`
-* 密码：`Dd1093f44`
+* 密码：`Dd15aea63`
 
 --------- 11 ---------
 * 账号：`cyduhrh@outlook.com`
@@ -285,7 +285,7 @@ PS：最好月付，防止跑路！
 
 --------- 16 ---------
 * 账号：`idshare.me_001@icloud.com`
-* 密码：`tUbdE3J4w7`
+* 密码：`9P8AvdtUAg`
 
 --------- 17 ---------
 * 账号：`rftswfgxvn@hotmail.com`
@@ -301,7 +301,7 @@ PS：最好月付，防止跑路！
 
 --------- 20 ---------
 * 账号：`aolsqguvlnvs@outlook.com`
-* 密码：`uGMnxS5uZD`
+* 密码：`QNt6v8c8e3`
 
 --------- 21 ---------
 * 账号：`julianvn3wat@hotmail.com`
@@ -309,7 +309,7 @@ PS：最好月付，防止跑路！
 
 --------- 22 ---------
 * 账号：`rhnjgkum@outlook.com`
-* 密码：`Dd1acf361`
+* 密码：`Dd1655e47`
 
 --------- 23 ---------
 * 账号：`fksvttwe@outlook.com`
