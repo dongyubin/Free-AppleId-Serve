@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-06 21:11:30**
+更新时间：**2024-03-06 21:34:32**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,85 +225,81 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`rftswfgxvn@hotmail.com`
-* 密码：`TAw83w02`
+* 密码：`GTy27x63`
 
 --------- 2 ---------
-* 账号：`tfphqbbcuh@hotmail.com`
-* 密码：`Dd15c1428`
+* 账号：`qttsbvd@hotmail.com`
+* 密码：`Dd1727402`
 
 --------- 3 ---------
 * 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1e5cdbc`
+* 密码：`Dd1b16ff9`
 
 --------- 4 ---------
-* 账号：`beukaagoryu@hotmail.com`
-* 密码：`Dd169a3e1`
-
---------- 5 ---------
 * 账号：`aolsqguvlnvs@outlook.com`
 * 密码：`kn2Xn59TK9`
 
+--------- 5 ---------
+* 账号：`ebxaehdnct@outlook.com`
+* 密码：`DJZFxj5xQf`
+
 --------- 6 ---------
 * 账号：`gmuhwbwaxt@hotmail.com`
-* 密码：`r7BaRg5YkM`
+* 密码：`BKsH2kAMXw`
 
 --------- 7 ---------
-* 账号：`pdmvgw@hotmail.com`
-* 密码：`GKSzs8TNUE`
+* 账号：`uqaknjyg@outlook.com`
+* 密码：`Dd1b16ff9`
 
 --------- 8 ---------
-* 账号：`beukaagoryu@hotmail.com`
-* 密码：`Dd169a3e1`
+* 账号：`qttsbvd@hotmail.com`
+* 密码：`Dd1727402`
 
 --------- 9 ---------
-* 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1e5cdbc`
+* 账号：`cyduhrh@outlook.com`
+* 密码：`Dd19a0c24`
 
 --------- 10 ---------
 * 账号：`nffmeiquid@outlook.com`
-* 密码：`Dd1d8deef`
+* 密码：`Dd1750303`
 
 --------- 11 ---------
 * 账号：`nffhkid@outlook.com`
 * 密码：`Dd105791b`
 
 --------- 12 ---------
-* 账号：`tfphqbbcuh@hotmail.com`
-* 密码：`Dd15c1428`
-
---------- 13 ---------
 * 账号：`aclxglb732503@icloud.com`
 * 密码：`EgH6ZY3HyB`
 
---------- 14 ---------
+--------- 13 ---------
 * 账号：`idshare.me_001@icloud.com`
 * 密码：`tyveMf1Xv6`
 
---------- 15 ---------
+--------- 14 ---------
 * 账号：`rftswfgxvn@hotmail.com`
 * 密码：`1khTMGaU3p`
 
---------- 16 ---------
+--------- 15 ---------
 * 账号：`idshare.me_004@icloud.com`
 * 密码：`FBx51m57`
 
---------- 17 ---------
+--------- 16 ---------
 * 账号：`aolsqguvlnvs@outlook.com`
 * 密码：`kn2Xn59TK9`
 
---------- 18 ---------
+--------- 17 ---------
 * 账号：`julianvn3wat@hotmail.com`
 * 密码：`RA56tv64`
 
---------- 19 ---------
+--------- 18 ---------
 * 账号：`beukaagoryu@hotmail.com`
-* 密码：`Dd169a3e1`
+* 密码：`Dd1e4b5b0`
+
+--------- 19 ---------
+* 账号：`tfphqbbcuh@hotmail.com`
+* 密码：`Dd1d5d1a3`
 
 --------- 20 ---------
-* 账号：`tfphqbbcuh@hotmail.com`
-* 密码：`Dd15c1428`
-
---------- 21 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd15bd5a3`
 <!-- apple ends -->
