@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-07 16:36:20**
+更新时间：**2024-03-07 17:09:37**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,15 +225,15 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`rftswfgxvn@hotmail.com`
-* 密码：`QZs80f94`
+* 密码：`HLs57w65`
 
 --------- 2 ---------
 * 账号：`qttsbvd@hotmail.com`
-* 密码：`Dd1e521a0`
+* 密码：`Dd18f3a89`
 
 --------- 3 ---------
 * 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1ad97cd`
+* 密码：`Dd15c922b`
 
 --------- 4 ---------
 * 账号：`beukaagoryu@hotmail.com`
@@ -241,31 +241,31 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`aolsqguvlnvs@outlook.com`
-* 密码：`9Ku8FMJKCg`
+* 密码：`pdf6nKcEDE`
 
 --------- 6 ---------
-* 账号：`pdmvgw@hotmail.com`
-* 密码：`FHqDAMT1A9`
+* 账号：`gmuhwbwaxt@hotmail.com`
+* 密码：`RCB29sxnZ8`
 
 --------- 7 ---------
-* 账号：`pdmvgw@hotmail.com`
-* 密码：`FHqDAMT1A9`
+* 账号：`ebxaehdnct@outlook.com`
+* 密码：`5sYdq2jgmx`
 
 --------- 8 ---------
+* 账号：`bidurbardhyo@hotmail.com`
+* 密码：`Dd118f82e`
+
+--------- 9 ---------
 * 账号：`beukaagoryu@hotmail.com`
 * 密码：`Dd13c9152`
 
---------- 9 ---------
-* 账号：`uqaknjyg@outlook.com`
-* 密码：`Dd1ad97cd`
-
 --------- 10 ---------
 * 账号：`qttsbvd@hotmail.com`
-* 密码：`Dd1e521a0`
+* 密码：`Dd18f3a89`
 
 --------- 11 ---------
 * 账号：`cyduhrh@outlook.com`
-* 密码：`Dd13b5ce0`
+* 密码：`Dd13c58d1`
 
 --------- 12 ---------
 * 账号：`mavaldezv3@hotmail.com`
@@ -285,7 +285,7 @@ PS：最好月付，防止跑路！
 
 --------- 16 ---------
 * 账号：`idshare.me_003@icloud.com`
-* 密码：`SCd95e77`
+* 密码：`LRc45h69`
 
 --------- 17 ---------
 * 账号：`idshare.me_001@icloud.com`
@@ -297,7 +297,7 @@ PS：最好月付，防止跑路！
 
 --------- 19 ---------
 * 账号：`idshare.me_004@icloud.com`
-* 密码：`QIg40g73`
+* 密码：`MZl41x75`
 
 --------- 20 ---------
 * 账号：`aolsqguvlnvs@outlook.com`
