@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-09 05:10:23**
+更新时间：**2024-03-09 05:35:28**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,102 +224,70 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`mngsfe@hotmail.com`
-* 密码：`FF55gg66`
+* 账号：`ygmqvbwuut@hotmail.com`
+* 密码：`Dd1ad53aa`
 
 --------- 2 ---------
-* 账号：`npnvpjsmsvy@hotmail.com`
-* 密码：`FF33bb33`
-
---------- 3 ---------
-* 账号：`ygmqvbwuut@hotmail.com`
-* 密码：`SS33kk33`
-
---------- 4 ---------
-* 账号：`phsnrvh@hotmail.com`
-* 密码：`KK66ff88`
-
---------- 5 ---------
 * 账号：`rnvjqba@hotmail.com`
 * 密码：`BH51ym87`
 
---------- 6 ---------
+--------- 3 ---------
 * 账号：`uywttudv@hotmail.com`
 * 密码：`ET66uw13`
 
---------- 7 ---------
+--------- 4 ---------
 * 账号：`gdsbojt@outlook.com`
 * 密码：`jSjvFmRj8B`
 
---------- 8 ---------
+--------- 5 ---------
 * 账号：`xpmdrrt@hotmail.com`
-* 密码：`zE65NbreAu`
+* 密码：`wHmbKGKwH2`
 
---------- 9 ---------
+--------- 6 ---------
 * 账号：`xpmdrrt@hotmail.com`
-* 密码：`zE65NbreAu`
+* 密码：`wHmbKGKwH2`
 
---------- 10 ---------
-* 账号：`gvjsnk@hotmail.com`
-* 密码：`WW55pp66`
-
---------- 11 ---------
-* 账号：`phsnrvh@hotmail.com`
-* 密码：`KK66ff88`
-
---------- 12 ---------
+--------- 7 ---------
 * 账号：`ygmqvbwuut@hotmail.com`
-* 密码：`SS33kk33`
+* 密码：`Dd1ad53aa`
 
---------- 13 ---------
-* 账号：`npnvpjsmsvy@hotmail.com`
-* 密码：`FF33bb33`
-
---------- 14 ---------
-* 账号：`jjsdbbj@hotmail.com`
-* 密码：`JJ33zz11`
-
---------- 15 ---------
-* 账号：`mngsfe@hotmail.com`
-* 密码：`FF55gg66`
-
---------- 16 ---------
+--------- 8 ---------
 * 账号：`idshare.me_002@icloud.com`
 * 密码：`4x87XTcnxt`
 
---------- 17 ---------
+--------- 9 ---------
 * 账号：`aclxglb732503@icloud.com`
 * 密码：`8WsDVsQNjw`
 
---------- 18 ---------
+--------- 10 ---------
 * 账号：`idshare.me_003@icloud.com`
 * 密码：`k56UGymwJ4`
 
---------- 19 ---------
+--------- 11 ---------
 * 账号：`idshare.me_001@icloud.com`
 * 密码：`FXe35r92`
 
---------- 20 ---------
+--------- 12 ---------
 * 账号：`idshare.me_004@icloud.com`
 * 密码：`UHr93g82`
 
---------- 21 ---------
+--------- 13 ---------
 * 账号：`gdsbojt@outlook.com`
 * 密码：`jSjvFmRj8B`
 
---------- 22 ---------
+--------- 14 ---------
 * 账号：`uywttudv@hotmail.com`
 * 密码：`ET66uw13`
 
---------- 23 ---------
+--------- 15 ---------
 * 账号：`phsnrvh@hotmail.com`
 * 密码：`KK66ff88`
 
---------- 24 ---------
+--------- 16 ---------
 * 账号：`mngsfe@hotmail.com`
 * 密码：`FF55gg66`
 
---------- 25 ---------
+--------- 17 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
