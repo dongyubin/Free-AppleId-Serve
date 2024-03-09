@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-09 09:38:39**
+更新时间：**2024-03-09 10:13:55**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,105 +225,89 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
-* 密码：`Dd142d838`
+* 密码：`Dd1ace044`
 
 --------- 2 ---------
 * 账号：`ushqwp@hotmail.com`
 * 密码：`Dd13c9e34`
 
 --------- 3 ---------
-* 账号：`scwspyhrkhj@hotmail.com`
-* 密码：`Dd10c7823`
+* 账号：`kfajcmfaj@hotmail.com`
+* 密码：`Dd1075805`
 
 --------- 4 ---------
-* 账号：`kfajcmfaj@hotmail.com`
-* 密码：`Dd112abf0`
+* 账号：`rnvjqba@hotmail.com`
+* 密码：`GJ48pt87`
 
 --------- 5 ---------
-* 账号：`rnvjqba@hotmail.com`
-* 密码：`BH51ym87`
-
---------- 6 ---------
 * 账号：`uywttudv@hotmail.com`
 * 密码：`ET66uw13`
 
---------- 7 ---------
+--------- 6 ---------
 * 账号：`gdsbojt@outlook.com`
 * 密码：`jSjvFmRj8B`
+
+--------- 7 ---------
+* 账号：`xpmdrrt@hotmail.com`
+* 密码：`SFq3vzfC4D`
 
 --------- 8 ---------
 * 账号：`xpmdrrt@hotmail.com`
 * 密码：`SFq3vzfC4D`
 
 --------- 9 ---------
-* 账号：`xpmdrrt@hotmail.com`
-* 密码：`SFq3vzfC4D`
-
---------- 10 ---------
 * 账号：`wpxkjdfgge@hotmail.com`
 * 密码：`Dd1887ae8`
 
---------- 11 ---------
+--------- 10 ---------
 * 账号：`kfajcmfaj@hotmail.com`
-* 密码：`Dd112abf0`
+* 密码：`Dd1075805`
 
---------- 12 ---------
-* 账号：`scwspyhrkhj@hotmail.com`
-* 密码：`Dd10c7823`
-
---------- 13 ---------
+--------- 11 ---------
 * 账号：`ushqwp@hotmail.com`
 * 密码：`Dd13c9e34`
 
---------- 14 ---------
+--------- 12 ---------
 * 账号：`gfngrdvd@hotmail.com`
 * 密码：`Dd16fda2e`
 
---------- 15 ---------
-* 账号：`isaaczxric@hotmail.com`
-* 密码：`Dd13b0498`
-
---------- 16 ---------
+--------- 13 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
-* 密码：`Dd142d838`
+* 密码：`Dd1ace044`
 
---------- 17 ---------
-* 账号：`idshare.me_002@icloud.com`
+--------- 14 ---------
+* 账号：`aclxglb732503@icloud.com`
 * 密码：`ggmju2K1gm`
 
---------- 18 ---------
-* 账号：`aclxglb732503@icloud.com`
+--------- 15 ---------
+* 账号：`idshare.me_003@icloud.com`
 * 密码：`8WsDVsQNjw`
 
---------- 19 ---------
-* 账号：`idshare.me_003@icloud.com`
+--------- 16 ---------
+* 账号：`idshare.me_001@icloud.com`
 * 密码：`k56UGymwJ4`
 
---------- 20 ---------
-* 账号：`idshare.me_001@icloud.com`
-* 密码：`DVs31d67`
-
---------- 21 ---------
+--------- 17 ---------
 * 账号：`idshare.me_004@icloud.com`
 * 密码：`MWf43m39`
 
---------- 22 ---------
+--------- 18 ---------
 * 账号：`gdsbojt@outlook.com`
 * 密码：`jSjvFmRj8B`
 
---------- 23 ---------
+--------- 19 ---------
 * 账号：`uywttudv@hotmail.com`
 * 密码：`ET66uw13`
 
---------- 24 ---------
+--------- 20 ---------
 * 账号：`kfajcmfaj@hotmail.com`
-* 密码：`Dd112abf0`
+* 密码：`Dd1075805`
 
---------- 25 ---------
+--------- 21 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
-* 密码：`Dd142d838`
+* 密码：`Dd1ace044`
 
---------- 26 ---------
+--------- 22 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
