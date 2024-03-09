@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-10 03:34:49**
+更新时间：**2024-03-10 04:10:25**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,74 +224,62 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 美国账号：`elenitolitz6@hotmail.com`
-* 密码：`QKl73z19`
-
---------- 2 ---------
 * 账号：`gdsbojt@outlook.com`
 * 密码：`8qPhj6Mhuz`
+
+--------- 2 ---------
+* 账号：`rrdaebegrxx@outlook.com`
+* 密码：`jNBCwuS66Q`
 
 --------- 3 ---------
 * 账号：`ffvhdrybmy@outlook.com`
 * 密码：`88pUqFDu6t`
 
 --------- 4 ---------
-* 账号：`aawcuryums@outlook.com`
-* 密码：`EKD1jVsryh`
+* 账号：`gfngrdvd@hotmail.com`
+* 密码：`Dd1a44994`
 
 --------- 5 ---------
-* 账号：`gfngrdvd@hotmail.com`
-* 密码：`Dd15e43fb`
-
---------- 6 ---------
 * 账号：`isaaczxric@hotmail.com`
 * 密码：`Dd1726c34`
 
---------- 7 ---------
+--------- 6 ---------
 * 账号：`idshare.me_002@icloud.com`
 * 密码：`xzpTqpp65n`
 
---------- 8 ---------
+--------- 7 ---------
 * 账号：`dolsieabdhot@hotmail.com`
 * 密码：`Mm5UgR4BJ7`
 
---------- 9 ---------
+--------- 8 ---------
 * 账号：`aclxglb732503@icloud.com`
 * 密码：`w6Tn1nyHBy`
 
---------- 10 ---------
+--------- 9 ---------
 * 账号：`idshare.me_003@icloud.com`
-* 密码：`BGe90f18`
+* 密码：`BHk26g53`
 
---------- 11 ---------
+--------- 10 ---------
 * 账号：`idshare.me_001@icloud.com`
 * 密码：`FGn06h25`
 
---------- 12 ---------
-* 账号：`elenitolitz6@hotmail.com`
+--------- 11 ---------
+* 账号：`idshare.me_004@icloud.com`
 * 密码：`ZPe07a28`
 
---------- 13 ---------
-* 账号：`idshare.me_004@icloud.com`
-* 密码：`FCm92t94`
-
---------- 14 ---------
-* 账号：`leoqfbburke@hotmail.com`
-* 密码：`WEm38m63`
-
---------- 15 ---------
+--------- 12 ---------
 * 账号：`gdsbojt@outlook.com`
 * 密码：`8qPhj6Mhuz`
 
---------- 16 ---------
+--------- 13 ---------
 * 账号：`kfajcmfaj@hotmail.com`
 * 密码：`Dd1dc1893`
 
---------- 17 ---------
+--------- 14 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
 * 密码：`Dd15a413b`
 
---------- 18 ---------
+--------- 15 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
