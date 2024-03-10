@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-10 10:21:15**
+更新时间：**2024-03-10 10:37:09**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -233,19 +233,19 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`uqyaagj@hotmail.com`
-* 密码：`Dd15e3653`
+* 密码：`Dd10e1944`
 
 --------- 4 ---------
 * 账号：`gdsbojt@outlook.com`
 * 密码：`8qPhj6Mhuz`
 
 --------- 5 ---------
-* 账号：`aawcuryums@outlook.com`
-* 密码：`EKD1jVsryh`
-
---------- 6 ---------
 * 账号：`xpmdrrt@hotmail.com`
 * 密码：`HHnD5QCcMy`
+
+--------- 6 ---------
+* 账号：`ffvhdrybmy@outlook.com`
+* 密码：`Zp5TX7NkC3`
 
 --------- 7 ---------
 * 账号：`htgawuatee@hotmail.com`
@@ -253,7 +253,7 @@ PS：最好月付，防止跑路！
 
 --------- 8 ---------
 * 账号：`uqyaagj@hotmail.com`
-* 密码：`Dd15e3653`
+* 密码：`Dd10e1944`
 
 --------- 9 ---------
 * 账号：`ynfjqfq@hotmail.com`
@@ -264,8 +264,8 @@ PS：最好月付，防止跑路！
 * 密码：`Dd1d859c6`
 
 --------- 11 ---------
-* 账号：`isaaczxric@hotmail.com`
-* 密码：`Dd1726c34`
+* 账号：`gfngrdvd@hotmail.com`
+* 密码：`Dd15b0dc6`
 
 --------- 12 ---------
 * 账号：`idshare.me_002@icloud.com`
@@ -281,11 +281,11 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`idshare.me_003@icloud.com`
-* 密码：`KWl93w28`
+* 密码：`HIh27x65`
 
 --------- 16 ---------
 * 账号：`idshare.me_001@icloud.com`
-* 密码：`DIg07x46`
+* 密码：`BGa00w99`
 
 --------- 17 ---------
 * 账号：`idshare.me_004@icloud.com`
@@ -297,7 +297,7 @@ PS：最好月付，防止跑路！
 
 --------- 19 ---------
 * 账号：`uqyaagj@hotmail.com`
-* 密码：`Dd15e3653`
+* 密码：`Dd10e1944`
 
 --------- 20 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
