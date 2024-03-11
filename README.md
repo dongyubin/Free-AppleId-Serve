@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-11 14:14:31**
+更新时间：**2024-03-11 14:37:04**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,7 +225,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`lade2585@21cn.com`
-* 密码：`IAf72i74`
+* 密码：`QFu64v74`
 
 --------- 2 ---------
 * 美国账号：`pithoo@21cn.com`
@@ -233,65 +233,61 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`gdsbojt@outlook.com`
-* 密码：`82QJpxKehV`
+* 密码：`DcQmzcR4fh`
 
 --------- 4 ---------
 * 账号：`aawcuryums@outlook.com`
-* 密码：`Pg26gwdEDJ`
+* 密码：`DKh2C6CxpZ`
 
 --------- 5 ---------
-* 账号：`rtfxwnypc@outlook.com`
-* 密码：`txxkS1V4PP`
+* 账号：`ucdnxjdtj@outlook.com`
+* 密码：`ma2UxYyJT5`
 
 --------- 6 ---------
 * 账号：`unpbvcd@hotmail.com`
 * 密码：`Dd1a6d239`
 
 --------- 7 ---------
-* 账号：`eykpfeucnya@hotmail.com`
-* 密码：`Dd11cc324`
-
---------- 8 ---------
 * 账号：`idshare.me_002@icloud.com`
 * 密码：`Y9e2jy3WMj`
 
---------- 9 ---------
+--------- 8 ---------
 * 账号：`aclxglb732503@icloud.com`
 * 密码：`7S62SPA4Rw`
 
---------- 10 ---------
+--------- 9 ---------
 * 账号：`idshare.me_003@icloud.com`
 * 密码：`BSZnh9bbTp`
 
---------- 11 ---------
+--------- 10 ---------
 * 账号：`idshare.me_001@icloud.com`
-* 密码：`LHa28o45`
+* 密码：`MXp19f32`
+
+--------- 11 ---------
+* 账号：`idshare.me_004@icloud.com`
+* 密码：`SSx81m14`
 
 --------- 12 ---------
-* 账号：`charsonkwes@hotmail.com`
-* 密码：`MBg47b74`
-
---------- 13 ---------
-* 账号：`idshare.me_004@icloud.com`
+* 账号：`lade2585@21cn.com`
 * 密码：`LFp63g22`
 
---------- 14 ---------
+--------- 13 ---------
 * 账号：`pithoo@21cn.com`
-* 密码：`VOi09u36`
+* 密码：`PEr50h50`
+
+--------- 14 ---------
+* 账号：`gdsbojt@outlook.com`
+* 密码：`DcQmzcR4fh`
 
 --------- 15 ---------
-* 账号：`gdsbojt@outlook.com`
-* 密码：`82QJpxKehV`
-
---------- 16 ---------
 * 账号：`msjayunpara@hotmail.com`
 * 密码：`YY44zz55`
 
---------- 17 ---------
+--------- 16 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
 * 密码：`Dd15a413b`
 
---------- 18 ---------
+--------- 17 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
