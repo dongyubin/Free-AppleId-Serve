@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-12 04:13:07**
+更新时间：**2024-03-12 04:35:54**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,74 +224,70 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 美国账号：`anthonyhfwv@hotmail.com`
-* 密码：`YPk92f27`
+* 账号：`rejnjcydcr@hotmail.com`
+* 密码：`NN22aa44`
 
 --------- 2 ---------
-* 美国账号：`lade2585@21cn.com`
-* 密码：`MOh70d08`
+* 账号：`jxruguspbus@hotmail.com`
+* 密码：`QQ66ee33`
 
 --------- 3 ---------
+* 账号：`ckcqmqfgapm@hotmail.com`
+* 密码：`VV88nn44`
+
+--------- 4 ---------
 * 账号：`gdsbojt@outlook.com`
 * 密码：`QdVB4NhpfP`
 
---------- 4 ---------
-* 账号：`r9j3ajbv6@outlook.com`
-* 密码：`up2unwDDXY`
-
 --------- 5 ---------
+* 账号：`nyaeawsgnj5@outlook.com`
+* 密码：`XUta6GCqDk`
+
+--------- 6 ---------
 * 账号：`ufmaqwpx@outlook.com`
 * 密码：`ycvj7Dp6pq`
 
---------- 6 ---------
-* 账号：`sjehcbjq@hotmail.com`
-* 密码：`DD55bb11`
-
 --------- 7 ---------
-* 账号：`jvrvbgsuxv@hotmail.com`
-* 密码：`PP33uu44`
+* 账号：`ckcqmqfgapm@hotmail.com`
+* 密码：`VV88nn44`
 
 --------- 8 ---------
+* 账号：`rejnjcydcr@hotmail.com`
+* 密码：`NN22aa44`
+
+--------- 9 ---------
+* 账号：`jvrvbgsuxv@hotmail.com`
+* 密码：`Dd18b6003`
+
+--------- 10 ---------
 * 账号：`idshare.me_002@icloud.com`
 * 密码：`3EaSRu2KJR`
 
---------- 9 ---------
-* 账号：`lucasmgitbrooks@hotmail.com`
-* 密码：`CH6JQdFgWP`
-
---------- 10 ---------
-* 账号：`aclxglb732503@icloud.com`
-* 密码：`2WhGPX5cQz`
-
 --------- 11 ---------
-* 账号：`idshare.me_001@icloud.com`
-* 密码：`YHo03o19`
+* 账号：`aclxglb732503@icloud.com`
+* 密码：`CH6JQdFgWP`
 
 --------- 12 ---------
 * 账号：`anthonyhfwv@hotmail.com`
-* 密码：`NXp02v27`
+* 密码：`2WhGPX5cQz`
 
 --------- 13 ---------
 * 账号：`lade2585@21cn.com`
-* 密码：`SVh40y57`
+* 密码：`YHo03o19`
 
 --------- 14 ---------
-* 账号：`pithoo@21cn.com`
-* 密码：`IGl08f95`
-
---------- 15 ---------
 * 账号：`gdsbojt@outlook.com`
 * 密码：`QdVB4NhpfP`
 
---------- 16 ---------
-* 账号：`vcwutmxg@hotmail.com`
-* 密码：`Dd133ad6e`
+--------- 15 ---------
+* 账号：`ckcqmqfgapm@hotmail.com`
+* 密码：`VV88nn44`
 
---------- 17 ---------
+--------- 16 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
 * 密码：`Dd15a413b`
 
---------- 18 ---------
+--------- 17 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
