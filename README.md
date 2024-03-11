@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-11 22:10:20**
+更新时间：**2024-03-11 22:34:56**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,7 +229,7 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`lade2585@21cn.com`
-* 密码：`HHu63n72`
+* 密码：`GMx40i67`
 
 --------- 3 ---------
 * 美国账号：`pithoo@21cn.com`
@@ -237,35 +237,35 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 账号：`vcwutmxg@hotmail.com`
-* 密码：`Dd1805127`
+* 密码：`Dd16d5dcd`
 
 --------- 5 ---------
 * 账号：`gdsbojt@outlook.com`
-* 密码：`qs7HK4jtSa`
+* 密码：`xumcMc98Be`
 
 --------- 6 ---------
-* 账号：`ufmaqwpx@outlook.com`
-* 密码：`n9XTPxXJWu`
+* 账号：`purdu3pns@outlook.com`
+* 密码：`3XHkNGmDhk`
 
 --------- 7 ---------
-* 账号：`ufmaqwpx@outlook.com`
-* 密码：`n9XTPxXJWu`
+* 账号：`purdu3pns@outlook.com`
+* 密码：`3XHkNGmDhk`
 
 --------- 8 ---------
 * 账号：`unpbvcd@hotmail.com`
-* 密码：`Dd18c20b6`
+* 密码：`Dd19ed1de`
 
 --------- 9 ---------
 * 账号：`vcwutmxg@hotmail.com`
-* 密码：`Dd1805127`
+* 密码：`Dd16d5dcd`
 
 --------- 10 ---------
-* 账号：`aclxglb732503@icloud.com`
+* 账号：`lucasmgitbrooks@hotmail.com`
 * 密码：`uRyxhkT8e2`
 
 --------- 11 ---------
-* 账号：`idshare.me_001@icloud.com`
-* 密码：`TKwVU5t5Be`
+* 账号：`aclxglb732503@icloud.com`
+* 密码：`CH6JQdFgWP`
 
 --------- 12 ---------
 * 账号：`anthonyhfwv@hotmail.com`
@@ -273,19 +273,19 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 账号：`lade2585@21cn.com`
-* 密码：`SPc97d27`
+* 密码：`GFm12y14`
 
 --------- 14 ---------
 * 账号：`pithoo@21cn.com`
-* 密码：`SPx83z29`
+* 密码：`SPc97d27`
 
 --------- 15 ---------
 * 账号：`gdsbojt@outlook.com`
-* 密码：`qs7HK4jtSa`
+* 密码：`xumcMc98Be`
 
 --------- 16 ---------
 * 账号：`vcwutmxg@hotmail.com`
-* 密码：`Dd1ad345c`
+* 密码：`Dd16d5dcd`
 
 --------- 17 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
