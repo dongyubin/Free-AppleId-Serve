@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-12 15:10:44**
+更新时间：**2024-03-12 15:34:47**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,50 +224,46 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`oneabelsa@hotmail.com`
-* 密码：`Dd1d6c11e`
+* 账号：`omombotasieh@hotmail.com`
+* 密码：`Dd1b1fa4a`
 
 --------- 2 ---------
 * 账号：`orpitadjienaf@hotmail.com`
 * 密码：`Dd12f81ee`
 
 --------- 3 ---------
-* 账号：`davidcrc6g@hotmail.com`
-* 密码：`m91rKkQPn6`
+* 账号：`danielmiller783@hotmail.com`
+* 密码：`HERvV3D31j`
 
 --------- 4 ---------
-* 账号：`wramos8y31@hotmail.com`
-* 密码：`W9tPU6bwQD`
+* 账号：`davidcrc6g@hotmail.com`
+* 密码：`nctaa2MZMt`
 
 --------- 5 ---------
-* 账号：`okaroheilishw@hotmail.com`
-* 密码：`Dd1350ab5`
+* 账号：`orpitadjienaf@hotmail.com`
+* 密码：`Dd12f81ee`
 
 --------- 6 ---------
-* 账号：`orpitadjienaf@hotmail.com`
-* 密码：`Dd12f81ee`
+* 账号：`omombotasieh@hotmail.com`
+* 密码：`Dd1b1fa4a`
 
 --------- 7 ---------
-* 账号：`oneabelsa@hotmail.com`
-* 密码：`Dd1d6c11e`
+* 账号：`oisintagscm@hotmail.com`
+* 密码：`Dd1e49d34`
 
 --------- 8 ---------
-* 账号：`oisintagscm@hotmail.com`
-* 密码：`Dd1538de9`
-
---------- 9 ---------
-* 账号：`idshare.me_001@icloud.com`
+* 账号：`ethanjamesyk@hotmail.com`
 * 密码：`8BE31cNwr3`
 
---------- 10 ---------
+--------- 9 ---------
 * 账号：`orpitadjienaf@hotmail.com`
 * 密码：`Dd12f81ee`
 
---------- 11 ---------
+--------- 10 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
 * 密码：`Dd15a413b`
 
---------- 12 ---------
+--------- 11 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
