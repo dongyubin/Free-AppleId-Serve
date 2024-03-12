@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-12 16:13:57**
+更新时间：**2024-03-12 16:34:39**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,34 +224,30 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`eliaszb7butler@hotmail.com`
-* 密码：`JR75mx94`
+* 账号：`danielmiller783@hotmail.com`
+* 密码：`w4aWXbEXkn`
 
 --------- 2 ---------
-* 账号：`mateorubh@hotmail.com`
-* 密码：`94j7v1NH6q`
+* 账号：`danielmiller783@hotmail.com`
+* 密码：`w4aWXbEXkn`
 
 --------- 3 ---------
-* 账号：`mateorubh@hotmail.com`
-* 密码：`94j7v1NH6q`
-
---------- 4 ---------
 * 账号：`ethanjamesyk@hotmail.com`
 * 密码：`GhhVz9BKCB`
 
---------- 5 ---------
+--------- 4 ---------
 * 账号：`idshare.me_001@icloud.com`
 * 密码：`PspFcTmEA6`
 
---------- 6 ---------
+--------- 5 ---------
 * 账号：`orpitadjienaf@hotmail.com`
 * 密码：`Dd12f81ee`
 
---------- 7 ---------
+--------- 6 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
 * 密码：`Dd15a413b`
 
---------- 8 ---------
+--------- 7 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
