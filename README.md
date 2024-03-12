@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-12 23:11:08**
+更新时间：**2024-03-12 23:37:49**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,7 +225,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`staysear58@21cn.com`
-* 密码：`DBw87w56`
+* 密码：`NMy38g81`
 
 --------- 2 ---------
 * 美国账号：`sesmough534@21cn.com`
@@ -233,23 +233,23 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 美国账号：`Ye2BjS2sciJZ@hotmail.com`
-* 密码：`DCr06w98`
+* 密码：`MAt03t91`
 
 --------- 4 ---------
 * 账号：`oneabelsa@hotmail.com`
-* 密码：`Dd16baa2f`
+* 密码：`Dd1acaebf`
 
 --------- 5 ---------
 * 账号：`omombotasieh@hotmail.com`
-* 密码：`Dd155f480`
+* 密码：`Dd1d37280`
 
 --------- 6 ---------
 * 账号：`orpitadjienaf@hotmail.com`
-* 密码：`Dd13ad013`
+* 密码：`Dd11a8179`
 
 --------- 7 ---------
 * 账号：`mateorubh@hotmail.com`
-* 密码：`asqnj2azhZ`
+* 密码：`zMBtg8t5US`
 
 --------- 8 ---------
 * 账号：`davidcrc6g@hotmail.com`
@@ -261,19 +261,19 @@ PS：最好月付，防止跑路！
 
 --------- 10 ---------
 * 账号：`orpitadjienaf@hotmail.com`
-* 密码：`Dd13ad013`
+* 密码：`Dd11a8179`
 
 --------- 11 ---------
 * 账号：`omombotasieh@hotmail.com`
-* 密码：`Dd155f480`
+* 密码：`Dd1d37280`
 
 --------- 12 ---------
 * 账号：`oneabelsa@hotmail.com`
-* 密码：`Dd16baa2f`
+* 密码：`Dd1acaebf`
 
 --------- 13 ---------
 * 账号：`oisintagscm@hotmail.com`
-* 密码：`Dd180898d`
+* 密码：`Dd1b671b0`
 
 --------- 14 ---------
 * 账号：`idshare.me_002@icloud.com`
@@ -289,43 +289,43 @@ PS：最好月付，防止跑路！
 
 --------- 17 ---------
 * 账号：`xo7d5AP9WN0M@hotmail.com`
-* 密码：`GNz64z79`
+* 密码：`CHu46c66`
 
 --------- 18 ---------
 * 账号：`Ye2BjS2sciJZ@hotmail.com`
-* 密码：`NZx30y66`
+* 密码：`TQz39t85`
 
 --------- 19 ---------
 * 账号：`arnettnickolas2abn@gmail.com`
-* 密码：`HUl96n59`
+* 密码：`HNv76z55`
 
 --------- 20 ---------
 * 账号：`rXT2vm264@hotmail.com`
-* 密码：`UUc62u04`
+* 密码：`GMq12l14`
 
 --------- 21 ---------
 * 账号：`aubriellabarcenasifmo@gmail.com`
-* 密码：`KQm89n55`
+* 密码：`MAt03t91`
 
 --------- 22 ---------
 * 账号：`jacksontlvest@hotmail.com`
-* 密码：`PVg70x25`
+* 密码：`PRu05f88`
 
 --------- 23 ---------
 * 账号：`staysear58@21cn.com`
-* 密码：`EHo57n50`
+* 密码：`EQr02o14`
 
 --------- 24 ---------
 * 账号：`sesmough534@21cn.com`
-* 密码：`DUb03q03`
+* 密码：`FHm99y64`
 
 --------- 25 ---------
 * 账号：`deraldmarchetta@gmail.com`
-* 密码：`SGm54o67`
+* 密码：`YWr39m05`
 
 --------- 26 ---------
 * 账号：`orpitadjienaf@hotmail.com`
-* 密码：`Dd13ad013`
+* 密码：`Dd11a8179`
 
 --------- 27 ---------
 * 账号：`mnqwguspqtk@hotmail.com`
