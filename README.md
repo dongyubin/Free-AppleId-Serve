@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-13 23:35:08**
+更新时间：**2024-03-14 00:13:07**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,73 +225,69 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`sesmough534@21cn.com`
-* 密码：`HPt06x77`
+* 密码：`MBn12l42`
 
 --------- 2 ---------
 * 账号：`askhatsafurae@hotmail.com`
-* 密码：`Dd1229bc4`
+* 密码：`Dd1510c26`
 
 --------- 3 ---------
-* 账号：`ariczaza9@hotmail.com`
-* 密码：`Dd1c47762`
+* 账号：`mateorubh@hotmail.com`
+* 密码：`zgyXdA2vc3`
 
 --------- 4 ---------
-* 账号：`mateorubh@hotmail.com`
-* 密码：`swZ4M93WRd`
+* 账号：`danielvc2pweaver@hotmail.com`
+* 密码：`ucNQg2yPJQ`
 
 --------- 5 ---------
-* 账号：`danielvc2pweaver@hotmail.com`
-* 密码：`6PVF7AMWhQ`
+* 账号：`assomawargind@hotmail.com`
+* 密码：`Dd1acf100`
 
 --------- 6 ---------
-* 账号：`assomawargind@hotmail.com`
-* 密码：`Dd1509939`
+* 账号：`ouadigestine@hotmail.com`
+* 密码：`Dd1f583a5`
 
 --------- 7 ---------
-* 账号：`ariczaza9@hotmail.com`
-* 密码：`Dd1c47762`
+* 账号：`askhatsafurae@hotmail.com`
+* 密码：`Dd1510c26`
 
 --------- 8 ---------
-* 账号：`askhatsafurae@hotmail.com`
-* 密码：`Dd1229bc4`
-
---------- 9 ---------
 * 账号：`idshare.me_002@icloud.com`
 * 密码：`718KyGYYtK`
 
---------- 10 ---------
+--------- 9 ---------
 * 账号：`ja5jyweaver@hotmail.com`
-* 密码：`3Wdewy62R9`
+* 密码：`1rYCkmj1XT`
+
+--------- 10 ---------
+* 账号：`aclxglb732503@icloud.com`
+* 密码：`xaqB3mKsTr`
 
 --------- 11 ---------
-* 账号：`aclxglb732503@icloud.com`
-* 密码：`1nJa9hu6fX`
+* 账号：`RlozpcRvoahuxt@hotmail.com`
+* 密码：`ZGz22a07`
 
 --------- 12 ---------
-* 账号：`RlozpcRvoahuxt@hotmail.com`
-* 密码：`OFb30s78`
+* 账号：`sesmough534@21cn.com`
+* 密码：`WTw12e57`
 
 --------- 13 ---------
-* 账号：`sesmough534@21cn.com`
-* 密码：`TZz54n82`
+* 账号：`a2yg8patel@hotmail.com`
+* 密码：`CEd40d22`
 
 --------- 14 ---------
-* 账号：`a2yg8patel@hotmail.com`
-* 密码：`GFm05s07`
+* 账号：`karrinashellyann@gmail.com`
+* 密码：`IRd81a47`
 
 --------- 15 ---------
-* 账号：`karrinashellyann@gmail.com`
-* 密码：`QQv21p22`
-
---------- 16 ---------
 * 账号：`piriyalulon@hotmail.com`
 * 密码：`Dd1c64f19`
 
---------- 17 ---------
+--------- 16 ---------
 * 账号：`askhatsafurae@hotmail.com`
-* 密码：`Dd1229bc4`
+* 密码：`Dd1510c26`
 
---------- 18 ---------
+--------- 17 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
