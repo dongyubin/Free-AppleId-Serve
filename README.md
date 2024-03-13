@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-13 09:47:23**
+更新时间：**2024-03-13 10:19:04**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,15 +225,15 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`sesmough534@21cn.com`
-* 密码：`DWt79m30`
+* 密码：`WNd30i79`
 
 --------- 2 ---------
-* 账号：`danielmiller783@hotmail.com`
-* 密码：`5rTTVTYMeU`
+* 账号：`gra6fbaker@hotmail.com`
+* 密码：`bW2UqHXSnS`
 
 --------- 3 ---------
 * 账号：`gra6fbaker@hotmail.com`
-* 密码：`PHY7zPxsnd`
+* 密码：`bW2UqHXSnS`
 
 --------- 4 ---------
 * 账号：`idshare.me_002@icloud.com`
@@ -249,7 +249,7 @@ PS：最好月付，防止跑路！
 
 --------- 7 ---------
 * 账号：`sesmough534@21cn.com`
-* 密码：`VIh00t48`
+* 密码：`KIg88b29`
 
 --------- 8 ---------
 * 账号：`orpitadjienaf@hotmail.com`
