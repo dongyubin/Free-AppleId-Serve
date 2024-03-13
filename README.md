@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-13 17:12:03**
+更新时间：**2024-03-13 17:34:47**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,44 +228,44 @@ PS：最好月付，防止跑路！
 * 密码：`ZGa74h11`
 
 --------- 2 ---------
-* 账号：`anglrautiae@hotmail.com`
-* 密码：`Dd172a1bc`
+* 账号：`aphyiamelds8@hotmail.com`
+* 密码：`Dd143fc26`
 
 --------- 3 ---------
-* 账号：`aphyiamelds8@hotmail.com`
-* 密码：`Dd1cb9c52`
+* 账号：`pakhshbregnat@hotmail.com`
+* 密码：`Dd1787b40`
 
 --------- 4 ---------
-* 账号：`pakhshbregnat@hotmail.com`
-* 密码：`Dd1bb2922`
+* 账号：`piriyalulon@hotmail.com`
+* 密码：`Dd15d058c`
 
 --------- 5 ---------
-* 账号：`danielmiller783@hotmail.com`
-* 密码：`s5MGXXPkB3`
+* 账号：`ethanckcdruiz@hotmail.com`
+* 密码：`Y4zrFkT4vS`
 
 --------- 6 ---------
-* 账号：`danielvc2pweaver@hotmail.com`
-* 密码：`ffWWWZ4e1f`
+* 账号：`levidxgarza@hotmail.com`
+* 密码：`VdcYwu3gBe`
 
 --------- 7 ---------
 * 账号：`pabitonapanep@hotmail.com`
 * 密码：`Dd1de3436`
 
 --------- 8 ---------
-* 账号：`pakhshbregnat@hotmail.com`
-* 密码：`Dd1bb2922`
+* 账号：`piriyalulon@hotmail.com`
+* 密码：`Dd15d058c`
 
 --------- 9 ---------
-* 账号：`aphyiamelds8@hotmail.com`
-* 密码：`Dd1cb9c52`
+* 账号：`pakhshbregnat@hotmail.com`
+* 密码：`Dd1787b40`
 
 --------- 10 ---------
-* 账号：`ouadigestine@hotmail.com`
-* 密码：`Dd1f81e87`
+* 账号：`aphyiamelds8@hotmail.com`
+* 密码：`Dd143fc26`
 
 --------- 11 ---------
-* 账号：`anglrautiae@hotmail.com`
-* 密码：`Dd172a1bc`
+* 账号：`ouadigestine@hotmail.com`
+* 密码：`Dd1ace209`
 
 --------- 12 ---------
 * 账号：`idshare.me_002@icloud.com`
@@ -301,7 +301,7 @@ PS：最好月付，防止跑路！
 
 --------- 20 ---------
 * 账号：`anglrautiae@hotmail.com`
-* 密码：`Dd172a1bc`
+* 密码：`Dd1db1164`
 
 --------- 21 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
