@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-13 12:35:31**
+更新时间：**2024-03-13 13:12:08**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,41 +225,77 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`sesmough534@21cn.com`
-* 密码：`AYn09c03`
+* 密码：`VLm85f84`
 
 --------- 2 ---------
-* 账号：`gra6fbaker@hotmail.com`
-* 密码：`A9zjaxT6VD`
+* 账号：`anglrautiae@hotmail.com`
+* 密码：`TT11bb66`
 
 --------- 3 ---------
-* 账号：`danielmiller783@hotmail.com`
-* 密码：`8kedEHHaNj`
+* 账号：`pechanieymah@hotmail.com`
+* 密码：`PP33dd44`
 
 --------- 4 ---------
-* 账号：`idshare.me_002@icloud.com`
-* 密码：`tpKzfZF7Vq`
+* 账号：`pakhshbregnat@hotmail.com`
+* 密码：`ZZ33uu33`
 
 --------- 5 ---------
+* 账号：`piriyalulon@hotmail.com`
+* 密码：`WW66zz33`
+
+--------- 6 ---------
+* 账号：`pabitonapanep@hotmail.com`
+* 密码：`MM22qq33`
+
+--------- 7 ---------
+* 账号：`piriyalulon@hotmail.com`
+* 密码：`WW66zz33`
+
+--------- 8 ---------
+* 账号：`pakhshbregnat@hotmail.com`
+* 密码：`ZZ33uu33`
+
+--------- 9 ---------
+* 账号：`pechanieymah@hotmail.com`
+* 密码：`PP33dd44`
+
+--------- 10 ---------
+* 账号：`ouadigestine@hotmail.com`
+* 密码：`PP77uu33`
+
+--------- 11 ---------
+* 账号：`anglrautiae@hotmail.com`
+* 密码：`TT11bb66`
+
+--------- 12 ---------
+* 账号：`idshare.me_002@icloud.com`
+* 密码：`Jth2zkGhpp`
+
+--------- 13 ---------
 * 账号：`aclxglb732503@icloud.com`
 * 密码：`4GKyK5vPyj`
 
---------- 6 ---------
+--------- 14 ---------
 * 账号：`idshare.me_001@icloud.com`
 * 密码：`JfPNFBUj5q`
 
---------- 7 ---------
+--------- 15 ---------
+* 账号：`nbiosss@163.com`
+* 密码：`GDg32g45`
+
+--------- 16 ---------
 * 账号：`sesmough534@21cn.com`
-* 密码：`YYr70x25`
+* 密码：`OPu25d83`
 
---------- 8 ---------
-* 账号：`orpitadjienaf@hotmail.com`
-* 密码：`Dd15eBMWc`
+--------- 17 ---------
+* 账号：`piriyalulon@hotmail.com`
+* 密码：`WW66zz33`
 
---------- 9 ---------
-* 账号：`otemahhessell@hotmail.com`
-* 密码：`JJ11dd11`
+--------- 18 ---------
+* 账号：`anglrautiae@hotmail.com`
+* 密码：`TT11bb66`
 
---------- 10 ---------
+--------- 19 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
