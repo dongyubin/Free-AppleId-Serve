@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-14 03:35:29**
+更新时间：**2024-03-14 04:11:25**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,56 +224,56 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`champagnetaniqua@gmail.com`
-* 密码：`AA77uu88`
+* 账号：`mairinshivani@gmail.com`
+* 密码：`YY88dd22`
 
 --------- 2 ---------
-* 账号：`eliaszb7butler@hotmail.com`
-* 密码：`MT75fm39`
+* 账号：`desareeclover@gmail.com`
+* 密码：`KK88nn44`
 
 --------- 3 ---------
-* 账号：`danielmiller783@hotmail.com`
-* 密码：`S7uSqF6YU8`
+* 账号：`mateorubh@hotmail.com`
+* 密码：`mx3kTf9uVe`
 
 --------- 4 ---------
 * 账号：`gra6fbaker@hotmail.com`
-* 密码：`9XyEXFqGad`
+* 密码：`Bm9jpV2xTJ`
 
 --------- 5 ---------
-* 账号：`champagnetaniqua@gmail.com`
-* 密码：`AA77uu88`
+* 账号：`farahdray@gmail.com`
+* 密码：`Dd1933152`
 
 --------- 6 ---------
-* 账号：`natilietamila@gmail.com`
-* 密码：`BB22ss66`
+* 账号：`desareeclover@gmail.com`
+* 密码：`KK88nn44`
 
 --------- 7 ---------
+* 账号：`mairinshivani@gmail.com`
+* 密码：`YY88dd22`
+
+--------- 8 ---------
 * 账号：`idshare.me_002@icloud.com`
 * 密码：`718KyGYYtK`
 
---------- 8 ---------
+--------- 9 ---------
 * 账号：`aclxglb732503@icloud.com`
 * 密码：`1rYCkmj1XT`
 
---------- 9 ---------
+--------- 10 ---------
 * 账号：`idshare.me_001@icloud.com`
 * 密码：`xaqB3mKsTr`
 
---------- 10 ---------
-* 账号：`RlozpcRvoahuxt@hotmail.com`
-* 密码：`FLs86o99`
-
 --------- 11 ---------
 * 账号：`a2yg8patel@hotmail.com`
-* 密码：`IIf31n64`
+* 密码：`KCp99x54`
 
 --------- 12 ---------
-* 账号：`piriyalulon@hotmail.com`
-* 密码：`Dd1c64f19`
+* 账号：`desareeclover@gmail.com`
+* 密码：`KK88nn44`
 
 --------- 13 ---------
-* 账号：`askhatsafurae@hotmail.com`
-* 密码：`Dd16e3986`
+* 账号：`mahakedna55@gmail.com`
+* 密码：`Dd1ed5086`
 
 --------- 14 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
