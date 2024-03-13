@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-14 01:34:56**
+更新时间：**2024-03-14 02:13:23**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -224,74 +224,66 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 美国账号：`sesmough534@21cn.com`
-* 密码：`HGv14w77`
+* 账号：`askhatsafurae@hotmail.com`
+* 密码：`Dd1274bb6`
 
 --------- 2 ---------
-* 账号：`askhatsafurae@hotmail.com`
-* 密码：`Dd1dc5101`
+* 账号：`gra6fbaker@hotmail.com`
+* 密码：`KAMwsweR6y`
 
 --------- 3 ---------
-* 账号：`ariczaza9@hotmail.com`
-* 密码：`Dd1b4101d`
+* 账号：`d6jcmakhxyh@outlook.com`
+* 密码：`KCTxb3gXrm`
 
 --------- 4 ---------
-* 账号：`hudsonadamscy0@hotmail.com`
-* 密码：`N2pAFcTCCy`
+* 账号：`assomawargind@hotmail.com`
+* 密码：`Dd1a70156`
 
 --------- 5 ---------
-* 账号：`hudsonadamscy0@hotmail.com`
-* 密码：`N2pAFcTCCy`
+* 账号：`ouadigestine@hotmail.com`
+* 密码：`Dd1909cdc`
 
 --------- 6 ---------
-* 账号：`assomawargind@hotmail.com`
-* 密码：`Dd16bcb2a`
+* 账号：`askhatsafurae@hotmail.com`
+* 密码：`Dd1274bb6`
 
 --------- 7 ---------
-* 账号：`ariczaza9@hotmail.com`
-* 密码：`Dd1b4101d`
-
---------- 8 ---------
-* 账号：`ouadigestine@hotmail.com`
-* 密码：`Dd1ac9b1a`
-
---------- 9 ---------
-* 账号：`askhatsafurae@hotmail.com`
-* 密码：`Dd1dc5101`
-
---------- 10 ---------
 * 账号：`idshare.me_002@icloud.com`
 * 密码：`718KyGYYtK`
 
---------- 11 ---------
+--------- 8 ---------
 * 账号：`ja5jyweaver@hotmail.com`
 * 密码：`1rYCkmj1XT`
 
---------- 12 ---------
-* 账号：`RlozpcRvoahuxt@hotmail.com`
+--------- 9 ---------
+* 账号：`aclxglb732503@icloud.com`
 * 密码：`xaqB3mKsTr`
 
---------- 13 ---------
+--------- 10 ---------
+* 账号：`RlozpcRvoahuxt@hotmail.com`
+* 密码：`PQi47t65`
+
+--------- 11 ---------
 * 账号：`sesmough534@21cn.com`
-* 密码：`YYc37c75`
+* 密码：`RTq15o40`
+
+--------- 12 ---------
+* 账号：`a2yg8patel@hotmail.com`
+* 密码：`DOu65p69`
+
+--------- 13 ---------
+* 账号：`karrinashellyann@gmail.com`
+* 密码：`WPs67r77`
 
 --------- 14 ---------
-* 账号：`a2yg8patel@hotmail.com`
-* 密码：`KIb52v75`
-
---------- 15 ---------
-* 账号：`karrinashellyann@gmail.com`
-* 密码：`GCz42c11`
-
---------- 16 ---------
 * 账号：`piriyalulon@hotmail.com`
 * 密码：`Dd1c64f19`
 
---------- 17 ---------
+--------- 15 ---------
 * 账号：`askhatsafurae@hotmail.com`
-* 密码：`Dd1dc5101`
+* 密码：`Dd1274bb6`
 
---------- 18 ---------
+--------- 16 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
