@@ -213,7 +213,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-13 15:35:46**
+更新时间：**2024-03-13 16:13:24**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -225,77 +225,85 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`sesmough534@21cn.com`
-* 密码：`YTt48a67`
+* 密码：`UXu03y59`
 
 --------- 2 ---------
 * 账号：`anglrautiae@hotmail.com`
-* 密码：`Dd191aeab`
+* 密码：`Dd1f41500`
 
 --------- 3 ---------
-* 账号：`pechanieymah@hotmail.com`
-* 密码：`Dd120e9c1`
+* 账号：`aphyiamelds8@hotmail.com`
+* 密码：`BB55bb66`
 
 --------- 4 ---------
 * 账号：`pakhshbregnat@hotmail.com`
-* 密码：`Dd1577582`
+* 密码：`Dd11822ec`
 
 --------- 5 ---------
 * 账号：`piriyalulon@hotmail.com`
-* 密码：`Dd1f24e54`
+* 密码：`Dd183ddb7`
 
 --------- 6 ---------
 * 账号：`gra6fbaker@hotmail.com`
-* 密码：`JYrFQdWu3u`
+* 密码：`d5udUpUVEP`
 
 --------- 7 ---------
-* 账号：`mateorubh@hotmail.com`
-* 密码：`EngWRC32wm`
+* 账号：`gra6fbaker@hotmail.com`
+* 密码：`d5udUpUVEP`
 
 --------- 8 ---------
-* 账号：`piriyalulon@hotmail.com`
-* 密码：`Dd1f24e54`
+* 账号：`pabitonapanep@hotmail.com`
+* 密码：`Dd1373667`
 
 --------- 9 ---------
-* 账号：`pakhshbregnat@hotmail.com`
-* 密码：`Dd1577582`
+* 账号：`piriyalulon@hotmail.com`
+* 密码：`Dd183ddb7`
 
 --------- 10 ---------
-* 账号：`pechanieymah@hotmail.com`
-* 密码：`Dd120e9c1`
+* 账号：`pakhshbregnat@hotmail.com`
+* 密码：`Dd11822ec`
 
 --------- 11 ---------
-* 账号：`ouadigestine@hotmail.com`
-* 密码：`Dd1BMW4aa`
+* 账号：`aphyiamelds8@hotmail.com`
+* 密码：`BB55bb66`
 
 --------- 12 ---------
-* 账号：`anglrautiae@hotmail.com`
-* 密码：`Dd191aeab`
+* 账号：`ouadigestine@hotmail.com`
+* 密码：`Dd196b9e4`
 
 --------- 13 ---------
+* 账号：`anglrautiae@hotmail.com`
+* 密码：`Dd1f41500`
+
+--------- 14 ---------
 * 账号：`idshare.me_002@icloud.com`
 * 密码：`jWBh6JCq7d`
 
---------- 14 ---------
+--------- 15 ---------
 * 账号：`aclxglb732503@icloud.com`
 * 密码：`3Wdewy62R9`
 
---------- 15 ---------
+--------- 16 ---------
 * 账号：`idshare.me_001@icloud.com`
 * 密码：`JfPNFBUj5q`
 
---------- 16 ---------
-* 账号：`sesmough534@21cn.com`
-* 密码：`RDu54z11`
-
 --------- 17 ---------
-* 账号：`piriyalulon@hotmail.com`
-* 密码：`Dd1f24e54`
+* 账号：`sesmough534@21cn.com`
+* 密码：`XYf31o87`
 
 --------- 18 ---------
-* 账号：`anglrautiae@hotmail.com`
-* 密码：`Dd191aeab`
+* 账号：`a2yg8patel@hotmail.com`
+* 密码：`CVl21m93`
 
 --------- 19 ---------
+* 账号：`piriyalulon@hotmail.com`
+* 密码：`Dd183ddb7`
+
+--------- 20 ---------
+* 账号：`anglrautiae@hotmail.com`
+* 密码：`Dd1f41500`
+
+--------- 21 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
