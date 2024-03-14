@@ -1,3 +1,5 @@
+🌍 *[English](README-EN.md) ∙ [简体中文](README.md)*
+
 ![科学上网](https://ae01.alicdn.com/kf/Udbfe7cc277c149b4b54771c110000acc6.png)
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
