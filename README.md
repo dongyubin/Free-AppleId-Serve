@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-14 16:13:49**
+更新时间：**2024-03-14 16:35:15**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,45 +227,49 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`desareeclover@gmail.com`
-* 密码：`Dd17c988f`
+* 密码：`Dd1d6f0eb`
 
 --------- 2 ---------
-* 账号：`mateorubh@hotmail.com`
-* 密码：`2SfhrZtVqn`
+* 账号：`efwjr3@outlook.com`
+* 密码：`Hz7vEJT5RU`
 
 --------- 3 ---------
-* 账号：`snswdpkv@outlook.com`
-* 密码：`HMAKKsd5GB`
+* 账号：`danielvc2pweaver@hotmail.com`
+* 密码：`TuK3rUe2FP`
 
 --------- 4 ---------
-* 账号：`desareeclover@gmail.com`
-* 密码：`Dd17c988f`
+* 账号：`devonneshamarr@gmail.com`
+* 密码：`YY88ss66`
 
 --------- 5 ---------
-* 账号：`sdeane099@gmail.com`
-* 密码：`Dd1a80c2f`
-
---------- 6 ---------
-* 账号：`idshare.me_002@icloud.com`
-* 密码：`eBpm5St7G9`
-
---------- 7 ---------
-* 账号：`aclxglb732503@icloud.com`
-* 密码：`1rYCkmj1XT`
-
---------- 8 ---------
-* 账号：`idshare.me_001@icloud.com`
-* 密码：`1SqskYZY5P`
-
---------- 9 ---------
 * 账号：`desareeclover@gmail.com`
 * 密码：`Dd1d6f0eb`
 
+--------- 6 ---------
+* 账号：`sdeane099@gmail.com`
+* 密码：`Dd108381b`
+
+--------- 7 ---------
+* 账号：`idshare.me_002@icloud.com`
+* 密码：`eBpm5St7G9`
+
+--------- 8 ---------
+* 账号：`aclxglb732503@icloud.com`
+* 密码：`1rYCkmj1XT`
+
+--------- 9 ---------
+* 账号：`idshare.me_001@icloud.com`
+* 密码：`skpyqW9KuH`
+
 --------- 10 ---------
+* 账号：`desareeclover@gmail.com`
+* 密码：`Dd1dc2b8b`
+
+--------- 11 ---------
 * 账号：`mahakedna55@gmail.com`
 * 密码：`Dd1ed5086`
 
---------- 11 ---------
+--------- 12 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
