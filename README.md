@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-15 16:36:41**
+更新时间：**2024-03-15 17:10:50**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,49 +227,45 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`leavonmuts4@hotmail.com`
-* 密码：`Dd1fd065b`
+* 密码：`Dd150cbb5`
 
 --------- 2 ---------
 * 账号：`gordontran791@gmail.com`
-* 密码：`rqnBRv8mwY`
+* 密码：`8QeJc1aPN5`
 
 --------- 3 ---------
-* 账号：`maddoxabbott610@gmail.com`
-* 密码：`xdEsChVxA3`
+* 账号：`mateorubh@hotmail.com`
+* 密码：`u7XdNxVwAJ`
 
 --------- 4 ---------
 * 账号：`laoirepauzer@hotmail.com`
-* 密码：`Dd18a779a`
+* 密码：`Dd1785709`
 
 --------- 5 ---------
 * 账号：`leavonmuts4@hotmail.com`
-* 密码：`Dd1fd065b`
+* 密码：`Dd150cbb5`
 
 --------- 6 ---------
 * 账号：`charlesleilandgmbm@gmail.com`
-* 密码：`Dd1c6442f`
+* 密码：`Dd161e9b4`
 
 --------- 7 ---------
 * 账号：`dalozerhodinr@hotmail.com`
-* 密码：`Dd1b52ced`
+* 密码：`Dd1872eb4`
 
 --------- 8 ---------
-* 账号：`hudsonstjwest@outlook.com`
-* 密码：`RXa50z81`
+* 账号：`jamesml1cu@hotmail.com`
+* 密码：`OAg58g70`
 
 --------- 9 ---------
-* 账号：`jamesml1cu@hotmail.com`
-* 密码：`ZBm83f53`
-
---------- 10 ---------
 * 账号：`mychsubrato@hotmail.com`
 * 密码：`VV44mm88`
 
---------- 11 ---------
+--------- 10 ---------
 * 账号：`katsuntuguwib@hotmail.com`
 * 密码：`Dd16205c4`
 
---------- 12 ---------
+--------- 11 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
