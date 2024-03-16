@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-17 04:11:02**
+更新时间：**2024-03-17 04:35:46**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,54 +226,42 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`misookagralie@hotmail.com`
-* 密码：`CC22xx88`
+* 账号：`Minniesafari1z9f@outlook.com`
+* 密码：`Dd17e45e9`
 
 --------- 2 ---------
-* 账号：`Oswaldblakk9bwnta4h99pdxw8@outlook.com`
-* 密码：`WW11cc22`
+* 账号：`glidewader6198559@gmail.com`
+* 密码：`SS22qq88`
 
 --------- 3 ---------
-* 账号：`Minniesafari1z9f@outlook.com`
-* 密码：`MM11ss33`
+* 账号：`joharihojemi3qdr@outlook.com`
+* 密码：`Dd18fae5f`
 
 --------- 4 ---------
 * 账号：`glidewader6198559@gmail.com`
 * 密码：`SS22qq88`
 
 --------- 5 ---------
-* 账号：`joharihojemi3qdr@outlook.com`
-* 密码：`QQ55pp66`
+* 账号：`Minniesafari1z9f@outlook.com`
+* 密码：`Dd17e45e9`
 
 --------- 6 ---------
-* 账号：`glidewader6198559@gmail.com`
-* 密码：`SS22qq88`
-
---------- 7 ---------
-* 账号：`Minniesafari1z9f@outlook.com`
-* 密码：`MM11ss33`
-
---------- 8 ---------
-* 账号：`Oswaldblakk9bwnta4h99pdxw8@outlook.com`
-* 密码：`WW11cc22`
-
---------- 9 ---------
 * 账号：`demetrabarch0sdjllc67xrjn9@outlook.com`
 * 密码：`NN66nn22`
 
---------- 10 ---------
-* 账号：`misookagralie@hotmail.com`
-* 密码：`CC22xx88`
+--------- 7 ---------
+* 账号：`egizischgyphe@hotmail.com`
+* 密码：`Gs137259`
 
---------- 11 ---------
+--------- 8 ---------
 * 账号：`glidewader6198559@gmail.com`
 * 密码：`SS22qq88`
 
---------- 12 ---------
+--------- 9 ---------
 * 账号：`misookagralie@hotmail.com`
 * 密码：`CC22xx88`
 
---------- 13 ---------
+--------- 10 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
