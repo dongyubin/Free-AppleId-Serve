@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-16 11:34:24**
+更新时间：**2024-03-16 12:12:32**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,14 +226,58 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
+* 账号：`FFFFFF@FX88888888.com`
+* 密码：`shenhouyun.com_zSaeUPXz7T`
+
+--------- 2 ---------
+* 账号：`FFFF@FX88888888.com`
+* 密码：`shenhouyun.com_gGSFF1WSMq`
+
+--------- 3 ---------
+* 账号：`FFFFFFF@FX88888888.com`
+* 密码：`shenhouyun.com_HhsSQRQ2fM`
+
+--------- 4 ---------
+* 账号：`FFF@shenhouyun.com`
+* 密码：`shenhouyun.com_R58MZ96Ztm`
+
+--------- 5 ---------
+* 账号：`FF@z1z2.xyz`
+* 密码：`shenhouyun.com_zkC85UVvpG`
+
+--------- 6 ---------
+* 账号：`F@z1z2.xyz`
+* 密码：`shenhouyun.com_MZ9kjvGzuQ`
+
+--------- 7 ---------
+* 账号：`FF@shenhouyun.com`
+* 密码：`shenhouyun.com_t2zYk5NDRA`
+
+--------- 8 ---------
+* 账号：`FFF@z1z2.xyz`
+* 密码：`shenhouyun.com_NUSDuPnq9Y`
+
+--------- 9 ---------
+* 账号：`FFFF@z1z2.xyz`
+* 密码：`shenhouyun.com_9btF9cpAR8`
+
+--------- 10 ---------
+* 账号：`Margarettclarkeller@outlook.com`
+* 密码：`Dd17d18a5`
+
+--------- 11 ---------
+* 账号：`Antwainlesieur5xymen@outlook.com`
+* 密码：`Dd1a4598b`
+
+--------- 12 ---------
 * 账号：`mychsubrato@hotmail.com`
 * 密码：`VV44mm88`
 
---------- 2 ---------
+--------- 13 ---------
 * 账号：`katsuntuguwib@hotmail.com`
 * 密码：`Dd16205c4`
 
---------- 3 ---------
+--------- 14 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
