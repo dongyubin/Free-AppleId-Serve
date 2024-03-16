@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-16 17:10:15**
+更新时间：**2024-03-16 17:34:19**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,93 +227,53 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`rosaliaswanston1k@outlook.com`
-* 密码：`Dd1538385`
+* 密码：`Dd11c2f42`
 
 --------- 2 ---------
 * 账号：`Kamariheinzelmann7n@outlook.com`
-* 密码：`Dd1e58308`
+* 密码：`Dd1283a16`
 
 --------- 3 ---------
 * 账号：`anaisbarretts0f7lnj4q0mr62@outlook.com`
-* 密码：`Dd10afe63`
+* 密码：`Dd1130d6c`
 
 --------- 4 ---------
 * 账号：`waynettamcmahanfiuoa@outlook.com`
-* 密码：`Dd1c09db6`
+* 密码：`Dd14f3fe5`
 
 --------- 5 ---------
-* 账号：`FFFFF@FX88888888.com`
-* 密码：`shenhouyun.com_n1M1qCwnG9`
+* 账号：`Margarettclarkeller@outlook.com`
+* 密码：`Dd13598ba`
 
 --------- 6 ---------
-* 账号：`FFFFFF@FX88888888.com`
-* 密码：`shenhouyun.com_gGSFF1v`
+* 账号：`waynettamcmahanfiuoa@outlook.com`
+* 密码：`Dd14f3fe5`
 
 --------- 7 ---------
-* 账号：`FFF@z1z2.xyz`
-* 密码：`shenhouyun.com_j3uUjJewGp`
+* 账号：`anaisbarretts0f7lnj4q0mr62@outlook.com`
+* 密码：`Dd1130d6c`
 
 --------- 8 ---------
-* 账号：`FFFF@z1z2.xyz`
-* 密码：`shenhouyun.com_NUSDuPnq9`
+* 账号：`Kamariheinzelmann7n@outlook.com`
+* 密码：`Dd1283a16`
 
 --------- 9 ---------
-* 账号：`FFF@shenhouyun.com`
-* 密码：`shenhouyun.com_jg4KMfVSPZ`
-
---------- 10 ---------
-* 账号：`F@shenhouyun.com`
-* 密码：`shenhouyun.com_3v6UXAwgH2`
-
---------- 11 ---------
-* 账号：`FF@z1z2.xyz`
-* 密码：`shenhouyun.com_gGSFF1W`
-
---------- 12 ---------
-* 账号：`F@z1z2.xyz`
-* 密码：`shenhouyun.com_gGSFF1W`
-
---------- 13 ---------
-* 账号：`FF@shenhouyun.com`
-* 密码：`shenhouyun.com_9kqGbF9QxC`
-
---------- 14 ---------
-* 账号：`Margarettclarkeller@outlook.com`
-* 密码：`Dd15153cf`
-
---------- 15 ---------
-* 账号：`waynettamcmahanfiuoa@outlook.com`
-* 密码：`Dd1c09db6`
-
---------- 16 ---------
-* 账号：`anaisbarretts0f7lnj4q0mr62@outlook.com`
-* 密码：`Dd10afe63`
-
---------- 17 ---------
-* 账号：`Kamariheinzelmann7n@outlook.com`
-* 密码：`Dd1e58308`
-
---------- 18 ---------
 * 账号：`Antwainlesieur5xymen@outlook.com`
 * 密码：`Dd10f9546`
 
---------- 19 ---------
-* 账号：`elijahv4aemason@hotmail.com`
-* 密码：`Dd13ebdc4`
-
---------- 20 ---------
+--------- 10 ---------
 * 账号：`rosaliaswanston1k@outlook.com`
-* 密码：`Dd1538385`
+* 密码：`Dd11c2f42`
 
---------- 21 ---------
+--------- 11 ---------
 * 账号：`waynettamcmahanfiuoa@outlook.com`
-* 密码：`Dd1c09db6`
+* 密码：`Dd14f3fe5`
 
---------- 22 ---------
+--------- 12 ---------
 * 账号：`rosaliaswanston1k@outlook.com`
-* 密码：`Dd1538385`
+* 密码：`Dd11c2f42`
 
---------- 23 ---------
+--------- 13 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
