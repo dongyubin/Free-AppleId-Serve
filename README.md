@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-16 18:34:22**
+更新时间：**2024-03-16 19:08:26**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,57 +227,53 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`rosaliaswanston1k@outlook.com`
-* 密码：`Dd1c590d4`
+* 密码：`Dd1f5ba57`
 
 --------- 2 ---------
 * 账号：`Kamariheinzelmann7n@outlook.com`
-* 密码：`Dd13ee5cc`
+* 密码：`Dd1b81b70`
 
 --------- 3 ---------
 * 账号：`anaisbarretts0f7lnj4q0mr62@outlook.com`
-* 密码：`Dd124ca63`
+* 密码：`Dd1f47c95`
 
 --------- 4 ---------
 * 账号：`waynettamcmahanfiuoa@outlook.com`
-* 密码：`Dd16f5413`
+* 密码：`Dd1dceab0`
 
 --------- 5 ---------
-* 账号：`Margarettclarkeller@outlook.com`
-* 密码：`Dd117f1b3`
+* 账号：`waynettamcmahanfiuoa@outlook.com`
+* 密码：`Dd1dceab0`
 
 --------- 6 ---------
-* 账号：`waynettamcmahanfiuoa@outlook.com`
-* 密码：`Dd16f5413`
+* 账号：`anaisbarretts0f7lnj4q0mr62@outlook.com`
+* 密码：`Dd1f47c95`
 
 --------- 7 ---------
-* 账号：`anaisbarretts0f7lnj4q0mr62@outlook.com`
-* 密码：`Dd124ca63`
+* 账号：`Kamariheinzelmann7n@outlook.com`
+* 密码：`Dd1b81b70`
 
 --------- 8 ---------
-* 账号：`Kamariheinzelmann7n@outlook.com`
-* 密码：`Dd13ee5cc`
-
---------- 9 ---------
 * 账号：`Antwainlesieur5xymen@outlook.com`
 * 密码：`Dd18dac61`
 
---------- 10 ---------
+--------- 9 ---------
 * 账号：`elijahv4aemason@hotmail.com`
 * 密码：`Dd1a296e4`
 
---------- 11 ---------
+--------- 10 ---------
 * 账号：`rosaliaswanston1k@outlook.com`
-* 密码：`Dd1c590d4`
+* 密码：`Dd1f5ba57`
+
+--------- 11 ---------
+* 账号：`waynettamcmahanfiuoa@outlook.com`
+* 密码：`Dd1dceab0`
 
 --------- 12 ---------
-* 账号：`waynettamcmahanfiuoa@outlook.com`
-* 密码：`Dd16f5413`
+* 账号：`rosaliaswanston1k@outlook.com`
+* 密码：`Dd1f5ba57`
 
 --------- 13 ---------
-* 账号：`rosaliaswanston1k@outlook.com`
-* 密码：`Dd1c590d4`
-
---------- 14 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
