@@ -21,6 +21,19 @@ def replace_chunk(content, marker, chunk, inline=False):
     chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
     return r.sub(chunk, content)
 
+def fetch_apple_account(sample_text):
+    # 正则表达式匹配 pattern
+    pattern = r"copy\('([^']+)'\)"
+
+    # 使用 re.search() 查找匹配项
+    match = re.search(pattern, sample_text)
+
+    # 如果找到了匹配项，则输出
+    if match:
+        email_address = match.group(1)
+        return email_address
+    else:
+        return ''
 
 def fetch_apple_count(urls):
     # 存储所有网站的账号密码
@@ -110,6 +123,30 @@ def fetch_apple_count(urls):
                         password_value = password_input.get('value')
                         credentials.append({"account": account_value, "password": password_value, "country": ''})
                 all_credentials.extend(credentials)
+            elif 'appleID2' in url:
+                response = requests.get(url)
+                accounts = []
+                passwords = []
+                account_normal_index = []
+                if response.status_code == 200:
+                    html_doc = response.content
+                    soup = BeautifulSoup(html_doc, 'html.parser')
+                    buttons = soup.find_all('button', {'class': 'btn-outline-secondary'})
+                    # 账号状态:获取class为card-title
+                    card_status = soup.find_all(class_='card-title')
+                    # print(card_status)
+                    # for i,card_statu in enumerate(card_status):
+                    #     if '正常' in card_statu.get_text():
+                    #         account_normal_index.append(i)
+                    for button in buttons:
+                        if '复制帐号' in button.text:
+                            account = fetch_apple_account(button.get('onclick'))
+                            accounts.append(account)
+                        elif '复制密码' in button.text:
+                            pwd = fetch_apple_account(button.get('onclick'))
+                            passwords.append(pwd)
+                credentials = [{"account": a, "password": p, "country": ''} for a, p in zip(accounts, passwords)]
+                all_credentials.extend(credentials)
             else:
                 response = requests.get(url)
                 accounts = []
@@ -174,25 +211,25 @@ if __name__ == "__main__":
     # 获取账号信息
     accounts = fetch_apple_count(urls)
 
-    # 构建账号信息的Markdown格式
-    entries_md = "\n".join([
-        "\n--------- {i} ---------\n* {country}账号：`{account}`\n* 密码：`{password}`".format(i=i+1, **account)
-        for i, account in enumerate(accounts)
-    ])
+    # # 构建账号信息的Markdown格式
+    # entries_md = "\n".join([
+    #     "\n--------- {i} ---------\n* {country}账号：`{account}`\n* 密码：`{password}`".format(i=i+1, **account)
+    #     for i, account in enumerate(accounts)
+    # ])
 
-    # 更新账号信息
-    rewritten = replace_chunk(readme_contents, "apple", entries_md)
+    # # 更新账号信息
+    # rewritten = replace_chunk(readme_contents, "apple", entries_md)
 
-    # 获取当前日期
-    current_datetime = datetime.now()
-    target_timezone = pytz.timezone('Asia/Shanghai')
-    target_datetime = current_datetime.astimezone(target_timezone)
-    entries_update_md = "\n".join([
-        "更新时间：**{}**".format(target_datetime.strftime("%Y-%m-%d %H:%M:%S"))
-    ])
+    # # 获取当前日期
+    # current_datetime = datetime.now()
+    # target_timezone = pytz.timezone('Asia/Shanghai')
+    # target_datetime = current_datetime.astimezone(target_timezone)
+    # entries_update_md = "\n".join([
+    #     "更新时间：**{}**".format(target_datetime.strftime("%Y-%m-%d %H:%M:%S"))
+    # ])
 
-    # 更新日期信息
-    rewritten_update = replace_chunk(rewritten, "updateTime", entries_update_md)
+    # # 更新日期信息
+    # rewritten_update = replace_chunk(rewritten, "updateTime", entries_update_md)
 
-    # 写入全部更新
-    readme.open("w", encoding="utf-8").write(rewritten_update)
+    # # 写入全部更新
+    # readme.open("w", encoding="utf-8").write(rewritten_update)
