@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-19 00:38:08**
+更新时间：**2024-03-19 01:11:44**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -231,33 +231,45 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`melvinnfi7005@gmail.com`
-* 密码：`GHm43g59`
+* 密码：`GZv56v62`
 
 --------- 3 ---------
-* 中国大陆账号：`boasough@21cn.com`
-* 密码：`ADy91s32`
+* 香港账号：`boasough@21cn.com`
+* 密码：`GXa27o12`
 
 --------- 4 ---------
 * 账号：`bacilionieves14vlmkzml93sa@outlook.com`
-* 密码：`Dd133a1ab`
+* 密码：`Dd13b6af2`
 
 --------- 5 ---------
 * 账号：`benjaminbarr05432395@gmail.com`
-* 密码：`Dd1de85da`
+* 密码：`Dd1eb6546`
 
 --------- 6 ---------
-* 账号：`enricop925y@gmail.com`
-* 密码：`Dd1df6294`
+* 账号：`josephzykkowens@outlook.com`
+* 密码：`EJpxSt3KHJU`
 
 --------- 7 ---------
+* 账号：`mateoh6payne@outlook.com`
+* 密码：`RE39TvTbVDK`
+
+--------- 8 ---------
+* 账号：`masonsihypena@outlook.com`
+* 密码：`G1yPZaxu23F`
+
+--------- 9 ---------
+* 账号：`benjaminferc27@outlook.com`
+* 密码：`Gs123515`
+
+--------- 10 ---------
 * 账号：`enricop925y@gmail.com`
 * 密码：`Dd1df6294`
 
---------- 8 ---------
+--------- 11 ---------
 * 账号：`ciprianoclifforduttmkqv@gmail.com`
 * 密码：`Zx225588`
 
---------- 9 ---------
+--------- 12 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
