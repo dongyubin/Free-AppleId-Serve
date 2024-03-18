@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-18 10:34:27**
+更新时间：**2024-03-18 11:11:35**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,11 +227,11 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`bacilionieves14vlmkzml93sa@outlook.com`
-* 密码：`Dd139128f`
+* 密码：`Dd16933cc`
 
 --------- 2 ---------
 * 账号：`olikweiyec@hotmail.com`
-* 密码：`Dd1150cd0`
+* 密码：`Dd16c9bca`
 
 --------- 3 ---------
 * 账号：`yvizulfay@hotmail.com`
@@ -239,45 +239,41 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 账号：`olikweiyec@hotmail.com`
-* 密码：`Dd1150cd0`
+* 密码：`Dd16c9bca`
 
 --------- 5 ---------
 * 账号：`bacilionieves14vlmkzml93sa@outlook.com`
-* 密码：`Dd139128f`
+* 密码：`Dd16933cc`
 
 --------- 6 ---------
 * 账号：`Jesseyrodriguezdvj0kze01yq@outlook.com`
-* 密码：`Dd176ed86`
+* 密码：`Dd12ef29f`
 
 --------- 7 ---------
 * 账号：`egizischgyphe@hotmail.com`
 * 密码：`Dd15490f4`
 
 --------- 8 ---------
-* 账号：`rosieraleezashqk@gmail.com`
+* 账号：`oliverrayr63a@hotmail.com`
 * 密码：`G9dFcevnx1Y`
 
 --------- 9 ---------
-* 账号：`oliverrayr63a@hotmail.com`
-* 密码：`1anEQG9V5jJ`
+* 账号：`rakeshsanna620@gmail.com`
+* 密码：`ZcE7ugWPQVz`
 
 --------- 10 ---------
-* 账号：`rakeshsanna620@gmail.com`
+* 账号：`johnhenrychima@gmail.com`
 * 密码：`ZZbVQQEz4Av`
 
 --------- 11 ---------
-* 账号：`johnhenrychima@gmail.com`
-* 密码：`WIg30z43`
-
---------- 12 ---------
 * 账号：`leainpidif@hotmail.com`
 * 密码：`Zx225588`
 
---------- 13 ---------
+--------- 12 ---------
 * 账号：`ciprianoclifforduttmkqv@gmail.com`
 * 密码：`Zx225588`
 
---------- 14 ---------
+--------- 13 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
