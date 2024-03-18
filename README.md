@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-18 14:15:02**
+更新时间：**2024-03-18 14:35:42**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,46 +226,50 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`bacilionieves14vlmkzml93sa@outlook.com`
-* 密码：`Dd13f4ee4`
+* 美国账号：`vocao111552@gmail.com`
+* 密码：`LSa28i59`
 
 --------- 2 ---------
-* 账号：`olikweiyec@hotmail.com`
-* 密码：`Dd15bcbee`
+* 账号：`bacilionieves14vlmkzml93sa@outlook.com`
+* 密码：`Dd1BMW435`
 
 --------- 3 ---------
-* 账号：`yvizulfay@hotmail.com`
-* 密码：`Dd165dc46`
+* 账号：`olikweiyec@hotmail.com`
+* 密码：`Dd100f8d8`
 
 --------- 4 ---------
-* 账号：`olikweiyec@hotmail.com`
-* 密码：`Dd15bcbee`
+* 账号：`yvizulfay@hotmail.com`
+* 密码：`Dd166a25a`
 
 --------- 5 ---------
-* 账号：`bacilionieves14vlmkzml93sa@outlook.com`
-* 密码：`Dd13f4ee4`
+* 账号：`olikweiyec@hotmail.com`
+* 密码：`Dd100f8d8`
 
 --------- 6 ---------
-* 账号：`Jesseyrodriguezdvj0kze01yq@outlook.com`
-* 密码：`Dd1be2cfe`
+* 账号：`bacilionieves14vlmkzml93sa@outlook.com`
+* 密码：`Dd1BMW435`
 
 --------- 7 ---------
-* 账号：`rakeshsanna620@gmail.com`
-* 密码：`HPj6pZ1msTu`
+* 账号：`Jesseyrodriguezdvj0kze01yq@outlook.com`
+* 密码：`Dd110a7a5`
 
 --------- 8 ---------
-* 账号：`johnhenrychima@gmail.com`
-* 密码：`FceUwxVNk1s`
+* 账号：`oliverrayr63a@hotmail.com`
+* 密码：`HPj6pZ1msTu`
 
 --------- 9 ---------
+* 账号：`rakeshsanna620@gmail.com`
+* 密码：`FceUwxVNk1s`
+
+--------- 10 ---------
 * 账号：`leainpidif@hotmail.com`
 * 密码：`Zx225588`
 
---------- 10 ---------
+--------- 11 ---------
 * 账号：`ciprianoclifforduttmkqv@gmail.com`
 * 密码：`Zx225588`
 
---------- 11 ---------
+--------- 12 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
