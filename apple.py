@@ -47,16 +47,18 @@ def fetch_apple_count(urls):
         try:
         # print('url:',url)
         # if url.startswith('https://aunlock.laogoubi.net') or url.startswith('https://apple.laogoubi.net'):
-            # if 'laogou' in url :
-            #     response = requests.get(url, headers=headers)
-            #     res_text = response.text
-            #     data = json.loads(res_text)
-            #     credentials = []
-            #     for item in data:
-            #         if 'username' in item and 'password' in item and item['status']==1:
-            #             credentials.append({"account": item['username'], "password": item['password'], "country": item['country']})
-            #     all_credentials.extend(credentials)
-            if 'get_apple_id.php' in url:
+            if 'laogou' in url :
+                headers['Referer'] = url
+                response = requests.get(url, headers=headers)
+                res_text = response.text
+                print(res_text)
+                data = json.loads(res_text)
+                credentials = []
+                for item in data:
+                    if 'username' in item and 'password' in item and item['status']==1:
+                        credentials.append({"account": item['username'], "password": item['password'], "country": item['country']})
+                all_credentials.extend(credentials)
+            elif 'get_apple_id.php' in url:
                 headers = {
                     'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
                 }
@@ -123,7 +125,8 @@ def fetch_apple_count(urls):
                         password_value = password_input.get('value')
                         credentials.append({"account": account_value, "password": password_value, "country": ''})
                 all_credentials.extend(credentials)
-            elif 'appleID2' in url or 'laogou' in url:
+            elif 'appleID2' in url:
+                print(url)
                 response = requests.get(url)
                 accounts = []
                 passwords = []
@@ -211,7 +214,7 @@ if __name__ == "__main__":
     # 获取账号信息
     accounts = fetch_apple_count(urls)
 
-    # # 构建账号信息的Markdown格式
+    # 构建账号信息的Markdown格式
     entries_md = "\n".join([
         "\n--------- {i} ---------\n* {country}账号：`{account}`\n* 密码：`{password}`".format(i=i+1, **account)
         for i, account in enumerate(accounts)
