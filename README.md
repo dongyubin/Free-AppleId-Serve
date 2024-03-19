@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-19 17:10:49**
+更新时间：**2024-03-19 17:35:55**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,8 +226,8 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 美国账号：`melvinnfi7005@gmail.com`
-* 密码：`SSa19x96`
+* 美国账号：`vocao111552@gmail.com`
+* 密码：`GSg87y72`
 
 --------- 2 ---------
 * 账号：`mnikayaserf@hotmail.com`
@@ -243,7 +243,7 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd1907084`
+* 密码：`Dd1d61408`
 
 --------- 6 ---------
 * 账号：`josephzykkowens@outlook.com`
@@ -251,7 +251,7 @@ PS：最好月付，防止跑路！
 
 --------- 7 ---------
 * 账号：`mateoh6payne@outlook.com`
-* 密码：`6jcCf7UQ39p`
+* 密码：`963D32khuht`
 
 --------- 8 ---------
 * 账号：`masonsihypena@outlook.com`
@@ -259,7 +259,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd1907084`
+* 密码：`Dd1d61408`
 
 --------- 10 ---------
 * 账号：`mnikayaserf@hotmail.com`
