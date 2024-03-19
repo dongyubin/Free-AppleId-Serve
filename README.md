@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-19 20:19:54**
+更新时间：**2024-03-19 20:45:43**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -231,7 +231,7 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 账号：`memajgbati3@hotmail.com`
-* 密码：`Dd19d4f0e`
+* 密码：`Dd1595d78`
 
 --------- 3 ---------
 * 账号：`miallcasiis9@hotmail.com`
@@ -239,11 +239,11 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 账号：`mjnonadamou7@hotmail.com`
-* 密码：`Dd14e6189`
+* 密码：`Dd1f6396d`
 
 --------- 5 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd18434f4`
+* 密码：`Dd162f628`
 
 --------- 6 ---------
 * 账号：`chasilvatgob@hotmail.com`
@@ -275,7 +275,7 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 账号：`atyeubmhat@hotmail.com`
-* 密码：`UC34xe87`
+* 密码：`QX29jr45`
 
 --------- 14 ---------
 * 账号：`lucasspgburke@hotmail.com`
@@ -295,7 +295,7 @@ PS：最好月付，防止跑路！
 
 --------- 18 ---------
 * 账号：`asherferenou@hotmail.com`
-* 密码：`QF38cj25`
+* 密码：`XF11ut95`
 
 --------- 19 ---------
 * 账号：`lucapricescxr@hotmail.com`
@@ -303,15 +303,15 @@ PS：最好月付，防止跑路！
 
 --------- 20 ---------
 * 账号：`ohcobf609141@hotmail.com`
-* 密码：`JF75sp78`
+* 密码：`HZ94nr63`
 
 --------- 21 ---------
 * 账号：`yfemii435547@hotmail.com`
-* 密码：`TP14yy20`
+* 密码：`GP15uy39`
 
 --------- 22 ---------
 * 账号：`kaafrsqpbnyx@hotmail.com`
-* 密码：`SY80cj68`
+* 密码：`RW35dg44`
 
 --------- 23 ---------
 * 账号：`owen7hldcon@hotmail.com`
@@ -323,7 +323,7 @@ PS：最好月付，防止跑路！
 
 --------- 25 ---------
 * 账号：`ezrake1df@hotmail.com`
-* 密码：`UW26vh95`
+* 密码：`UY46jn82`
 
 --------- 26 ---------
 * 账号：`b5xhayes@hotmail.com`
@@ -331,7 +331,7 @@ PS：最好月付，防止跑路！
 
 --------- 27 ---------
 * 账号：`cnxymtvv@outlook.es`
-* 密码：`JN29xw24`
+* 密码：`SW24rp66`
 
 --------- 28 ---------
 * 账号：`josephzykkowens@outlook.com`
@@ -339,7 +339,7 @@ PS：最好月付，防止跑路！
 
 --------- 29 ---------
 * 账号：`mateoh6payne@outlook.com`
-* 密码：`sTakjbby31T`
+* 密码：`4fyktrScENx`
 
 --------- 30 ---------
 * 账号：`lucasortiz5orf@hotmail.com`
@@ -347,11 +347,11 @@ PS：最好月付，防止跑路！
 
 --------- 31 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd18434f4`
+* 密码：`Dd162f628`
 
 --------- 32 ---------
 * 账号：`memajgbati3@hotmail.com`
-* 密码：`Dd19d4f0e`
+* 密码：`Dd1595d78`
 
 --------- 33 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
