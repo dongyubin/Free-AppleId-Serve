@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-20 23:34:52**
+更新时间：**2024-03-21 00:14:51**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,43 +227,43 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`thomaspatelwtc@hotmail.com`
-* 密码：`TZs31z07`
+* 密码：`OSn66g47`
 
 --------- 2 ---------
 * 账号：`m775454475@idd7.com`
-* 密码：`Dd1249c30`
+* 密码：`Dd1e151c9`
 
 --------- 3 ---------
 * 账号：`m020743989@idd7.com`
-* 密码：`Dd1c503db`
+* 密码：`Dd1d8de80`
 
 --------- 4 ---------
 * 账号：`m525321858@idd7.com`
-* 密码：`Dd139de48`
+* 密码：`Dd112b40c`
 
 --------- 5 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd1fd8179`
+* 密码：`Dd112f136`
 
 --------- 6 ---------
 * 账号：`tgdtfrnfj@hotmail.com`
-* 密码：`CA16pc46`
+* 密码：`NU81zy69`
 
 --------- 7 ---------
 * 账号：`ntnpmexwarj@outlook.com`
-* 密码：`FK29yf77`
+* 密码：`TX35bt22`
 
 --------- 8 ---------
 * 账号：`stephenhappyday@hotmail.com`
-* 密码：`UB39qu66`
+* 密码：`DY94me84`
 
 --------- 9 ---------
 * 账号：`ywkheju@outlook.com`
-* 密码：`XB69qz60`
+* 密码：`WA76bc18`
 
 --------- 10 ---------
 * 账号：`agfkdjhhe@outlook.com`
-* 密码：`UK97ec89`
+* 密码：`WY37tx33`
 
 --------- 11 ---------
 * 账号：`loganmetzk@hotmail.com`
@@ -275,7 +275,7 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 账号：`gudjpr@outlook.com`
-* 密码：`HB74dq40`
+* 密码：`WM72ut54`
 
 --------- 14 ---------
 * 账号：`lucasspgburke@hotmail.com`
@@ -327,7 +327,7 @@ PS：最好月付，防止跑路！
 
 --------- 26 ---------
 * 账号：`jfquseasd@outlook.com`
-* 密码：`WG26se94`
+* 密码：`ZG98yc54`
 
 --------- 27 ---------
 * 账号：`cxhfjbgr@outlook.com`
@@ -339,19 +339,19 @@ PS：最好月付，防止跑路！
 
 --------- 29 ---------
 * 账号：`danielhughesrk4@outlook.com`
-* 密码：`SJb1Bu5wkkv`
+* 密码：`Vb1S1zQU9NN`
 
 --------- 30 ---------
 * 账号：`johnaq1rga@hotmail.com`
-* 密码：`k9XxjU3eQ9U`
+* 密码：`UYdXCB8Madk`
 
 --------- 31 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd1fd8179`
+* 密码：`Dd112f136`
 
 --------- 32 ---------
 * 账号：`m775454475@idd7.com`
-* 密码：`Dd186bb54`
+* 密码：`Dd1e151c9`
 
 --------- 33 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
