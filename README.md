@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-20 19:34:37**
+更新时间：**2024-03-20 20:19:34**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,27 +227,27 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`vocao111552@gmail.com`
-* 密码：`ERi69s79`
+* 密码：`VCp13a49`
 
 --------- 2 ---------
 * 美国账号：`thomaspatelwtc@hotmail.com`
-* 密码：`FLw76f05`
+* 密码：`BRf52u89`
 
 --------- 3 ---------
 * 账号：`m775454475@idd7.com`
-* 密码：`Dd1523721`
+* 密码：`Dd19b6ffb`
 
 --------- 4 ---------
 * 账号：`m020743989@idd7.com`
-* 密码：`Dd10750ee`
+* 密码：`Dd125c993`
 
 --------- 5 ---------
 * 账号：`m525321858@idd7.com`
-* 密码：`Dd158e55e`
+* 密码：`Dd11de59d`
 
 --------- 6 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd10ecb17`
+* 密码：`Dd1952568`
 
 --------- 7 ---------
 * 账号：`tgdtfrnfj@hotmail.com`
@@ -275,7 +275,7 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 账号：`isaaceksgs@outlook.com`
-* 密码：`XZ93kp88`
+* 密码：`QW91dz26`
 
 --------- 14 ---------
 * 账号：`gudjpr@outlook.com`
@@ -307,15 +307,15 @@ PS：最好月付，防止跑路！
 
 --------- 21 ---------
 * 账号：`hxrfjvqqe@outlook.com`
-* 密码：`AJ73wr91`
+* 密码：`DP10cp51`
 
 --------- 22 ---------
 * 账号：`tcawrpqndaj@outlook.com`
-* 密码：`PT63mj61`
+* 密码：`VN24jz31`
 
 --------- 23 ---------
 * 账号：`juekgqpwxuf@outlook.com`
-* 密码：`HB43wf14`
+* 密码：`MP28ar33`
 
 --------- 24 ---------
 * 账号：`owen7hldcon@hotmail.com`
@@ -327,23 +327,23 @@ PS：最好月付，防止跑路！
 
 --------- 26 ---------
 * 账号：`njrxkabnpep@hotmail.com`
-* 密码：`TE92aw86`
+* 密码：`QP45hb91`
 
 --------- 27 ---------
-* 账号：`jfquseasd@outlook.com`
-* 密码：`DR61ga39`
+* 账号：`cxhfjbgr@outlook.com`
+* 密码：`CE82bt94`
 
 --------- 28 ---------
-* 账号：`cxhfjbgr@outlook.com`
-* 密码：`WS38zg46`
-
---------- 29 ---------
 * 账号：`eliashenryrd8@outlook.com`
 * 密码：`KTuSbEddKe3`
 
---------- 30 ---------
+--------- 29 ---------
 * 账号：`danielhughesrk4@outlook.com`
-* 密码：`mdqGnxecA5W`
+* 密码：`cseapC8XP86`
+
+--------- 30 ---------
+* 账号：`johnaq1rga@hotmail.com`
+* 密码：`y7qdNbpqmKp`
 
 --------- 31 ---------
 * 账号：`moerserkannp@hotmail.com`
@@ -351,7 +351,7 @@ PS：最好月付，防止跑路！
 
 --------- 32 ---------
 * 账号：`m775454475@idd7.com`
-* 密码：`Dd1523721`
+* 密码：`Dd19b6ffb`
 
 --------- 33 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
