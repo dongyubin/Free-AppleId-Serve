@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-20 12:14:30**
+更新时间：**2024-03-20 12:34:31**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,15 +227,15 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`vocao111552@gmail.com`
-* 密码：`IDc02p94`
+* 密码：`IBa59i09`
 
 --------- 2 ---------
 * 美国账号：`thomaspatelwtc@hotmail.com`
-* 密码：`QXi20y46`
+* 密码：`GLb18p69`
 
 --------- 3 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd169669e`
+* 密码：`Dd11b969c`
 
 --------- 4 ---------
 * 账号：`loganmetzk@hotmail.com`
@@ -243,7 +243,7 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`isaaceksgs@outlook.com`
-* 密码：`EK48wq61`
+* 密码：`TG73es21`
 
 --------- 6 ---------
 * 账号：`lucasspgburke@hotmail.com`
@@ -283,15 +283,15 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`olivermodgibson@outlook.com`
-* 密码：`UykVXe6KGzH`
+* 密码：`XMXunPkNbP2`
 
 --------- 16 ---------
 * 账号：`masonfer0mw@hotmail.com`
-* 密码：`7rCPtnQCRE2`
+* 密码：`xNw2B9EMhRk`
 
 --------- 17 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd169669e`
+* 密码：`Dd11b969c`
 
 --------- 18 ---------
 * 账号：`memajgbati3@hotmail.com`
