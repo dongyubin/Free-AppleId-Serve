@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-20 15:11:53**
+更新时间：**2024-03-20 15:37:03**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -231,85 +231,65 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`thomaspatelwtc@hotmail.com`
-* 密码：`QLa96a36`
+* 密码：`AWd47p66`
 
 --------- 3 ---------
-* 账号：`carlemabary1@outlook.com`
-* 密码：`Dd1879956`
+* 账号：`m525321858@idd7.com`
+* 密码：`Dd128d75d`
 
 --------- 4 ---------
-* 账号：`bossemarrisf@outlook.com`
-* 密码：`Dd1bc3bb6`
+* 账号：`moerserkannp@hotmail.com`
+* 密码：`Dd109BMW5`
 
 --------- 5 ---------
-* 账号：`m525321858@idd7.com`
-* 密码：`Dd15b278a`
-
---------- 6 ---------
-* 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd102a7f8`
-
---------- 7 ---------
 * 账号：`loganmetzk@hotmail.com`
 * 密码：`ZU15ua42`
 
---------- 8 ---------
+--------- 6 ---------
 * 账号：`isaaceksgs@outlook.com`
-* 密码：`TG73es21`
+* 密码：`AS91uw32`
 
---------- 9 ---------
+--------- 7 ---------
 * 账号：`lucasspgburke@hotmail.com`
 * 密码：`NQ26dq48`
 
---------- 10 ---------
+--------- 8 ---------
 * 账号：`hudsonkellyz8@hotmail.com`
 * 密码：`DZ34sb16`
 
---------- 11 ---------
+--------- 9 ---------
 * 账号：`gihfwh031622@hotmail.com`
-* 密码：`JE36dr42`
+* 密码：`TK75vz89`
 
---------- 12 ---------
+--------- 10 ---------
 * 账号：`jacobo0green@hotmail.com`
 * 密码：`XB14dv49`
 
---------- 13 ---------
+--------- 11 ---------
 * 账号：`asherferenou@hotmail.com`
 * 密码：`XW13bm95`
 
---------- 14 ---------
+--------- 12 ---------
 * 账号：`lucapricescxr@hotmail.com`
 * 密码：`FX54by70`
 
---------- 15 ---------
+--------- 13 ---------
 * 账号：`owen7hldcon@hotmail.com`
 * 密码：`YR20rj37`
 
---------- 16 ---------
+--------- 14 ---------
 * 账号：`atxgaschew@hotmail.com`
 * 密码：`XH62vm88`
 
---------- 17 ---------
-* 账号：`lucanunez0hme@outlook.com`
-* 密码：`QdjGekEqx3Q`
-
---------- 18 ---------
-* 账号：`olivermodgibson@outlook.com`
-* 密码：`Xj4j17r8jfr`
-
---------- 19 ---------
-* 账号：`masonfer0mw@hotmail.com`
-* 密码：`5Em76hSepJQ`
-
---------- 20 ---------
+--------- 15 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd102a7f8`
+* 密码：`Dd109BMW5`
 
---------- 21 ---------
+--------- 16 ---------
 * 账号：`carlemabary1@outlook.com`
 * 密码：`Dd1879956`
 
---------- 22 ---------
+--------- 17 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
