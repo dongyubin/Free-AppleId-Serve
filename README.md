@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-20 17:12:03**
+更新时间：**2024-03-20 17:35:47**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,31 +227,31 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`vocao111552@gmail.com`
-* 密码：`XCo04f87`
+* 密码：`STi29c21`
 
 --------- 2 ---------
 * 美国账号：`thomaspatelwtc@hotmail.com`
-* 密码：`HGr57o04`
+* 密码：`WQy05h31`
 
 --------- 3 ---------
 * 账号：`m525321858@idd7.com`
-* 密码：`Dd1c66ada`
+* 密码：`Dd1936f55`
 
 --------- 4 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`DdBMW3711`
+* 密码：`Dd1f05974`
 
 --------- 5 ---------
 * 账号：`tgdtfrnfj@hotmail.com`
-* 密码：`KG14vt76`
+* 密码：`KU47np79`
 
 --------- 6 ---------
 * 账号：`ntnpmexwarj@outlook.com`
-* 密码：`MM77qq44`
+* 密码：`XT11fv61`
 
 --------- 7 ---------
 * 账号：`stephenhappyday@hotmail.com`
-* 密码：`QD48qu49`
+* 密码：`TF53wk37`
 
 --------- 8 ---------
 * 账号：`ywkheju@outlook.com`
@@ -283,7 +283,7 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`gihfwh031622@hotmail.com`
-* 密码：`NJ44gh11`
+* 密码：`QM29xt19`
 
 --------- 16 ---------
 * 账号：`jacobo0green@hotmail.com`
@@ -303,11 +303,11 @@ PS：最好月付，防止跑路！
 
 --------- 20 ---------
 * 账号：`tcawrpqndaj@outlook.com`
-* 密码：`XX66xx22`
+* 密码：`ZX54mt75`
 
 --------- 21 ---------
 * 账号：`juekgqpwxuf@outlook.com`
-* 密码：`TV72md80`
+* 密码：`UY71vx75`
 
 --------- 22 ---------
 * 账号：`owen7hldcon@hotmail.com`
@@ -330,26 +330,22 @@ PS：最好月付，防止跑路！
 * 密码：`WW77yy77`
 
 --------- 27 ---------
-* 账号：`eliashenryrd8@outlook.com`
+* 账号：`danielhughesrk4@outlook.com`
 * 密码：`82bppDue3XH`
 
 --------- 28 ---------
-* 账号：`danielhughesrk4@outlook.com`
-* 密码：`SJqEnX1QYcm`
+* 账号：`johnaq1rga@hotmail.com`
+* 密码：`AwXUJ1vKRu4`
 
 --------- 29 ---------
-* 账号：`johnaq1rga@hotmail.com`
-* 密码：`y7qdNbpqmKp`
+* 账号：`moerserkannp@hotmail.com`
+* 密码：`Dd1f05974`
 
 --------- 30 ---------
-* 账号：`moerserkannp@hotmail.com`
-* 密码：`DdBMW3711`
-
---------- 31 ---------
 * 账号：`carlemabary1@outlook.com`
 * 密码：`Dd1879956`
 
---------- 32 ---------
+--------- 31 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
