@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-21 14:14:09**
+更新时间：**2024-03-21 14:37:12**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,16 +226,16 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* None账号：`dallas1@83zo.cloud`
-* 密码：`HGt92s34`
+* 美国账号：`dallas1@83zo.cloud`
+* 密码：`VGm98u05`
 
 --------- 2 ---------
 * 美国账号：`thomaspatelwtc@hotmail.com`
-* 密码：`LPe09f89`
+* 密码：`DPp80c25`
 
 --------- 3 ---------
 * 账号：`m775454475@idd7.com`
-* 密码：`Dd12d6127`
+* 密码：`Dd1c3f13d`
 
 --------- 4 ---------
 * 账号：`m020743989@idd7.com`
@@ -243,11 +243,11 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`m525321858@idd7.com`
-* 密码：`Dd14e0f60`
+* 密码：`Dd1505241`
 
 --------- 6 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd150554f`
+* 密码：`Dd1f10d6d`
 
 --------- 7 ---------
 * 账号：`tgdtfrnfj@hotmail.com`
@@ -259,7 +259,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 账号：`stephenhappyday@hotmail.com`
-* 密码：`VZ50gq81`
+* 密码：`ND26nh97`
 
 --------- 10 ---------
 * 账号：`agfkdjhhe@outlook.com`
@@ -275,7 +275,7 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 账号：`gudjpr@outlook.com`
-* 密码：`TF19ps42`
+* 密码：`FZ98bb35`
 
 --------- 14 ---------
 * 账号：`lucasspgburke@hotmail.com`
@@ -311,7 +311,7 @@ PS：最好月付，防止跑路！
 
 --------- 22 ---------
 * 账号：`juekgqpwxuf@outlook.com`
-* 密码：`JE69gn84`
+* 密码：`DS62qg59`
 
 --------- 23 ---------
 * 账号：`owen7hldcon@hotmail.com`
@@ -319,11 +319,11 @@ PS：最好月付，防止跑路！
 
 --------- 24 ---------
 * 账号：`njrxkabnpep@hotmail.com`
-* 密码：`KM18bm32`
+* 密码：`DN60db84`
 
 --------- 25 ---------
 * 账号：`cxhfjbgr@outlook.com`
-* 密码：`CQ53yz87`
+* 密码：`QE26me67`
 
 --------- 26 ---------
 * 账号：`eliashenryrd8@outlook.com`
@@ -331,7 +331,7 @@ PS：最好月付，防止跑路！
 
 --------- 27 ---------
 * 账号：`danielhughesrk4@outlook.com`
-* 密码：`UDf6mnQRQRB`
+* 密码：`2rbp6FdBU1T`
 
 --------- 28 ---------
 * 账号：`johnaq1rga@hotmail.com`
@@ -343,7 +343,7 @@ PS：最好月付，防止跑路！
 
 --------- 30 ---------
 * 账号：`m775454475@idd7.com`
-* 密码：`Dd12d6127`
+* 密码：`Dd1c3f13d`
 
 --------- 31 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
