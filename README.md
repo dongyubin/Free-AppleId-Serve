@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-21 12:35:19**
+更新时间：**2024-03-21 13:10:42**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,7 +227,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`thomaspatelwtc@hotmail.com`
-* 密码：`WVg80x59`
+* 密码：`LPe09f89`
 
 --------- 2 ---------
 * 账号：`m775454475@idd7.com`
@@ -235,15 +235,15 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`m020743989@idd7.com`
-* 密码：`Dd18b0f52`
+* 密码：`Dd1e3b0fd`
 
 --------- 4 ---------
 * 账号：`m525321858@idd7.com`
-* 密码：`Dd1239d77`
+* 密码：`Dd17f7144`
 
 --------- 5 ---------
 * 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd11d89df`
+* 密码：`Dd1f2cded`
 
 --------- 6 ---------
 * 账号：`tgdtfrnfj@hotmail.com`
@@ -330,14 +330,18 @@ PS：最好月付，防止跑路！
 * 密码：`CbaAEnVdt3W`
 
 --------- 27 ---------
-* 账号：`moerserkannp@hotmail.com`
-* 密码：`Dd11d89df`
+* 账号：`johnaq1rga@hotmail.com`
+* 密码：`F6MAqhqRv6T`
 
 --------- 28 ---------
+* 账号：`moerserkannp@hotmail.com`
+* 密码：`Dd1f2cded`
+
+--------- 29 ---------
 * 账号：`m775454475@idd7.com`
 * 密码：`Dd1d4c655`
 
---------- 29 ---------
+--------- 30 ---------
 * 账号：`bonifaygeneviveh77168h@gmail.com`
 * 密码：`Dd1849cae`
 <!-- apple ends -->
