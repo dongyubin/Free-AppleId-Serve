@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-22 15:34:30**
+更新时间：**2024-03-22 16:14:09**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -243,7 +243,7 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`m525321858@idd7.com`
-* 密码：`Dd190dccb`
+* 密码：`Dd159baab`
 
 --------- 6 ---------
 * 账号：`moerserkannp@hotmail.com`
@@ -255,7 +255,7 @@ PS：最好月付，防止跑路！
 
 --------- 8 ---------
 * 账号：`brianri040@hotmail.com`
-* 密码：`KG69nb75`
+* 密码：`RZ90qs97`
 
 --------- 9 ---------
 * 账号：`gudjpr@outlook.com`
@@ -271,61 +271,73 @@ PS：最好月付，防止跑路！
 
 --------- 12 ---------
 * 账号：`louiskt387@hotmail.com`
-* 密码：`BP29ft80`
+* 密码：`SC94xf10`
 
 --------- 13 ---------
 * 账号：`jacobo0green@hotmail.com`
 * 密码：`TD14ct17`
 
 --------- 14 ---------
+* 账号：`asherferenou@hotmail.com`
+* 密码：`TC74km28`
+
+--------- 15 ---------
 * 账号：`lucapricescxr@hotmail.com`
 * 密码：`DP17ye92`
 
---------- 15 ---------
-* 账号：`tcawrpqndaj@outlook.com`
-* 密码：`NS28ty70`
-
 --------- 16 ---------
-* 账号：`juekgqpwxuf@outlook.com`
-* 密码：`SH93bv57`
+* 账号：`tmnsmjes@hotmail.com`
+* 密码：`RU78yu96`
 
 --------- 17 ---------
+* 账号：`tcawrpqndaj@outlook.com`
+* 密码：`TE58ev65`
+
+--------- 18 ---------
+* 账号：`juekgqpwxuf@outlook.com`
+* 密码：`RF31pf12`
+
+--------- 19 ---------
 * 账号：`owen7hldcon@hotmail.com`
 * 密码：`HU38xr65`
 
---------- 18 ---------
+--------- 20 ---------
 * 账号：`qbtnthmnhw@hotmail.com`
 * 密码：`BR34ub89`
 
---------- 19 ---------
+--------- 21 ---------
 * 账号：`lukelarsonx2a@hotmail.com`
 * 密码：`BP26ud66`
 
---------- 20 ---------
+--------- 22 ---------
+* 账号：`lorenejm729@hotmail.com`
+* 密码：`EV52ew53`
+
+--------- 23 ---------
 * 账号：`cxhfjbgr@outlook.com`
 * 密码：`HB57ye20`
 
---------- 21 ---------
+--------- 24 ---------
 * 账号：`eliashenryrd8@outlook.com`
 * 密码：`Adb4rRDUQG3`
 
---------- 22 ---------
+--------- 25 ---------
 * 账号：`danielhughesrk4@outlook.com`
-* 密码：`4eRuEqSeDdk`
+* 密码：`g8wMNAbeuuf`
 
---------- 23 ---------
+--------- 26 ---------
 * 账号：`autoamahsbscnam@gmail.com`
 * 密码：`QK6zdk4WJ1w`
 
---------- 24 ---------
+--------- 27 ---------
 * 账号：`moerserkannp@hotmail.com`
 * 密码：`Dd1954dec`
 
---------- 25 ---------
+--------- 28 ---------
 * 账号：`m775454475@idd7.com`
 * 密码：`Dd1b1220a`
 
---------- 26 ---------
+--------- 29 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd163e73c`
 <!-- apple ends -->
