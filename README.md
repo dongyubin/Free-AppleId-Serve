@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-24 20:46:01**
+更新时间：**2024-03-24 21:11:58**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -231,11 +231,11 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`esparzaarisbethk3vm3@gmail.com`
-* 密码：`NGn43q99`
+* 密码：`DLq23r79`
 
 --------- 3 ---------
 * 账号：`m775454475@idd7.com`
-* 密码：`Dd18d49c0`
+* 密码：`Dd1492283`
 
 --------- 4 ---------
 * 账号：`m020743989@idd7.com`
@@ -243,7 +243,7 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`m525321858@idd7.com`
-* 密码：`Dd10d4563`
+* 密码：`Dd124c461`
 
 --------- 6 ---------
 * 账号：`lawalifelkarf@hotmail.com`
@@ -295,11 +295,11 @@ PS：最好月付，防止跑路！
 
 --------- 18 ---------
 * 账号：`parsisshipluk@hotmail.com`
-* 密码：`JV43qv92`
+* 密码：`EF98gz14`
 
 --------- 19 ---------
 * 账号：`samuel9x2yvaz@hotmail.com`
-* 密码：`KN25ka39`
+* 密码：`QK73wh46`
 
 --------- 20 ---------
 * 账号：`owen7hldcon@hotmail.com`
@@ -319,11 +319,11 @@ PS：最好月付，防止跑路！
 
 --------- 24 ---------
 * 账号：`eliashenryrd8@outlook.com`
-* 密码：`1K8t96qaFJe`
+* 密码：`t7Rh9TSdqgX`
 
 --------- 25 ---------
 * 账号：`danielhughesrk4@outlook.com`
-* 密码：`zwe6ErgNjKS`
+* 密码：`w4WVyaHQfmD`
 
 --------- 26 ---------
 * 账号：`caferiagbasiz@outlook.com`
@@ -331,7 +331,7 @@ PS：最好月付，防止跑路！
 
 --------- 27 ---------
 * 账号：`ashtondinora@gmail.com`
-* 密码：`ZRa05y98`
+* 密码：`MIo85c46`
 
 --------- 28 ---------
 * 账号：`moerserkannp@hotmail.com`
@@ -339,7 +339,7 @@ PS：最好月付，防止跑路！
 
 --------- 29 ---------
 * 账号：`m775454475@idd7.com`
-* 密码：`Dd18d49c0`
+* 密码：`Dd1492283`
 
 --------- 30 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
