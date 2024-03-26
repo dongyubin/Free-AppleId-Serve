@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-26 16:13:40**
+更新时间：**2024-03-26 16:36:05**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -239,15 +239,15 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 账号：`PhilipFergus13@hotmail.com`
-* 密码：`Dd1773a55`
+* 密码：`Dd1803b1c`
 
 --------- 5 ---------
 * 账号：`WideTimekeeper742@hotmail.com`
-* 密码：`Dd15e2497`
+* 密码：`Dd1fbb20a`
 
 --------- 6 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`123654qqQ`
+* 密码：`Dd1b8804a`
 
 --------- 7 ---------
 * 账号：`lawalifelkarf@hotmail.com`
@@ -267,7 +267,7 @@ PS：最好月付，防止跑路！
 
 --------- 11 ---------
 * 账号：`lusinkdizzlec@hotmail.com`
-* 密码：`JQ61ju80`
+* 密码：`HG56yn86`
 
 --------- 12 ---------
 * 账号：`nasshofehi@outlook.com`
@@ -291,15 +291,15 @@ PS：最好月付，防止跑路！
 
 --------- 17 ---------
 * 账号：`zdpreedcooered@hotmail.com`
-* 密码：`FC89yj11`
+* 密码：`WS36mx28`
 
 --------- 18 ---------
 * 账号：`parsisshipluk@hotmail.com`
-* 密码：`FJ50hg65`
+* 密码：`AX62aw90`
 
 --------- 19 ---------
 * 账号：`samuel9x2yvaz@hotmail.com`
-* 密码：`HE39jm86`
+* 密码：`UH88hf56`
 
 --------- 20 ---------
 * 账号：`jiaojiameizhanlangou17@outlook.com`
@@ -307,7 +307,7 @@ PS：最好月付，防止跑路！
 
 --------- 21 ---------
 * 账号：`lukelarsonx2a@hotmail.com`
-* 密码：`GV79hq46`
+* 密码：`WQ65ns96`
 
 --------- 22 ---------
 * 账号：`cxhfjbgr@outlook.com`
@@ -318,22 +318,26 @@ PS：最好月付，防止跑路！
 * 密码：`5wE6reBxHgE`
 
 --------- 24 ---------
-* 账号：`caferiagbasiz@outlook.com`
+* 账号：`danielhughesrk4@outlook.com`
 * 密码：`zU9x2jzxaut`
 
 --------- 25 ---------
-* 账号：`ashtondinora@gmail.com`
+* 账号：`caferiagbasiz@outlook.com`
 * 密码：`hhNyamWUu56`
 
 --------- 26 ---------
-* 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`123654qqQ`
+* 账号：`ashtondinora@gmail.com`
+* 密码：`VGq17f56`
 
 --------- 27 ---------
+* 账号：`HalfDaneLeanne707@hotmail.com`
+* 密码：`Dd1b8804a`
+
+--------- 28 ---------
 * 账号：`m775454475@idd7.com`
 * 密码：`Dd141b172`
 
---------- 28 ---------
+--------- 29 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd17c3cbd`
 <!-- apple ends -->
