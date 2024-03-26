@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-26 23:35:53**
+更新时间：**2024-03-27 00:14:02**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -235,15 +235,15 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`PhilipFergus13@hotmail.com`
-* 密码：`Dd11fecb1`
+* 密码：`Dd1f4f61f`
 
 --------- 4 ---------
 * 账号：`WideTimekeeper742@hotmail.com`
-* 密码：`Dd1558dbe`
+* 密码：`Dd18a25dc`
 
 --------- 5 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd126024c`
+* 密码：`Dd187c4ba`
 
 --------- 6 ---------
 * 账号：`lawalifelkarf@hotmail.com`
@@ -294,42 +294,54 @@ PS：最好月付，防止跑路！
 * 密码：`FM56qn17`
 
 --------- 18 ---------
+* 账号：`zdpreedcooered@hotmail.com`
+* 密码：`TD92qt76`
+
+--------- 19 ---------
 * 账号：`parsisshipluk@hotmail.com`
 * 密码：`DA95fb30`
 
---------- 19 ---------
+--------- 20 ---------
 * 账号：`samuel9x2yvaz@hotmail.com`
 * 密码：`MR79bh54`
 
---------- 20 ---------
-* 账号：`cxhfjbgr@outlook.com`
-* 密码：`UU59fz86`
-
 --------- 21 ---------
-* 账号：`eliashenryrd8@outlook.com`
-* 密码：`3rNrF4qZtc5`
+* 账号：`jiaojiameizhanlangou17@outlook.com`
+* 密码：`BX55ed22`
 
 --------- 22 ---------
+* 账号：`lukelarsonx2a@hotmail.com`
+* 密码：`AB92av98`
+
+--------- 23 ---------
+* 账号：`cxhfjbgr@outlook.com`
+* 密码：`WB54az14`
+
+--------- 24 ---------
+* 账号：`eliashenryrd8@outlook.com`
+* 密码：`zTm1NPvfnqM`
+
+--------- 25 ---------
 * 账号：`danielhughesrk4@outlook.com`
 * 密码：`zU9x2jzxaut`
 
---------- 23 ---------
+--------- 26 ---------
 * 账号：`caferiagbasiz@outlook.com`
 * 密码：`9WEVsPxTHBr`
 
---------- 24 ---------
+--------- 27 ---------
 * 账号：`ashtondinora@gmail.com`
 * 密码：`MUr86g90`
 
---------- 25 ---------
+--------- 28 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd126024c`
+* 密码：`Dd187c4ba`
 
---------- 26 ---------
+--------- 29 ---------
 * 账号：`m775454475@idd7.com`
 * 密码：`Dd141b172`
 
---------- 27 ---------
+--------- 30 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd11b680e`
 <!-- apple ends -->
