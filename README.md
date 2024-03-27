@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-27 08:50:10**
+更新时间：**2024-03-27 09:43:55**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -235,15 +235,15 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`PhilipFergus13@hotmail.com`
-* 密码：`Dd12030ce`
+* 密码：`Dd119145b`
 
 --------- 4 ---------
 * 账号：`WideTimekeeper742@hotmail.com`
-* 密码：`Dd1399440`
+* 密码：`Dd1baeb44`
 
 --------- 5 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd168fc3e`
+* 密码：`Dd124ce70`
 
 --------- 6 ---------
 * 账号：`lawalifelkarf@hotmail.com`
@@ -251,7 +251,7 @@ PS：最好月付，防止跑路！
 
 --------- 7 ---------
 * 账号：`tollenkgoadic@hotmail.com`
-* 密码：`ZZ44ea62`
+* 密码：`AY64xy67`
 
 --------- 8 ---------
 * 账号：`behalnahsenp@hotmail.com`
@@ -286,58 +286,54 @@ PS：最好月付，防止跑路！
 * 密码：`FD16bc80`
 
 --------- 16 ---------
-* 账号：`james39ztorres@hotmail.com`
-* 密码：`SJ60sz74`
-
---------- 17 ---------
 * 账号：`slawiaalacar5@hotmail.com`
 * 密码：`FM56qn17`
 
---------- 18 ---------
+--------- 17 ---------
 * 账号：`parsisshipluk@hotmail.com`
 * 密码：`BK48dw70`
 
---------- 19 ---------
+--------- 18 ---------
 * 账号：`samuel9x2yvaz@hotmail.com`
 * 密码：`WE24as16`
 
---------- 20 ---------
+--------- 19 ---------
 * 账号：`jiaojiameizhanlangou17@outlook.com`
-* 密码：`VX95gm79`
+* 密码：`JR58tj35`
 
---------- 21 ---------
+--------- 20 ---------
 * 账号：`lukelarsonx2a@hotmail.com`
 * 密码：`VH92qz74`
 
---------- 22 ---------
+--------- 21 ---------
 * 账号：`cxhfjbgr@outlook.com`
-* 密码：`WB54az14`
+* 密码：`QK88du22`
+
+--------- 22 ---------
+* 账号：`eliashenryrd8@outlook.com`
+* 密码：`gTaWPTP63e9`
 
 --------- 23 ---------
-* 账号：`eliashenryrd8@outlook.com`
-* 密码：`kBX4GBbzssm`
-
---------- 24 ---------
 * 账号：`danielhughesrk4@outlook.com`
 * 密码：`zU9x2jzxaut`
 
---------- 25 ---------
+--------- 24 ---------
 * 账号：`caferiagbasiz@outlook.com`
 * 密码：`M82ehcTWW48`
 
---------- 26 ---------
+--------- 25 ---------
 * 账号：`ashtondinora@gmail.com`
 * 密码：`WRk64v71`
 
---------- 27 ---------
+--------- 26 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd168fc3e`
+* 密码：`Dd124ce70`
 
---------- 28 ---------
+--------- 27 ---------
 * 账号：`m775454475@idd7.com`
 * 密码：`Dd141b172`
 
---------- 29 ---------
+--------- 28 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd11b680e`
 <!-- apple ends -->
