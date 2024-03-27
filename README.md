@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-28 05:34:55**
+更新时间：**2024-03-28 06:11:48**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -235,7 +235,7 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`PhilipFergus13@hotmail.com`
-* 密码：`Dd1a3edcd`
+* 密码：`Dd1b5a4a8`
 
 --------- 4 ---------
 * 账号：`WideTimekeeper742@hotmail.com`
@@ -259,7 +259,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 账号：`josiahb87l@hotmail.com`
-* 密码：`Adde6699ss6`
+* 密码：`CB49af66`
 
 --------- 10 ---------
 * 账号：`lukepfbwells@hotmail.com`
@@ -290,58 +290,54 @@ PS：最好月付，防止跑路！
 * 密码：`NR77mv37`
 
 --------- 17 ---------
-* 账号：`ligibsonxpxu@hotmail.com`
-* 密码：`Adde6699ss6`
-
---------- 18 ---------
 * 账号：`jacksongon80@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 19 ---------
+--------- 18 ---------
 * 账号：`parsisshipluk@hotmail.com`
 * 密码：`DS44ek95`
 
---------- 20 ---------
+--------- 19 ---------
 * 账号：`samuel9x2yvaz@hotmail.com`
 * 密码：`HA50hq28`
 
---------- 21 ---------
+--------- 20 ---------
 * 账号：`josiahnd1fmiller@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 22 ---------
+--------- 21 ---------
 * 账号：`jiaojiameizhanlangou17@outlook.com`
 * 密码：`HQ79ds76`
 
---------- 23 ---------
+--------- 22 ---------
 * 账号：`lukelarsonx2a@hotmail.com`
 * 密码：`VH37xh80`
 
---------- 24 ---------
+--------- 23 ---------
 * 账号：`eliashenryrd8@outlook.com`
 * 密码：`D1FVut21Cmv`
 
---------- 25 ---------
+--------- 24 ---------
 * 账号：`danielhughesrk4@outlook.com`
 * 密码：`6az9mVhYyQk`
 
---------- 26 ---------
+--------- 25 ---------
 * 账号：`caferiagbasiz@outlook.com`
 * 密码：`Z2MmAze5ymk`
 
---------- 27 ---------
+--------- 26 ---------
 * 账号：`ashtondinora@gmail.com`
 * 密码：`UPw96i73`
 
---------- 28 ---------
+--------- 27 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
 * 密码：`Dd166232b`
 
---------- 29 ---------
+--------- 28 ---------
 * 账号：`m775454475@idd7.com`
 * 密码：`Dd141b172`
 
---------- 30 ---------
+--------- 29 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd11b680e`
 <!-- apple ends -->
