@@ -343,6 +343,7 @@ PS：最好月付，防止跑路！
 ## 作者网站
 
 - [文武科技柜](https://www.wangdu.site/)：实用工具、黑苹果、高效教程、Nas
+- [文武软件百科](https://wiki.wangdu.site/)：致力于软件的百科全书
 
 ## Star History
 
