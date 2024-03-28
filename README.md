@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-29 00:13:08**
+更新时间：**2024-03-29 00:36:01**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -235,11 +235,11 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`PhilipFergus13@hotmail.com`
-* 密码：`Dd14f53d8`
+* 密码：`Dd12bfcec`
 
 --------- 4 ---------
 * 账号：`WideTimekeeper742@hotmail.com`
-* 密码：`Dd1d2c9c4`
+* 密码：`Dd1cab6bc`
 
 --------- 5 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
@@ -250,94 +250,110 @@ PS：最好月付，防止跑路！
 * 密码：`GR87qd65`
 
 --------- 7 ---------
+* 账号：`eliasreigarza@hotmail.com`
+* 密码：`PD54hr96`
+
+--------- 8 ---------
 * 账号：`ethanprice4ww@hotmail.com`
 * 密码：`UE23pk89`
 
---------- 8 ---------
+--------- 9 ---------
 * 账号：`josiahb87l@hotmail.com`
 * 密码：`RH71mk13`
 
---------- 9 ---------
+--------- 10 ---------
 * 账号：`lukepfbwells@hotmail.com`
 * 密码：`YE72fg17`
 
---------- 10 ---------
+--------- 11 ---------
 * 账号：`nasshofehi@outlook.com`
 * 密码：`KX11md42`
 
---------- 11 ---------
+--------- 12 ---------
 * 账号：`rp459071@outlook.com`
 * 密码：`SB23zx45`
 
---------- 12 ---------
+--------- 13 ---------
 * 账号：`carter1plgrant@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 13 ---------
+--------- 14 ---------
 * 账号：`tadams9g@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 14 ---------
+--------- 15 ---------
 * 账号：`wyattsch6mt@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 15 ---------
+--------- 16 ---------
 * 账号：`josiahymbgordon@hotmail.com`
 * 密码：`GF80xj18`
 
---------- 16 ---------
+--------- 17 ---------
 * 账号：`wyattroddo8@hotmail.com`
 * 密码：`TA30wr34`
 
---------- 17 ---------
+--------- 18 ---------
+* 账号：`slawiaalacar5@hotmail.com`
+* 密码：`NR77mv37S`
+
+--------- 19 ---------
 * 账号：`ligibsonxpxu@hotmail.com`
 * 密码：`HT85ax59`
 
---------- 18 ---------
+--------- 20 ---------
+* 账号：`jacksongon80@hotmail.com`
+* 密码：`WP29px46`
+
+--------- 21 ---------
 * 账号：`parsisshipluk@hotmail.com`
 * 密码：`QH90dd77`
 
---------- 19 ---------
+--------- 22 ---------
 * 账号：`samuel9x2yvaz@hotmail.com`
-* 密码：`UD84rt84`
+* 密码：`SF89vq49`
 
---------- 20 ---------
+--------- 23 ---------
+* 账号：`josiahnd1fmiller@hotmail.com`
+* 密码：`EB86pu54`
+
+--------- 24 ---------
 * 账号：`jiaojiameizhanlangou17@outlook.com`
 * 密码：`TH75ad35`
 
---------- 21 ---------
+--------- 25 ---------
 * 账号：`ale7kfstone@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 22 ---------
+--------- 26 ---------
 * 账号：`samuelmalbz@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 23 ---------
+--------- 27 ---------
 * 账号：`eliashenryrd8@outlook.com`
-* 密码：`YD7JtT2ss3w`
+* 密码：`6hD78BcNbmR`
 
---------- 24 ---------
+--------- 28 ---------
 * 账号：`danielhughesrk4@outlook.com`
 * 密码：`qSM6Ut42een`
 
---------- 25 ---------
+--------- 29 ---------
 * 账号：`caferiagbasiz@outlook.com`
-* 密码：`E3m22CQKVC7`
+* 密码：`29JKqSA1mEc`
 
---------- 26 ---------
+--------- 30 ---------
 * 账号：`ashtondinora@gmail.com`
 * 密码：`LSv81s85`
 
---------- 27 ---------
+--------- 31 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
 * 密码：`Dd15f960e`
 
---------- 28 ---------
+--------- 32 ---------
 * 账号：`m775454475@idd7.com`
 * 密码：`Dd141b172`
 
---------- 29 ---------
+--------- 33 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd126a9b0`
 <!-- apple ends -->
