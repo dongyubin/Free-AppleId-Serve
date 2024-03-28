@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-28 10:37:12**
+更新时间：**2024-03-28 11:11:49**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -235,15 +235,15 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`PhilipFergus13@hotmail.com`
-* 密码：`Dd1e115c6`
+* 密码：`Dd1595456`
 
 --------- 4 ---------
 * 账号：`WideTimekeeper742@hotmail.com`
-* 密码：`Dd1b8bcd8`
+* 密码：`Dd1e51f37`
 
 --------- 5 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd1134e0e`
+* 密码：`Dd1c36ce2`
 
 --------- 6 ---------
 * 账号：`williamri5q@hotmail.com`
@@ -255,7 +255,7 @@ PS：最好月付，防止跑路！
 
 --------- 8 ---------
 * 账号：`ethanprice4ww@hotmail.com`
-* 密码：`YX52kq32`
+* 密码：`TB27dj50`
 
 --------- 9 ---------
 * 账号：`josiahb87l@hotmail.com`
@@ -267,7 +267,7 @@ PS：最好月付，防止跑路！
 
 --------- 11 ---------
 * 账号：`nasshofehi@outlook.com`
-* 密码：`BT15pg10`
+* 密码：`EM54cf15`
 
 --------- 12 ---------
 * 账号：`rp459071@outlook.com`
@@ -275,11 +275,11 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 账号：`asherferuzq2@hotmail.com`
-* 密码：`UV48pc41`
+* 密码：`GT33hb42`
 
 --------- 14 ---------
 * 账号：`leofavmedina@hotmail.com`
-* 密码：`BS45pd67`
+* 密码：`VD27ex82`
 
 --------- 15 ---------
 * 账号：`wyattroddo8@hotmail.com`
@@ -295,7 +295,7 @@ PS：最好月付，防止跑路！
 
 --------- 18 ---------
 * 账号：`jacksongon80@hotmail.com`
-* 密码：`SN26vs82`
+* 密码：`GH66sg18`
 
 --------- 19 ---------
 * 账号：`parsisshipluk@hotmail.com`
@@ -303,11 +303,11 @@ PS：最好月付，防止跑路！
 
 --------- 20 ---------
 * 账号：`samuel9x2yvaz@hotmail.com`
-* 密码：`XF58ey83`
+* 密码：`ZK82dt68`
 
 --------- 21 ---------
 * 账号：`josiahnd1fmiller@hotmail.com`
-* 密码：`MU82fe21`
+* 密码：`RU45ev83`
 
 --------- 22 ---------
 * 账号：`jiaojiameizhanlangou17@outlook.com`
@@ -319,7 +319,7 @@ PS：最好月付，防止跑路！
 
 --------- 24 ---------
 * 账号：`eliashenryrd8@outlook.com`
-* 密码：`D1FVut21Cmv`
+* 密码：`tT5wUdRBGha`
 
 --------- 25 ---------
 * 账号：`danielhughesrk4@outlook.com`
@@ -335,7 +335,7 @@ PS：最好月付，防止跑路！
 
 --------- 28 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd1134e0e`
+* 密码：`Dd1c36ce2`
 
 --------- 29 ---------
 * 账号：`m775454475@idd7.com`
