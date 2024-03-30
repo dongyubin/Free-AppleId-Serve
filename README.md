@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-03-30 11:35:30**
+更新时间：**2024-03-30 12:12:42**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,63 +227,63 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`khanhanh111343@gmail.com`
-* 密码：`Dd12fa5ae`
+* 密码：`Dd1f705f4`
 
 --------- 2 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd11eabb9`
+* 密码：`Dd1101406`
 
 --------- 3 ---------
-* 账号：`elijahmillere9pz@hotmail.com`
-* 密码：`UT70zr15`
+* 账号：`miadamsakp@hotmail.com`
+* 密码：`FG45vq93`
 
 --------- 4 ---------
-* 账号：`miadamsakp@hotmail.com`
-* 密码：`Adde6699ss6`
-
---------- 5 ---------
-* 账号：`asherg94boyd@hotmail.com`
-* 密码：`Adde6699ss6`
-
---------- 6 ---------
 * 账号：`mafloresvvt6@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 7 ---------
+--------- 5 ---------
 * 账号：`rp459071@outlook.com`
-* 密码：`VU75cp92`
+* 密码：`VE39nk20`
 
---------- 8 ---------
+--------- 6 ---------
 * 账号：`carter1plgrant@hotmail.com`
-* 密码：`HF95tj41`
+* 密码：`KU67af58`
 
---------- 9 ---------
+--------- 7 ---------
 * 账号：`tadams9g@hotmail.com`
 * 密码：`JJ39pp13`
 
---------- 10 ---------
+--------- 8 ---------
 * 账号：`wiarnoldmu@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 11 ---------
+--------- 9 ---------
 * 账号：`hudsonf96ph@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 12 ---------
+--------- 10 ---------
 * 账号：`ethant7hill@hotmail.com`
 * 密码：`Adde6699ss6`
 
---------- 13 ---------
+--------- 11 ---------
 * 账号：`slawiaalacar5@hotmail.com`
 * 密码：`QP35dj33`
 
---------- 14 ---------
+--------- 12 ---------
 * 账号：`ligibsonxpxu@hotmail.com`
 * 密码：`DN41fy33`
 
+--------- 13 ---------
+* 账号：`jacksongon80@hotmail.com`
+* 密码：`GX18hn84`
+
+--------- 14 ---------
+* 账号：`parsisshipluk@hotmail.com`
+* 密码：`DS48wx93`
+
 --------- 15 ---------
 * 账号：`josiahnd1fmiller@hotmail.com`
-* 密码：`AS45xm73`
+* 密码：`SH15ra46`
 
 --------- 16 ---------
 * 账号：`jiaojiameizhanlangou17@outlook.com`
@@ -299,7 +299,7 @@ PS：最好月付，防止跑路！
 
 --------- 19 ---------
 * 账号：`comasnmemmtmma@gmail.com`
-* 密码：`66g9mPqnrZw`
+* 密码：`y4NMHb5THwr`
 
 --------- 20 ---------
 * 账号：`ashtondinora@gmail.com`
@@ -307,11 +307,11 @@ PS：最好月付，防止跑路！
 
 --------- 21 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd11eabb9`
+* 密码：`Dd1101406`
 
 --------- 22 ---------
 * 账号：`khanhanh111343@gmail.com`
-* 密码：`Dd12fa5ae`
+* 密码：`Dd1f705f4`
 
 --------- 23 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
