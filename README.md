@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-02 03:08:35**
+更新时间：**2024-04-02 03:35:20**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -230,66 +230,74 @@ PS：最好月付，防止跑路！
 * 密码：`KQh29t72`
 
 --------- 2 ---------
+* 账号：`lucasjonesxi@hotmail.com`
+* 密码：`123654qqQ`
+
+--------- 3 ---------
 * 账号：`thienlinh492150@gmail.com`
 * 密码：`Dd1bff430`
 
---------- 3 ---------
+--------- 4 ---------
 * 账号：`quynhmai453769@gmail.com`
 * 密码：`Dd1e6cbdd`
 
---------- 4 ---------
-* 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd123213c`
-
 --------- 5 ---------
-* 账号：`funderburkzavierigv@gmail.com`
-* 密码：`XY69eq33`
-
---------- 6 ---------
-* 账号：`13643680447@189.cn`
-* 密码：`AA61kr22`
-
---------- 7 ---------
-* 账号：`13959974231@189.cn`
-* 密码：`YH10wb69`
-
---------- 8 ---------
-* 账号：`13083870067@189.cn`
-* 密码：`GQ39gc97`
-
---------- 9 ---------
-* 账号：`ufku_30@hotmail.com`
-* 密码：`GM66ef11`
-
---------- 10 ---------
-* 账号：`parsisshipluk@hotmail.com`
-* 密码：`KW64jd39`
-
---------- 11 ---------
-* 账号：`comasnmemmtmma@gmail.com`
-* 密码：`z2aHBFt2HcX`
-
---------- 12 ---------
-* 账号：`dwaunkristoffer@gmail.com`
-* 密码：`4DJJER681cE`
-
---------- 13 ---------
-* 账号：`jessegundersen@hotmail.com`
-* 密码：`ajhDxWG268a`
-
---------- 14 ---------
-* 账号：`ashtondinora@gmail.com`
-* 密码：`MTo62b68`
-
---------- 15 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
 * 密码：`Dd1e89452`
 
+--------- 6 ---------
+* 账号：`funderburkzavierigv@gmail.com`
+* 密码：`XY69eq33`
+
+--------- 7 ---------
+* 账号：`13643680447@189.cn`
+* 密码：`AA61kr22`
+
+--------- 8 ---------
+* 账号：`17737026019@189.cn`
+* 密码：`PG57ac61`
+
+--------- 9 ---------
+* 账号：`13959974231@189.cn`
+* 密码：`YH10wb69`
+
+--------- 10 ---------
+* 账号：`13083870067@189.cn`
+* 密码：`GQ39gc97`
+
+--------- 11 ---------
+* 账号：`ufku_30@hotmail.com`
+* 密码：`GM66ef11`
+
+--------- 12 ---------
+* 账号：`parsisshipluk@hotmail.com`
+* 密码：`KW64jd39`
+
+--------- 13 ---------
+* 账号：`comasnmemmtmma@gmail.com`
+* 密码：`z2aHBFt2HcX`
+
+--------- 14 ---------
+* 账号：`dwaunkristoffer@gmail.com`
+* 密码：`4DJJER681cE`
+
+--------- 15 ---------
+* 账号：`jessegundersen@hotmail.com`
+* 密码：`ajhDxWG268a`
+
 --------- 16 ---------
-* 账号：`khanhanh111343@gmail.com`
-* 密码：`Dd1d2c0c2`
+* 账号：`ashtondinora@gmail.com`
+* 密码：`MTo62b68`
 
 --------- 17 ---------
+* 账号：`HalfDaneLeanne707@hotmail.com`
+* 密码：`Dd1e89452`
+
+--------- 18 ---------
+* 账号：`lucasjonesxi@hotmail.com`
+* 密码：`123654qqQ`
+
+--------- 19 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1bf6f08`
 <!-- apple ends -->
