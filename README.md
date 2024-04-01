@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-02 01:34:49**
+更新时间：**2024-04-02 02:13:33**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -231,19 +231,19 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 账号：`khanhanh111343@gmail.com`
-* 密码：`Dd137d511`
+* 密码：`Dd1d2c0c2`
 
 --------- 3 ---------
 * 账号：`thienlinh492150@gmail.com`
-* 密码：`Dd14789e3`
+* 密码：`Dd1bff430`
 
 --------- 4 ---------
 * 账号：`quynhmai453769@gmail.com`
-* 密码：`Dd157ab66`
+* 密码：`Dd10ae8cc`
 
 --------- 5 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd164744d`
+* 密码：`Dd123213c`
 
 --------- 6 ---------
 * 账号：`funderburkzavierigv@gmail.com`
@@ -267,7 +267,7 @@ PS：最好月付，防止跑路！
 
 --------- 11 ---------
 * 账号：`ufku_30@hotmail.com`
-* 密码：`FQ15tf41`
+* 密码：`GM66ef11`
 
 --------- 12 ---------
 * 账号：`parsisshipluk@hotmail.com`
@@ -287,15 +287,15 @@ PS：最好月付，防止跑路！
 
 --------- 16 ---------
 * 账号：`ashtondinora@gmail.com`
-* 密码：`IOs42t40`
+* 密码：`MTo62b68`
 
 --------- 17 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd164744d`
+* 密码：`Dd123213c`
 
 --------- 18 ---------
 * 账号：`khanhanh111343@gmail.com`
-* 密码：`Dd11c89fa`
+* 密码：`Dd1d2c0c2`
 
 --------- 19 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
