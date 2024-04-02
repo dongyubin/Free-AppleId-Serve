@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-02 14:36:29**
+更新时间：**2024-04-02 15:12:36**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,69 +227,77 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 中国大陆账号：`eddb3248@gmail.com`
-* 密码：`Xx223322`
+* 密码：`ACe00w81`
 
 --------- 2 ---------
-* 账号：`lucasjonesxi@hotmail.com`
-* 密码：`Dd1a522be`
+* 美国账号：`cartagenashayekeyh6@gmail.com`
+* 密码：`TBc56r18`
 
 --------- 3 ---------
-* 账号：`thienlinh492150@gmail.com`
-* 密码：`Dd186d905`
+* 账号：`lucasjonesxi@hotmail.com`
+* 密码：`Dd1513d46`
 
 --------- 4 ---------
-* 账号：`quynhmai453769@gmail.com`
-* 密码：`Dd1633eb8`
+* 账号：`thienlinh492150@gmail.com`
+* 密码：`Dd1fc8407`
 
 --------- 5 ---------
-* 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd152abfd`
+* 账号：`quynhmai453769@gmail.com`
+* 密码：`Dd17a9820`
 
 --------- 6 ---------
-* 账号：`funderburkzavierigv@gmail.com`
-* 密码：`XY69eq33`
-
---------- 7 ---------
-* 账号：`13643680447@189.cn`
-* 密码：`KW97ka70`
-
---------- 8 ---------
-* 账号：`13959974231@189.cn`
-* 密码：`TV13fx86`
-
---------- 9 ---------
-* 账号：`13083870067@189.cn`
-* 密码：`BB40uk33`
-
---------- 10 ---------
-* 账号：`ufku_30@hotmail.com`
-* 密码：`AZ26yc30`
-
---------- 11 ---------
-* 账号：`parsisshipluk@hotmail.com`
-* 密码：`KW81vy60`
-
---------- 12 ---------
-* 账号：`comasnmemmtmma@gmail.com`
-* 密码：`TDPdM8SEsgp`
-
---------- 13 ---------
-* 账号：`dwaunkristoffer@gmail.com`
-* 密码：`4DJJER681cE`
-
---------- 14 ---------
-* 账号：`jessegundersen@hotmail.com`
-* 密码：`cRZQD2GZbxp`
-
---------- 15 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
 * 密码：`Dd153d4ee`
 
+--------- 7 ---------
+* 账号：`funderburkzavierigv@gmail.com`
+* 密码：`XY69eq33`
+
+--------- 8 ---------
+* 账号：`13643680447@189.cn`
+* 密码：`AJ20ua41`
+
+--------- 9 ---------
+* 账号：`17737026019@189.cn`
+* 密码：`FB47ev10`
+
+--------- 10 ---------
+* 账号：`13959974231@189.cn`
+* 密码：`TV13fx86`
+
+--------- 11 ---------
+* 账号：`13083870067@189.cn`
+* 密码：`EE66jq98`
+
+--------- 12 ---------
+* 账号：`ufku_30@hotmail.com`
+* 密码：`KJ22fa79`
+
+--------- 13 ---------
+* 账号：`parsisshipluk@hotmail.com`
+* 密码：`HT24tm38`
+
+--------- 14 ---------
+* 账号：`comasnmemmtmma@gmail.com`
+* 密码：`TDPdM8SEsgp`
+
+--------- 15 ---------
+* 账号：`dwaunkristoffer@gmail.com`
+* 密码：`4DJJER681cE`
+
 --------- 16 ---------
-* 账号：`lucasjonesxi@hotmail.com`
-* 密码：`Dd1a522be`
+* 账号：`jessegundersen@hotmail.com`
+* 密码：`enXsfqQep51`
 
 --------- 17 ---------
+* 账号：`HalfDaneLeanne707@hotmail.com`
+* 密码：`Dd153d4ee`
+
+--------- 18 ---------
+* 账号：`lucasjonesxi@hotmail.com`
+* 密码：`Dd1aBMWd5`
+
+--------- 19 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd184290c`
 <!-- apple ends -->
