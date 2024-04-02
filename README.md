@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-02 19:10:00**
+更新时间：**2024-04-02 19:34:43**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,7 +227,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`eddb3248@gmail.com`
-* 密码：`WQh03g30`
+* 密码：`WZb86b04`
 
 --------- 2 ---------
 * 美国账号：`cartagenashayekeyh6@gmail.com`
@@ -235,15 +235,15 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`lucasjonesxi@hotmail.com`
-* 密码：`Dd1ff4133`
+* 密码：`Dd197372e`
 
 --------- 4 ---------
 * 账号：`thienlinh492150@gmail.com`
-* 密码：`Dd162c707`
+* 密码：`Dd1e3b08e`
 
 --------- 5 ---------
 * 账号：`thomasgims@hotmail.com`
-* 密码：`Dd190bd71`
+* 密码：`Dd12c08ee`
 
 --------- 6 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
@@ -279,25 +279,21 @@ PS：最好月付，防止跑路！
 
 --------- 14 ---------
 * 账号：`comasnmemmtmma@gmail.com`
-* 密码：`dS8aHmFbwSz`
+* 密码：`JmPMqG31dhE`
 
 --------- 15 ---------
-* 账号：`dwaunkristoffer@gmail.com`
+* 账号：`jessegundersen@hotmail.com`
 * 密码：`4DJJER681cE`
 
 --------- 16 ---------
-* 账号：`jessegundersen@hotmail.com`
-* 密码：`dQEV2Dv3S9s`
-
---------- 17 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
 * 密码：`Dd1a1d050`
 
---------- 18 ---------
+--------- 17 ---------
 * 账号：`lucasjonesxi@hotmail.com`
 * 密码：`Dd197372e`
 
---------- 19 ---------
+--------- 18 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd184290c`
 <!-- apple ends -->
