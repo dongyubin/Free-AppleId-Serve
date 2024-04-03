@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-03 21:34:33**
+更新时间：**2024-04-03 22:10:37**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -230,12 +230,12 @@ PS：最好月付，防止跑路！
 * 密码：`QQ77hh66`
 
 --------- 2 ---------
-* 账号：`ejfdtgfsh@hotmail.com`
-* 密码：`CC33gg22`
+* 账号：`jackrizcbutler@hotmail.com`
+* 密码：`KK33ee88`
 
 --------- 3 ---------
-* 账号：`alaniiyobon@hotmail.com`
-* 密码：`MM66jj77`
+* 账号：`isaactucker3a8t@hotmail.com`
+* 密码：`XX44nn44`
 
 --------- 4 ---------
 * 账号：`patricesnelgrove@hotmail.com`
@@ -246,34 +246,50 @@ PS：最好月付，防止跑路！
 * 密码：`VT62wy89`
 
 --------- 6 ---------
-* 账号：`13643680447@189.cn`
-* 密码：`CA30ja67`
+* 账号：`ios8@vpnyun.link`
+* 密码：`fXujn4qGEg`
 
 --------- 7 ---------
-* 账号：`17737026019@189.cn`
-* 密码：`GA61my25`
-
---------- 8 ---------
-* 账号：`13959974231@189.cn`
-* 密码：`HV76bt84`
-
---------- 9 ---------
-* 账号：`ufku_30@hotmail.com`
-* 密码：`YZ98kg41`
-
---------- 10 ---------
-* 账号：`parsisshipluk@hotmail.com`
-* 密码：`FQ81yc23`
-
---------- 11 ---------
-* 账号：`patricesnelgrove@hotmail.com`
-* 密码：`SS11qq88`
-
---------- 12 ---------
 * 账号：`domenickcorvetta@gmail.com`
 * 密码：`QQ77hh66`
 
+--------- 8 ---------
+* 账号：`isaactucker3a8t@hotmail.com`
+* 密码：`XX44nn44`
+
+--------- 9 ---------
+* 账号：`patricesnelgrove@hotmail.com`
+* 密码：`SS11qq88`
+
+--------- 10 ---------
+* 账号：`funderburkzavierigv@gmail.com`
+* 密码：`VT62wy89`
+
+--------- 11 ---------
+* 账号：`funderburkzavierigv@gmail.com`
+* 密码：`ZeshrpZYa39`
+
+--------- 12 ---------
+* 账号：`kvhfnw23@xysd.org`
+* 密码：`BmFRAqNSQ5h`
+
 --------- 13 ---------
+* 账号：`xtoqazuc@xysd.org`
+* 密码：`K7ErkmQSvwJ`
+
+--------- 14 ---------
+* 账号：`25wgbyqy4o@xysd.org`
+* 密码：`ZeshrpZYa39`
+
+--------- 15 ---------
+* 账号：`patricesnelgrove@hotmail.com`
+* 密码：`SS11qq88`
+
+--------- 16 ---------
+* 账号：`domenickcorvetta@gmail.com`
+* 密码：`QQ77hh66`
+
+--------- 17 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1ec985e`
 <!-- apple ends -->
