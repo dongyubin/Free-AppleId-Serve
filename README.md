@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-03 09:46:01**
+更新时间：**2024-04-03 10:18:57**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,69 +227,73 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`lucasjonesxi@hotmail.com`
-* 密码：`Dd1e02212`
+* 密码：`Dd18eef5a`
 
 --------- 2 ---------
 * 账号：`thienlinh492150@gmail.com`
-* 密码：`Dd1d9527d`
+* 密码：`Dd143b4b9`
 
 --------- 3 ---------
 * 账号：`thomasgims@hotmail.com`
-* 密码：`Dd1af06d2`
+* 密码：`Dd1783fa9`
 
 --------- 4 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd115607a`
+* 密码：`Dd1383327`
 
 --------- 5 ---------
+* 账号：`funderburkzavierigv@gmail.com`
+* 密码：`VT62wy89`
+
+--------- 6 ---------
 * 账号：`13643680447@189.cn`
 * 密码：`FJ75ak53`
 
---------- 6 ---------
+--------- 7 ---------
 * 账号：`17737026019@189.cn`
 * 密码：`BD94bd80`
 
---------- 7 ---------
+--------- 8 ---------
 * 账号：`13959974231@189.cn`
 * 密码：`RA17ej90`
 
---------- 8 ---------
+--------- 9 ---------
 * 账号：`13083870067@189.cn`
 * 密码：`JW30ns41`
 
---------- 9 ---------
-* 账号：`ufku_30@hotmail.com`
-* 密码：`ZZ75gk87`
-
 --------- 10 ---------
+* 账号：`ufku_30@hotmail.com`
+* 密码：`HX71mt97`
+
+--------- 11 ---------
 * 账号：`parsisshipluk@hotmail.com`
 * 密码：`UT21sx54`
 
---------- 11 ---------
-* 账号：`comasnmemmtmma@gmail.com`
-* 密码：`Dfh3JbTP5Hr`
-
 --------- 12 ---------
+* 账号：`comasnmemmtmma@gmail.com`
+* 密码：`a5dUPhDfp3M`
+
+--------- 13 ---------
 * 账号：`dwaunkristoffer@gmail.com`
 * 密码：`D9MPgADZkpU`
 
---------- 13 ---------
+--------- 14 ---------
 * 账号：`jessegundersen@hotmail.com`
 * 密码：`vN4G62A7RWX`
 
---------- 14 ---------
-* 账号：`cmorriswz@hotmail.com`
-* 密码：`FWv65x22`
-
 --------- 15 ---------
-* 账号：`HalfDaneLeanne707@hotmail.com`
-* 密码：`Dd115607a`
+* 账号：`cmorriswz@hotmail.com`
+* 密码：`LMe15t25`
 
 --------- 16 ---------
+* 账号：`HalfDaneLeanne707@hotmail.com`
+* 密码：`Dd1383327`
+
+--------- 17 ---------
 * 账号：`lucasjonesxi@hotmail.com`
 * 密码：`Dd18eef5a`
 
---------- 17 ---------
+--------- 18 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd184290c`
 <!-- apple ends -->
