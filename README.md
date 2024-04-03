@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-03 20:45:56**
+更新时间：**2024-04-03 21:13:33**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,26 +226,46 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`antsmith38@hotmail.com`
-* 密码：`MM66ee88`
+* 账号：`ejfdtgfsh@hotmail.com`
+* 密码：`CC33gg22`
 
 --------- 2 ---------
-* 账号：`daniell18fharris@hotmail.com`
-* 密码：`CC77uu55`
+* 账号：`alaniiyobon@hotmail.com`
+* 密码：`MM66jj77`
 
 --------- 3 ---------
 * 账号：`josephubyramos@hotmail.com`
 * 密码：`QQ66cc11`
 
 --------- 4 ---------
+* 账号：`funderburkzavierigv@gmail.com`
+* 密码：`VT62wy89`
+
+--------- 5 ---------
+* 账号：`13643680447@189.cn`
+* 密码：`VT62pg30`
+
+--------- 6 ---------
+* 账号：`17737026019@189.cn`
+* 密码：`GA61my25`
+
+--------- 7 ---------
+* 账号：`13959974231@189.cn`
+* 密码：`JH71wn45`
+
+--------- 8 ---------
+* 账号：`ufku_30@hotmail.com`
+* 密码：`SD91zn49`
+
+--------- 9 ---------
 * 账号：`josephubyramos@hotmail.com`
 * 密码：`QQ66cc11`
 
---------- 5 ---------
-* 账号：`antsmith38@hotmail.com`
-* 密码：`MM66ee88`
+--------- 10 ---------
+* 账号：`domenickcorvetta@gmail.com`
+* 密码：`QQ77hh66`
 
---------- 6 ---------
+--------- 11 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1ec985e`
 <!-- apple ends -->
