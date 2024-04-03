@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-04 00:38:17**
+更新时间：**2024-04-04 01:09:52**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,42 +226,26 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`domenickcorvetta@gmail.com`
-* 密码：`QQ77hh66`
+* 账号：`xtiankane2@yahoo.com`
+* 密码：`EH57xa17`
 
 --------- 2 ---------
-* 账号：`jackrizcbutler@hotmail.com`
-* 密码：`KK33ee88`
+* 账号：`pauloestillore@hotmail.com`
+* 密码：`AT24ke70`
 
 --------- 3 ---------
-* 账号：`isaactucker3a8t@hotmail.com`
-* 密码：`XX44nn44`
+* 账号：`jessica.m.maccallum@hotmail.com`
+* 密码：`GH68qw36`
 
 --------- 4 ---------
 * 账号：`patricesnelgrove@hotmail.com`
 * 密码：`SS11qq88`
 
 --------- 5 ---------
-* 账号：`xtiankane2@yahoo.com`
-* 密码：`TP53wp42`
-
---------- 6 ---------
-* 账号：`pauloestillore@hotmail.com`
-* 密码：`VB34bg26`
-
---------- 7 ---------
-* 账号：`jessica.m.maccallum@hotmail.com`
-* 密码：`SK79dk28`
-
---------- 8 ---------
-* 账号：`patricesnelgrove@hotmail.com`
-* 密码：`SS11qq88`
-
---------- 9 ---------
 * 账号：`domenickcorvetta@gmail.com`
 * 密码：`QQ77hh66`
 
---------- 10 ---------
+--------- 6 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1ec985e`
 <!-- apple ends -->
