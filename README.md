@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-03 11:35:09**
+更新时间：**2024-04-03 12:13:58**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,66 +226,30 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`lucasjonesxi@hotmail.com`
-* 密码：`Dd18ef8e3`
+* 账号：`thienlinh492150@gmail.com`
+* 密码：`Dd1ee76c0`
 
 --------- 2 ---------
-* 账号：`thienlinh492150@gmail.com`
-* 密码：`Dd17eedeb`
-
---------- 3 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
 * 密码：`Dd1e09571`
 
---------- 4 ---------
+--------- 3 ---------
 * 账号：`funderburkzavierigv@gmail.com`
 * 密码：`VT62wy89`
 
---------- 5 ---------
-* 账号：`13643680447@189.cn`
-* 密码：`FC23eb12`
-
---------- 6 ---------
-* 账号：`17737026019@189.cn`
-* 密码：`BD94bd80`
-
---------- 7 ---------
-* 账号：`13959974231@189.cn`
-* 密码：`RA17ej90`
-
---------- 8 ---------
-* 账号：`ufku_30@hotmail.com`
-* 密码：`WN12pn46`
-
---------- 9 ---------
-* 账号：`parsisshipluk@hotmail.com`
-* 密码：`UT21sx54`
-
---------- 10 ---------
-* 账号：`comasnmemmtmma@gmail.com`
+--------- 4 ---------
+* 账号：`dwaunkristoffer@gmail.com`
 * 密码：`a5dUPhDfp3M`
 
---------- 11 ---------
-* 账号：`dwaunkristoffer@gmail.com`
-* 密码：`D9MPgADZkpU`
-
---------- 12 ---------
-* 账号：`jessegundersen@hotmail.com`
-* 密码：`T4kt5AX8vPC`
-
---------- 13 ---------
-* 账号：`cmorriswz@hotmail.com`
-* 密码：`PLg95h53`
-
---------- 14 ---------
+--------- 5 ---------
 * 账号：`HalfDaneLeanne707@hotmail.com`
 * 密码：`Dd1e09571`
 
---------- 15 ---------
+--------- 6 ---------
 * 账号：`lucasjonesxi@hotmail.com`
 * 密码：`Dd1100774`
 
---------- 16 ---------
+--------- 7 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd184290c`
 <!-- apple ends -->
