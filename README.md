@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-07 00:35:34**
+更新时间：**2024-04-07 01:10:48**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,19 +227,19 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`smanajmaramaw@hotmail.com`
-* 密码：`Dd1551a9c`
+* 密码：`Dd11e7cec`
 
 --------- 2 ---------
 * 账号：`tousisaarhusw@outlook.com`
-* 密码：`Dd18ae699`
+* 密码：`Dd1a4d490`
 
 --------- 3 ---------
 * 账号：`vozikivittey@outlook.com`
-* 密码：`Dd1bae49d`
+* 密码：`Dd1d871c6`
 
 --------- 4 ---------
 * 账号：`kpu5vkuy9tx@outlook.com`
-* 密码：`Dd100be02`
+* 密码：`Dd1d1f4be`
 
 --------- 5 ---------
 * 账号：`wilysmpayne@outlook.com`
@@ -255,7 +255,7 @@ PS：最好月付，防止跑路！
 
 --------- 8 ---------
 * 账号：`taopo5699643he@163.com`
-* 密码：`RM73df25`
+* 密码：`MS60kn88`
 
 --------- 9 ---------
 * 账号：`15810475091@2980.com`
@@ -275,11 +275,11 @@ PS：最好月付，防止跑路！
 
 --------- 13 ---------
 * 账号：`kpu5vkuy9tx@outlook.com`
-* 密码：`Dd100be02`
+* 密码：`Dd1d1f4be`
 
 --------- 14 ---------
 * 账号：`smanajmaramaw@hotmail.com`
-* 密码：`Dd1551a9c`
+* 密码：`Dd11e7cec`
 
 --------- 15 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
