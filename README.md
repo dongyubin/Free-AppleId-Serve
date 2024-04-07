@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-08 01:35:33**
+更新时间：**2024-04-08 02:13:00**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,7 +227,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`kxddqqpgypg@hotmail.com`
-* 密码：`Dd1cc5819`
+* 密码：`Dd166f2b0`
 
 --------- 2 ---------
 * 账号：`wqsnxpiqfkaa@hotmail.com`
@@ -235,11 +235,11 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`sewalkerpe3r@hotmail.com`
-* 密码：`XX77bb11`
+* 密码：`Dd1518961`
 
 --------- 4 ---------
 * 账号：`wlnuvfyvwzdx@hotmail.com`
-* 密码：`Dd12db4b5`
+* 密码：`Dd1ad622e`
 
 --------- 5 ---------
 * 账号：`ios9@vpnyun.link`
@@ -247,7 +247,7 @@ PS：最好月付，防止跑路！
 
 --------- 6 ---------
 * 账号：`kxddqqpgypg@hotmail.com`
-* 密码：`Dd1cc5819`
+* 密码：`Dd166f2b0`
 
 --------- 7 ---------
 * 账号：`wqsnxpiqfkaa@hotmail.com`
@@ -255,19 +255,19 @@ PS：最好月付，防止跑路！
 
 --------- 8 ---------
 * 账号：`sewalkerpe3r@hotmail.com`
-* 密码：`XX77bb11`
+* 密码：`Dd1518961`
 
 --------- 9 ---------
 * 账号：`wlnuvfyvwzdx@hotmail.com`
-* 密码：`Dd12db4b5`
+* 密码：`Dd1ad622e`
 
 --------- 10 ---------
 * 账号：`wlnuvfyvwzdx@hotmail.com`
-* 密码：`aKCj368ZmVy`
+* 密码：`tANzjexwv2k`
 
 --------- 11 ---------
 * 账号：`taopo5699643he@163.com`
-* 密码：`WV39wg94`
+* 密码：`CR58dr33`
 
 --------- 12 ---------
 * 账号：`13821811462@189.cn`
@@ -295,11 +295,11 @@ PS：最好月付，防止跑路！
 
 --------- 18 ---------
 * 账号：`wlnuvfyvwzdx@hotmail.com`
-* 密码：`Dd12db4b5`
+* 密码：`Dd1ad622e`
 
 --------- 19 ---------
 * 账号：`kxddqqpgypg@hotmail.com`
-* 密码：`Dd1cc5819`
+* 密码：`Dd166f2b0`
 
 --------- 20 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
