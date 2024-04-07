@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-07 21:13:31**
+更新时间：**2024-04-07 21:34:27**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,59 +227,27 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`vozikivittey@outlook.com`
-* 密码：`Dd12527de`
+* 密码：`Dd1b85fcc`
 
 --------- 2 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`9ewd9QCtx1`
+* 账号：`taopo5699643he@163.com`
+* 密码：`RV12fx15`
 
 --------- 3 ---------
-* 账号：`vozikivittey@outlook.com`
-* 密码：`Dd1f6b34e`
+* 账号：`13821811462@189.cn`
+* 密码：`XS41kw84`
 
 --------- 4 ---------
-* 账号：`vozikivittey@outlook.com`
-* 密码：`KTZC7jJpRE3`
-
---------- 5 ---------
-* 账号：`taopo5699643he@163.com`
-* 密码：`DM27mh45`
-
---------- 6 ---------
-* 账号：`13821811462@189.cn`
-* 密码：`AR64hh22`
-
---------- 7 ---------
-* 账号：`wuhdvgq@xysd.org`
-* 密码：`13DVmURgWRb`
-
---------- 8 ---------
-* 账号：`xtoqazuc@xysd.org`
-* 密码：`1kvUMrauF7V`
-
---------- 9 ---------
-* 账号：`25wgbyqy4o@xysd.org`
-* 密码：`KTZC7jJpRE3`
-
---------- 10 ---------
-* 账号：`taopo5699643he@163.com`
-* 密码：`DM27mh45`
-
---------- 11 ---------
-* 账号：`13821811462@189.cn`
-* 密码：`FD10br26`
-
---------- 12 ---------
 * 账号：`kpu5vkuy9tx@outlook.com`
 * 密码：`Dd1a0eae6`
 
---------- 13 ---------
+--------- 5 ---------
 * 账号：`smanajmaramaw@hotmail.com`
 * 密码：`Dd1ad2a4a`
 
---------- 14 ---------
+--------- 6 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`DdBMW6b2d`
+* 密码：`Dd1eebff9`
 <!-- apple ends -->
 
 
