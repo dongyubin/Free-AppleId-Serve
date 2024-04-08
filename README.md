@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-08 19:34:53**
+更新时间：**2024-04-08 20:20:13**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,15 +227,15 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`stklyqccvxjvhh@hotmail.com`
-* 密码：`Dd158e28e`
+* 密码：`Dd194c35a`
 
 --------- 2 ---------
 * 账号：`reinszabolcs@hotmail.com`
-* 密码：`Dd18166ff`
+* 密码：`Dd195c3fe`
 
 --------- 3 ---------
 * 账号：`rkbqttthb@hotmail.com`
-* 密码：`Dd1ad113d`
+* 密码：`Dd1BMW7f1`
 
 --------- 4 ---------
 * 账号：`lilcantrell@hotmail.com`
@@ -243,19 +243,19 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`vdcbx1zeDu`
+* 密码：`gMjbmNUpk4`
 
 --------- 6 ---------
 * 账号：`stklyqccvxjvhh@hotmail.com`
-* 密码：`Dd1828fe0`
+* 密码：`Dd1deef8b`
 
 --------- 7 ---------
 * 账号：`reinszabolcs@hotmail.com`
-* 密码：`Dd18166ff`
+* 密码：`Dd1697c6e`
 
 --------- 8 ---------
 * 账号：`rkbqttthb@hotmail.com`
-* 密码：`Dd1dede8d`
+* 密码：`Dd1ad113d`
 
 --------- 9 ---------
 * 账号：`lilcantrell@hotmail.com`
@@ -271,19 +271,19 @@ PS：最好月付，防止跑路！
 
 --------- 12 ---------
 * 账号：`13821811462@189.cn`
-* 密码：`WZ21nx78`
+* 密码：`KC85ah20`
 
 --------- 13 ---------
 * 账号：`18775908520@189.cn`
-* 密码：`QF18by23`
+* 密码：`KE63zr95`
 
 --------- 14 ---------
 * 账号：`wuhdvgq@xysd.org`
-* 密码：`FrE8qrhjRVG`
+* 密码：`7GBkY3yJCXa`
 
 --------- 15 ---------
 * 账号：`xtoqazuc@xysd.org`
-* 密码：`UE5T44CzWFn`
+* 密码：`BtjzAAg3x9d`
 
 --------- 16 ---------
 * 账号：`25wgbyqy4o@xysd.org`
@@ -291,23 +291,23 @@ PS：最好月付，防止跑路！
 
 --------- 17 ---------
 * 账号：`15810475091@2980.com`
-* 密码：`QQ90fa67`
+* 密码：`FK69ct67`
 
 --------- 18 ---------
 * 账号：`13821811462@189.cn`
-* 密码：`WZ21nx78`
+* 密码：`KC85ah20`
 
 --------- 19 ---------
 * 账号：`18775908520@189.cn`
-* 密码：`QF18by23`
+* 密码：`KE63zr95`
 
 --------- 20 ---------
 * 账号：`lilcantrell@hotmail.com`
-* 密码：`Dd1095d95`
+* 密码：`Dd1d8de3d`
 
 --------- 21 ---------
 * 账号：`stklyqccvxjvhh@hotmail.com`
-* 密码：`Dd158e28e`
+* 密码：`Dd194c35a`
 
 --------- 22 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
