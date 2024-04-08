@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-08 16:34:49**
+更新时间：**2024-04-08 17:12:37**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,7 +227,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`stklyqccvxjvhh@hotmail.com`
-* 密码：`Dd1cd4f43`
+* 密码：`Dd1494392`
 
 --------- 2 ---------
 * 账号：`reinszabolcs@hotmail.com`
@@ -235,51 +235,51 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`rkbqttthb@hotmail.com`
-* 密码：`Dd11fd13a`
+* 密码：`Dd1091930`
 
 --------- 4 ---------
 * 账号：`lilcantrell@hotmail.com`
-* 密码：`Dd1b255ae`
+* 密码：`Dd1226114`
 
 --------- 5 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`Bah9TkU5gv`
+* 密码：`P9QPyujEBh`
 
 --------- 6 ---------
 * 账号：`stklyqccvxjvhh@hotmail.com`
-* 密码：`Dd1cd4f43`
+* 密码：`Dd1494392`
 
 --------- 7 ---------
 * 账号：`reinszabolcs@hotmail.com`
-* 密码：`Dd18d6ea8`
+* 密码：`Dd172c391`
 
 --------- 8 ---------
 * 账号：`rkbqttthb@hotmail.com`
-* 密码：`Dd1242a75`
+* 密码：`Dd1091930`
 
 --------- 9 ---------
 * 账号：`lilcantrell@hotmail.com`
-* 密码：`XX22ff77`
+* 密码：`Dd1226114`
 
 --------- 10 ---------
 * 账号：`lilcantrell@hotmail.com`
-* 密码：`wH4amQZ23CA`
+* 密码：`5cVtU9f3QdR`
 
 --------- 11 ---------
 * 账号：`15810475091@2980.com`
-* 密码：`YU29hy12`
+* 密码：`KZ91cc17`
 
 --------- 12 ---------
 * 账号：`13821811462@189.cn`
-* 密码：`JZ22ee89`
+* 密码：`EY52zz78`
 
 --------- 13 ---------
 * 账号：`18775908520@189.cn`
-* 密码：`MD67up28`
+* 密码：`VP64ww95`
 
 --------- 14 ---------
 * 账号：`wuhdvgq@xysd.org`
-* 密码：`5MWbz5cKpf1`
+* 密码：`C3U7AF8t1mt`
 
 --------- 15 ---------
 * 账号：`xtoqazuc@xysd.org`
@@ -287,25 +287,29 @@ PS：最好月付，防止跑路！
 
 --------- 16 ---------
 * 账号：`25wgbyqy4o@xysd.org`
-* 密码：`wH4amQZ23CA`
+* 密码：`5cVtU9f3QdR`
 
 --------- 17 ---------
 * 账号：`15810475091@2980.com`
-* 密码：`YU29hy12`
+* 密码：`KZ91cc17`
 
 --------- 18 ---------
+* 账号：`13821811462@189.cn`
+* 密码：`EY52zz78`
+
+--------- 19 ---------
 * 账号：`18775908520@189.cn`
 * 密码：`VP64ww95`
 
---------- 19 ---------
-* 账号：`lilcantrell@hotmail.com`
-* 密码：`Dd1b255ae`
-
 --------- 20 ---------
-* 账号：`stklyqccvxjvhh@hotmail.com`
-* 密码：`Dd1cd4f43`
+* 账号：`lilcantrell@hotmail.com`
+* 密码：`Dd1226114`
 
 --------- 21 ---------
+* 账号：`stklyqccvxjvhh@hotmail.com`
+* 密码：`Dd1494392`
+
+--------- 22 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1f7a87e`
 <!-- apple ends -->
