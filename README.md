@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-08 21:34:41**
+更新时间：**2024-04-08 22:11:31**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,69 +227,49 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`reinszabolcs@hotmail.com`
-* 密码：`Dd1f4af03`
+* 密码：`Dd1fc827f`
 
 --------- 2 ---------
 * 账号：`lilcantrell@hotmail.com`
-* 密码：`Dd13e639a`
+* 密码：`Dd1723d7e`
 
 --------- 3 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`gMjbmNUpk4`
+* 密码：`wd88DcZAyb`
 
 --------- 4 ---------
 * 账号：`reinszabolcs@hotmail.com`
-* 密码：`Dd1c2867a`
+* 密码：`Dd1fc827f`
 
 --------- 5 ---------
 * 账号：`lilcantrell@hotmail.com`
-* 密码：`Dd1d8de3d`
+* 密码：`Dd1723d7e`
 
 --------- 6 ---------
 * 账号：`lilcantrell@hotmail.com`
 * 密码：`jgqQ4eGhQRA`
 
 --------- 7 ---------
-* 账号：`taowo41822pao@163.com`
-* 密码：`NB70yv29`
+* 账号：`wuhdvgq@xysd.org`
+* 密码：`GxMTKUGq6Se`
 
 --------- 8 ---------
-* 账号：`15810475091@2980.com`
-* 密码：`AP49md23`
+* 账号：`xtoqazuc@xysd.org`
+* 密码：`wyyneb6e2fT`
 
 --------- 9 ---------
-* 账号：`13821811462@189.cn`
-* 密码：`XS68pa48`
-
---------- 10 ---------
-* 账号：`18775908520@189.cn`
-* 密码：`HS15ry48`
-
---------- 11 ---------
-* 账号：`taopin7642475gong@163.com`
-* 密码：`NB70yv29`
-
---------- 12 ---------
-* 账号：`wuhdvgq@xysd.org`
-* 密码：`37ueArfaKTZ`
-
---------- 13 ---------
-* 账号：`xtoqazuc@xysd.org`
-* 密码：`ue6ppQR7fpC`
-
---------- 14 ---------
 * 账号：`25wgbyqy4o@xysd.org`
 * 密码：`jgqQ4eGhQRA`
 
---------- 15 ---------
+--------- 10 ---------
 * 账号：`lilcantrell@hotmail.com`
-* 密码：`Dd13e639a`
+* 密码：`Dd14e1ca7`
 
---------- 16 ---------
+--------- 11 ---------
 * 账号：`stklyqccvxjvhh@hotmail.com`
 * 密码：`Dd1869178`
 
---------- 17 ---------
+--------- 12 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1f7a87e`
 <!-- apple ends -->
