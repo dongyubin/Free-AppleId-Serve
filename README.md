@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-10 07:11:35**
+更新时间：**2024-04-10 07:35:30**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -238,12 +238,12 @@ PS：最好月付，防止跑路！
 * 密码：`H7QbfeMpmt`
 
 --------- 4 ---------
-* 账号：`tauruzaintinr@hotmail.com`
-* 密码：`xgz8fsduHD`
+* 账号：`teajinceilip@hotmail.com`
+* 密码：`Fa112211`
 
 --------- 5 ---------
-* 账号：`teghantgkd@hotmail.com`
-* 密码：`BXnaaN4UDt`
+* 账号：`tahatasoras9@hotmail.com`
+* 密码：`4KknPjP2P1`
 
 --------- 6 ---------
 * 账号：`teguskaliia@hotmail.com`
@@ -254,20 +254,20 @@ PS：最好月付，防止跑路！
 * 密码：`Vb5KC9u5nn`
 
 --------- 8 ---------
-* 账号：`syrovarenordp@hotmail.com`
-* 密码：`9pa4zDvfCy`
-
---------- 9 ---------
 * 账号：`tarczidxcy@hotmail.com`
 * 密码：`us6mD3R5r8`
 
+--------- 9 ---------
+* 账号：`teghantgkd@hotmail.com`
+* 密码：`BXnaaN4UDt`
+
 --------- 10 ---------
-* 账号：`tahatasoras9@hotmail.com`
-* 密码：`4KknPjP2P1`
+* 账号：`syrovarenordp@hotmail.com`
+* 密码：`9pa4zDvfCy`
 
 --------- 11 ---------
-* 账号：`taglizkareay@hotmail.com`
-* 密码：`Fa112211`
+* 账号：`tauruzaintinr@hotmail.com`
+* 密码：`xgz8fsduHD`
 
 --------- 12 ---------
 * 账号：`k2918031@pgly.cc`
@@ -279,11 +279,11 @@ PS：最好月付，防止跑路！
 
 --------- 14 ---------
 * 账号：`sloulijuilusu@hotmail.com`
-* 密码：`tkidcnm6TQ5x7xe`
+* 密码：`tkidcmdCy4vxagf`
 
 --------- 15 ---------
 * 账号：`ericrpgytn@gmail.com`
-* 密码：`XX87mg66`
+* 密码：`TT72mz49`
 
 --------- 16 ---------
 * 账号：`caliemccorklevbzi6o8@gmail.com`
@@ -310,20 +310,20 @@ PS：最好月付，防止跑路！
 * 密码：`84n7NP1RfkJ`
 
 --------- 22 ---------
-* 账号：`xcnzhauwhzr@outlook.com`
-* 密码：`tkidch2jJAGPfPY`
-
---------- 23 ---------
 * 账号：`randletanyar5v5k@gmail.com`
 * 密码：`tkidcnm6TQ5x7xe`
+
+--------- 23 ---------
+* 账号：`misunyguy@hotmail.com`
+* 密码：`1uvdmgMu3C`
 
 --------- 24 ---------
 * 账号：`tNpxejly6f48B@hotmail.com`
 * 密码：`tkidcmdCy4vxagf`
 
 --------- 25 ---------
-* 账号：`misunyguy@hotmail.com`
-* 密码：`1uvdmgMu3C`
+* 账号：`xcnzhauwhzr@outlook.com`
+* 密码：`tkidch2jJAGPfPY`
 
 --------- 26 ---------
 * 账号：`ericrpgytn@gmail.com`
