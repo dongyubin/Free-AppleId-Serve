@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-09 12:14:32**
+更新时间：**2024-04-09 12:34:41**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,41 +227,57 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`erikabah1032@gmail.com`
-* 密码：`Xx223322`
+* 密码：`SFl97h97`
 
 --------- 2 ---------
 * 美国账号：`mercuriokarah8cmx@gmail.com`
-* 密码：`DDp77x12`
+* 密码：`AGi34q39`
 
 --------- 3 ---------
+* 账号：`vikenelacaffn@hotmail.com`
+* 密码：`DD66bb66`
+
+--------- 4 ---------
+* 账号：`midounjaiany4@hotmail.com`
+* 密码：`EE33yy22`
+
+--------- 5 ---------
 * 账号：`netrabarbie8@gmail.com`
 * 密码：`KK55dd88`
 
---------- 4 ---------
-* 账号：`zakirtolbert0u3mo@gmail.com`
-* 密码：`VX91rc36`
-
---------- 5 ---------
-* 账号：`carterttzrharris@hotmail.com`
-* 密码：`DT52zw65`
-
 --------- 6 ---------
+* 账号：`seldenelmana4@hotmail.com`
+* 密码：`QQ77xx33`
+
+--------- 7 ---------
+* 账号：`zakirtolbert0u3mo@gmail.com`
+* 密码：`DJ58re41`
+
+--------- 8 ---------
+* 账号：`carterttzrharris@hotmail.com`
+* 密码：`GG84qd18`
+
+--------- 9 ---------
+* 账号：`cjnwagner@hotmail.com`
+* 密码：`PB16bc95`
+
+--------- 10 ---------
 * 账号：`cassandrarenfrowxyhhqu@gmail.com`
 * 密码：`Xx223322`
 
---------- 7 ---------
+--------- 11 ---------
 * 账号：`glarson9hc@hotmail.com`
 * 密码：`CR71cc96`
 
---------- 8 ---------
-* 账号：`lilcantrell@hotmail.com`
-* 密码：`Dd1dd540e`
+--------- 12 ---------
+* 账号：`seldenelmana4@hotmail.com`
+* 密码：`QQ77xx33`
 
---------- 9 ---------
-* 账号：`sbochelone3@outlook.com`
-* 密码：`Dd186dc79`
+--------- 13 ---------
+* 账号：`vikenelacaffn@hotmail.com`
+* 密码：`DD66bb66`
 
---------- 10 ---------
+--------- 14 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1170610`
 <!-- apple ends -->
