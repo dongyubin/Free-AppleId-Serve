@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-09 18:14:28**
+更新时间：**2024-04-09 18:36:49**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,11 +227,11 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`phaihieurothuachungta@gmail.com`
-* 密码：`Dd1faca21`
+* 密码：`Dd1248c52`
 
 --------- 2 ---------
 * 账号：`swindellfarrah9ht27@gmail.com`
-* 密码：`Dd1b21325`
+* 密码：`Dd1f4f1af`
 
 --------- 3 ---------
 * 账号：`hale47757@gmail.com`
@@ -239,55 +239,55 @@ PS：最好月付，防止跑路！
 
 --------- 4 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`kx67FaneZb`
+* 密码：`CSFTcnrb7P`
 
 --------- 5 ---------
-* 账号：`phaihieurothuachungta@gmail.com`
-* 密码：`Dd1faca21`
+* 账号：`samuelfwh4cook@hotmail.com`
+* 密码：`Vbt1mVFtAg`
 
 --------- 6 ---------
+* 账号：`josiahffgt@outlook.com`
+* 密码：`1JB4H2b48q`
+
+--------- 7 ---------
+* 账号：`vnaeydpf@outlook.com`
+* 密码：`ts6uS8Sx3E`
+
+--------- 8 ---------
+* 账号：`santonioorry@gmail.com`
+* 密码：`xuh3STsFyP`
+
+--------- 9 ---------
+* 账号：`tanyicrewzr@hotmail.com`
+* 密码：`BGdv4Bg2GF`
+
+--------- 10 ---------
+* 账号：`jackfloresem72@hotmail.com`
+* 密码：`kx6tKUNPSB`
+
+--------- 11 ---------
+* 账号：`jacobv6sgarcia@hotmail.com`
+* 密码：`3NBE6rkp5F`
+
+--------- 12 ---------
+* 账号：`gooseberrybrewer0514693@gmail.com`
+* 密码：`Zw5FQXarGN`
+
+--------- 13 ---------
+* 账号：`phaihieurothuachungta@gmail.com`
+* 密码：`Dd1248c52`
+
+--------- 14 ---------
 * 账号：`swindellfarrah9ht27@gmail.com`
 * 密码：`Dd1b21325`
 
---------- 7 ---------
-* 账号：`hale47757@gmail.com`
-* 密码：`DdBMWfe9d`
-
---------- 8 ---------
-* 账号：`hale47757@gmail.com`
-* 密码：`51xQJNeCE5G`
-
---------- 9 ---------
-* 账号：`danielrnfpxg@gmail.com`
-* 密码：`US86pe58`
-
---------- 10 ---------
-* 账号：`carterttzrharris@hotmail.com`
-* 密码：`EP88pb55`
-
---------- 11 ---------
-* 账号：`kathywknoge@gmail.com`
-* 密码：`NH79pc84`
-
---------- 12 ---------
-* 账号：`raigangalliiuuq3@gmail.com`
-* 密码：`WB95gu53`
-
---------- 13 ---------
-* 账号：`henrydqqgreen@hotmail.com`
-* 密码：`BZ70me84`
-
---------- 14 ---------
-* 账号：`wuhdvgq@xysd.org`
-* 密码：`TaRxDUnuU8u`
-
 --------- 15 ---------
-* 账号：`xtoqazuc@xysd.org`
-* 密码：`GbtwJx7Hgp3`
+* 账号：`hale47757@gmail.com`
+* 密码：`Dd1824362`
 
 --------- 16 ---------
-* 账号：`25wgbyqy4o@xysd.org`
-* 密码：`51xQJNeCE5G`
+* 账号：`hale47757@gmail.com`
+* 密码：`qqTQaA8hApa`
 
 --------- 17 ---------
 * 账号：`danielrnfpxg@gmail.com`
@@ -299,7 +299,7 @@ PS：最好月付，防止跑路！
 
 --------- 19 ---------
 * 账号：`kathywknoge@gmail.com`
-* 密码：`NH79pc84`
+* 密码：`VU26ty31`
 
 --------- 20 ---------
 * 账号：`raigangalliiuuq3@gmail.com`
@@ -310,14 +310,46 @@ PS：最好月付，防止跑路！
 * 密码：`BZ70me84`
 
 --------- 22 ---------
-* 账号：`hale47757@gmail.com`
-* 密码：`Dd1824362`
+* 账号：`wuhdvgq@xysd.org`
+* 密码：`TaRxDUnuU8u`
 
 --------- 23 ---------
+* 账号：`xtoqazuc@xysd.org`
+* 密码：`GbtwJx7Hgp3`
+
+--------- 24 ---------
+* 账号：`25wgbyqy4o@xysd.org`
+* 密码：`qqTQaA8hApa`
+
+--------- 25 ---------
+* 账号：`danielrnfpxg@gmail.com`
+* 密码：`HG42hz98`
+
+--------- 26 ---------
+* 账号：`carterttzrharris@hotmail.com`
+* 密码：`EX40zv42`
+
+--------- 27 ---------
+* 账号：`kathywknoge@gmail.com`
+* 密码：`VU26ty31`
+
+--------- 28 ---------
+* 账号：`raigangalliiuuq3@gmail.com`
+* 密码：`WB95gu53`
+
+--------- 29 ---------
+* 账号：`henrydqqgreen@hotmail.com`
+* 密码：`AH50ye46`
+
+--------- 30 ---------
+* 账号：`hale47757@gmail.com`
+* 密码：`Dd1384343`
+
+--------- 31 ---------
 * 账号：`phaihieurothuachungta@gmail.com`
 * 密码：`Dd1248c52`
 
---------- 24 ---------
+--------- 32 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1170610`
 <!-- apple ends -->
