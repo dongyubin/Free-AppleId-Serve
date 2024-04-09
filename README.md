@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-10 04:11:11**
+更新时间：**2024-04-10 04:34:54**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,7 +227,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`k2918031@pgly.cc`
-* 密码：`Dd152d9fb`
+* 密码：`Dd1260547`
 
 --------- 2 ---------
 * 账号：`sloulijuilusu@hotmail.com`
@@ -246,94 +246,102 @@ PS：最好月付，防止跑路！
 * 密码：`5kNFvShprV`
 
 --------- 6 ---------
-* 账号：`teajinceilip@hotmail.com`
+* 账号：`tauruzaintinr@hotmail.com`
 * 密码：`Fa112211`
 
 --------- 7 ---------
-* 账号：`teguskaliia@hotmail.com`
-* 密码：`Fa112211`
-
---------- 8 ---------
 * 账号：`teghantgkd@hotmail.com`
 * 密码：`BXnaaN4UDt`
 
---------- 9 ---------
+--------- 8 ---------
 * 账号：`taglizkareay@hotmail.com`
 * 密码：`Fa112211`
 
+--------- 9 ---------
+* 账号：`syujizeenic@hotmail.com`
+* 密码：`Vb5KC9u5nn`
+
 --------- 10 ---------
-* 账号：`k2918031@pgly.cc`
-* 密码：`Dd152d9fb`
+* 账号：`teajinceilip@hotmail.com`
+* 密码：`Fa112211`
 
 --------- 11 ---------
+* 账号：`tahatasoras9@hotmail.com`
+* 密码：`wfhdbx6TTj`
+
+--------- 12 ---------
+* 账号：`k2918031@pgly.cc`
+* 密码：`Dd1260547`
+
+--------- 13 ---------
 * 账号：`sloulijuilusu@hotmail.com`
 * 密码：`Dd1cbf7bb`
 
---------- 12 ---------
+--------- 14 ---------
 * 账号：`sloulijuilusu@hotmail.com`
 * 密码：`tkidcU8u1nmSHYE`
 
---------- 13 ---------
+--------- 15 ---------
 * 账号：`ericrpgytn@gmail.com`
 * 密码：`BB16rf10`
 
---------- 14 ---------
+--------- 16 ---------
 * 账号：`caliemccorklevbzi6o8@gmail.com`
 * 密码：`PD80yd16`
 
---------- 15 ---------
+--------- 17 ---------
 * 账号：`havynhaughtongruhswm@gmail.com`
 * 密码：`PH51rp82`
 
---------- 16 ---------
+--------- 18 ---------
 * 账号：`courtneyzmnaqd@gmail.com`
-* 密码：`UH90am19`
+* 密码：`UN55ar47`
 
---------- 17 ---------
+--------- 19 ---------
 * 账号：`wuhdvgq@xysd.org`
 * 密码：`TaRxDUnuU8u`
 
---------- 18 ---------
+--------- 20 ---------
 * 账号：`xtoqazuc@xysd.org`
 * 密码：`GbtwJx7Hgp3`
 
---------- 19 ---------
+--------- 21 ---------
 * 账号：`25wgbyqy4o@xysd.org`
 * 密码：`84n7NP1RfkJ`
 
---------- 20 ---------
+--------- 22 ---------
 * 账号：`tNpxejly6f48B@hotmail.com`
 * 密码：`tkidcmdCy4vxagf`
 
---------- 21 ---------
+--------- 23 ---------
 * 账号：`xcnzhauwhzr@outlook.com`
 * 密码：`tkidcMJ7m2EwKsR`
 
---------- 22 ---------
+--------- 24 ---------
 * 账号：`ericrpgytn@gmail.com`
-* 密码：`BB16rf10`
+* 密码：`YE68xu85`
 
---------- 23 ---------
+--------- 25 ---------
 * 账号：`caliemccorklevbzi6o8@gmail.com`
 * 密码：`PD80yd16`
 
---------- 24 ---------
+--------- 26 ---------
 * 账号：`havynhaughtongruhswm@gmail.com`
 * 密码：`PH51rp82`
 
---------- 25 ---------
+--------- 27 ---------
 * 账号：`courtneyzmnaqd@gmail.com`
-* 密码：`UH90am19`
+* 密码：`UN55ar47`
 
---------- 26 ---------
+--------- 28 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`HH88rr77`
 
---------- 27 ---------
+--------- 29 ---------
 * 账号：`nguyenthanh29400@gmail.com`
 * 密码：`Dd1d3940b`
 
---------- 28 ---------
+--------- 30 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd158164a`
 <!-- apple ends -->
