@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-09 15:34:32**
+更新时间：**2024-04-09 16:14:14**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,15 +227,15 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`danielrnfpxg@gmail.com`
-* 密码：`KH15br49`
+* 密码：`BN30jz93`
 
 --------- 2 ---------
 * 账号：`carterttzrharris@hotmail.com`
-* 密码：`ZW54kx92`
+* 密码：`JX11jd70`
 
 --------- 3 ---------
 * 账号：`kathywknoge@gmail.com`
-* 密码：`XQ73yz86`
+* 密码：`YU92up51`
 
 --------- 4 ---------
 * 账号：`raigangalliiuuq3@gmail.com`
@@ -246,14 +246,46 @@ PS：最好月付，防止跑路！
 * 密码：`UN16tn75`
 
 --------- 6 ---------
+* 账号：`wuhdvgq@xysd.org`
+* 密码：`TaRxDUnuU8u`
+
+--------- 7 ---------
+* 账号：`xtoqazuc@xysd.org`
+* 密码：`GbtwJx7Hgp3`
+
+--------- 8 ---------
+* 账号：`25wgbyqy4o@xysd.org`
+* 密码：`DdA6uyh5PwT`
+
+--------- 9 ---------
+* 账号：`danielrnfpxg@gmail.com`
+* 密码：`BN30jz93`
+
+--------- 10 ---------
+* 账号：`carterttzrharris@hotmail.com`
+* 密码：`JX11jd70`
+
+--------- 11 ---------
+* 账号：`kathywknoge@gmail.com`
+* 密码：`YU92up51`
+
+--------- 12 ---------
+* 账号：`raigangalliiuuq3@gmail.com`
+* 密码：`KA23ey82`
+
+--------- 13 ---------
+* 账号：`henrydqqgreen@hotmail.com`
+* 密码：`MB22ar32`
+
+--------- 14 ---------
 * 账号：`seldenelmana4@hotmail.com`
 * 密码：`QQ77xx33`
 
---------- 7 ---------
+--------- 15 ---------
 * 账号：`vikenelacaffn@hotmail.com`
 * 密码：`DD66bb66`
 
---------- 8 ---------
+--------- 16 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1170610`
 <!-- apple ends -->
