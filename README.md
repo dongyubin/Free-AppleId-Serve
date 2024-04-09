@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-10 00:12:49**
+更新时间：**2024-04-10 00:37:23**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,19 +227,19 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`ericrpgytn@gmail.com`
-* 密码：`QD21vf24`
+* 密码：`AQ73yu65`
 
 --------- 2 ---------
 * 账号：`caliemccorklevbzi6o8@gmail.com`
-* 密码：`QC75xh46`
+* 密码：`WD77ze57`
 
 --------- 3 ---------
 * 账号：`havynhaughtongruhswm@gmail.com`
-* 密码：`JX36hz42`
+* 密码：`QH67cg62`
 
 --------- 4 ---------
 * 账号：`courtneyzmnaqd@gmail.com`
-* 密码：`RJ39vx66`
+* 密码：`NV14zg51`
 
 --------- 5 ---------
 * 账号：`wuhdvgq@xysd.org`
@@ -251,27 +251,27 @@ PS：最好月付，防止跑路！
 
 --------- 7 ---------
 * 账号：`25wgbyqy4o@xysd.org`
-* 密码：`zVyur1svuGk`
+* 密码：`7xvJY5frTRt`
 
 --------- 8 ---------
 * 账号：`tNpxejly6f48B@hotmail.com`
-* 密码：`Ayy335533`
+* 密码：`tkidcpjpPdY8dHs`
 
 --------- 9 ---------
 * 账号：`ericrpgytn@gmail.com`
-* 密码：`ZK51be20`
+* 密码：`JZ53ht73`
 
 --------- 10 ---------
 * 账号：`caliemccorklevbzi6o8@gmail.com`
-* 密码：`HE87jf46`
+* 密码：`QZ68mf70`
 
 --------- 11 ---------
 * 账号：`havynhaughtongruhswm@gmail.com`
-* 密码：`JX36hz42`
+* 密码：`QH67cg62`
 
 --------- 12 ---------
 * 账号：`courtneyzmnaqd@gmail.com`
-* 密码：`SA94pe34`
+* 密码：`UH90am19`
 
 --------- 13 ---------
 * 账号：`nvvo997@pgly.cc`
