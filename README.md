@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-09 20:46:34**
+更新时间：**2024-04-09 21:11:49**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,54 +226,34 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`samuelfwh4cook@hotmail.com`
-* 密码：`Vbt1mVFtAg`
+* 美国账号：`erikabah1032@gmail.com`
+* 密码：`DCw89d22`
 
 --------- 2 ---------
-* 账号：`eliasblackxpfo@outlook.com`
-* 密码：`jJkV9fcrFb`
+* 美国账号：`mercuriokarah8cmx@gmail.com`
+* 密码：`SYr76l53`
 
 --------- 3 ---------
-* 账号：`nvvo997@pgly.cc`
-* 密码：`HH88rr77`
-
---------- 4 ---------
-* 账号：`nvvo997@pgly.cc`
-* 密码：`u74HV5pPYR`
-
---------- 5 ---------
-* 账号：`wuhdvgq@xysd.org`
-* 密码：`TaRxDUnuU8u`
-
---------- 6 ---------
-* 账号：`xtoqazuc@xysd.org`
-* 密码：`GbtwJx7Hgp3`
-
---------- 7 ---------
 * 账号：`25wgbyqy4o@xysd.org`
 * 密码：`GGfCGVjpx1m`
 
---------- 8 ---------
-* 账号：`misunyguy@hotmail.com`
-* 密码：`K2MvHjfS6r`
-
---------- 9 ---------
-* 账号：`xcnzhauwhzr@outlook.com`
-* 密码：`tkidcpPt4k9TND8`
-
---------- 10 ---------
+--------- 4 ---------
 * 账号：`randletanyar5v5k@gmail.com`
-* 密码：`tkidcF8r7FtFg4h`
+* 密码：`tkidcU8u1nmSHYE`
 
---------- 11 ---------
+--------- 5 ---------
+* 账号：`xcnzhauwhzr@outlook.com`
+* 密码：`tkidcMJ7m2EwKsR`
+
+--------- 6 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`HH88rr77`
 
---------- 12 ---------
+--------- 7 ---------
 * 账号：`nguyenthanh29400@gmail.com`
 * 密码：`Dd1d3940b`
 
---------- 13 ---------
+--------- 8 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1cb2428`
 <!-- apple ends -->
