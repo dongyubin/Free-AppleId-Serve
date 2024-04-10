@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-10 20:46:37**
+更新时间：**2024-04-10 21:12:27**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,54 +226,34 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`viyofflikom@outlook.com`
-* 密码：`WW44uu11`
+* 美国账号：`mercuriokarah8cmx@gmail.com`
+* 密码：`GGh98d92`
 
 --------- 2 ---------
 * 账号：`ios8@vpnyun.link`
 * 密码：`PmEqr4zCzX`
 
 --------- 3 ---------
-* 账号：`teguskaliia@hotmail.com`
-* 密码：`N7DxSxcnTb`
-
---------- 4 ---------
-* 账号：`viyofflikom@outlook.com`
-* 密码：`WW44uu11`
-
---------- 5 ---------
-* 账号：`viyofflikom@outlook.com`
-* 密码：`ddK486699`
-
---------- 6 ---------
-* 账号：`nicholasnkcsyl@gmail.com`
-* 密码：`KR74cu74`
-
---------- 7 ---------
-* 账号：`zw2ridfw@xysd.org`
-* 密码：`PDyHr3h2evP`
-
---------- 8 ---------
-* 账号：`nebsp5iwfj@xysd.org`
-* 密码：`1Dk3UmK7d1j`
-
---------- 9 ---------
-* 账号：`htgwvh@xysd.org`
-* 密码：`bP3vPV2w8AQ`
-
---------- 10 ---------
 * 账号：`vjqcrrnsg6@outlook.com`
 * 密码：`ddK486699`
 
---------- 11 ---------
+--------- 4 ---------
+* 账号：`ndaedahva@outlook.com`
+* 密码：`ddK486699`
+
+--------- 5 ---------
+* 账号：`samuelqo9parker@hotmail.com`
+* 密码：`ddK486699`
+
+--------- 6 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd1bc062e`
 
---------- 12 ---------
+--------- 7 ---------
 * 账号：`nguyenthanh29400@gmail.com`
 * 密码：`Dd1ec4d53`
 
---------- 13 ---------
+--------- 8 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1496180`
 <!-- apple ends -->
