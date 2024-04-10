@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-10 11:34:46**
+更新时间：**2024-04-10 12:13:04**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,18 +226,42 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`htgwvh@xysd.org`
-* 密码：`zdbPQRd9G3K`
+* 账号：`nguyenthanh29400@gmail.com`
+* 密码：`Dd189d85c`
 
 --------- 2 ---------
 * 账号：`nvvo997@pgly.cc`
-* 密码：`HH88rr77`
+* 密码：`Dd1a7c7fa`
 
 --------- 3 ---------
 * 账号：`nguyenthanh29400@gmail.com`
-* 密码：`Dd1d3940b`
+* 密码：`Dd189d85c`
 
 --------- 4 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`Dd1a7c7fa`
+
+--------- 5 ---------
+* 账号：`wuhdvgq@xysd.org`
+* 密码：`TaRxDUnuU8u`
+
+--------- 6 ---------
+* 账号：`xtoqazuc@xysd.org`
+* 密码：`GbtwJx7Hgp3`
+
+--------- 7 ---------
+* 账号：`htgwvh@xysd.org`
+* 密码：`Fm32xgsVh5j`
+
+--------- 8 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`Dd1a7c7fa`
+
+--------- 9 ---------
+* 账号：`nguyenthanh29400@gmail.com`
+* 密码：`Dd189d85c`
+
+--------- 10 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd158164a`
 <!-- apple ends -->
