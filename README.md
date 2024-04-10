@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-10 19:12:07**
+更新时间：**2024-04-10 19:34:28**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -231,85 +231,29 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`mercuriokarah8cmx@gmail.com`
-* 密码：`GGy32e49`
+* 密码：`TTs89p95`
 
 --------- 3 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`RdmcGzaZY6`
+* 账号：`cenhncctsq@hotmail.com`
+* 密码：`RP98pn69`
 
 --------- 4 ---------
-* 账号：`teguskaliia@hotmail.com`
-* 密码：`Sh3KrhHZfd`
+* 账号：`nicholasnkcsyl@gmail.com`
+* 密码：`CQ84ty66`
 
 --------- 5 ---------
-* 账号：`teghantgkd@hotmail.com`
-* 密码：`wkgmp4hbNq`
+* 账号：`kaylamemnyt@gmail.com`
+* 密码：`KT69du39`
 
 --------- 6 ---------
-* 账号：`teajinceilip@hotmail.com`
-* 密码：`WbkJY8nzHq`
-
---------- 7 ---------
-* 账号：`post9@tavie.cloud`
-* 密码：`K3aXq6kbyB`
-
---------- 8 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`EzG57Z3ee5`
-
---------- 9 ---------
-* 账号：`dominique.mh946@tavie.cloud`
-* 密码：`N6rZ2hqBNT`
-
---------- 10 ---------
-* 账号：`dominique.mh946@tavie.cloud`
-* 密码：`tkidcr1xcx8DUUR`
-
---------- 11 ---------
-* 账号：`cenhncctsq@hotmail.com`
-* 密码：`QJ16bb49`
-
---------- 12 ---------
-* 账号：`nicholasnkcsyl@gmail.com`
-* 密码：`FG85mh25`
-
---------- 13 ---------
-* 账号：`kaylamemnyt@gmail.com`
-* 密码：`VJ97jj94`
-
---------- 14 ---------
-* 账号：`wuhdvgq@xysd.org`
-* 密码：`VEFp4DXvuwj`
-
---------- 15 ---------
-* 账号：`xtoqazuc@xysd.org`
-* 密码：`fwchM78HhnV`
-
---------- 16 ---------
-* 账号：`htgwvh@xysd.org`
-* 密码：`Fm32xgsVh5j`
-
---------- 17 ---------
-* 账号：`mr_tniclas8@wolfcan.cloud`
-* 密码：`tkidcr1xcx8DUUR`
-
---------- 18 ---------
-* 账号：`nicholasnkcsyl@gmail.com`
-* 密码：`XE70nv82`
-
---------- 19 ---------
-* 账号：`kaylamemnyt@gmail.com`
-* 密码：`VJ97jj94`
-
---------- 20 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd1bc062e`
 
---------- 21 ---------
+--------- 7 ---------
 * 账号：`nguyenthanh29400@gmail.com`
 * 密码：`Dd1ec4d53`
 
---------- 22 ---------
+--------- 8 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1496180`
 <!-- apple ends -->
