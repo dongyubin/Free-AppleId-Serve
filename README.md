@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-10 17:13:09**
+更新时间：**2024-04-10 17:34:21**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,39 +227,39 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`D33EJtWKUn`
+* 密码：`vTsHG86tMt`
 
 --------- 2 ---------
-* 账号：`post9@tavie.cloud`
-* 密码：`BSkAXdUD9d`
+* 账号：`syrovarenordp@hotmail.com`
+* 密码：`HGdhfWA86f`
 
 --------- 3 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`GsX5KHeaHs`
+* 账号：`teguskaliia@hotmail.com`
+* 密码：`sfJuvDDC9j`
 
 --------- 4 ---------
-* 账号：`dominique.mh946@tavie.cloud`
-* 密码：`hg31uAv1nN`
+* 账号：`teajinceilip@hotmail.com`
+* 密码：`zmmC6MZgVK`
 
 --------- 5 ---------
-* 账号：`syrovarenordp@hotmail.com`
-* 密码：`7wf9tPGv9U`
+* 账号：`post9@tavie.cloud`
+* 密码：`f6JCCTS4jf`
 
 --------- 6 ---------
 * 账号：`teghantgkd@hotmail.com`
-* 密码：`upKCbR5Tkn`
+* 密码：`e9q2ZZ3ZGp`
 
 --------- 7 ---------
-* 账号：`teajinceilip@hotmail.com`
-* 密码：`xkUc1qBrhd`
+* 账号：`bortzcy137@tavie.cloud`
+* 密码：`GsX5KHeaHs`
 
 --------- 8 ---------
 * 账号：`cenhncctsq@hotmail.com`
-* 密码：`RU35gx34`
+* 密码：`QG51qm81`
 
 --------- 9 ---------
 * 账号：`nicholasnkcsyl@gmail.com`
-* 密码：`BJ83qf72`
+* 密码：`AF46wt91`
 
 --------- 10 ---------
 * 账号：`kaylamemnyt@gmail.com`
@@ -279,25 +279,29 @@ PS：最好月付，防止跑路！
 
 --------- 14 ---------
 * 账号：`mr_tniclas8@wolfcan.cloud`
-* 密码：`tkidccSUBY8hD2P`
+* 密码：`tkidcD4Ymr224km`
 
 --------- 15 ---------
 * 账号：`cenhncctsq@hotmail.com`
-* 密码：`RU35gx34`
+* 密码：`AT77kq49`
 
 --------- 16 ---------
-* 账号：`kaylamemnyt@gmail.com`
-* 密码：`ZH12cz24`
+* 账号：`nicholasnkcsyl@gmail.com`
+* 密码：`AF46wt91`
 
 --------- 17 ---------
+* 账号：`kaylamemnyt@gmail.com`
+* 密码：`SF12cp29`
+
+--------- 18 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd1bc062e`
 
---------- 18 ---------
+--------- 19 ---------
 * 账号：`nguyenthanh29400@gmail.com`
 * 密码：`Dd1ec4d53`
 
---------- 19 ---------
+--------- 20 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1496180`
 <!-- apple ends -->
