@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-10 17:34:21**
+更新时间：**2024-04-10 18:11:35**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,82 +226,98 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`vTsHG86tMt`
+* 美国账号：`erikabah1032@gmail.com`
+* 密码：`REk31e45`
 
 --------- 2 ---------
-* 账号：`syrovarenordp@hotmail.com`
-* 密码：`HGdhfWA86f`
+* 美国账号：`mercuriokarah8cmx@gmail.com`
+* 密码：`GIy48y93`
 
 --------- 3 ---------
-* 账号：`teguskaliia@hotmail.com`
-* 密码：`sfJuvDDC9j`
+* 账号：`ios9@vpnyun.link`
+* 密码：`fUTnAcGs7z`
 
 --------- 4 ---------
-* 账号：`teajinceilip@hotmail.com`
-* 密码：`zmmC6MZgVK`
+* 账号：`syrovarenordp@hotmail.com`
+* 密码：`5hr7cQbwWw`
 
 --------- 5 ---------
 * 账号：`post9@tavie.cloud`
-* 密码：`f6JCCTS4jf`
+* 密码：`bbneH9xdRv`
 
 --------- 6 ---------
 * 账号：`teghantgkd@hotmail.com`
-* 密码：`e9q2ZZ3ZGp`
+* 密码：`X44ZSM86Ft`
 
 --------- 7 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`GsX5KHeaHs`
+* 账号：`teajinceilip@hotmail.com`
+* 密码：`WbkJY8nzHq`
 
 --------- 8 ---------
-* 账号：`cenhncctsq@hotmail.com`
-* 密码：`QG51qm81`
+* 账号：`dominique.mh946@tavie.cloud`
+* 密码：`hg31uAv1nN`
 
 --------- 9 ---------
-* 账号：`nicholasnkcsyl@gmail.com`
-* 密码：`AF46wt91`
+* 账号：`teguskaliia@hotmail.com`
+* 密码：`dPD1TXKmz7`
 
 --------- 10 ---------
-* 账号：`kaylamemnyt@gmail.com`
-* 密码：`ZH12cz24`
+* 账号：`bortzcy137@tavie.cloud`
+* 密码：`eXjAxAPh5u`
 
 --------- 11 ---------
+* 账号：`bortzcy137@tavie.cloud`
+* 密码：`tkidcD4Ymr224km`
+
+--------- 12 ---------
+* 账号：`cenhncctsq@hotmail.com`
+* 密码：`QJ18rz54`
+
+--------- 13 ---------
+* 账号：`nicholasnkcsyl@gmail.com`
+* 密码：`FG85mh25`
+
+--------- 14 ---------
+* 账号：`kaylamemnyt@gmail.com`
+* 密码：`FA74de83`
+
+--------- 15 ---------
 * 账号：`wuhdvgq@xysd.org`
 * 密码：`TaRxDUnuU8u`
 
---------- 12 ---------
+--------- 16 ---------
 * 账号：`xtoqazuc@xysd.org`
 * 密码：`GbtwJx7Hgp3`
 
---------- 13 ---------
+--------- 17 ---------
 * 账号：`htgwvh@xysd.org`
 * 密码：`Fm32xgsVh5j`
 
---------- 14 ---------
+--------- 18 ---------
 * 账号：`mr_tniclas8@wolfcan.cloud`
 * 密码：`tkidcD4Ymr224km`
 
---------- 15 ---------
+--------- 19 ---------
 * 账号：`cenhncctsq@hotmail.com`
-* 密码：`AT77kq49`
+* 密码：`QJ18rz54`
 
---------- 16 ---------
+--------- 20 ---------
 * 账号：`nicholasnkcsyl@gmail.com`
-* 密码：`AF46wt91`
+* 密码：`FG85mh25`
 
---------- 17 ---------
+--------- 21 ---------
 * 账号：`kaylamemnyt@gmail.com`
-* 密码：`SF12cp29`
+* 密码：`FA74de83`
 
---------- 18 ---------
+--------- 22 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd1bc062e`
 
---------- 19 ---------
+--------- 23 ---------
 * 账号：`nguyenthanh29400@gmail.com`
 * 密码：`Dd1ec4d53`
 
---------- 20 ---------
+--------- 24 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1496180`
 <!-- apple ends -->
