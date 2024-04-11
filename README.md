@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-11 08:51:38**
+更新时间：**2024-04-11 09:48:51**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,8 +226,8 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 美国账号：`erikabah1032@gmail.com`
-* 密码：`EGp17e60`
+* 中国大陆账号：`erikabah1032@gmail.com`
+* 密码：`XXw92g24`
 
 --------- 2 ---------
 * 美国账号：`mercuriokarah8cmx@gmail.com`
@@ -235,55 +235,55 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`moorutkeizis@outlook.com`
-* 密码：`Dd114e95e`
+* 密码：`Dd1e2fb2c`
 
 --------- 4 ---------
+* 账号：`ios8@vpnyun.link`
+* 密码：`r7StKG3y8F`
+
+--------- 5 ---------
 * 账号：`ios9@vpnyun.link`
 * 密码：`tAqNyf6jDc`
 
---------- 5 ---------
-* 账号：`ios8@vpnyun.link`
-* 密码：`eBxH8ysajM`
-
 --------- 6 ---------
-* 账号：`jeffreyngajeq@gmail.com`
-* 密码：`gCUj67jWTp`
-
---------- 7 ---------
-* 账号：`syrovarenordp@hotmail.com`
-* 密码：`kbJc85UAjG`
-
---------- 8 ---------
-* 账号：`cynthiajyieep@gmail.com`
-* 密码：`PVQF1UMFRq`
-
---------- 9 ---------
 * 账号：`tekadthayseb@hotmail.com`
 * 密码：`g9YzGsSqAA`
 
---------- 10 ---------
+--------- 7 ---------
+* 账号：`cynthiajyieep@gmail.com`
+* 密码：`Q29qrA41ED`
+
+--------- 8 ---------
 * 账号：`post9@tavie.cloud`
 * 密码：`bV5ammuHgZ`
 
---------- 11 ---------
+--------- 9 ---------
+* 账号：`dominique.mh946@tavie.cloud`
+* 密码：`PjVV3JtFUG`
+
+--------- 10 ---------
 * 账号：`bortzcy137@tavie.cloud`
 * 密码：`eaKwmg7J8j`
 
+--------- 11 ---------
+* 账号：`jeffreyngajeq@gmail.com`
+* 密码：`gCUj67jWTp`
+
 --------- 12 ---------
-* 账号：`moorutkeizis@outlook.com`
-* 密码：`Dd114e95e`
+* 账号：`syrovarenordp@hotmail.com`
+* 密码：`twhGb5jNgj`
 
 --------- 13 ---------
 * 账号：`moorutkeizis@outlook.com`
-* 密码：`tkidcrhC1NAV48t`
+* 密码：`Dd1e2fb2c`
 
 --------- 14 ---------
-* 账号：`cenhncctsq@hotmail.com`
-* 密码：`NM33vs68`
+* 账号：`moorutkeizis@outlook.com`
+* 密码：`tkidc39ScMAJ9jm`
 
 --------- 15 ---------
 * 账号：`nicholasnkcsyl@gmail.com`
-* 密码：`ZA43jp42`
+* 密码：`UD92mg75`
 
 --------- 16 ---------
 * 账号：`kaylamemnyt@gmail.com`
@@ -291,7 +291,7 @@ PS：最好月付，防止跑路！
 
 --------- 17 ---------
 * 账号：`zw2ridfw@xysd.org`
-* 密码：`7eZT7yPtUs9`
+* 密码：`pTJ7h9v2BMS`
 
 --------- 18 ---------
 * 账号：`nebsp5iwfj@xysd.org`
@@ -314,26 +314,22 @@ PS：最好月付，防止跑路！
 * 密码：`tkidcrhC1NAV48t`
 
 --------- 23 ---------
-* 账号：`cenhncctsq@hotmail.com`
-* 密码：`NM33vs68`
-
---------- 24 ---------
 * 账号：`nicholasnkcsyl@gmail.com`
 * 密码：`UD92mg75`
 
---------- 25 ---------
+--------- 24 ---------
 * 账号：`kaylamemnyt@gmail.com`
 * 密码：`XQ24jy15`
 
---------- 26 ---------
+--------- 25 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd1bc062e`
 
---------- 27 ---------
+--------- 26 ---------
 * 账号：`nguyenthanh29400@gmail.com`
 * 密码：`Dd1ec4d53`
 
---------- 28 ---------
+--------- 27 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1496180`
 <!-- apple ends -->
