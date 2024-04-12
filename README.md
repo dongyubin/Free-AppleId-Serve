@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-12 20:20:01**
+更新时间：**2024-04-12 20:45:50**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,19 +227,19 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`quynhle701229@gmail.com`
-* 密码：`Dd166ef59`
+* 密码：`Dd1913a54`
 
 --------- 2 ---------
 * 账号：`ios9@vpnyun.link`
 * 密码：`UCc1dRgkNe`
 
 --------- 3 ---------
-* 账号：`jeffreyngajeq@gmail.com`
-* 密码：`KRU4Ycvp1v`
+* 账号：`bortzcy137@tavie.cloud`
+* 密码：`wabk9umzsJ`
 
 --------- 4 ---------
-* 账号：`post9@tavie.cloud`
-* 密码：`Ng2d8mDtJU`
+* 账号：`tekadthayseb@hotmail.com`
+* 密码：`7KQBcWPeHy`
 
 --------- 5 ---------
 * 账号：`syrovarenordp@hotmail.com`
@@ -250,58 +250,50 @@ PS：最好月付，防止跑路！
 * 密码：`Qm47BrceU5`
 
 --------- 7 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`PdSzQ6bpsc`
+* 账号：`quynhle701229@gmail.com`
+* 密码：`Dd166ef59`
 
 --------- 8 ---------
-* 账号：`tekadthayseb@hotmail.com`
-* 密码：`6n5BAFz9tG`
-
---------- 9 ---------
-* 账号：`quynhle701229@gmail.com`
-* 密码：`Dd18b7625`
-
---------- 10 ---------
 * 账号：`quynhle701229@gmail.com`
 * 密码：`tkidcsHhUq8XjN2`
 
---------- 11 ---------
+--------- 9 ---------
 * 账号：`zw2ridfw@xysd.org`
 * 密码：`cd1NJpdJrMP`
 
---------- 12 ---------
+--------- 10 ---------
 * 账号：`nebsp5iwfj@xysd.org`
-* 密码：`KY2upT3HCs3`
+* 密码：`5zSnvkBMQu8`
 
---------- 13 ---------
+--------- 11 ---------
 * 账号：`htgwvh@xysd.org`
 * 密码：`BpX8v1Bm9p8`
 
---------- 14 ---------
+--------- 12 ---------
 * 账号：`mr_tniclas8@wolfcan.cloud`
 * 密码：`tkidcsHhUq8XjN2`
 
---------- 15 ---------
+--------- 13 ---------
 * 账号：`leomrcruz@hotmail.com`
 * 密码：`DN70zz31`
 
---------- 16 ---------
+--------- 14 ---------
 * 账号：`anp0j4taylor@hotmail.com`
-* 密码：`TG80fg74`
+* 密码：`CC37gp37`
 
---------- 17 ---------
+--------- 15 ---------
 * 账号：`hudsonallensp6r@hotmail.com`
 * 密码：`YK23rt51`
 
---------- 18 ---------
+--------- 16 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd132b09e`
 
---------- 19 ---------
+--------- 17 ---------
 * 账号：`nguyenthanh29400@gmail.com`
 * 密码：`Dd1da0df1`
 
---------- 20 ---------
+--------- 18 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd11e580a`
 <!-- apple ends -->
