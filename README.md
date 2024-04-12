@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-13 06:09:13**
+更新时间：**2024-04-13 06:34:22**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -231,47 +231,47 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 账号：`quynhle701229@gmail.com`
-* 密码：`Dd137bff2`
+* 密码：`Dd1676771`
 
 --------- 3 ---------
 * 账号：`ranwuv@outlook.com`
-* 密码：`Dd16e0a41`
+* 密码：`Dd191e033`
 
 --------- 4 ---------
 * 账号：`nvvo997@pgly.cc`
-* 密码：`Dd192ce43`
+* 密码：`Dd153fd65`
 
 --------- 5 ---------
 * 账号：`ios9@vpnyun.link`
 * 密码：`uTHgVmEY4S`
 
 --------- 6 ---------
-* 账号：`tahatasoras9@hotmail.com`
-* 密码：`Nj4qw8BYGF`
-
---------- 7 ---------
-* 账号：`tauruzaintinr@hotmail.com`
-* 密码：`QXB9G25hRE`
-
---------- 8 ---------
-* 账号：`syrovarenordp@hotmail.com`
-* 密码：`bnA3AEpcYV`
-
---------- 9 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`YbJrQP7gPD`
-
---------- 10 ---------
-* 账号：`teguskaliia@hotmail.com`
-* 密码：`2D79WhmE5a`
-
---------- 11 ---------
 * 账号：`tekadthayseb@hotmail.com`
 * 密码：`RyFfj4kJVK`
 
+--------- 7 ---------
+* 账号：`tahatasoras9@hotmail.com`
+* 密码：`Nj4qw8BYGF`
+
+--------- 8 ---------
+* 账号：`bortzcy137@tavie.cloud`
+* 密码：`YbJrQP7gPD`
+
+--------- 9 ---------
+* 账号：`tauruzaintinr@hotmail.com`
+* 密码：`QXB9G25hRE`
+
+--------- 10 ---------
+* 账号：`syujizeenic@hotmail.com`
+* 密码：`QM8zVqkApP`
+
+--------- 11 ---------
+* 账号：`teguskaliia@hotmail.com`
+* 密码：`2D79WhmE5a`
+
 --------- 12 ---------
-* 账号：`cynthiajyieep@gmail.com`
-* 密码：`M1uK5ZcnTV`
+* 账号：`syrovarenordp@hotmail.com`
+* 密码：`bnA3AEpcYV`
 
 --------- 13 ---------
 * 账号：`gxzulwkuethict@outlook.com`
@@ -279,7 +279,7 @@ PS：最好月付，防止跑路！
 
 --------- 14 ---------
 * 账号：`quynhle701229@gmail.com`
-* 密码：`Dd137bff2`
+* 密码：`Dd10b8686`
 
 --------- 15 ---------
 * 账号：`ranwuv@outlook.com`
@@ -307,7 +307,7 @@ PS：最好月付，防止跑路！
 
 --------- 21 ---------
 * 账号：`leomrcruz@hotmail.com`
-* 密码：`RM49nq31`
+* 密码：`YX21jd85`
 
 --------- 22 ---------
 * 账号：`anp0j4taylor@hotmail.com`
@@ -319,7 +319,7 @@ PS：最好月付，防止跑路！
 
 --------- 24 ---------
 * 账号：`nvvo997@pgly.cc`
-* 密码：`Dd192ce43`
+* 密码：`Dd153fd65`
 
 --------- 25 ---------
 * 账号：`gxzulwkuethict@outlook.com`
