@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-13 07:08:45**
+更新时间：**2024-04-13 07:34:30**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -243,35 +243,35 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`uTHgVmEY4S`
+* 密码：`s7xq2ZNEfY`
 
 --------- 6 ---------
 * 账号：`teguskaliia@hotmail.com`
 * 密码：`2D79WhmE5a`
 
 --------- 7 ---------
-* 账号：`tahatasoras9@hotmail.com`
-* 密码：`Nj4qw8BYGF`
+* 账号：`tauruzaintinr@hotmail.com`
+* 密码：`EXN6EVREzb`
 
 --------- 8 ---------
-* 账号：`tekadthayseb@hotmail.com`
-* 密码：`RyFfj4kJVK`
-
---------- 9 ---------
-* 账号：`syujizeenic@hotmail.com`
-* 密码：`QM8zVqkApP`
-
---------- 10 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`YbJrQP7gPD`
-
---------- 11 ---------
 * 账号：`syrovarenordp@hotmail.com`
 * 密码：`bnA3AEpcYV`
 
+--------- 9 ---------
+* 账号：`cynthiajyieep@gmail.com`
+* 密码：`P4vXFXwUUh`
+
+--------- 10 ---------
+* 账号：`syujizeenic@hotmail.com`
+* 密码：`QM8zVqkApP`
+
+--------- 11 ---------
+* 账号：`bortzcy137@tavie.cloud`
+* 密码：`YbJrQP7gPD`
+
 --------- 12 ---------
-* 账号：`tauruzaintinr@hotmail.com`
-* 密码：`EXN6EVREzb`
+* 账号：`tekadthayseb@hotmail.com`
+* 密码：`RyFfj4kJVK`
 
 --------- 13 ---------
 * 账号：`gxzulwkuethict@outlook.com`
