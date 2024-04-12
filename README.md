@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-12 07:35:48**
+更新时间：**2024-04-12 08:51:20**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -231,31 +231,31 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`mercuriokarah8cmx@gmail.com`
-* 密码：`TZd92g62`
+* 密码：`RVu30w31`
 
 --------- 3 ---------
-* 账号：`ios8@vpnyun.link`
-* 密码：`WxxF5xEuTK`
+* 账号：`ios9@vpnyun.link`
+* 密码：`D8TXuZzQv5`
 
 --------- 4 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`N5YTA2NXrx`
+* 账号：`ios8@vpnyun.link`
+* 密码：`4f6K9RtE1D`
 
 --------- 5 ---------
-* 账号：`tekadthayseb@hotmail.com`
-* 密码：`BgwC7NaFXc`
+* 账号：`dominique.mh946@tavie.cloud`
+* 密码：`AX55U4YjEU`
 
 --------- 6 ---------
-* 账号：`dominique.mh946@tavie.cloud`
-* 密码：`gW2bxWq8rX`
+* 账号：`post9@tavie.cloud`
+* 密码：`P4DRWnTdaU`
 
 --------- 7 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`mPX1eNazDb`
+* 账号：`syrovarenordp@hotmail.com`
+* 密码：`26j3NtfWey`
 
 --------- 8 ---------
-* 账号：`post9@tavie.cloud`
-* 密码：`cwfkrb6cRX`
+* 账号：`tekadthayseb@hotmail.com`
+* 密码：`BgwC7NaFXc`
 
 --------- 9 ---------
 * 账号：`cynthiajyieep@gmail.com`
@@ -263,31 +263,31 @@ PS：最好月付，防止跑路！
 
 --------- 10 ---------
 * 账号：`jeffreyngajeq@gmail.com`
-* 密码：`F56pUZwsff`
+* 密码：`Aqpdm2rFP6`
 
 --------- 11 ---------
 * 账号：`jeffreyngajeq@gmail.com`
-* 密码：`4ue319PjJ1N`
+* 密码：`VYp2vv6VSyV`
 
 --------- 12 ---------
 * 账号：`zw2ridfw@xysd.org`
-* 密码：`TRs2Cv8qysz`
+* 密码：`uTzHuR9rbRw`
 
 --------- 13 ---------
 * 账号：`nebsp5iwfj@xysd.org`
-* 密码：`YnMd3Z8hWaE`
+* 密码：`qGZCFn2KSBp`
 
 --------- 14 ---------
 * 账号：`htgwvh@xysd.org`
-* 密码：`4ue319PjJ1N`
+* 密码：`VYp2vv6VSyV`
 
 --------- 15 ---------
 * 账号：`cenhncctsq@hotmail.com`
-* 密码：`PN63wf43`
+* 密码：`KZ95uy51`
 
 --------- 16 ---------
 * 账号：`kaylamemnyt@gmail.com`
-* 密码：`KJ44em92`
+* 密码：`GM96va26`
 
 --------- 17 ---------
 * 账号：`nvvo997@pgly.cc`
