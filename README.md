@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-13 00:35:27**
+更新时间：**2024-04-13 01:11:46**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,66 +226,82 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`quynhle701229@gmail.com`
-* 密码：`Dd12e72e5`
+* 账号：`gxzulwkuethict@outlook.com`
+* 密码：`ddK674499`
 
 --------- 2 ---------
-* 账号：`nvvo997@pgly.cc`
-* 密码：`Dd1095b1a`
+* 账号：`quynhle701229@gmail.com`
+* 密码：`Dd10ab91c`
 
 --------- 3 ---------
+* 账号：`ranwuv@outlook.com`
+* 密码：`ddK674499`
+
+--------- 4 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`Dd1ebaab7`
+
+--------- 5 ---------
+* 账号：`cynthiajyieep@gmail.com`
+* 密码：`bcZ61kM5Ge`
+
+--------- 6 ---------
 * 账号：`tekadthayseb@hotmail.com`
 * 密码：`5NzYrM9ah6`
 
---------- 4 ---------
-* 账号：`syrovarenordp@hotmail.com`
-* 密码：`UUYK7JkK57`
-
---------- 5 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`PvJVYk7nmJ`
-
---------- 6 ---------
-* 账号：`cynthiajyieep@gmail.com`
-* 密码：`s7hPCrYeHY`
-
 --------- 7 ---------
-* 账号：`quynhle701229@gmail.com`
-* 密码：`Dd15a5878`
+* 账号：`syrovarenordp@hotmail.com`
+* 密码：`hdyvw9vyMF`
 
 --------- 8 ---------
-* 账号：`nvvo997@pgly.cc`
-* 密码：`Dd19a10d5`
+* 账号：`bortzcy137@tavie.cloud`
+* 密码：`1KcHW32Y4S`
 
 --------- 9 ---------
-* 账号：`nvvo997@pgly.cc`
-* 密码：`Art7N8quZdv`
+* 账号：`quynhle701229@gmail.com`
+* 密码：`Dd10ab91c`
 
 --------- 10 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`Dd1ebaab7`
+
+--------- 11 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`1Kb6M25Ys6v`
+
+--------- 12 ---------
 * 账号：`zw2ridfw@xysd.org`
 * 密码：`cd1NJpdJrMP`
 
---------- 11 ---------
-* 账号：`nebsp5iwfj@xysd.org`
-* 密码：`B18uvQDJ1Sx`
-
---------- 12 ---------
-* 账号：`htgwvh@xysd.org`
-* 密码：`1Kb6M25Ys6v`
-
 --------- 13 ---------
-* 账号：`hudsonallensp6r@hotmail.com`
-* 密码：`UA39kf50`
+* 账号：`nebsp5iwfj@xysd.org`
+* 密码：`1uRj8jkagWv`
 
 --------- 14 ---------
-* 账号：`nvvo997@pgly.cc`
-* 密码：`Dd1095b1a`
+* 账号：`htgwvh@xysd.org`
+* 密码：`NU61rGXczrT`
 
 --------- 15 ---------
-* 账号：`nguyenthanh29400@gmail.com`
-* 密码：`Dd1da0df1`
+* 账号：`leomrcruz@hotmail.com`
+* 密码：`QH95hf25`
 
 --------- 16 ---------
+* 账号：`anp0j4taylor@hotmail.com`
+* 密码：`YD29fz61`
+
+--------- 17 ---------
+* 账号：`hudsonallensp6r@hotmail.com`
+* 密码：`UE26jc60`
+
+--------- 18 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`Dd1ebaab7`
+
+--------- 19 ---------
+* 账号：`gxzulwkuethict@outlook.com`
+* 密码：`Dd107d710`
+
+--------- 20 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd11e580a`
 <!-- apple ends -->
