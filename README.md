@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-12 20:45:50**
+更新时间：**2024-04-12 21:11:41**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -230,70 +230,62 @@ PS：最好月付，防止跑路！
 * 密码：`Dd1913a54`
 
 --------- 2 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`UCc1dRgkNe`
+* 账号：`tekadthayseb@hotmail.com`
+* 密码：`XhxEc9hbZu`
 
 --------- 3 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`wabk9umzsJ`
+* 账号：`syrovarenordp@hotmail.com`
+* 密码：`ZTeV9HnSng`
 
 --------- 4 ---------
-* 账号：`tekadthayseb@hotmail.com`
-* 密码：`7KQBcWPeHy`
+* 账号：`cynthiajyieep@gmail.com`
+* 密码：`nsA2C3x8e1`
 
 --------- 5 ---------
-* 账号：`syrovarenordp@hotmail.com`
-* 密码：`QvqZQZS5fb`
+* 账号：`quynhle701229@gmail.com`
+* 密码：`Dd1913a54`
 
 --------- 6 ---------
-* 账号：`cynthiajyieep@gmail.com`
-* 密码：`Qm47BrceU5`
-
---------- 7 ---------
-* 账号：`quynhle701229@gmail.com`
-* 密码：`Dd166ef59`
-
---------- 8 ---------
 * 账号：`quynhle701229@gmail.com`
 * 密码：`tkidcsHhUq8XjN2`
 
---------- 9 ---------
+--------- 7 ---------
 * 账号：`zw2ridfw@xysd.org`
 * 密码：`cd1NJpdJrMP`
 
---------- 10 ---------
+--------- 8 ---------
 * 账号：`nebsp5iwfj@xysd.org`
-* 密码：`5zSnvkBMQu8`
+* 密码：`hHeq7xCjyED`
 
---------- 11 ---------
+--------- 9 ---------
 * 账号：`htgwvh@xysd.org`
-* 密码：`BpX8v1Bm9p8`
+* 密码：`Ue9MWAQPU3q`
 
---------- 12 ---------
+--------- 10 ---------
 * 账号：`mr_tniclas8@wolfcan.cloud`
 * 密码：`tkidcsHhUq8XjN2`
 
---------- 13 ---------
+--------- 11 ---------
 * 账号：`leomrcruz@hotmail.com`
-* 密码：`DN70zz31`
+* 密码：`CA65sv17`
 
---------- 14 ---------
+--------- 12 ---------
 * 账号：`anp0j4taylor@hotmail.com`
-* 密码：`CC37gp37`
+* 密码：`HE13px15`
 
---------- 15 ---------
+--------- 13 ---------
 * 账号：`hudsonallensp6r@hotmail.com`
 * 密码：`YK23rt51`
 
---------- 16 ---------
+--------- 14 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd132b09e`
 
---------- 17 ---------
+--------- 15 ---------
 * 账号：`nguyenthanh29400@gmail.com`
 * 密码：`Dd1da0df1`
 
---------- 18 ---------
+--------- 16 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd11e580a`
 <!-- apple ends -->
