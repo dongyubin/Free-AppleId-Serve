@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-13 06:34:22**
+更新时间：**2024-04-13 07:08:45**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,7 +227,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd1ebc2f1`
+* 密码：`Dd149daca`
 
 --------- 2 ---------
 * 账号：`quynhle701229@gmail.com`
@@ -246,52 +246,52 @@ PS：最好月付，防止跑路！
 * 密码：`uTHgVmEY4S`
 
 --------- 6 ---------
-* 账号：`tekadthayseb@hotmail.com`
-* 密码：`RyFfj4kJVK`
+* 账号：`teguskaliia@hotmail.com`
+* 密码：`2D79WhmE5a`
 
 --------- 7 ---------
 * 账号：`tahatasoras9@hotmail.com`
 * 密码：`Nj4qw8BYGF`
 
 --------- 8 ---------
-* 账号：`bortzcy137@tavie.cloud`
-* 密码：`YbJrQP7gPD`
+* 账号：`tekadthayseb@hotmail.com`
+* 密码：`RyFfj4kJVK`
 
 --------- 9 ---------
-* 账号：`tauruzaintinr@hotmail.com`
-* 密码：`QXB9G25hRE`
-
---------- 10 ---------
 * 账号：`syujizeenic@hotmail.com`
 * 密码：`QM8zVqkApP`
 
---------- 11 ---------
-* 账号：`teguskaliia@hotmail.com`
-* 密码：`2D79WhmE5a`
+--------- 10 ---------
+* 账号：`bortzcy137@tavie.cloud`
+* 密码：`YbJrQP7gPD`
 
---------- 12 ---------
+--------- 11 ---------
 * 账号：`syrovarenordp@hotmail.com`
 * 密码：`bnA3AEpcYV`
 
+--------- 12 ---------
+* 账号：`tauruzaintinr@hotmail.com`
+* 密码：`EXN6EVREzb`
+
 --------- 13 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd1ebc2f1`
+* 密码：`Dd149daca`
 
 --------- 14 ---------
 * 账号：`quynhle701229@gmail.com`
-* 密码：`Dd10b8686`
+* 密码：`Dd1676771`
 
 --------- 15 ---------
 * 账号：`ranwuv@outlook.com`
-* 密码：`Dd16e0a41`
+* 密码：`Dd191e033`
 
 --------- 16 ---------
 * 账号：`nvvo997@pgly.cc`
-* 密码：`Dd192ce43`
+* 密码：`Dd153fd65`
 
 --------- 17 ---------
 * 账号：`nvvo997@pgly.cc`
-* 密码：`Cnzc9dJqYMJ`
+* 密码：`rEtkm8j39Dc`
 
 --------- 18 ---------
 * 账号：`zw2ridfw@xysd.org`
@@ -299,11 +299,11 @@ PS：最好月付，防止跑路！
 
 --------- 19 ---------
 * 账号：`nebsp5iwfj@xysd.org`
-* 密码：`1mjHKEdB3xD`
+* 密码：`pWv8gYXyYX6`
 
 --------- 20 ---------
 * 账号：`htgwvh@xysd.org`
-* 密码：`Cnzc9dJqYMJ`
+* 密码：`rEtkm8j39Dc`
 
 --------- 21 ---------
 * 账号：`leomrcruz@hotmail.com`
@@ -311,11 +311,11 @@ PS：最好月付，防止跑路！
 
 --------- 22 ---------
 * 账号：`anp0j4taylor@hotmail.com`
-* 密码：`YX67zv62`
+* 密码：`SE70pz13`
 
 --------- 23 ---------
 * 账号：`hudsonallensp6r@hotmail.com`
-* 密码：`UE26jc60`
+* 密码：`MT17ar46`
 
 --------- 24 ---------
 * 账号：`nvvo997@pgly.cc`
@@ -323,7 +323,7 @@ PS：最好月付，防止跑路！
 
 --------- 25 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd1ebc2f1`
+* 密码：`Dd149daca`
 
 --------- 26 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
