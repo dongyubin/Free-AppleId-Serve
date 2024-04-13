@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-13 19:34:19**
+更新时间：**2024-04-13 20:16:18**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,55 +227,55 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd18d9273`
+* 密码：`Dd127c837`
 
 --------- 2 ---------
 * 账号：`ranwuv@outlook.com`
-* 密码：`123654qqQ`
+* 密码：`Dd11f8733`
 
 --------- 3 ---------
 * 账号：`nvvo997@pgly.cc`
-* 密码：`Dd113a25c`
+* 密码：`Dd173c373`
 
 --------- 4 ---------
-* 账号：`tauruzaintinr@hotmail.com`
-* 密码：`hq4JH1shec`
+* 账号：`ios8@vpnyun.link`
+* 密码：`u1Xs5heXju`
 
 --------- 5 ---------
-* 账号：`syujizeenic@hotmail.com`
-* 密码：`wP5tsE71Xy`
+* 账号：`tauruzaintinr@hotmail.com`
+* 密码：`4jjxhv4yGt`
 
 --------- 6 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd18d9273`
+* 密码：`Dd127c837`
 
 --------- 7 ---------
-* 账号：`quynhle701229@gmail.com`
-* 密码：`Dd190ae5e`
+* 账号：`ranwuv@outlook.com`
+* 密码：`Dd11f8733`
 
 --------- 8 ---------
-* 账号：`ranwuv@outlook.com`
-* 密码：`123654qqQ`
+* 账号：`nvvo997@pgly.cc`
+* 密码：`Dd173c373`
 
 --------- 9 ---------
 * 账号：`nvvo997@pgly.cc`
-* 密码：`Dd113a25c`
+* 密码：`ayPB7ywauTn`
 
 --------- 10 ---------
-* 账号：`nvvo997@pgly.cc`
-* 密码：`ayPB7ywauTn`
+* 账号：`zw2ridfw@xysd.org`
+* 密码：`mts5u6Q5Jdm`
 
 --------- 11 ---------
-* 账号：`zw2ridfw@xysd.org`
-* 密码：`ND6z1U8y4F1`
+* 账号：`nebsp5iwfj@xysd.org`
+* 密码：`aS4Gwy7WtD7`
 
 --------- 12 ---------
-* 账号：`nebsp5iwfj@xysd.org`
-* 密码：`VqWzbp5JPj6`
-
---------- 13 ---------
 * 账号：`htgwvh@xysd.org`
 * 密码：`ayPB7ywauTn`
+
+--------- 13 ---------
+* 账号：`leomrcruz@hotmail.com`
+* 密码：`SM72da67`
 
 --------- 14 ---------
 * 账号：`anp0j4taylor@hotmail.com`
@@ -283,15 +283,15 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`hudsonallensp6r@hotmail.com`
-* 密码：`ZA29hh63`
+* 密码：`MS67ee84`
 
 --------- 16 ---------
 * 账号：`nvvo997@pgly.cc`
-* 密码：`Dd1b6f437`
+* 密码：`Dd173c373`
 
 --------- 17 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd1ddabb6`
+* 密码：`Dd180ee73`
 
 --------- 18 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
