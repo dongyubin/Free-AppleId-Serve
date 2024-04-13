@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-13 17:34:29**
+更新时间：**2024-04-13 18:09:33**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,50 +226,54 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`syujizeenic@hotmail.com`
-* 密码：`uzwysFYBH9`
+* 账号：`tauruzaintinr@hotmail.com`
+* 密码：`BsT52EwnhH`
 
 --------- 2 ---------
-* 账号：`tahatasoras9@hotmail.com`
-* 密码：`UC1bb61j9D`
+* 账号：`syujizeenic@hotmail.com`
+* 密码：`C5VqXMbrhN`
 
 --------- 3 ---------
-* 账号：`syrovarenordp@hotmail.com`
-* 密码：`jJSvP8q45R`
+* 账号：`cynthiajyieep@gmail.com`
+* 密码：`yJS35DjzFr`
 
 --------- 4 ---------
-* 账号：`teguskaliia@hotmail.com`
-* 密码：`AuUpP4xjjT`
-
---------- 5 ---------
-* 账号：`cynthiajyieep@gmail.com`
-* 密码：`WxxbDMG4gH`
-
---------- 6 ---------
 * 账号：`cynthiajyieep@gmail.com`
 * 密码：`ayPB7ywauTn`
 
---------- 7 ---------
+--------- 5 ---------
 * 账号：`zw2ridfw@xysd.org`
-* 密码：`V63qzJKPdxh`
+* 密码：`9mdqeRkdk23`
 
---------- 8 ---------
+--------- 6 ---------
 * 账号：`nebsp5iwfj@xysd.org`
-* 密码：`pWv8gYXyYX6`
+* 密码：`qhhjU64Ue4P`
 
---------- 9 ---------
+--------- 7 ---------
 * 账号：`htgwvh@xysd.org`
 * 密码：`ayPB7ywauTn`
 
+--------- 8 ---------
+* 账号：`leomrcruz@hotmail.com`
+* 密码：`XY57mt89`
+
+--------- 9 ---------
+* 账号：`anp0j4taylor@hotmail.com`
+* 密码：`KA86th19`
+
 --------- 10 ---------
+* 账号：`hudsonallensp6r@hotmail.com`
+* 密码：`ZX59ct19`
+
+--------- 11 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd13dfa0e`
 
---------- 11 ---------
+--------- 12 ---------
 * 账号：`gxzulwkuethict@outlook.com`
 * 密码：`Dd16a369a`
 
---------- 12 ---------
+--------- 13 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd11994c8`
 <!-- apple ends -->
