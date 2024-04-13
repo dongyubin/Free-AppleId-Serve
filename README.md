@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-13 19:08:18**
+更新时间：**2024-04-13 19:34:19**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,71 +227,71 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd1fa2a8d`
+* 密码：`Dd18d9273`
 
 --------- 2 ---------
-* 账号：`quynhle701229@gmail.com`
-* 密码：`Dd110c839`
-
---------- 3 ---------
 * 账号：`ranwuv@outlook.com`
 * 密码：`123654qqQ`
 
---------- 4 ---------
+--------- 3 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd113a25c`
+
+--------- 4 ---------
+* 账号：`tauruzaintinr@hotmail.com`
+* 密码：`hq4JH1shec`
 
 --------- 5 ---------
 * 账号：`syujizeenic@hotmail.com`
 * 密码：`wP5tsE71Xy`
 
 --------- 6 ---------
-* 账号：`tauruzaintinr@hotmail.com`
-* 密码：`aMEkXJ7nz7`
+* 账号：`gxzulwkuethict@outlook.com`
+* 密码：`Dd18d9273`
 
 --------- 7 ---------
-* 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd1fa2a8d`
+* 账号：`quynhle701229@gmail.com`
+* 密码：`Dd190ae5e`
 
 --------- 8 ---------
-* 账号：`quynhle701229@gmail.com`
-* 密码：`Dd110c839`
-
---------- 9 ---------
 * 账号：`ranwuv@outlook.com`
 * 密码：`123654qqQ`
 
---------- 10 ---------
-* 账号：`nvvo997@pgly.cc`
-* 密码：`Dd13dfa0e`
-
---------- 11 ---------
-* 账号：`nvvo997@pgly.cc`
-* 密码：`ayPB7ywauTn`
-
---------- 12 ---------
-* 账号：`zw2ridfw@xysd.org`
-* 密码：`SfgdSGKj1Rj`
-
---------- 13 ---------
-* 账号：`nebsp5iwfj@xysd.org`
-* 密码：`VqWzbp5JPj6`
-
---------- 14 ---------
-* 账号：`htgwvh@xysd.org`
-* 密码：`ayPB7ywauTn`
-
---------- 15 ---------
-* 账号：`hudsonallensp6r@hotmail.com`
-* 密码：`UP34wk54`
-
---------- 16 ---------
+--------- 9 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd113a25c`
 
+--------- 10 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`ayPB7ywauTn`
+
+--------- 11 ---------
+* 账号：`zw2ridfw@xysd.org`
+* 密码：`ND6z1U8y4F1`
+
+--------- 12 ---------
+* 账号：`nebsp5iwfj@xysd.org`
+* 密码：`VqWzbp5JPj6`
+
+--------- 13 ---------
+* 账号：`htgwvh@xysd.org`
+* 密码：`ayPB7ywauTn`
+
+--------- 14 ---------
+* 账号：`anp0j4taylor@hotmail.com`
+* 密码：`BK29ng71`
+
+--------- 15 ---------
+* 账号：`hudsonallensp6r@hotmail.com`
+* 密码：`ZA29hh63`
+
+--------- 16 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`Dd1b6f437`
+
 --------- 17 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd18d9273`
+* 密码：`Dd1ddabb6`
 
 --------- 18 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
