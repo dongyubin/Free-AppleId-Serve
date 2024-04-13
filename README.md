@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-13 18:34:14**
+更新时间：**2024-04-13 19:08:18**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,54 +226,74 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`syujizeenic@hotmail.com`
-* 密码：`VNUSMg6GfM`
+* 账号：`gxzulwkuethict@outlook.com`
+* 密码：`Dd1fa2a8d`
 
 --------- 2 ---------
-* 账号：`tauruzaintinr@hotmail.com`
-* 密码：`SG4RcJC7ad`
+* 账号：`quynhle701229@gmail.com`
+* 密码：`Dd110c839`
 
 --------- 3 ---------
-* 账号：`cynthiajyieep@gmail.com`
-* 密码：`8BDXnJqtQw`
+* 账号：`ranwuv@outlook.com`
+* 密码：`123654qqQ`
 
 --------- 4 ---------
-* 账号：`cynthiajyieep@gmail.com`
-* 密码：`ayPB7ywauTn`
+* 账号：`nvvo997@pgly.cc`
+* 密码：`Dd113a25c`
 
 --------- 5 ---------
-* 账号：`zw2ridfw@xysd.org`
-* 密码：`SfgdSGKj1Rj`
+* 账号：`syujizeenic@hotmail.com`
+* 密码：`wP5tsE71Xy`
 
 --------- 6 ---------
-* 账号：`nebsp5iwfj@xysd.org`
-* 密码：`VqWzbp5JPj6`
+* 账号：`tauruzaintinr@hotmail.com`
+* 密码：`aMEkXJ7nz7`
 
 --------- 7 ---------
-* 账号：`htgwvh@xysd.org`
-* 密码：`ayPB7ywauTn`
+* 账号：`gxzulwkuethict@outlook.com`
+* 密码：`Dd1fa2a8d`
 
 --------- 8 ---------
-* 账号：`leomrcruz@hotmail.com`
-* 密码：`KN10gy48`
+* 账号：`quynhle701229@gmail.com`
+* 密码：`Dd110c839`
 
 --------- 9 ---------
-* 账号：`anp0j4taylor@hotmail.com`
-* 密码：`EE47qw16`
+* 账号：`ranwuv@outlook.com`
+* 密码：`123654qqQ`
 
 --------- 10 ---------
-* 账号：`hudsonallensp6r@hotmail.com`
-* 密码：`ZX59ct19`
-
---------- 11 ---------
 * 账号：`nvvo997@pgly.cc`
 * 密码：`Dd13dfa0e`
 
+--------- 11 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`ayPB7ywauTn`
+
 --------- 12 ---------
-* 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd16a369a`
+* 账号：`zw2ridfw@xysd.org`
+* 密码：`SfgdSGKj1Rj`
 
 --------- 13 ---------
+* 账号：`nebsp5iwfj@xysd.org`
+* 密码：`VqWzbp5JPj6`
+
+--------- 14 ---------
+* 账号：`htgwvh@xysd.org`
+* 密码：`ayPB7ywauTn`
+
+--------- 15 ---------
+* 账号：`hudsonallensp6r@hotmail.com`
+* 密码：`UP34wk54`
+
+--------- 16 ---------
+* 账号：`nvvo997@pgly.cc`
+* 密码：`Dd113a25c`
+
+--------- 17 ---------
+* 账号：`gxzulwkuethict@outlook.com`
+* 密码：`Dd18d9273`
+
+--------- 18 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd11994c8`
 <!-- apple ends -->
