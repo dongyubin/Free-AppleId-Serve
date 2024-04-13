@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-14 01:07:34**
+更新时间：**2024-04-14 01:34:24**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,11 +227,11 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 中国大陆账号：`erikabah1032@gmail.com`
-* 密码：`EGv31b96`
+* 密码：`BYg11c08`
 
 --------- 2 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd16334f9`
+* 密码：`Dd1feba84`
 
 --------- 3 ---------
 * 账号：`nvvo997@pgly.cc`
@@ -243,11 +243,11 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`tauruzaintinr@hotmail.com`
-* 密码：`YtG2BZNun8`
+* 密码：`raAfan5phR`
 
 --------- 6 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd16334f9`
+* 密码：`Dd1feba84`
 
 --------- 7 ---------
 * 账号：`nvvo997@pgly.cc`
@@ -259,7 +259,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 账号：`zw2ridfw@xysd.org`
-* 密码：`9yZhVZHD4aQ`
+* 密码：`SfaYr7W4w59`
 
 --------- 10 ---------
 * 账号：`nebsp5iwfj@xysd.org`
@@ -283,7 +283,7 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`gxzulwkuethict@outlook.com`
-* 密码：`Dd1feba84`
+* 密码：`Dd1257c39`
 
 --------- 16 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
