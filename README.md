@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-15 23:35:04**
+更新时间：**2024-04-16 00:13:53**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,46 +226,78 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`trkvxvpfu@outlook.com`
-* 密码：`ddK654499`
+* 账号：`mcconnelljaycee266@gmail.com`
+* 密码：`Ab112211`
 
 --------- 2 ---------
-* 账号：`grxuew@outlook.com`
-* 密码：`ddK654499`
+* 账号：`higginsd747@gmail.com`
+* 密码：`Ab112211`
 
 --------- 3 ---------
+* 账号：`cohenbooth438@gmail.com`
+* 密码：`Ab112211`
+
+--------- 4 ---------
+* 账号：`klinejewel7@gmail.com`
+* 密码：`Ab112211`
+
+--------- 5 ---------
+* 账号：`janaesalas49@gmail.com`
+* 密码：`Ab112211`
+
+--------- 6 ---------
+* 账号：`sawyerethen8@gmail.com`
+* 密码：`Ab112211`
+
+--------- 7 ---------
+* 账号：`hannafiona88@gmail.com`
+* 密码：`Ab112211`
+
+--------- 8 ---------
+* 账号：`eliyanahbonhamhaqxiv@gmail.com`
+* 密码：`9N6na3UMnk`
+
+--------- 9 ---------
+* 账号：`eliyanahbonhamhaqxiv@gmail.com`
+* 密码：`JMHKr3GSvNd`
+
+--------- 10 ---------
+* 账号：`trkvxvpfu@outlook.com`
+* 密码：`Dd1072726`
+
+--------- 11 ---------
+* 账号：`grxuew@outlook.com`
+* 密码：`Dd10c46af`
+
+--------- 12 ---------
 * 账号：`nywsc2ax@xysd.org`
 * 密码：`KYNs15j3y7m`
 
---------- 4 ---------
+--------- 13 ---------
 * 账号：`nebsp5iwfj@xysd.org`
 * 密码：`1QnqxWXdsU6`
 
---------- 5 ---------
+--------- 14 ---------
 * 账号：`htjqcbr2@xysd.org`
 * 密码：`JMHKr3GSvNd`
 
---------- 6 ---------
+--------- 15 ---------
 * 账号：`trkvxvpfu@outlook.com`
-* 密码：`ddK654499`
+* 密码：`Dd19484ea`
 
---------- 7 ---------
-* 账号：`isaacva4cu@hotmail.com`
-* 密码：`zbjsqxyz?Dd1f4e3c3`
-
---------- 8 ---------
+--------- 16 ---------
 * 账号：`grxuew@outlook.com`
-* 密码：`Dd1e1af52`
+* 密码：`Dd10c46af`
 
---------- 9 ---------
+--------- 17 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd107e271`
 
---------- 10 ---------
+--------- 18 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd1532bb4`
 
---------- 11 ---------
+--------- 19 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd18cafa9`
 <!-- apple ends -->
