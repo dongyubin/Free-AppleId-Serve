@@ -169,7 +169,7 @@ PS：最好月付，防止跑路！
 
 ### FlyingBird（博主在用）
 
-[FlyingBird](https://fbaff02.flyb-aff01.com/auth/register?code=jvQ5)
+[FlyingBird](https://fbinv01.fbaff.cc/auth/register?code=jvQ5)
 
 恭祝新春！活动来了！
 
