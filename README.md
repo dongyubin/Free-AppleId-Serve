@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-16 08:50:37**
+更新时间：**2024-04-16 09:47:20**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,110 +226,62 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`zrJK691pqk`
+* 账号：`janaesalas49@gmail.com`
+* 密码：`uFPP1w2J2D`
 
 --------- 2 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`zrJK691pqk`
-
---------- 3 ---------
-* 账号：`higginsd747@gmail.com`
-* 密码：`6M2EsudveB`
-
---------- 4 ---------
-* 账号：`mcconnelljaycee266@gmail.com`
-* 密码：`Uvx56RT5SX`
-
---------- 5 ---------
-* 账号：`mathewsnyasia03@gmail.com`
-* 密码：`766xAFkXGv`
-
---------- 6 ---------
-* 账号：`hannafiona88@gmail.com`
-* 密码：`EXuvTJ8avm`
-
---------- 7 ---------
-* 账号：`eliyanahbonhamhaqxiv@gmail.com`
-* 密码：`Edcwyd5HSG`
-
---------- 8 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`DG5ameKakm`
-
---------- 9 ---------
-* 账号：`sawyerethen8@gmail.com`
-* 密码：`GPsAj85v3g`
-
---------- 10 ---------
-* 账号：`cohenbooth438@gmail.com`
-* 密码：`nQVmBX8DJW`
-
---------- 11 ---------
-* 账号：`cohenbooth438@gmail.com`
-* 密码：`WutKza8Myuv`
-
---------- 12 ---------
-* 账号：`trkvxvpfu@outlook.com`
-* 密码：`Dd1c93a19`
-
---------- 13 ---------
 * 账号：`isaacva4cu@hotmail.com`
 * 密码：`zbjsqxyz?Dd14a9406`
 
---------- 14 ---------
+--------- 3 ---------
 * 账号：`jaydenstoneu9y@hotmail.com`
-* 密码：`zbjsqxyz?Dd1e7f4c3`
+* 密码：`zbjsqxyz?Dd1a61730`
 
---------- 15 ---------
+--------- 4 ---------
 * 账号：`grxuew@outlook.com`
-* 密码：`Dd1039847`
+* 密码：`Dd1cbea59`
 
---------- 16 ---------
+--------- 5 ---------
 * 账号：`kareyotis039@gmail.com`
 * 密码：`Dd1f1bc92`
 
---------- 17 ---------
+--------- 6 ---------
 * 账号：`nywsc2ax@xysd.org`
 * 密码：`rc493uXTCD6`
 
---------- 18 ---------
+--------- 7 ---------
 * 账号：`nebsp5iwfj@xysd.org`
 * 密码：`3Vghvmz1x3m`
 
---------- 19 ---------
+--------- 8 ---------
 * 账号：`htjqcbr2@xysd.org`
 * 密码：`WutKza8Myuv`
 
---------- 20 ---------
-* 账号：`trkvxvpfu@outlook.com`
-* 密码：`Dd1c93a19`
-
---------- 21 ---------
+--------- 9 ---------
 * 账号：`isaacva4cu@hotmail.com`
 * 密码：`zbjsqxyz?Dd14a9406`
 
---------- 22 ---------
+--------- 10 ---------
 * 账号：`jaydenstoneu9y@hotmail.com`
-* 密码：`zbjsqxyz?Dd1e7f4c3`
+* 密码：`zbjsqxyz?Dd1a61730`
 
---------- 23 ---------
+--------- 11 ---------
 * 账号：`grxuew@outlook.com`
-* 密码：`Dd1039847`
+* 密码：`Dd1cbea59`
 
---------- 24 ---------
+--------- 12 ---------
 * 账号：`kareyotis039@gmail.com`
 * 密码：`Dd1f1bc92`
 
---------- 25 ---------
+--------- 13 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd107e271`
 
---------- 26 ---------
+--------- 14 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd1532bb4`
 
---------- 27 ---------
+--------- 15 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd18cafa9`
 <!-- apple ends -->
