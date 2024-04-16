@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-17 06:11:01**
+更新时间：**2024-04-17 06:35:04**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,7 +227,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1367347`
+* 密码：`Dd13910fa`
 
 --------- 2 ---------
 * 账号：`klaudyqlalaa6@hotmail.com`
@@ -254,8 +254,8 @@ PS：最好月付，防止跑路！
 * 密码：`B3sC3RzVUM`
 
 --------- 8 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`7u72HyNxM3`
+* 账号：`eliyanahbonhamhaqxiv@gmail.com`
+* 密码：`B8ZSTdnKTE`
 
 --------- 9 ---------
 * 账号：`mathewsnyasia03@gmail.com`
@@ -266,16 +266,16 @@ PS：最好月付，防止跑路！
 * 密码：`S363VcgbCF`
 
 --------- 11 ---------
-* 账号：`eliyanahbonhamhaqxiv@gmail.com`
-* 密码：`B8ZSTdnKTE`
+* 账号：`klinejewel7@gmail.com`
+* 密码：`jkBjPx1a6h`
 
 --------- 12 ---------
-* 账号：`higginsd747@gmail.com`
-* 密码：`x5tRAaQyux`
-
---------- 13 ---------
 * 账号：`sawyerethen8@gmail.com`
 * 密码：`TJGN2uBsxX`
+
+--------- 13 ---------
+* 账号：`janaesalas49@gmail.com`
+* 密码：`rY8RdhM548`
 
 --------- 14 ---------
 * 账号：`cohenbooth438@gmail.com`
@@ -283,11 +283,11 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1367347`
+* 密码：`Dd1c65e89`
 
 --------- 16 ---------
 * 账号：`klaudyqlalaa6@hotmail.com`
-* 密码：`Dd1b0851e`
+* 密码：`Dd1cddcf2`
 
 --------- 17 ---------
 * 账号：`gwynneauibebm@hotmail.com`
@@ -315,7 +315,7 @@ PS：最好月付，防止跑路！
 
 --------- 23 ---------
 * 账号：`klaudyqlalaa6@hotmail.com`
-* 密码：`Dd1b0851e`
+* 密码：`Dd1cddcf2`
 
 --------- 24 ---------
 * 账号：`syxyxehj@outlook.com`
@@ -323,7 +323,7 @@ PS：最好月付，防止跑路！
 
 --------- 25 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1367347`
+* 密码：`Dd1c65e89`
 
 --------- 26 ---------
 * 账号：`nywsc2ax@xysd.org`
@@ -359,7 +359,7 @@ PS：最好月付，防止跑路！
 
 --------- 34 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1367347`
+* 密码：`Dd13910fa`
 
 --------- 35 ---------
 * 账号：`pimkieasnovo@hotmail.com`
@@ -367,7 +367,7 @@ PS：最好月付，防止跑路！
 
 --------- 36 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1367347`
+* 密码：`Dd19fdebc`
 
 --------- 37 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
