@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-16 09:47:20**
+更新时间：**2024-04-16 10:18:58**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,62 +226,42 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`janaesalas49@gmail.com`
-* 密码：`uFPP1w2J2D`
-
---------- 2 ---------
 * 账号：`isaacva4cu@hotmail.com`
 * 密码：`zbjsqxyz?Dd14a9406`
 
---------- 3 ---------
-* 账号：`jaydenstoneu9y@hotmail.com`
-* 密码：`zbjsqxyz?Dd1a61730`
-
---------- 4 ---------
-* 账号：`grxuew@outlook.com`
-* 密码：`Dd1cbea59`
-
---------- 5 ---------
+--------- 2 ---------
 * 账号：`kareyotis039@gmail.com`
 * 密码：`Dd1f1bc92`
 
---------- 6 ---------
+--------- 3 ---------
 * 账号：`nywsc2ax@xysd.org`
 * 密码：`rc493uXTCD6`
 
---------- 7 ---------
+--------- 4 ---------
 * 账号：`nebsp5iwfj@xysd.org`
 * 密码：`3Vghvmz1x3m`
 
---------- 8 ---------
+--------- 5 ---------
 * 账号：`htjqcbr2@xysd.org`
 * 密码：`WutKza8Myuv`
 
---------- 9 ---------
+--------- 6 ---------
 * 账号：`isaacva4cu@hotmail.com`
 * 密码：`zbjsqxyz?Dd14a9406`
 
---------- 10 ---------
-* 账号：`jaydenstoneu9y@hotmail.com`
-* 密码：`zbjsqxyz?Dd1a61730`
-
---------- 11 ---------
-* 账号：`grxuew@outlook.com`
-* 密码：`Dd1cbea59`
-
---------- 12 ---------
+--------- 7 ---------
 * 账号：`kareyotis039@gmail.com`
 * 密码：`Dd1f1bc92`
 
---------- 13 ---------
+--------- 8 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd107e271`
 
---------- 14 ---------
+--------- 9 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd1532bb4`
 
---------- 15 ---------
+--------- 10 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd18cafa9`
 <!-- apple ends -->
