@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-16 13:34:20**
+更新时间：**2024-04-16 14:14:29**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,14 +226,54 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd107e271`
+* 账号：`gwynneauibebm@hotmail.com`
+* 密码：`ddK654499`
 
 --------- 2 ---------
-* 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1532bb4`
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1bac9e0`
 
 --------- 3 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`WutKza8Myuv`
+
+--------- 4 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1bac9e0`
+
+--------- 5 ---------
+* 账号：`nywsc2ax@xysd.org`
+* 密码：`rc493uXTCD6`
+
+--------- 6 ---------
+* 账号：`nebsp5iwfj@xysd.org`
+* 密码：`3Vghvmz1x3m`
+
+--------- 7 ---------
+* 账号：`htjqcbr2@xysd.org`
+* 密码：`WutKza8Myuv`
+
+--------- 8 ---------
+* 账号：`cwqqntbk@outlook.com`
+* 密码：`ddK654499`
+
+--------- 9 ---------
+* 账号：`gwynneauibebm@hotmail.com`
+* 密码：`ddK654499`
+
+--------- 10 ---------
+* 账号：`hquasq@outlook.com`
+* 密码：`ddK654499`
+
+--------- 11 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1bac9e0`
+
+--------- 12 ---------
+* 账号：`nexhatkorbih@hotmail.com`
+* 密码：`Dd1028279`
+
+--------- 13 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd18cafa9`
 <!-- apple ends -->
