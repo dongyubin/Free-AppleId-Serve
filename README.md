@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-17 18:34:48**
+更新时间：**2024-04-17 19:10:07**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,116 +226,80 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`klaudyqlalaa6@hotmail.com`
-* 密码：`Dd1413a76`
+* 账号：`ios8@vpnyun.link`
+* 密码：`cU3exgkvp7112`
 
 --------- 2 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd172a0d4`
+* 账号：`ios8@vpnyun.link`
+* 密码：`cU3exgkvp7112`
 
 --------- 3 ---------
-* 账号：`janaesalas49@gmail.com`
-* 密码：`Ra4buh9Dh5`
-
---------- 4 ---------
-* 账号：`higginsd747@gmail.com`
-* 密码：`tn2168Pxan`
-
---------- 5 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd172a0d4`
-
---------- 6 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`nHH9dmRQUqG`
-
---------- 7 ---------
-* 账号：`ludtkeeurbink@outlook.com`
-* 密码：`Dd1901da6`
-
---------- 8 ---------
 * 账号：`mahalaambergv@outlook.com`
 * 密码：`Dd1ce8788`
 
---------- 9 ---------
+--------- 4 ---------
 * 账号：`cwqqntbk@outlook.com`
 * 密码：`Dd18b23b1`
 
---------- 10 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd172a0d4`
-
---------- 11 ---------
+--------- 5 ---------
 * 账号：`isaacva4cu@hotmail.com`
 * 密码：`zbjsqxyz?Dd1d2f471`
 
---------- 12 ---------
-* 账号：`klaudyqlalaa6@hotmail.com`
-* 密码：`Dd1413a76`
-
---------- 13 ---------
+--------- 6 ---------
 * 账号：`syxyxehj@outlook.com`
 * 密码：`Dd13f2a94`
 
---------- 14 ---------
+--------- 7 ---------
 * 账号：`rasoduong8@outlook.com`
 * 密码：`Dd149b77c`
 
---------- 15 ---------
+--------- 8 ---------
 * 账号：`nywsc2ax@xysd.org`
 * 密码：`4mGaRS7Wn1J`
 
---------- 16 ---------
+--------- 9 ---------
 * 账号：`nebsp5iwfj@xysd.org`
 * 密码：`x2un34PPBW7`
 
---------- 17 ---------
+--------- 10 ---------
 * 账号：`htjqcbr2@xysd.org`
 * 密码：`nHH9dmRQUqG`
 
---------- 18 ---------
+--------- 11 ---------
 * 账号：`ludtkeeurbink@outlook.com`
 * 密码：`Dd1901da6`
 
---------- 19 ---------
+--------- 12 ---------
 * 账号：`mahalaambergv@outlook.com`
 * 密码：`Dd1ce8788`
 
---------- 20 ---------
+--------- 13 ---------
 * 账号：`cwqqntbk@outlook.com`
 * 密码：`Dd18b23b1`
 
---------- 21 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd172a0d4`
-
---------- 22 ---------
+--------- 14 ---------
 * 账号：`isaacva4cu@hotmail.com`
 * 密码：`zbjsqxyz?Dd1d2f471`
 
---------- 23 ---------
-* 账号：`klaudyqlalaa6@hotmail.com`
-* 密码：`Dd1413a76`
-
---------- 24 ---------
+--------- 15 ---------
 * 账号：`syxyxehj@outlook.com`
 * 密码：`Dd13f2a94`
 
---------- 25 ---------
+--------- 16 ---------
 * 账号：`rasoduong8@outlook.com`
 * 密码：`Dd149b77c`
 
---------- 26 ---------
+--------- 17 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd172a0d4`
 
---------- 27 ---------
+--------- 18 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd1010b1a`
 
---------- 28 ---------
+--------- 19 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd10f77bc`
+* 密码：`Dd1de3710`
 <!-- apple ends -->
 
 
