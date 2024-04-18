@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-18 10:38:31**
+更新时间：**2024-04-18 11:11:59**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,104 +226,52 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`gwynneauibebm@hotmail.com`
-* 密码：`Dd188b455`
+* 账号：`ios8@vpnyun.link`
+* 密码：`qhUJV3BDBc`
 
 --------- 2 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1522538`
+* 账号：`ios8@vpnyun.link`
+* 密码：`qhUJV3BDBc`
 
 --------- 3 ---------
-* 账号：`ios8@vpnyun.link`
-* 密码：`qhUJV3BDBc`
+* 账号：`janaesalas49@gmail.com`
+* 密码：`XsTJhwHZq3`
 
 --------- 4 ---------
-* 账号：`ios8@vpnyun.link`
-* 密码：`qhUJV3BDBc`
+* 账号：`kareyotis039@gmail.com`
+* 密码：`Dd10622a0`
 
 --------- 5 ---------
-* 账号：`janaesalas49@gmail.com`
-* 密码：`U9nnqYNRNK`
+* 账号：`knurfbgfew@xysd.org`
+* 密码：`6c17mgMWMZf`
 
 --------- 6 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`6CvYkgZKFq`
-
---------- 7 ---------
-* 账号：`gwynneauibebm@hotmail.com`
-* 密码：`Dd188b455`
-
---------- 8 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1522538`
-
---------- 9 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`UmfBR1pge9H`
-
---------- 10 ---------
-* 账号：`hkaudpyb@outlook.com`
-* 密码：`Dd1da6fb8`
-
---------- 11 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1522538`
-
---------- 12 ---------
-* 账号：`gwynneauibebm@hotmail.com`
-* 密码：`Dd188b455`
-
---------- 13 ---------
-* 账号：`fccbuwd@outlook.com`
-* 密码：`Dd1d5f9c3`
-
---------- 14 ---------
-* 账号：`kareyotis039@gmail.com`
-* 密码：`Dd19c00cd`
-
---------- 15 ---------
-* 账号：`nywsc2ax@xysd.org`
-* 密码：`7mPQhJceaJu`
-
---------- 16 ---------
 * 账号：`nebsp5iwfj@xysd.org`
 * 密码：`6tF3G4UXNZf`
 
---------- 17 ---------
+--------- 7 ---------
 * 账号：`htjqcbr2@xysd.org`
 * 密码：`UmfBR1pge9H`
 
---------- 18 ---------
-* 账号：`hkaudpyb@outlook.com`
-* 密码：`Dd1da6fb8`
-
---------- 19 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1522538`
-
---------- 20 ---------
-* 账号：`gwynneauibebm@hotmail.com`
-* 密码：`Dd188b455`
-
---------- 21 ---------
+--------- 8 ---------
 * 账号：`fccbuwd@outlook.com`
 * 密码：`Dd1d5f9c3`
 
---------- 22 ---------
+--------- 9 ---------
 * 账号：`kareyotis039@gmail.com`
-* 密码：`Dd19c00cd`
+* 密码：`Dd10622a0`
 
---------- 23 ---------
+--------- 10 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1522538`
 
---------- 24 ---------
+--------- 11 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd1923dd1`
 
---------- 25 ---------
+--------- 12 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd10e125a`
+* 密码：`Dd1472cec`
 <!-- apple ends -->
 
 
