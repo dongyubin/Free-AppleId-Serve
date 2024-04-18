@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-18 15:11:46**
+更新时间：**2024-04-18 15:34:59**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,69 +227,45 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`ddK874499`
+* 密码：`Dd1572c13`
 
 --------- 2 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`83QRUr9e6M`
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`Dd1d4f667`
 
 --------- 3 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`83QRUr9e6M`
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`UmfBR1pge9H`
 
 --------- 4 ---------
-* 账号：`cnacjukxcjp@outlook.com`
-* 密码：`ddK874499`
+* 账号：`hquasq@outlook.com`
+* 密码：`Dd11a4908`
 
 --------- 5 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`UmfBR1pge9H`
+* 密码：`Dd1d4f667`
 
 --------- 6 ---------
-* 账号：`hquasq@outlook.com`
-* 密码：`Dd1c62861`
-
---------- 7 ---------
-* 账号：`cnacjukxcjp@outlook.com`
-* 密码：`ddK874499`
-
---------- 8 ---------
 * 账号：`cattofidailt@hotmail.com`
 * 密码：`Dd1c45702`
 
---------- 9 ---------
+--------- 7 ---------
 * 账号：`knurfbgfew@xysd.org`
 * 密码：`6c17mgMWMZf`
 
---------- 10 ---------
-* 账号：`nebsp5iwfj@xysd.org`
-* 密码：`6tF3G4UXNZf`
-
---------- 11 ---------
+--------- 8 ---------
 * 账号：`htjqcbr2@xysd.org`
 * 密码：`UmfBR1pge9H`
 
---------- 12 ---------
-* 账号：`hquasq@outlook.com`
-* 密码：`Dd1c62861`
-
---------- 13 ---------
-* 账号：`cnacjukxcjp@outlook.com`
-* 密码：`ddK874499`
-
---------- 14 ---------
-* 账号：`cattofidailt@hotmail.com`
-* 密码：`Dd1c45702`
-
---------- 15 ---------
+--------- 9 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1522538`
 
---------- 16 ---------
+--------- 10 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd1923dd1`
 
---------- 17 ---------
+--------- 11 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd154e4f9`
 <!-- apple ends -->
