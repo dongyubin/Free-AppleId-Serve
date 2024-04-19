@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-19 19:34:56**
+更新时间：**2024-04-19 20:20:11**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,41 +227,33 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`fbYt8PsPnB`
+* 密码：`v5Svx6h3jp`
 
 --------- 2 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`fbYt8PsPnB`
+* 密码：`ypDRHMwud1`
 
 --------- 3 ---------
-* 账号：`gina2166@hotmail.com`
-* 密码：`gbut7N67eH`
+* 账号：`knurfbgfew@xysd.org`
+* 密码：`TG3uqBj9DSq`
 
 --------- 4 ---------
-* 账号：`gina2166@hotmail.com`
-* 密码：`5FXxVskPjed`
-
---------- 5 ---------
-* 账号：`knurfbgfew@xysd.org`
-* 密码：`ysE6BM9pXjn`
-
---------- 6 ---------
 * 账号：`nebsp5iwfj@xysd.org`
 * 密码：`WwsUPK9Ck1J`
 
---------- 7 ---------
+--------- 5 ---------
 * 账号：`htjqcbr2@xysd.org`
 * 密码：`5FXxVskPjed`
 
---------- 8 ---------
+--------- 6 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1349f01`
 
---------- 9 ---------
+--------- 7 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd15f04e5`
 
---------- 10 ---------
+--------- 8 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd17b9a57`
 <!-- apple ends -->
