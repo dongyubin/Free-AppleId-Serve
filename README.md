@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-19 16:34:28**
+更新时间：**2024-04-19 17:11:24**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,31 +227,35 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`xexcZ3D8eK`
+* 密码：`YDzfPc1uEg`
 
 --------- 2 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`xexcZ3D8eK`
+* 密码：`YDzfPc1uEg`
 
 --------- 3 ---------
-* 账号：`nebsp5iwfj@xysd.org`
-* 密码：`zE681P9hqUw`
+* 账号：`higginsd747@gmail.com`
+* 密码：`PZ1hBWN8fb`
 
 --------- 4 ---------
-* 账号：`htjqcbr2@xysd.org`
-* 密码：`W34kUgtAyNP`
+* 账号：`nebsp5iwfj@xysd.org`
+* 密码：`feM1PvysNdv`
 
 --------- 5 ---------
+* 账号：`htjqcbr2@xysd.org`
+* 密码：`9ajjpzY3ekj`
+
+--------- 6 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1349f01`
 
---------- 6 ---------
+--------- 7 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd15f04e5`
 
---------- 7 ---------
+--------- 8 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd123beef`
+* 密码：`Dd133ad84`
 <!-- apple ends -->
 
 
