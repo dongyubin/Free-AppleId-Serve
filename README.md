@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-19 09:48:53**
+更新时间：**2024-04-19 10:21:59**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,106 +226,62 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd1d46cb2`
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1349f01`
 
 --------- 2 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1349f01`
 
 --------- 3 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`ftjHeNg5ww`
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`W34kUgtAyNP`
 
 --------- 4 ---------
-* 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd15f04e5`
+* 账号：`mahalaambergv@outlook.com`
+* 密码：`Dd1dd8188`
 
 --------- 5 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd1d46cb2`
+* 账号：`hquasq@outlook.com`
+* 密码：`Dd15efeda`
 
 --------- 6 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1349f01`
 
 --------- 7 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`W34kUgtAyNP`
+* 账号：`knurfbgfew@xysd.org`
+* 密码：`u3RjhYHu8CB`
 
 --------- 8 ---------
-* 账号：`ludtkeeurbink@outlook.com`
-* 密码：`Dd1b134bf`
+* 账号：`nebsp5iwfj@xysd.org`
+* 密码：`pZHr2M5mdtA`
 
 --------- 9 ---------
+* 账号：`htjqcbr2@xysd.org`
+* 密码：`W34kUgtAyNP`
+
+--------- 10 ---------
 * 账号：`mahalaambergv@outlook.com`
 * 密码：`Dd1dd8188`
 
---------- 10 ---------
+--------- 11 ---------
 * 账号：`hquasq@outlook.com`
 * 密码：`Dd15efeda`
 
---------- 11 ---------
+--------- 12 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1349f01`
 
---------- 12 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd1d46cb2`
-
 --------- 13 ---------
-* 账号：`cattofidailt@hotmail.com`
-* 密码：`Dd1c104c1`
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1349f01`
 
 --------- 14 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd15f04e5`
 
 --------- 15 ---------
-* 账号：`knurfbgfew@xysd.org`
-* 密码：`u3RjhYHu8CB`
-
---------- 16 ---------
-* 账号：`nebsp5iwfj@xysd.org`
-* 密码：`pZHr2M5mdtA`
-
---------- 17 ---------
-* 账号：`htjqcbr2@xysd.org`
-* 密码：`W34kUgtAyNP`
-
---------- 18 ---------
-* 账号：`ludtkeeurbink@outlook.com`
-* 密码：`Dd1b134bf`
-
---------- 19 ---------
-* 账号：`mahalaambergv@outlook.com`
-* 密码：`Dd1dd8188`
-
---------- 20 ---------
-* 账号：`hquasq@outlook.com`
-* 密码：`Dd15efeda`
-
---------- 21 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1349f01`
-
---------- 22 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd1d46cb2`
-
---------- 23 ---------
-* 账号：`cattofidailt@hotmail.com`
-* 密码：`Dd1c104c1`
-
---------- 24 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1349f01`
-
---------- 25 ---------
-* 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd15f04e5`
-
---------- 26 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd171d0fd`
 <!-- apple ends -->
