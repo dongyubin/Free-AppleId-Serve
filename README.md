@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-20 06:35:30**
+更新时间：**2024-04-20 07:12:58**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,32 +226,32 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`cohenbooth438@gmail.com`
-* 密码：`MBkWCR9vU8`
-
---------- 2 ---------
 * 账号：`klinejewel7@gmail.com`
 * 密码：`yBm8reMPYx`
 
+--------- 2 ---------
+* 账号：`cohenbooth438@gmail.com`
+* 密码：`ugBzXJFN5p`
+
 --------- 3 ---------
-* 账号：`higginsd747@gmail.com`
-* 密码：`UXsHbFC2eN`
+* 账号：`janaesalas49@gmail.com`
+* 密码：`6ZpgBVjH7y`
 
 --------- 4 ---------
 * 账号：`sawyerethen8@gmail.com`
-* 密码：`P71Vd91T2R`
+* 密码：`6vsj3VBPeQ`
 
 --------- 5 ---------
-* 账号：`janaesalas49@gmail.com`
-* 密码：`CWbQK8DdGb`
+* 账号：`higginsd747@gmail.com`
+* 密码：`UXsHbFC2eN`
 
 --------- 6 ---------
-* 账号：`janaesalas49@gmail.com`
-* 密码：`ezZRAGe2Pdb`
+* 账号：`higginsd747@gmail.com`
+* 密码：`bpyF2g3Dkzz`
 
 --------- 7 ---------
 * 账号：`knurfbgfew@xysd.org`
-* 密码：`WwxtpPM8MBW`
+* 密码：`6vAdxYEsfSd`
 
 --------- 8 ---------
 * 账号：`nebsp5iwfj@xysd.org`
@@ -259,7 +259,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 账号：`htjqcbr2@xysd.org`
-* 密码：`ezZRAGe2Pdb`
+* 密码：`bpyF2g3Dkzz`
 
 --------- 10 ---------
 * 账号：`pimkieasnovo@hotmail.com`
