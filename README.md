@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-19 18:12:36**
+更新时间：**2024-04-19 18:35:04**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,23 +227,23 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`bTnBmNk4Kc`
+* 密码：`rj4Gqgacp2`
 
 --------- 2 ---------
 * 账号：`ios9@vpnyun.link`
-* 密码：`bTnBmNk4Kc`
+* 密码：`rj4Gqgacp2`
 
 --------- 3 ---------
-* 账号：`janaesalas49@gmail.com`
-* 密码：`s1evNwYm7b`
+* 账号：`klinejewel7@gmail.com`
+* 密码：`7artSGbAsu`
 
 --------- 4 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`mR9pZYAa4p`
+* 账号：`janaesalas49@gmail.com`
+* 密码：`jPGBkm3zjP`
 
 --------- 5 ---------
 * 账号：`higginsd747@gmail.com`
-* 密码：`bCQcYd1z33`
+* 密码：`Mv6JduJjUV`
 
 --------- 6 ---------
 * 账号：`knurfbgfew@xysd.org`
@@ -255,7 +255,7 @@ PS：最好月付，防止跑路！
 
 --------- 8 ---------
 * 账号：`htjqcbr2@xysd.org`
-* 密码：`HtXQ1Vyx7JD`
+* 密码：`7fDd2Nfd5dj`
 
 --------- 9 ---------
 * 账号：`pimkieasnovo@hotmail.com`
