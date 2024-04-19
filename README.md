@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-19 22:10:15**
+更新时间：**2024-04-19 22:35:44**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,15 +227,15 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1af32e6`
+* 密码：`Dd118291c`
 
 --------- 2 ---------
 * 账号：`rfxuubar@outlook.com`
-* 密码：`Dd16d7161`
+* 密码：`Dd117d51e`
 
 --------- 3 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1e10174`
+* 密码：`Dd1722e95`
 
 --------- 4 ---------
 * 账号：`pimkieasnovo@hotmail.com`
@@ -251,15 +251,15 @@ PS：最好月付，防止跑路！
 
 --------- 7 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd17ff06e`
+* 密码：`Dd118291c`
 
 --------- 8 ---------
 * 账号：`rfxuubar@outlook.com`
-* 密码：`Dd16d7161`
+* 密码：`Dd117d51e`
 
 --------- 9 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1e10174`
+* 密码：`Dd1722e95`
 
 --------- 10 ---------
 * 账号：`pimkieasnovo@hotmail.com`
@@ -267,7 +267,7 @@ PS：最好月付，防止跑路！
 
 --------- 11 ---------
 * 账号：`pimkieasnovo@hotmail.com`
-* 密码：`3JAzPudvdz9`
+* 密码：`Nw7pKDyXBRD`
 
 --------- 12 ---------
 * 账号：`hquasq@outlook.com`
@@ -279,19 +279,19 @@ PS：最好月付，防止跑路！
 
 --------- 14 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1e10174`
+* 密码：`Dd1722e95`
 
 --------- 15 ---------
 * 账号：`rfxuubar@outlook.com`
-* 密码：`Dd16d7161`
+* 密码：`Dd117d51e`
 
 --------- 16 ---------
 * 账号：`cattofidailt@hotmail.com`
-* 密码：`Dd1807116`
+* 密码：`Dd1a0a483`
 
 --------- 17 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd17ff06e`
+* 密码：`Dd118291c`
 
 --------- 18 ---------
 * 账号：`knurfbgfew@xysd.org`
@@ -299,11 +299,11 @@ PS：最好月付，防止跑路！
 
 --------- 19 ---------
 * 账号：`nebsp5iwfj@xysd.org`
-* 密码：`su8a1WCgrMh`
+* 密码：`PdJ5MjCDKtr`
 
 --------- 20 ---------
 * 账号：`htjqcbr2@xysd.org`
-* 密码：`3JAzPudvdz9`
+* 密码：`Nw7pKDyXBRD`
 
 --------- 21 ---------
 * 账号：`hquasq@outlook.com`
@@ -315,19 +315,19 @@ PS：最好月付，防止跑路！
 
 --------- 23 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1e10174`
+* 密码：`Dd1722e95`
 
 --------- 24 ---------
 * 账号：`rfxuubar@outlook.com`
-* 密码：`Dd16d7161`
+* 密码：`Dd117d51e`
 
 --------- 25 ---------
 * 账号：`cattofidailt@hotmail.com`
-* 密码：`Dd1807116`
+* 密码：`Dd1e94544`
 
 --------- 26 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1af32e6`
+* 密码：`Dd118291c`
 
 --------- 27 ---------
 * 账号：`pimkieasnovo@hotmail.com`
@@ -335,7 +335,7 @@ PS：最好月付，防止跑路！
 
 --------- 28 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1af32e6`
+* 密码：`Dd118291c`
 
 --------- 29 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
