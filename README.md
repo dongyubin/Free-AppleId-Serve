@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-21 04:35:06**
+更新时间：**2024-04-21 05:09:40**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,67 +227,147 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 香港账号：`levi2t4rharper@hotmail.com`
-* 密码：`OPf15o79`
+* 密码：`NIz74x08`
 
 --------- 2 ---------
-* 账号：`higginsd747@gmail.com`
-* 密码：`95eZWPREC3`
+* 账号：`nexhatkorbih@hotmail.com`
+* 密码：`Dd1ed96c2`
 
 --------- 3 ---------
-* 账号：`gina2166@hotmail.com`
-* 密码：`H8XAvSsnBy`
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd1417838`
 
 --------- 4 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`jN4R3f79Gr`
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`Dd19b9e09`
 
 --------- 5 ---------
-* 账号：`sawyerethen8@gmail.com`
-* 密码：`U6dpgPqKFe`
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1fc68f3`
 
 --------- 6 ---------
-* 账号：`janaesalas49@gmail.com`
-* 密码：`wNxF2QrFCW`
-
---------- 7 ---------
 * 账号：`cohenbooth438@gmail.com`
 * 密码：`cyH3meSVpt`
 
+--------- 7 ---------
+* 账号：`janaesalas49@gmail.com`
+* 密码：`wNxF2QrFCW`
+
 --------- 8 ---------
-* 账号：`cohenbooth438@gmail.com`
-* 密码：`DdYr4Khb4qm`
+* 账号：`sawyerethen8@gmail.com`
+* 密码：`U6dpgPqKFe`
 
 --------- 9 ---------
+* 账号：`klinejewel7@gmail.com`
+* 密码：`DYTGF78rpC`
+
+--------- 10 ---------
+* 账号：`gina2166@hotmail.com`
+* 密码：`H8XAvSsnBy`
+
+--------- 11 ---------
+* 账号：`higginsd747@gmail.com`
+* 密码：`95eZWPREC3`
+
+--------- 12 ---------
+* 账号：`nexhatkorbih@hotmail.com`
+* 密码：`Dd1ed96c2`
+
+--------- 13 ---------
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd1417838`
+
+--------- 14 ---------
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`Dd1af2552`
+
+--------- 15 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1fc68f3`
+
+--------- 16 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`DdYr4Khb4qm`
+
+--------- 17 ---------
+* 账号：`hquasq@outlook.com`
+* 密码：`Dd171d588`
+
+--------- 18 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1fc68f3`
+
+--------- 19 ---------
 * 账号：`leomrcruz@hotmail.com`
 * 密码：`zbjsqxyz?Dd14d2bcd`
 
---------- 10 ---------
+--------- 20 ---------
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`Dd1af2552`
+
+--------- 21 ---------
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd1417838`
+
+--------- 22 ---------
+* 账号：`cattofidailt@hotmail.com`
+* 密码：`Dd11028c7`
+
+--------- 23 ---------
+* 账号：`nexhatkorbih@hotmail.com`
+* 密码：`Dd1ed96c2`
+
+--------- 24 ---------
 * 账号：`knurfbgfew@xysd.org`
 * 密码：`sJzXUXH4nEr`
 
---------- 11 ---------
+--------- 25 ---------
 * 账号：`nebsp5iwfj@xysd.org`
 * 密码：`hdS88xNsBeC`
 
---------- 12 ---------
+--------- 26 ---------
 * 账号：`htjqcbr2@xysd.org`
 * 密码：`DdYr4Khb4qm`
 
---------- 13 ---------
+--------- 27 ---------
+* 账号：`hquasq@outlook.com`
+* 密码：`Dd171d588`
+
+--------- 28 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1fc68f3`
+
+--------- 29 ---------
 * 账号：`leomrcruz@hotmail.com`
 * 密码：`zbjsqxyz?Dd14d2bcd`
 
---------- 14 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd10b70cb`
+--------- 30 ---------
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`Dd19b9e09`
 
---------- 15 ---------
+--------- 31 ---------
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd1417838`
+
+--------- 32 ---------
+* 账号：`cattofidailt@hotmail.com`
+* 密码：`Dd11028c7`
+
+--------- 33 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1585af7`
+* 密码：`Dd1ed96c2`
 
---------- 16 ---------
+--------- 34 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1fc68f3`
+
+--------- 35 ---------
+* 账号：`nexhatkorbih@hotmail.com`
+* 密码：`Dd1ed96c2`
+
+--------- 36 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd183bc0d`
+* 密码：`Dd10df9d3`
 <!-- apple ends -->
 
 
