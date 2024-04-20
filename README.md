@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-20 11:34:58**
+更新时间：**2024-04-20 12:15:11**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -226,23 +226,23 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1af2552`
+* 账号：`hquasq@outlook.com`
+* 密码：`Dd1f9b47c`
 
 --------- 2 ---------
-* 账号：`gina2166@hotmail.com`
-* 密码：`FcGdxF2wua`
+* 账号：`leomrcruz@hotmail.com`
+* 密码：`zbjsqxyz?Dd195d24c`
 
 --------- 3 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd179f2a9`
+* 账号：`knurfbgfew@xysd.org`
+* 密码：`tK5uumUefmA`
 
 --------- 4 ---------
-* 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1af2552`
+* 账号：`nebsp5iwfj@xysd.org`
+* 密码：`sBqM2dNEqHe`
 
 --------- 5 ---------
-* 账号：`cnacjukxcjp@outlook.com`
+* 账号：`htjqcbr2@xysd.org`
 * 密码：`s6Jy7dTPyh5`
 
 --------- 6 ---------
@@ -250,58 +250,14 @@ PS：最好月付，防止跑路！
 * 密码：`Dd1f9b47c`
 
 --------- 7 ---------
-* 账号：`leomrcruz@hotmail.com`
-* 密码：`kbjscc?Dd1c76f5a`
-
---------- 8 ---------
-* 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1af2552`
-
---------- 9 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd179f2a9`
-
---------- 10 ---------
-* 账号：`cattofidailt@hotmail.com`
-* 密码：`Dd104006f`
-
---------- 11 ---------
-* 账号：`knurfbgfew@xysd.org`
-* 密码：`tK5uumUefmA`
-
---------- 12 ---------
-* 账号：`nebsp5iwfj@xysd.org`
-* 密码：`sBqM2dNEqHe`
-
---------- 13 ---------
-* 账号：`htjqcbr2@xysd.org`
-* 密码：`s6Jy7dTPyh5`
-
---------- 14 ---------
-* 账号：`hquasq@outlook.com`
-* 密码：`Dd1f9b47c`
-
---------- 15 ---------
-* 账号：`leomrcruz@hotmail.com`
-* 密码：`kbjscc?Dd1c76f5a`
-
---------- 16 ---------
-* 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1af2552`
-
---------- 17 ---------
-* 账号：`cattofidailt@hotmail.com`
-* 密码：`Dd104006f`
-
---------- 18 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd10b70cb`
 
---------- 19 ---------
+--------- 8 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd1585af7`
 
---------- 20 ---------
+--------- 9 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1df7136`
 <!-- apple ends -->
