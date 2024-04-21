@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-21 11:11:34**
+更新时间：**2024-04-21 11:35:21**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,73 +227,77 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 香港账号：`levi2t4rharper@hotmail.com`
-* 密码：`KFa66r44`
+* 密码：`MEv46x11`
 
 --------- 2 ---------
 * 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd12f2515`
+* 密码：`Dd1977e80`
 
 --------- 3 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd12f2515`
+* 账号：`ios8@vpnyun.link`
+* 密码：`Pr253Eps8e1`
 
 --------- 4 ---------
 * 账号：`pimkieasnovo@hotmail.com`
-* 密码：`52xDCyCJQBg`
+* 密码：`Dd1977e80`
 
 --------- 5 ---------
-* 账号：`hquasq@outlook.com`
-* 密码：`Dd171d588`
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`52xDCyCJQBg`
 
 --------- 6 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd12f2515`
+* 账号：`hquasq@outlook.com`
+* 密码：`Dd1b3c76d`
 
 --------- 7 ---------
-* 账号：`leomrcruz@hotmail.com`
-* 密码：`zbjsqxyz?Dd14d2bcd`
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1977e80`
 
 --------- 8 ---------
-* 账号：`cattofidailt@hotmail.com`
-* 密码：`Dd1507bf9`
+* 账号：`leomrcruz@hotmail.com`
+* 密码：`zbjsqxyz?Dd1a926db`
 
 --------- 9 ---------
+* 账号：`cattofidailt@hotmail.com`
+* 密码：`Dd12c1202`
+
+--------- 10 ---------
 * 账号：`knurfbgfew@xysd.org`
 * 密码：`q3dAnMwdPSx`
 
---------- 10 ---------
+--------- 11 ---------
 * 账号：`nebsp5iwfj@xysd.org`
 * 密码：`uehECNs4sh5`
 
---------- 11 ---------
+--------- 12 ---------
 * 账号：`htjqcbr2@xysd.org`
 * 密码：`52xDCyCJQBg`
 
---------- 12 ---------
-* 账号：`hquasq@outlook.com`
-* 密码：`Dd171d588`
-
 --------- 13 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd12f2515`
+* 账号：`hquasq@outlook.com`
+* 密码：`Dd1b3c76d`
 
 --------- 14 ---------
-* 账号：`leomrcruz@hotmail.com`
-* 密码：`zbjsqxyz?Dd14d2bcd`
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1977e80`
 
 --------- 15 ---------
-* 账号：`cattofidailt@hotmail.com`
-* 密码：`Dd1507bf9`
+* 账号：`leomrcruz@hotmail.com`
+* 密码：`zbjsqxyz?Dd1a926db`
 
 --------- 16 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd12f2515`
+* 账号：`cattofidailt@hotmail.com`
+* 密码：`Dd12c1202`
 
 --------- 17 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1977e80`
+
+--------- 18 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd16c66df`
 
---------- 18 ---------
+--------- 19 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1961039`
 <!-- apple ends -->
