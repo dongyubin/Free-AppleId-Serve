@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-21 19:09:14**
+更新时间：**2024-04-21 19:34:15**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,37 +227,73 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd16c66df`
+* 密码：`Dd1fd1467`
 
 --------- 2 ---------
 * 账号：`rfxuubar@outlook.com`
-* 密码：`Dd14cf573`
+* 密码：`Dd160140c`
 
 --------- 3 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd170030b`
+* 密码：`Dd1ba1df0`
 
 --------- 4 ---------
-* 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd170030b`
-
---------- 5 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd14cf573`
-
---------- 6 ---------
-* 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd16c66df`
-
---------- 7 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1187dc7`
-
---------- 8 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd1fd1467`
 
+--------- 5 ---------
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd1a6dd31`
+
+--------- 6 ---------
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`Dd1e08b64`
+
+--------- 7 ---------
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`tKK399kM7Hn`
+
+--------- 8 ---------
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`Dd1e08b64`
+
 --------- 9 ---------
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd1a6dd31`
+
+--------- 10 ---------
+* 账号：`nexhatkorbih@hotmail.com`
+* 密码：`Dd1fd1467`
+
+--------- 11 ---------
+* 账号：`knurfbgfew@xysd.org`
+* 密码：`rxZfnrwK5A6`
+
+--------- 12 ---------
+* 账号：`kgmtrwbef@xysd.org`
+* 密码：`RzQ3xXEdbWK`
+
+--------- 13 ---------
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`Dd1ba1df0`
+
+--------- 14 ---------
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd160140c`
+
+--------- 15 ---------
+* 账号：`nexhatkorbih@hotmail.com`
+* 密码：`Dd1fd1467`
+
+--------- 16 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1187dc7`
+
+--------- 17 ---------
+* 账号：`nexhatkorbih@hotmail.com`
+* 密码：`Dd1fd1467`
+
+--------- 18 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1983ad0`
 <!-- apple ends -->
