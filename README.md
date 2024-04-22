@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-22 18:36:20**
+更新时间：**2024-04-22 19:09:21**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,51 +227,51 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`michaeles0wsb@hotmail.com`
-* 密码：`Gs2583758`
+* 密码：`ZRk46v90`
 
 --------- 2 ---------
 * 香港账号：`levi2t4rharper@hotmail.com`
-* 密码：`XCk25s51`
+* 密码：`SAp16n68`
 
 --------- 3 ---------
-* 账号：`anguswoodward1@hotmail.com`
-* 密码：`1unmyShZYZ`
-
---------- 4 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`2xG8cz2acZ`
-
---------- 5 ---------
 * 账号：`higginsd747@gmail.com`
 * 密码：`mEkH6RUaXB`
 
+--------- 4 ---------
+* 账号：`anguswoodward1@hotmail.com`
+* 密码：`1unmyShZYZ`
+
+--------- 5 ---------
+* 账号：`klinejewel7@gmail.com`
+* 密码：`2xG8cz2acZ`
+
 --------- 6 ---------
-* 账号：`gina2166@hotmail.com`
-* 密码：`azgqd8K6ed`
-
---------- 7 ---------
-* 账号：`cohenbooth438@gmail.com`
-* 密码：`2yJPjMKTcs`
-
---------- 8 ---------
-* 账号：`janaesalas49@gmail.com`
-* 密码：`rKUrmRG75f`
-
---------- 9 ---------
 * 账号：`sawyerethen8@gmail.com`
 * 密码：`UJJ4FuYFaP`
 
+--------- 7 ---------
+* 账号：`cohenbooth438@gmail.com`
+* 密码：`fU3USmHC4h`
+
+--------- 8 ---------
+* 账号：`gina2166@hotmail.com`
+* 密码：`Mv6tReBTXk`
+
+--------- 9 ---------
+* 账号：`janaesalas49@gmail.com`
+* 密码：`rKUrmRG75f`
+
 --------- 10 ---------
-* 账号：`sawyerethen8@gmail.com`
-* 密码：`eVmB7mYxSGX`
+* 账号：`janaesalas49@gmail.com`
+* 密码：`VJ3aGV95EDj`
 
 --------- 11 ---------
 * 账号：`knurfbgfew@xysd.org`
-* 密码：`r3qwwgkV5wm`
+* 密码：`ASzGWFx7BrY`
 
 --------- 12 ---------
 * 账号：`kgmtrwbef@xysd.org`
-* 密码：`eVmB7mYxSGX`
+* 密码：`j6RepyaBmqH`
 
 --------- 13 ---------
 * 账号：`pimkieasnovo@hotmail.com`
