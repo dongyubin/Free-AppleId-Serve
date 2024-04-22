@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-22 20:22:14**
+更新时间：**2024-04-22 20:48:11**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -230,28 +230,24 @@ PS：最好月付，防止跑路！
 * 密码：`EKi55x02`
 
 --------- 2 ---------
-* 香港账号：`levi2t4rharper@hotmail.com`
-* 密码：`GOm21d08`
+* 美国账号：`levi2t4rharper@hotmail.com`
+* 密码：`KQm71m21`
 
 --------- 3 ---------
 * 账号：`ios8@vpnyun.link`
 * 密码：`NPf7m8c4TF`
 
 --------- 4 ---------
-* 账号：`ios8@vpnyun.link`
-* 密码：`NPf7m8c4TF`
-
---------- 5 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd163d819`
 
---------- 6 ---------
+--------- 5 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd129dc94`
 
---------- 7 ---------
+--------- 6 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd1e6585d`
+* 密码：`Dd17144b4`
 <!-- apple ends -->
 
 
