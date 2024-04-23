@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-23 08:51:56**
+更新时间：**2024-04-23 09:51:26**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -234,78 +234,42 @@ PS：最好月付，防止跑路！
 * 密码：`FKu98y45`
 
 --------- 3 ---------
-* 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd18c3d52`
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd1738fe7`
 
 --------- 4 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd1c9c7db`
+* 账号：`cnacjukxcjp@outlook.com`
+* 密码：`Dd17f4822`
 
 --------- 5 ---------
-* 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd17f4822`
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd19ba579`
 
 --------- 6 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1d925fb`
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd1ba5be4`
 
 --------- 7 ---------
-* 账号：`higginsd747@gmail.com`
-* 密码：`3KYQn89XPD`
-
---------- 8 ---------
-* 账号：`gina2166@hotmail.com`
-* 密码：`K1CMwmG5nD`
-
---------- 9 ---------
-* 账号：`janaesalas49@gmail.com`
-* 密码：`A6W2kFXqXZ`
-
---------- 10 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`5W6XZ2acuP`
-
---------- 11 ---------
-* 账号：`sawyerethen8@gmail.com`
-* 密码：`wy4Pgv5uef`
-
---------- 12 ---------
-* 账号：`nexhatkorbih@hotmail.com`
-* 密码：`Dd1ff5edc`
-
---------- 13 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd1c9c7db`
-
---------- 14 ---------
 * 账号：`cnacjukxcjp@outlook.com`
 * 密码：`Dd17f4822`
 
---------- 15 ---------
+--------- 8 ---------
 * 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1d925fb`
+* 密码：`Dd19ba579`
 
---------- 16 ---------
+--------- 9 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`2nvTkxgRKwB`
 
---------- 17 ---------
-* 账号：`knurfbgfew@xysd.org`
-* 密码：`rsRS6BAy15z`
-
---------- 18 ---------
-* 账号：`kgmtrwbef@xysd.org`
-* 密码：`2nvTkxgRKwB`
-
---------- 19 ---------
+--------- 10 ---------
 * 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1d925fb`
+* 密码：`Dd19ba579`
 
---------- 20 ---------
+--------- 11 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd18c3d52`
 
---------- 21 ---------
+--------- 12 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd101fc17`
 <!-- apple ends -->
