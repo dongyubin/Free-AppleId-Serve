@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-23 23:11:39**
+更新时间：**2024-04-23 23:35:43**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -227,39 +227,39 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`michaeles0wsb@hotmail.com`
-* 密码：`PNo40f26`
+* 密码：`SGd14l16`
 
 --------- 2 ---------
 * 美国账号：`levi2t4rharper@hotmail.com`
-* 密码：`QHs26d72`
+* 密码：`BQh02x35`
 
 --------- 3 ---------
 * 账号：`rfxuubar@outlook.com`
-* 密码：`Dd118efbd`
+* 密码：`Dd15e6c43`
 
 --------- 4 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1d02e83`
+* 密码：`Dd1071386`
 
 --------- 5 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1d625c4`
 
 --------- 6 ---------
-* 账号：`sawyerethen8@gmail.com`
-* 密码：`XevjPu7Scw`
+* 账号：`cohenbooth438@gmail.com`
+* 密码：`hq6bT3DKGw`
 
 --------- 7 ---------
 * 账号：`rfxuubar@outlook.com`
-* 密码：`Dd1e24ec5`
+* 密码：`Dd1add81b`
 
 --------- 8 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd1992e31`
+* 密码：`Dd116d4ad`
 
 --------- 9 ---------
 * 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd147d40f`
+* 密码：`Dd1d625c4`
 
 --------- 10 ---------
 * 账号：`pimkieasnovo@hotmail.com`
