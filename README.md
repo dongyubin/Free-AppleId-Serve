@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-23 15:10:45**
+更新时间：**2024-04-23 15:35:16**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -231,49 +231,105 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 美国账号：`levi2t4rharper@hotmail.com`
-* 密码：`OHt33r35`
+* 密码：`HGo53r68`
 
 --------- 3 ---------
 * 账号：`rfxuubar@outlook.com`
-* 密码：`Dd1aea442`
+* 密码：`Dd196c7f7`
 
 --------- 4 ---------
 * 账号：`cnacjukxcjp@outlook.com`
-* 密码：`Dd104dbf9`
+* 密码：`Dd1f5e853`
 
 --------- 5 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1772f68`
 
 --------- 6 ---------
-* 账号：`ios9@vpnyun.link`
-* 密码：`G1uwtEmHrwa`
+* 账号：`rfxuubar@outlook.com`
+* 密码：`Dd196c7f7`
 
 --------- 7 ---------
-* 账号：`rfxuubar@outlook.com`
-* 密码：`Dd1aea442`
-
---------- 8 ---------
 * 账号：`cnacjukxcjp@outlook.com`
 * 密码：`Dd104dbf9`
 
---------- 9 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`Dd1327568`
-
---------- 10 ---------
-* 账号：`pimkieasnovo@hotmail.com`
-* 密码：`2nvTkxgRKwB`
-
---------- 11 ---------
+--------- 8 ---------
 * 账号：`pimkieasnovo@hotmail.com`
 * 密码：`Dd1772f68`
 
+--------- 9 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`2nvTkxgRKwB`
+
+--------- 10 ---------
+* 账号：`0o44ja116j6u@xysd.org`
+* 密码：`Hxhw9JdNE6p`
+
+--------- 11 ---------
+* 账号：`htjqcbr2@xysd.org`
+* 密码：`vQ6eStZxczq`
+
 --------- 12 ---------
+* 账号：`1f0mw6lpylp@xysd.org`
+* 密码：`zU9ZmgnhnN6`
+
+--------- 13 ---------
+* 账号：`1f0mw6lpylp@xysd.org`
+* 密码：``
+
+--------- 14 ---------
+* 账号：`1f0mw6lpylp@xysd.org`
+* 密码：``
+
+--------- 15 ---------
+* 账号：`1f0mw6lpylp@xysd.org`
+* 密码：``
+
+--------- 16 ---------
+* 账号：`1f0mw6lpylp@xysd.org`
+* 密码：``
+
+--------- 17 ---------
+* 账号：`1f0mw6lpylp@xysd.org`
+* 密码：``
+
+--------- 18 ---------
+* 账号：`1f0mw6lpylp@xysd.org`
+* 密码：``
+
+--------- 19 ---------
+* 账号：`1f0mw6lpylp@xysd.org`
+* 密码：`zU9ZmgnhnN6`
+
+--------- 20 ---------
+* 账号：`htjqcbr2@xysd.org`
+* 密码：`vQ6eStZxczq`
+
+--------- 21 ---------
+* 账号：`0o44ja116j6u@xysd.org`
+* 密码：`Hxhw9JdNE6p`
+
+--------- 22 ---------
+* 账号：``
+* 密码：``
+
+--------- 23 ---------
+* 账号：``
+* 密码：``
+
+--------- 24 ---------
+* 账号：``
+* 密码：``
+
+--------- 25 ---------
+* 账号：`pimkieasnovo@hotmail.com`
+* 密码：`Dd1772f68`
+
+--------- 26 ---------
 * 账号：`nexhatkorbih@hotmail.com`
 * 密码：`Dd18c3d52`
 
---------- 13 ---------
+--------- 27 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1f49399`
 <!-- apple ends -->
