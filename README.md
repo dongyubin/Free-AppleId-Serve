@@ -142,9 +142,9 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 *   [https://jiang.netlify.com/](https://jiang.netlify.com/)
 *   [https://muma16fx.netlify.com/](https://muma16fx.netlify.com/)
 *   [https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub](https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub)
-*   [https://bihai-free-ssr.netlify.com/](https://bihai-free-ssr.netlify.com/)
 *   [https://www.liesauer.net/yogurt/subscribe](https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb)
 *   [https://qiaomenzhuanfx.netlify.com/](https://qiaomenzhuanfx.netlify.com/)
+*   [免费ssr节点分享](https://freefq.com/free-ssr/)：所有账号、节点或服务器均源自国际互联网
 
 ### 免费节点GitHub库
 
@@ -154,6 +154,8 @@ PS：**下面仓库中付费的内容，请谨慎购买，只推荐使用免费*
 - Clash 订阅地址：`https://www.xrayvip.com/free.yaml`
 - [getNode](https://github.com/Flik6/getNode)：每小时更新最新的 Clash、v2ray 节点信息
 - [v2cross](https://v2cross.com/archives/1884)：SS 节点（富强获取）
+- [Free-servers](https://github.com/Pawdroid/Free-servers): 6小时更新一次，免费ss/v2ray/trojan节点
+- [v2rayfree](https://github.com/aiboboxx/v2rayfree): v2ray节点
 
 ### TG群
 
