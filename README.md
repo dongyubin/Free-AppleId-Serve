@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-26 17:34:42**
+更新时间：**2024-04-26 18:12:26**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,31 +229,31 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`qsqmeewpqn@hotmail.com`
-* 密码：`Dd127b161`
+* 密码：`Dd1e0c51a`
 
 --------- 2 ---------
 * 账号：`tillaspfohs@outlook.com`
-* 密码：`Dd15739ce`
+* 密码：`Dd1072632`
 
 --------- 3 ---------
 * 账号：`gd6yqc@outlook.com`
-* 密码：`Dd1622aa3`
+* 密码：`Dd1f7cd17`
 
 --------- 4 ---------
 * 账号：`rkpfar@hotmail.com`
-* 密码：`Dd174a569`
+* 密码：`Dd141671e`
 
 --------- 5 ---------
-* 账号：`gina2166@hotmail.com`
-* 密码：`2ETS9uny9Q`
-
---------- 6 ---------
 * 账号：`klinejewel7@gmail.com`
 * 密码：`NA4BrQYmxj`
 
---------- 7 ---------
+--------- 6 ---------
 * 账号：`sawyerethen8@gmail.com`
-* 密码：`yDFX7d3Gf1`
+* 密码：`kVX3VSapQc`
+
+--------- 7 ---------
+* 账号：`gina2166@hotmail.com`
+* 密码：`2ETS9uny9Q`
 
 --------- 8 ---------
 * 账号：`qsqmeewpqn@hotmail.com`
@@ -265,47 +265,47 @@ PS：最好月付，防止跑路！
 
 --------- 10 ---------
 * 账号：`gd6yqc@outlook.com`
-* 密码：`Dd1622aa3`
+* 密码：`Dd1f54392`
 
 --------- 11 ---------
 * 账号：`rkpfar@hotmail.com`
-* 密码：`Dd174a569`
+* 密码：`Dd1061838`
 
 --------- 12 ---------
 * 账号：`rkpfar@hotmail.com`
-* 密码：`YY11gg88`
+* 密码：`7AEazDfnrZH`
 
 --------- 13 ---------
-* 账号：`0o44ja116j6u@xysd.org`
-* 密码：`N2HUZWNKdeZ`
+* 账号：`htjqcbr2@xysd.org`
+* 密码：`ffAQ9TUKjFB`
 
 --------- 14 ---------
 * 账号：`1f0mw6lpylp@xysd.org`
-* 密码：`HuX1RepB87f`
+* 密码：`7AEazDfnrZH`
 
 --------- 15 ---------
-* 账号：`htjqcbr2@xysd.org`
-* 密码：`n5NVRaM1Aph`
+* 账号：`0o44ja116j6u@xysd.org`
+* 密码：`4qsDPWkBzu3`
 
 --------- 16 ---------
-* 账号：`0o44ja116j6u@xysd.org`
-* 密码：`N2HUZWNKdeZ`
+* 账号：`htjqcbr2@xysd.org`
+* 密码：`ffAQ9TUKjFB`
 
 --------- 17 ---------
 * 账号：`1f0mw6lpylp@xysd.org`
-* 密码：`HuX1RepB87f`
+* 密码：`7AEazDfnrZH`
 
 --------- 18 ---------
-* 账号：`htjqcbr2@xysd.org`
-* 密码：`n5NVRaM1Aph`
+* 账号：`0o44ja116j6u@xysd.org`
+* 密码：`4qsDPWkBzu3`
 
 --------- 19 ---------
 * 账号：`rkpfar@hotmail.com`
-* 密码：`Dd174a569`
+* 密码：`Dd141671e`
 
 --------- 20 ---------
 * 账号：`qsqmeewpqn@hotmail.com`
-* 密码：`Dd127b161`
+* 密码：`Dd1e0c51a`
 
 --------- 21 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
