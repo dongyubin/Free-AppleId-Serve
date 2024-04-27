@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-27 08:51:08**
+更新时间：**2024-04-27 09:47:04**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,68 +228,48 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`sawyerethen8@gmail.com`
-* 密码：`s4U8DXcQt8`
+* 账号：`klinejewel7@gmail.com`
+* 密码：`jtJpH3VHVd`
 
 --------- 2 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`qeDXufX1rZ`
+* 账号：`sawyerethen8@gmail.com`
+* 密码：`Fa2BYgKwgW`
 
 --------- 3 ---------
-* 账号：`gina2166@hotmail.com`
-* 密码：`hPZCkV7KS3`
+* 账号：`euydl12bmbuwsg@xysd.org`
+* 密码：`Uq486402`
 
 --------- 4 ---------
-* 账号：`anguswoodward1@hotmail.com`
-* 密码：`f8rxptc91E`
-
---------- 5 ---------
-* 账号：`anguswoodward1@hotmail.com`
-* 密码：`yY64Hrjzf12`
-
---------- 6 ---------
-* 账号：`1f0mw6lpylp@xysd.org`
-* 密码：`UsAb2NWUNh7`
-
---------- 7 ---------
-* 账号：`0o44ja116j6u@xysd.org`
-* 密码：`yY64Hrjzf12`
-
---------- 8 ---------
 * 账号：`jamalortega73@gmail.com`
 * 密码：`XK35ny32`
 
---------- 9 ---------
+--------- 5 ---------
 * 账号：`hancockclay151@gmail.com`
-* 密码：`GN33dz23`
+* 密码：`WQ57dx56`
 
---------- 10 ---------
+--------- 6 ---------
 * 账号：`gdpdxgypenk@outlook.com`
-* 密码：`DG97uu14`
+* 密码：`RE35dr67`
 
---------- 11 ---------
+--------- 7 ---------
 * 账号：`wileydanielle822@gmail.com`
-* 密码：`UQ60cj22`
+* 密码：`JP59wn71`
 
---------- 12 ---------
-* 账号：`1f0mw6lpylp@xysd.org`
-* 密码：`UsAb2NWUNh7`
-
---------- 13 ---------
+--------- 8 ---------
 * 账号：`0o44ja116j6u@xysd.org`
 * 密码：`yY64Hrjzf12`
 
---------- 14 ---------
+--------- 9 ---------
 * 账号：`rkpfar@hotmail.com`
 * 密码：`Dd1f3b5c6`
 
---------- 15 ---------
+--------- 10 ---------
 * 账号：`qsqmeewpqn@hotmail.com`
 * 密码：`Dd1dc5e90`
 
---------- 16 ---------
+--------- 11 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd1ea7424`
+* 密码：`Dd1431a01`
 <!-- apple ends -->
 
 
