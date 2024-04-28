@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-28 07:34:46**
+更新时间：**2024-04-28 08:55:49**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,7 +229,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`qsqmeewpqn@hotmail.com`
-* 密码：`Dd16aca91`
+* 密码：`Dd1231dae`
 
 --------- 2 ---------
 * 账号：`tillaspfohs@outlook.com`
@@ -237,27 +237,27 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`rkpfar@hotmail.com`
-* 密码：`Dd1ffa2a0`
+* 密码：`Dd132993a`
 
 --------- 4 ---------
-* 账号：`gina2166@hotmail.com`
-* 密码：`ya7UUbheBP`
+* 账号：`klinejewel7@gmail.com`
+* 密码：`sDMAABv9dY`
 
 --------- 5 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`fBQW8PB6V2`
+* 账号：`anguswoodward1@hotmail.com`
+* 密码：`4TEkbTTrXu`
 
 --------- 6 ---------
-* 账号：`anguswoodward1@hotmail.com`
-* 密码：`gS3evppMU1`
-
---------- 7 ---------
 * 账号：`sawyerethen8@gmail.com`
 * 密码：`zpgA7ktVX4`
 
+--------- 7 ---------
+* 账号：`gina2166@hotmail.com`
+* 密码：`AMUb1S7DEt`
+
 --------- 8 ---------
 * 账号：`qsqmeewpqn@hotmail.com`
-* 密码：`Dd16aca91`
+* 密码：`Dd1231dae`
 
 --------- 9 ---------
 * 账号：`tillaspfohs@outlook.com`
@@ -265,7 +265,7 @@ PS：最好月付，防止跑路！
 
 --------- 10 ---------
 * 账号：`rkpfar@hotmail.com`
-* 密码：`Dd1ffa2a0`
+* 密码：`Dd132993a`
 
 --------- 11 ---------
 * 账号：`rkpfar@hotmail.com`
@@ -293,7 +293,7 @@ PS：最好月付，防止跑路！
 
 --------- 17 ---------
 * 账号：`qsqmeewpqn@hotmail.com`
-* 密码：`Dd1ed6833`
+* 密码：`Dd1231dae`
 
 --------- 18 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
