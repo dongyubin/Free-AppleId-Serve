@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-28 19:08:45**
+更新时间：**2024-04-28 19:34:21**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,69 +229,65 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`qsqmeewpqn@hotmail.com`
-* 密码：`Dd13c07dc`
+* 密码：`Dd1448d49`
 
 --------- 2 ---------
 * 账号：`tillaspfohs@outlook.com`
-* 密码：`Dd199aeb7`
+* 密码：`Dd194f9ba`
 
 --------- 3 ---------
 * 账号：`rkpfar@hotmail.com`
 * 密码：`Dd1fdc62a`
 
 --------- 4 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`UgCNxGNUG7`
-
---------- 5 ---------
-* 账号：`anguswoodward1@hotmail.com`
-* 密码：`5QDd2MRyWm`
-
---------- 6 ---------
 * 账号：`sawyerethen8@gmail.com`
 * 密码：`nmS3np8Ajk`
 
---------- 7 ---------
+--------- 5 ---------
+* 账号：`klinejewel7@gmail.com`
+* 密码：`2RMGZcjE9M`
+
+--------- 6 ---------
 * 账号：`qsqmeewpqn@hotmail.com`
-* 密码：`Dd13c07dc`
+* 密码：`Dd109fa10`
+
+--------- 7 ---------
+* 账号：`tillaspfohs@outlook.com`
+* 密码：`Dd13e65b2`
 
 --------- 8 ---------
-* 账号：`tillaspfohs@outlook.com`
-* 密码：`Dd13b44e6`
-
---------- 9 ---------
-* 账号：`rkpfar@hotmail.com`
-* 密码：`Dd180ba20`
-
---------- 10 ---------
-* 账号：`rkpfar@hotmail.com`
-* 密码：`UtxBS7uGm8w`
-
---------- 11 ---------
-* 账号：`jamalortega73@gmail.com`
-* 密码：`NX48ex42`
-
---------- 12 ---------
-* 账号：`hancockclay151@gmail.com`
-* 密码：`DM67zd78`
-
---------- 13 ---------
-* 账号：`gdpdxgypenk@outlook.com`
-* 密码：`PE59qw19`
-
---------- 14 ---------
-* 账号：`wileydanielle822@gmail.com`
-* 密码：`CJ34vc82`
-
---------- 15 ---------
 * 账号：`rkpfar@hotmail.com`
 * 密码：`Dd1fdc62a`
 
---------- 16 ---------
-* 账号：`qsqmeewpqn@hotmail.com`
-* 密码：`Dd13c07dc`
+--------- 9 ---------
+* 账号：`rkpfar@hotmail.com`
+* 密码：`UtxBS7uGm8w`
 
---------- 17 ---------
+--------- 10 ---------
+* 账号：`jamalortega73@gmail.com`
+* 密码：`NS45az74`
+
+--------- 11 ---------
+* 账号：`hancockclay151@gmail.com`
+* 密码：`DM67zd78`
+
+--------- 12 ---------
+* 账号：`gdpdxgypenk@outlook.com`
+* 密码：`PE59qw19`
+
+--------- 13 ---------
+* 账号：`wileydanielle822@gmail.com`
+* 密码：`CJ34vc82`
+
+--------- 14 ---------
+* 账号：`rkpfar@hotmail.com`
+* 密码：`Dd1fdc62a`
+
+--------- 15 ---------
+* 账号：`qsqmeewpqn@hotmail.com`
+* 密码：`Dd1448d49`
+
+--------- 16 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1eaa961`
 <!-- apple ends -->
