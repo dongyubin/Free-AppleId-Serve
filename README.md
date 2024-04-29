@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-30 02:35:47**
+更新时间：**2024-04-30 03:09:18**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,22 +228,54 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
+* 账号：`angus_drums_4_life@hotmail.com`
+* 密码：`Dd1a6adfa`
+
+--------- 2 ---------
+* 账号：`avuyvuk8@outlook.com`
+* 密码：`PP66gg66`
+
+--------- 3 ---------
+* 账号：`fizzeloides7@outlook.com`
+* 密码：`RR88gg33`
+
+--------- 4 ---------
+* 账号：`xzjane763395@163.com`
+* 密码：`Kt225588`
+
+--------- 5 ---------
 * 账号：`anguswoodward1@hotmail.com`
 * 密码：`xPbYvWat1T`
 
---------- 2 ---------
+--------- 6 ---------
 * 账号：`gina2166@hotmail.com`
 * 密码：`T3uWRsvhpd`
 
---------- 3 ---------
-* 账号：`rkpfar@hotmail.com`
-* 密码：`Dd16bb02f`
+--------- 7 ---------
+* 账号：`avuyvuk8@outlook.com`
+* 密码：`PP66gg66`
 
---------- 4 ---------
-* 账号：`qsqmeewpqn@hotmail.com`
-* 密码：`Dd1e9ff6e`
+--------- 8 ---------
+* 账号：`fizzeloides7@outlook.com`
+* 密码：`RR88gg33`
 
---------- 5 ---------
+--------- 9 ---------
+* 账号：`xzjane763395@163.com`
+* 密码：`Kt225588`
+
+--------- 10 ---------
+* 账号：`xzjane763395@163.com`
+* 密码：`xPbYvWat1T`
+
+--------- 11 ---------
+* 账号：`xzjane763395@163.com`
+* 密码：`Kt225588`
+
+--------- 12 ---------
+* 账号：`angus_drums_4_life@hotmail.com`
+* 密码：`Dd1a6adfa`
+
+--------- 13 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd11200c8`
 <!-- apple ends -->
