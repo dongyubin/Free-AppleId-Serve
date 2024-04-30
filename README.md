@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-01 05:12:07**
+更新时间：**2024-05-01 05:35:27**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,27 +228,27 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`klinejewel7@gmail.com`
-* 密码：`Mb3BfB1qxP`
+* 账号：`anguswoodward1@hotmail.com`
+* 密码：`CdFKhVJ3h6`
 
 --------- 2 ---------
-* 账号：`uxcwf@zytf2019.com`
-* 密码：`g5Y5G7yFH7`
-
---------- 3 ---------
-* 账号：`anguswoodward1@hotmail.com`
-* 密码：`NqumZZ2K3N`
-
---------- 4 ---------
-* 账号：`sawyerethen8@gmail.com`
-* 密码：`W3RyVWWbYU`
-
---------- 5 ---------
 * 账号：`auxxo@zytf2019.com`
 * 密码：`5rs6ntKbSZ`
 
+--------- 3 ---------
+* 账号：`klinejewel7@gmail.com`
+* 密码：`Pj9hn4auqN`
+
+--------- 4 ---------
+* 账号：`uxcwf@zytf2019.com`
+* 密码：`g5Y5G7yFH7`
+
+--------- 5 ---------
+* 账号：`sawyerethen8@gmail.com`
+* 密码：`QfS4tAt8Gt`
+
 --------- 6 ---------
-* 账号：`auxxo@zytf2019.com`
+* 账号：`sawyerethen8@gmail.com`
 * 密码：`JbARjyHeC1`
 
 --------- 7 ---------
@@ -265,7 +265,7 @@ PS：最好月付，防止跑路！
 
 --------- 10 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd101b796`
+* 密码：`Dd10c4fdf`
 <!-- apple ends -->
 
 
