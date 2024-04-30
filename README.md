@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-30 15:11:41**
+更新时间：**2024-04-30 15:34:45**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,38 +228,34 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`uxcwf@zytf2019.com`
-* 密码：`awG1FCajhj`
+* 账号：`auxxo@zytf2019.com`
+* 密码：`f1tg7jekpE`
 
 --------- 2 ---------
-* 账号：`auxxo@zytf2019.com`
-* 密码：`q7sBB6S1tw`
+* 账号：`uxcwf@zytf2019.com`
+* 密码：`1pjVHXTYqU`
 
 --------- 3 ---------
-* 账号：`auxxo@zytf2019.com`
-* 密码：`q7sBB6S1tw`
-
---------- 4 ---------
 * 账号：`jamalortega73@gmail.com`
 * 密码：`MW48mp27`
 
---------- 5 ---------
+--------- 4 ---------
 * 账号：`hancockclay151@gmail.com`
 * 密码：`DM67zd78`
 
---------- 6 ---------
+--------- 5 ---------
 * 账号：`gdpdxgypenk@outlook.com`
 * 密码：`PE59qw19`
 
---------- 7 ---------
+--------- 6 ---------
 * 账号：`xzjane763395@163.com`
 * 密码：`Dd1565e4e`
 
---------- 8 ---------
+--------- 7 ---------
 * 账号：`angus_drums_4_life@hotmail.com`
 * 密码：`Dd12e2cef`
 
---------- 9 ---------
+--------- 8 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd1409a9f`
 <!-- apple ends -->
