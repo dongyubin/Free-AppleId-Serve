@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-04 00:37:01**
+更新时间：**2024-05-04 01:10:31**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,19 +229,19 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 账号：`tirisogajevm@hotmail.com`
-* 密码：`AV18ab44`
+* 密码：`RU42cp25`
 
 --------- 2 ---------
 * 账号：`kavprpqw@outlook.com`
-* 密码：`CS73yb39`
+* 密码：`JY61fr79`
 
 --------- 3 ---------
 * 账号：`jamilhwypk@outlook.com`
-* 密码：`Dd1532174`
+* 密码：`DdBMW858d`
 
 --------- 4 ---------
 * 账号：`ybbevksevkj@outlook.com`
-* 密码：`Dd199ed7f`
+* 密码：`Dd1ee95ca`
 
 --------- 5 ---------
 * 账号：`xzjane763395@163.com`
