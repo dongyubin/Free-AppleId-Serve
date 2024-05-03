@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-03 16:35:01**
+更新时间：**2024-05-03 17:12:44**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,132 +228,76 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`tirisogajevm@hotmail.com`
-* 密码：`MD45mg24`
+* 账号：`zgnuv187@sina.com`
+* 密码：`HF34wa55`
 
 --------- 2 ---------
 * 账号：`kavprpqw@outlook.com`
-* 密码：`WD51sc97`
+* 密码：`NW96pc43`
 
 --------- 3 ---------
-* 账号：`zgnuv187@sina.com`
-* 密码：`PY74qb24`
+* 账号：`projAjakzmsosmdc@gmail.com`
+* 密码：`Dd10c8d9e`
 
 --------- 4 ---------
-* 账号：`tirisogajevm@hotmail.com`
-* 密码：`MD45mg24`
+* 账号：`angus_drums_4_life@hotmail.com`
+* 密码：`Dd12e2cef`
 
 --------- 5 ---------
-* 账号：`kavprpqw@outlook.com`
-* 密码：`NV52db82`
-
---------- 6 ---------
 * 账号：`xzjane763395@163.com`
 * 密码：`Dd1565e4e`
 
+--------- 6 ---------
+* 账号：`projAjakzmsosmdc@gmail.com`
+* 密码：`Dd158e664`
+
 --------- 7 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
+* 账号：`projAjakzmsosmdc@gmail.com`
+* 密码：`Dd19ecb71`
 
 --------- 8 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`DdBMWa113`
+* 密码：`Dd1b3649c`
 
 --------- 9 ---------
-* 账号：`xzjane763395@163.com`
-* 密码：`Dd1565e4e`
+* 账号：`projAjakzmsosmdc@gmail.com`
+* 密码：`Dd1b97fbe`
 
 --------- 10 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
+* 账号：`projAjakzmsosmdc@gmail.com`
+* 密码：`Dd1dd3369`
 
 --------- 11 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`DdBMWa113`
 
 --------- 12 ---------
-* 账号：`xzjane763395@163.com`
-* 密码：`Dd1565e4e`
+* 账号：`tirisogajevm@hotmail.com`
+* 密码：`MD45mg24`
 
 --------- 13 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
+* 账号：`kavprpqw@outlook.com`
+* 密码：`NV52db82`
 
 --------- 14 ---------
-* 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd1b3649c`
+* 账号：`zgnuv187@sina.com`
+* 密码：`PY74qb24`
 
 --------- 15 ---------
-* 账号：`xzjane763395@163.com`
-* 密码：`Dd1565e4e`
+* 账号：`kavprpqw@outlook.com`
+* 密码：`WD51sc97`
 
 --------- 16 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
+* 账号：`xzjane763395@163.com`
+* 密码：`Dd1565e4e`
 
 --------- 17 ---------
-* 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd19ecb71`
+* 账号：`angus_drums_4_life@hotmail.com`
+* 密码：`Dd12e2cef`
 
 --------- 18 ---------
-* 账号：`xzjane763395@163.com`
-* 密码：`Dd1565e4e`
-
---------- 19 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
-
---------- 20 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd1dd3369`
-
---------- 21 ---------
-* 账号：`xzjane763395@163.com`
-* 密码：`Dd1565e4e`
-
---------- 22 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
-
---------- 23 ---------
-* 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd10c8d9e`
-
---------- 24 ---------
-* 账号：`xzjane763395@163.com`
-* 密码：`Dd1565e4e`
-
---------- 25 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
-
---------- 26 ---------
-* 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd158e664`
-
---------- 27 ---------
-* 账号：`xzjane763395@163.com`
-* 密码：`Dd1565e4e`
-
---------- 28 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
-
---------- 29 ---------
-* 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd1b97fbe`
-
---------- 30 ---------
-* 账号：`xzjane763395@163.com`
-* 密码：`Dd1565e4e`
-
---------- 31 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
-
---------- 32 ---------
-* 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd1b97fbe`
+* 密码：`Dd15b11a2`
 <!-- apple ends -->
 
 
