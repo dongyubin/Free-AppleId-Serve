@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-03 15:11:17**
+更新时间：**2024-05-03 15:34:27**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,16 +228,16 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`xzjane763395@163.com`
-* 密码：`Dd1565e4e`
+* 账号：`zgnuv187@sina.com`
+* 密码：`PY74qb24`
 
 --------- 2 ---------
-* 账号：`angus_drums_4_life@hotmail.com`
-* 密码：`Dd12e2cef`
+* 账号：`tirisogajevm@hotmail.com`
+* 密码：`MD45mg24`
 
 --------- 3 ---------
-* 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`DdBMWa113`
+* 账号：`kavprpqw@outlook.com`
+* 密码：`NV52db82`
 
 --------- 4 ---------
 * 账号：`xzjane763395@163.com`
@@ -261,7 +261,7 @@ PS：最好月付，防止跑路！
 
 --------- 9 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd1b3649c`
+* 密码：`DdBMWa113`
 
 --------- 10 ---------
 * 账号：`xzjane763395@163.com`
@@ -273,7 +273,7 @@ PS：最好月付，防止跑路！
 
 --------- 12 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd19ecb71`
+* 密码：`Dd1b3649c`
 
 --------- 13 ---------
 * 账号：`xzjane763395@163.com`
@@ -285,7 +285,7 @@ PS：最好月付，防止跑路！
 
 --------- 15 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
-* 密码：`Dd1dd3369`
+* 密码：`Dd19ecb71`
 
 --------- 16 ---------
 * 账号：`xzjane763395@163.com`
@@ -297,7 +297,31 @@ PS：最好月付，防止跑路！
 
 --------- 18 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
+* 密码：`Dd1dd3369`
+
+--------- 19 ---------
+* 账号：`xzjane763395@163.com`
+* 密码：`Dd1565e4e`
+
+--------- 20 ---------
+* 账号：`angus_drums_4_life@hotmail.com`
+* 密码：`Dd12e2cef`
+
+--------- 21 ---------
+* 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd10c8d9e`
+
+--------- 22 ---------
+* 账号：`xzjane763395@163.com`
+* 密码：`Dd1565e4e`
+
+--------- 23 ---------
+* 账号：`angus_drums_4_life@hotmail.com`
+* 密码：`Dd12e2cef`
+
+--------- 24 ---------
+* 账号：`projAjakzmsosmdc@gmail.com`
+* 密码：`Dd158e664`
 <!-- apple ends -->
 
 
