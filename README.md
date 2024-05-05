@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-05 22:10:33**
+更新时间：**2024-05-05 22:35:08**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,7 +229,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`grodskilucienne3055rxe@gmail.com`
-* 密码：`YIw91p05`
+* 密码：`TAv66a83`
 
 --------- 2 ---------
 * 美国账号：`quenotbeijoa@hotmail.com`
@@ -237,41 +237,37 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`seysmeet87826@21cn.com`
-* 密码：`Dd11fee7e`
+* 密码：`Dd1ac45b7`
 
 --------- 4 ---------
 * 账号：`chelle.ley@mail.com`
-* 密码：`Dd15a97ed`
+* 密码：`Dd11c7c92`
 
 --------- 5 ---------
 * 账号：`seysmeet87826@21cn.com`
-* 密码：`Dd11932ec`
+* 密码：`Dd1ac45b7`
 
 --------- 6 ---------
 * 账号：`chelle.ley@mail.com`
-* 密码：`Dd15a97ed`
+* 密码：`Dd11c7c92`
 
 --------- 7 ---------
-* 账号：`chelle.ley@mail.com`
-* 密码：`Dd1ed7c24`
-
---------- 8 ---------
 * 账号：`jamilhwypk@outlook.com`
 * 密码：`Dd168e8bc`
 
---------- 9 ---------
+--------- 8 ---------
 * 账号：`ybbevksevkj@outlook.com`
 * 密码：`Dd1ed7c24`
 
---------- 10 ---------
+--------- 9 ---------
 * 账号：`bourhime@hotmail.com`
 * 密码：`Dd166d703`
 
---------- 11 ---------
+--------- 10 ---------
 * 账号：`ng6wqyq@outlook.com`
 * 密码：`Dd18c294e`
 
---------- 12 ---------
+--------- 11 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd15b11a2`
 <!-- apple ends -->
