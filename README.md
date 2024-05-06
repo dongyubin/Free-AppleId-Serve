@@ -12,7 +12,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ## 🔥推荐服务器
 
-- [RackNerd新年促销，便宜VPS低至$11/年～](https://www.wangdu.site/fuliyouhui/1991.html)：可自行百度搭建Ti子
+- [RackNerd最新优惠活动整理（2024年5月）](https://www.wangdu.site/fuliyouhui/1266.html)：可自行[Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 
 ## ChatGPT
 >ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
@@ -165,7 +165,7 @@ PS：**下面仓库中付费的内容，请谨慎购买，只推荐使用免费*
 
 - [长风分享](https://www.cfmem.com/search/label/free)：每天更新 Clash、v2ray 节点信息
 
-## 付费机场（五一活动）
+## 付费机场
 
 PS：最好月付，防止跑路！
 
