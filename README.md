@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-06 09:54:07**
+更新时间：**2024-05-06 10:26:09**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -229,7 +229,7 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 美国账号：`grodskilucienne3055rxe@gmail.com`
-* 密码：`NYe54y06`
+* 密码：`DNg96t60`
 
 --------- 2 ---------
 * 美国账号：`quenotbeijoa@hotmail.com`
@@ -237,7 +237,7 @@ PS：最好月付，防止跑路！
 
 --------- 3 ---------
 * 账号：`ng6wqyq@outlook.com`
-* 密码：`Dd1e3fa94`
+* 密码：`Dd16864c9`
 
 --------- 4 ---------
 * 账号：`seysmeet87826@21cn.com`
@@ -245,19 +245,19 @@ PS：最好月付，防止跑路！
 
 --------- 5 ---------
 * 账号：`chelle.ley@mail.com`
-* 密码：`Dd13281ae`
+* 密码：`Dd1d24c47`
 
 --------- 6 ---------
 * 账号：`akmgfey@hotmail.com`
-* 密码：`Dd185671d`
+* 密码：`Dd1f37804`
 
 --------- 7 ---------
 * 账号：`ng6wqyq@outlook.com`
-* 密码：`Dd1bb43f9`
+* 密码：`Dd16864c9`
 
 --------- 8 ---------
 * 账号：`seysmeet87826@21cn.com`
-* 密码：`Dd16cf2a1`
+* 密码：`Dd11e9369`
 
 --------- 9 ---------
 * 账号：`chelle.ley@mail.com`
@@ -265,7 +265,7 @@ PS：最好月付，防止跑路！
 
 --------- 10 ---------
 * 账号：`akmgfey@hotmail.com`
-* 密码：`Dd191d016`
+* 密码：`Dd185671d`
 
 --------- 11 ---------
 * 账号：`akmgfey@hotmail.com`
@@ -273,19 +273,19 @@ PS：最好月付，防止跑路！
 
 --------- 12 ---------
 * 账号：`jamilhwypk@outlook.com`
-* 密码：`Dd1ac4d9c`
+* 密码：`Dd10603fe`
 
 --------- 13 ---------
 * 账号：`eiwxymaftzzmmm@hotmail.com`
-* 密码：`Dd16ab88c`
+* 密码：`Dd13a24e9`
 
 --------- 14 ---------
 * 账号：`akmgfey@hotmail.com`
-* 密码：`Dd185671d`
+* 密码：`Dd1f37804`
 
 --------- 15 ---------
 * 账号：`ng6wqyq@outlook.com`
-* 密码：`Dd1e3fa94`
+* 密码：`Dd16864c9`
 
 --------- 16 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
