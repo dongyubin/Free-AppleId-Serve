@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-06 13:34:52**
+更新时间：**2024-05-06 14:16:04**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,66 +228,62 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 美国账号：`grodskilucienne3055rxe@gmail.com`
-* 密码：`YFg26g84`
+* 美国账号：`quenotbeijoa@hotmail.com`
+* 密码：`OPo02k78`
 
 --------- 2 ---------
-* 美国账号：`quenotbeijoa@hotmail.com`
-* 密码：`VFh08o10`
+* 账号：`ng6wqyq@outlook.com`
+* 密码：`Dd194d53e`
 
 --------- 3 ---------
-* 账号：`ng6wqyq@outlook.com`
-* 密码：`Dd1a48ec8`
+* 账号：`seysmeet87826@21cn.com`
+* 密码：`Dd192ff44`
 
 --------- 4 ---------
-* 账号：`seysmeet87826@21cn.com`
-* 密码：`Dd1f5bf5d`
+* 账号：`chelle.ley@mail.com`
+* 密码：`Dd11db2d2`
 
 --------- 5 ---------
-* 账号：`chelle.ley@mail.com`
-* 密码：`Dd13b79cd`
-
---------- 6 ---------
 * 账号：`akmgfey@hotmail.com`
 * 密码：`Dd10d396b`
 
---------- 7 ---------
+--------- 6 ---------
 * 账号：`ng6wqyq@outlook.com`
-* 密码：`Dd1a48ec8`
+* 密码：`Dd15f806d`
+
+--------- 7 ---------
+* 账号：`seysmeet87826@21cn.com`
+* 密码：`Dd192ff44`
 
 --------- 8 ---------
-* 账号：`seysmeet87826@21cn.com`
-* 密码：`Dd1f5bf5d`
-
---------- 9 ---------
 * 账号：`chelle.ley@mail.com`
 * 密码：`Dd13b79cd`
+
+--------- 9 ---------
+* 账号：`akmgfey@hotmail.com`
+* 密码：`Dd10d396b`
 
 --------- 10 ---------
 * 账号：`akmgfey@hotmail.com`
-* 密码：`Dd10d396b`
-
---------- 11 ---------
-* 账号：`akmgfey@hotmail.com`
 * 密码：`Dd10077d2`
 
---------- 12 ---------
+--------- 11 ---------
 * 账号：`jamilhwypk@outlook.com`
-* 密码：`Dd1d898bf`
+* 密码：`Dd1c7cc0b`
 
---------- 13 ---------
+--------- 12 ---------
 * 账号：`eiwxymaftzzmmm@hotmail.com`
 * 密码：`Dd10077d2`
 
---------- 14 ---------
+--------- 13 ---------
 * 账号：`akmgfey@hotmail.com`
-* 密码：`Dd10d396b`
+* 密码：`Dd1573185`
+
+--------- 14 ---------
+* 账号：`ng6wqyq@outlook.com`
+* 密码：`Dd194d53e`
 
 --------- 15 ---------
-* 账号：`ng6wqyq@outlook.com`
-* 密码：`Dd1a48ec8`
-
---------- 16 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd15b11a2`
 <!-- apple ends -->
