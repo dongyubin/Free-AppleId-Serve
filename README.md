@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-07 13:34:55**
+更新时间：**2024-05-07 14:15:49**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -233,15 +233,15 @@ PS：最好月付，防止跑路！
 
 --------- 2 ---------
 * 账号：`ng6wqyq@outlook.com`
-* 密码：`Dd1f3ce4a`
+* 密码：`Dd18a3e88`
 
 --------- 3 ---------
 * 账号：`chelle.ley@mail.com`
-* 密码：`Dd1b83086`
+* 密码：`Dd10ef8e5`
 
 --------- 4 ---------
 * 账号：`ng6wqyq@outlook.com`
-* 密码：`Dd172e0ea`
+* 密码：`Dd18a3e88`
 
 --------- 5 ---------
 * 账号：`chelle.ley@mail.com`
@@ -253,7 +253,7 @@ PS：最好月付，防止跑路！
 
 --------- 7 ---------
 * 账号：`jamilhwypk@outlook.com`
-* 密码：`Dd1d98b13`
+* 密码：`Dd1e5f89f`
 
 --------- 8 ---------
 * 账号：`eiwxymaftzzmmm@hotmail.com`
@@ -265,7 +265,7 @@ PS：最好月付，防止跑路！
 
 --------- 10 ---------
 * 账号：`ng6wqyq@outlook.com`
-* 密码：`Dd1f3ce4a`
+* 密码：`Dd16487b0`
 
 --------- 11 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
