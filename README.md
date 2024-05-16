@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-16 07:35:25**
+更新时间：**2024-05-16 08:53:35**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,50 +228,22 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 美国账号：`chagnondolph1706mkr@gmail.com`
-* 密码：`RCl06l81`
+* 中国大陆账号：`poczakamopj@outlook.com`
+* 密码：`FKf47g18`
 
 --------- 2 ---------
-* 美国账号：`poczakamopj@outlook.com`
-* 密码：`EDl08a65`
+* 账号：`chelle.ley@mail.com`
+* 密码：`Dd131929c`
 
 --------- 3 ---------
-* 账号：`seysmeet87826@21cn.com`
-* 密码：`Dd156c35d`
-
---------- 4 ---------
-* 账号：`chelle.ley@mail.com`
-* 密码：`Dd131929c`
-
---------- 5 ---------
-* 账号：`seysmeet87826@21cn.com`
-* 密码：`Dd156c35d`
-
---------- 6 ---------
-* 账号：`chelle.ley@mail.com`
-* 密码：`Dd131929c`
-
---------- 7 ---------
-* 账号：`chelle.ley@mail.com`
-* 密码：`Dd1a39583`
-
---------- 8 ---------
-* 账号：`dapeyqxswnal@outlook.com`
-* 密码：`Dd1eeaacf`
-
---------- 9 ---------
-* 账号：`hrjhurfssb@hotmail.com`
-* 密码：`Dd1a39583`
-
---------- 10 ---------
 * 账号：`akmgfey@hotmail.com`
 * 密码：`Dd103e205`
 
---------- 11 ---------
+--------- 4 ---------
 * 账号：`ng6wqyq@outlook.com`
 * 密码：`Dd1a0f0ad`
 
---------- 12 ---------
+--------- 5 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd15b11a2`
 <!-- apple ends -->
