@@ -217,7 +217,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-20 22:35:21**
+更新时间：**2024-05-20 23:12:53**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -228,34 +228,14 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 账号：`coluccitessahkhmwoy@gmail.com`
-* 密码：`jHDy9RKArk`
-
---------- 2 ---------
-* 账号：`euydl12bmbuwsg@xysd.org`
-* 密码：`JA2krHReYtz`
-
---------- 3 ---------
-* 账号：`5sjtfu5ln9dp@xysd.org`
-* 密码：`gkR7ZPuyPVr`
-
---------- 4 ---------
-* 账号：`sinhphisym@gmail.com`
-* 密码：`j427I82d6D`
-
---------- 5 ---------
-* 账号：`uyrjjfec@outlook.com`
-* 密码：`Xx012210`
-
---------- 6 ---------
 * 账号：`akmgfey@hotmail.com`
 * 密码：`Dd103e205`
 
---------- 7 ---------
+--------- 2 ---------
 * 账号：`ng6wqyq@outlook.com`
 * 密码：`Dd1a0f0ad`
 
---------- 8 ---------
+--------- 3 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd15b11a2`
 <!-- apple ends -->
