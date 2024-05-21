@@ -1,5 +1,11 @@
 🌍 *[English](README-EN.md) ∙ [简体中文](README.md)*
 
+## 目录导航
+
+[TOC]
+
+## 前言声明
+
 ![科学上网](https://ae01.alicdn.com/kf/Udbfe7cc277c149b4b54771c110000acc6.png)
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
@@ -10,7 +16,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 - [Skinny 手机卡](https://fk.wwkejishe.top/buy/13)：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（价格优惠，先到先得）
 
-## 🔥推荐服务器
+## 🔥推荐Ti子服务器
 
 - [RackNerd最新优惠活动整理（2024年5月）](https://www.wangdu.site/fuliyouhui/1266.html)：可自行[Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 
@@ -50,7 +56,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ![订阅](./images/20231122.png)
 
-## APP推荐👍
+## Android手机APP推荐👍
 
 ### Panda（APP）
 
@@ -75,7 +81,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 免费的线路不少，可以智能连接，看一段广告就可以使用VIP加速了。
 
 
-## APP下载地址
+## Android手机APP下载地址
 
 ### APP下载
 
@@ -83,7 +89,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 回复关键词：`网上学科`
 
-## 其他客户端
+## Windows、MacOS、Android、iOS客户端
 
 
 |                          客户端名称                          |    支持系统     | 最后更新时间 |
