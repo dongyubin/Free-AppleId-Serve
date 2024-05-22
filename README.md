@@ -17,6 +17,10 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 - [Skinny 手机卡](https://fk.wwkejishe.top/buy/13)：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（价格优惠，先到先得）
 
+## 友情赞助
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="dongyubin" data-color="#FFDD00" data-emoji="☕" data-font="Bree" data-text="友情赞助" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 ## 🔥推荐Ti子服务器
 
 - [RackNerd最新优惠活动整理（2024年5月）](https://www.wangdu.site/fuliyouhui/1266.html)：可自行[Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
@@ -224,7 +228,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-22 08:54:00**
+更新时间：**2024-05-21 17:35:17**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -236,17 +240,21 @@ PS：最好月付，防止跑路！
 
 --------- 1 ---------
 * 越南账号：`poczakamopj@outlook.com`
-* 密码：`SZs32u23`
+* 密码：`LBg52o22`
 
 --------- 2 ---------
+* 账号：`chelle.ley@mail.com`
+* 密码：`Dd131929c`
+
+--------- 3 ---------
 * 账号：`akmgfey@hotmail.com`
 * 密码：`Dd103e205`
 
---------- 3 ---------
+--------- 4 ---------
 * 账号：`ng6wqyq@outlook.com`
 * 密码：`Dd1a0f0ad`
 
---------- 4 ---------
+--------- 5 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd15b11a2`
 <!-- apple ends -->
