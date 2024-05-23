@@ -53,9 +53,27 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 2.  （**图片二维码**的订阅地址）右击**小飞机**，打开**服务器-扫描屏幕上的二维码**，服务器信息自动导入。
 3.  （**长链接**的订阅地址）右击**小飞机**，打开**服务器-从剪切板导入URL**，服务器信息自动导入。
 
+### Shadowsocks 节点获取
+
+机场请看下面的免费机场、付费机场（机场里就是节点）
+
 ## 小火箭+机场教程（稳定）👍
 
+机场请看下面的免费机场、付费机场（机场里就是节点）
+
 ![使用教程](./images/20230504.png)
+
+### 免费机场如何转为小火箭（shadowrocket）节点
+
+出于安全考虑，能自己的搭建最好自己搭建。
+
+1. Docker部署镜像：[subconverter](https://github.com/tindy2013/subconverter/releases)（服务端）、[sub-web](https://github.com/CareyWang/sub-web)（网页端）
+
+2. 在线订阅转换链接
+
+   - [https://sub-web.netlify.app/](https://sub-web.netlify.app/)（sub-web作者搭建的）
+
+   ![本地转换shadowrocket节点](./images/Localhost-Subcription-Converter.jpg)
 
 ### 小火箭添加订阅链接
 
@@ -150,11 +168,8 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ### SS/SSR 免费节点订阅地址
 
-*   [https://jiang.netlify.com/](https://jiang.netlify.com/)
-*   [https://muma16fx.netlify.com/](https://muma16fx.netlify.com/)
 *   [https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub](https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub)
 *   [https://www.liesauer.net/yogurt/subscribe](https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb)
-*   [https://qiaomenzhuanfx.netlify.com/](https://qiaomenzhuanfx.netlify.com/)
 *   [免费ssr节点分享](https://freefq.com/free-ssr/)：所有账号、节点或服务器均源自国际互联网
 
 ### 免费节点GitHub库
