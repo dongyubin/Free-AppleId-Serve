@@ -243,7 +243,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-23 21:13:11**
+更新时间：**2024-05-23 21:34:44**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -254,8 +254,8 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 中国大陆账号：`poczakamopj@outlook.com`
-* 密码：`FGz25v87`
+* 越南账号：`poczakamopj@outlook.com`
+* 密码：`DSq94d82`
 
 --------- 2 ---------
 * 账号：`akmgfey@hotmail.com`
