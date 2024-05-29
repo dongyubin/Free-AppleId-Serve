@@ -232,7 +232,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-05-30 00:15:40**
+更新时间：**2024-05-30 00:38:28**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -243,12 +243,12 @@ PS：最好月付，防止跑路！
 <!-- apple starts -->
 
 --------- 1 ---------
-* 中国大陆账号：`uc5154082789@163.com`
+* 香港账号：`uc5154082789@163.com`
 * 密码：`INq27d67`
 
 --------- 2 ---------
-* 账号：`rygvmppmhpr@hotmail.com`
-* 密码：`Qwe112233`
+* 账号：`ucwupatj@hotmail.com`
+* 密码：`Q9RrJTYNXq`
 
 --------- 3 ---------
 * 账号：`akmgfey@hotmail.com`
