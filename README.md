@@ -232,7 +232,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-06-04 19:11:18**
+更新时间：**2024-06-04 19:35:08**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -247,18 +247,86 @@ PS：最好月付，防止跑路！
 * 密码：`zjwAwH86`
 
 --------- 2 ---------
-* 账号：`rvbz5je9@gmx.com`
-* 密码：`C7FzGkmGQU`
+* 账号：`kcezbad761358@icloud.com`
+* 密码：`idbao.vip_ZtGjE1RFgK`
 
 --------- 3 ---------
+* 账号：`graysonpatric@hotmail.com`
+* 密码：`idbao.vip_vPfx1gQ8wK`
+
+--------- 4 ---------
+* 账号：`wcacdxk254412@icloud.com`
+* 密码：`idbao.vip_Ph8bBpUnDP`
+
+--------- 5 ---------
+* 账号：`petuntse.tulake4p@icloud.com`
+* 密码：`idbao.vip_hhX3wsx1Ea`
+
+--------- 6 ---------
+* 账号：`wigglesworth5wigg@icloud.com`
+* 密码：`idbao.vip_bqThATTTx2`
+
+--------- 7 ---------
+* 账号：`leoeh61moreno@hotmail.com`
+* 密码：`idbao.vip_kpaX6UXPwh`
+
+--------- 8 ---------
+* 账号：`lucai8nbnic@outlook.com`
+* 密码：`idbao.vip_FU7HAKfkjB`
+
+--------- 9 ---------
+* 账号：`meadowsdarryl80@gmail.com`
+* 密码：`idbao.vip_hVDANh2ueA`
+
+--------- 10 ---------
+* 账号：`tunhuang268wen@163.com`
+* 密码：`idbao.vip_7E3UuZH5uz`
+
+--------- 11 ---------
+* 账号：`ansonellietter0mct@gmail.com`
+* 密码：`idbao.vip_F44hYhh7ts`
+
+--------- 12 ---------
+* 账号：`k2omb4@icloud.com`
+* 密码：`idbao.vip_wF1PTJQ5s3`
+
+--------- 13 ---------
+* 账号：`tayvy1199@gmail.com`
+* 密码：`idbao.vip_3GC8aAw1tu`
+
+--------- 14 ---------
+* 账号：`YECJN19870@MailTemp.top`
+* 密码：`idbao.vip_sJMrjVuxP1`
+
+--------- 15 ---------
+* 账号：`FTBF238093@MailTemp.top`
+* 密码：`idbao.vip_BhFJr3jNkG`
+
+--------- 16 ---------
+* 账号：`wengzhegupiaozhuozi75@outlook.com`
+* 密码：`idbao.vip_ykNjsF9jTy`
+
+--------- 17 ---------
+* 账号：`owenvqear@outlook.com`
+* 密码：`idbao.vip_jn3jEAPWq5`
+
+--------- 18 ---------
+* 账号：`AlvisVincentAlvisVincent@outlook.com`
+* 密码：`idbao.vip_qwHXW7Tg9R`
+
+--------- 19 ---------
+* 账号：`lucasgeorgeuy@hotmail.com`
+* 密码：`idbao.vip_hDwhAcs77k`
+
+--------- 20 ---------
 * 账号：`akmgfey@hotmail.com`
 * 密码：`Dd103e205`
 
---------- 4 ---------
+--------- 21 ---------
 * 账号：`ng6wqyq@outlook.com`
 * 密码：`Dd1a0f0ad`
 
---------- 5 ---------
+--------- 22 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd15b11a2`
 <!-- apple ends -->
