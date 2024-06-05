@@ -162,6 +162,8 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ## 免费机场（不保证都可用/多切换试试）
 
+可以使用 [在线订阅转换链接](#%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E5%A6%82%E4%BD%95%E8%BD%AC%E4%B8%BA%E5%B0%8F%E7%81%AB%E7%AE%ADshadowrocket%E8%8A%82%E7%82%B9) 转为符合自己客户端的链接
+
 ### 免费SS账号
 
 [https://free-ss.site](https://free-ss.site/)
