@@ -234,7 +234,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-06-07 04:13:58**
+更新时间：**2024-06-07 04:34:57**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -281,126 +281,130 @@ PS：最好月付，防止跑路！
 * 密码：`NAtB8j26cf`
 
 --------- 10 ---------
+* 账号：`brooklyngill455@gmail.com`
+* 密码：`6JGdYZafqJ`
+
+--------- 11 ---------
 * 账号：`tfpv1845@icloud.com`
 * 密码：`idbao.vip_mD5twFUmsF`
 
---------- 11 ---------
+--------- 12 ---------
 * 账号：`wmsvmd44@icloud.com`
 * 密码：`idbao.vip_gvQJDQ673k`
 
---------- 12 ---------
+--------- 13 ---------
 * 账号：`yudbcjpjw@icloud.com`
 * 密码：`idbao.vip_Dz9tc4Ab2Z`
 
---------- 13 ---------
+--------- 14 ---------
 * 账号：`ji58jq81@icloud.com`
 * 密码：`idbao.vip_Kkw9bG5dQE`
 
---------- 14 ---------
+--------- 15 ---------
 * 账号：`h6j1r9z4@icloud.com`
 * 密码：`idbao.vip_twrhfXe1kX`
 
---------- 15 ---------
+--------- 16 ---------
 * 账号：`hctk7q4k@icloud.com`
 * 密码：`idbao.vip_GSJ79h2Yca`
 
---------- 16 ---------
+--------- 17 ---------
 * 账号：`que814007373096@163.com`
 * 密码：`idbao.vip_GCACJJ9Evm`
 
---------- 17 ---------
+--------- 18 ---------
 * 账号：`chitiany252851@163.com`
 * 密码：`idbao.vip_Ng5MCfZYbn`
 
---------- 18 ---------
+--------- 19 ---------
 * 账号：`m16w24sy@icloud.com`
 * 密码：`idbao.vip_jQWKeze2ub`
 
---------- 19 ---------
+--------- 20 ---------
 * 账号：`ankiet1105@gmail.com`
 * 密码：`idbao.vip_yjBQ4FGrqT`
 
---------- 20 ---------
+--------- 21 ---------
 * 账号：`kcezbad761358@icloud.com`
 * 密码：`idbao.vip_4kwhURDda2`
 
---------- 21 ---------
+--------- 22 ---------
 * 账号：`graysonpatric@hotmail.com`
 * 密码：`idbao.vip_vPfx1gQ8wK`
 
---------- 22 ---------
+--------- 23 ---------
 * 账号：`wcacdxk254412@icloud.com`
 * 密码：`idbao.vip_qx5GKPgKVT`
 
---------- 23 ---------
+--------- 24 ---------
 * 账号：`petuntse.tulake4p@icloud.com`
 * 密码：`idbao.vip_xz7GW6UDkR`
 
---------- 24 ---------
+--------- 25 ---------
 * 账号：`wigglesworth5wigg@icloud.com`
 * 密码：`idbao.vip_bqThATTTx2`
 
---------- 25 ---------
+--------- 26 ---------
 * 账号：`leoeh61moreno@hotmail.com`
 * 密码：`idbao.vip_nVTM6ApN8u`
 
---------- 26 ---------
+--------- 27 ---------
 * 账号：`lucai8nbnic@outlook.com`
 * 密码：`idbao.vip_Mq9Ep6atmu`
 
---------- 27 ---------
+--------- 28 ---------
 * 账号：`meadowsdarryl80@gmail.com`
 * 密码：`idbao.vip_9w87hTKqWV`
 
---------- 28 ---------
+--------- 29 ---------
 * 账号：`tunhuang268wen@163.com`
 * 密码：`idbao.vip_9hMudV9yn9`
 
---------- 29 ---------
+--------- 30 ---------
 * 账号：`ansonellietter0mct@gmail.com`
 * 密码：`idbao.vip_X2DsJembPE`
 
---------- 30 ---------
+--------- 31 ---------
 * 账号：`k2omb4@icloud.com`
 * 密码：`idbao.vip_dmuHrgRQ9h`
 
---------- 31 ---------
+--------- 32 ---------
 * 账号：`tayvy1199@gmail.com`
 * 密码：`idbao.vip_dfWFHM8UDQ`
 
---------- 32 ---------
+--------- 33 ---------
 * 账号：`YECJN19870@MailTemp.top`
 * 密码：`idbao.vip_hXaMKWSct8`
 
---------- 33 ---------
+--------- 34 ---------
 * 账号：`FTBF238093@MailTemp.top`
 * 密码：`idbao.vip_W8MdVxSUGb`
 
---------- 34 ---------
+--------- 35 ---------
 * 账号：`wengzhegupiaozhuozi75@outlook.com`
 * 密码：`idbao.vip_ykNjsF9jTy`
 
---------- 35 ---------
+--------- 36 ---------
 * 账号：`owenvqear@outlook.com`
 * 密码：`idbao.vip_4Y7kfMtnAx`
 
---------- 36 ---------
+--------- 37 ---------
 * 账号：`AlvisVincentAlvisVincent@outlook.com`
 * 密码：`idbao.vip_gKYr8ZJHRd`
 
---------- 37 ---------
+--------- 38 ---------
 * 账号：`lucasgeorgeuy@hotmail.com`
 * 密码：`idbao.vip_tdys17Jvtj`
 
---------- 38 ---------
+--------- 39 ---------
 * 账号：`akmgfey@hotmail.com`
 * 密码：`Dd103e205`
 
---------- 39 ---------
+--------- 40 ---------
 * 账号：`ng6wqyq@outlook.com`
 * 密码：`Dd1a0f0ad`
 
---------- 40 ---------
+--------- 41 ---------
 * 账号：`projAjakzmsosmdc@gmail.com`
 * 密码：`Dd15b11a2`
 <!-- apple ends -->
