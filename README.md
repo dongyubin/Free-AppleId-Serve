@@ -251,6 +251,7 @@ PS：最好月付，防止跑路！
 此为第三方站长，只做分享，不保证质量安全，不解决使用中出现的问题
 
 - [id宝](https://idbao.vip/)：里面有美国、香港、国区、日本、台湾、韩国账号
+- [AneeoApple](https://ios.aneeo.com/books/verification)：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取
 
 
 ### 使用教程
