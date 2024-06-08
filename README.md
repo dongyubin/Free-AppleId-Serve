@@ -240,7 +240,8 @@ PS：最好月付，防止跑路！
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
 1. 成品账号：[小火箭 Shadowrocket 成品号 美国区](https://fk.wwkejishe.top/buy/6)（账号购买后可以自行修改密码，并永久使用）
-2. 共享账号容易失效，需要稳定的请自行购买成品账号
+2. 共享账号容易失效，需要稳定的请后面有库存的再购买成品账号
+3. 由于近期苹果加大风控，暂时下架成品账号库存，建议[租用已购此App账号](https://fk.wwkejishe.top/buy/7)下载（租用仅需¥3），租用与独享账号下载的App没有区别，下载的App只要不删除永久可用
 
 <!-- apple starts -->
 
@@ -250,7 +251,8 @@ PS：最好月付，防止跑路！
 
 此为第三方站长，只做分享，不保证质量安全，不解决使用中出现的问题
 
-- [id宝](https://idbao.vip/)：里面有美国、香港、国区、日本、台湾、韩国账号
+- [免费共享shadowrocket小火箭账号](https://ao.ke/)：由带shadowrocket、stash、Quantumult X、不带收费App的美区账号、台湾区、日本区、韩国区、香港区账号
+- [id宝](https://idbao.vip/)：里面有美国、香港、国区、日本、台湾、韩国账号，需要Q群获取暗号来获取
 - [AneeoApple](https://ios.aneeo.com/books/verification)：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取
 
 
