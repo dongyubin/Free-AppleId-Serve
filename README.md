@@ -155,6 +155,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 - [使用不限流量的cloudflare VPN并且自选IP](https://duangks.com/archives/124/)：需要富强
 - [WARP-Clash-API👍](https://github.com/vvbbnn00/WARP-Clash-API)：该项目可以让你通过订阅的方式使用 Cloudflare WARP+，自动获取流量（[在线服务](https://tofree.zeabur.app/)：支持Clash、Surge、Shadowrocket）
+- [使用Github Action搭建全自动永久免费获取机场节点/订阅](https://linux.do/t/topic/96234)
 
 ## 机场测速
 
@@ -162,7 +163,11 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ## 免费机场（不保证都可用/多切换试试）
 
-可以使用 [在线订阅转换链接](#%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E5%A6%82%E4%BD%95%E8%BD%AC%E4%B8%BA%E5%B0%8F%E7%81%AB%E7%AE%ADshadowrocket%E8%8A%82%E7%82%B9) 转为符合自己客户端的链接
+可以使用 [在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点) 转为符合自己客户端的链接
+
+### 博主自建Clash订阅链接
+
+Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a9094e1092d60d2fc0cdfa/raw/`（其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建）
 
 ### 免费SS账号
 
