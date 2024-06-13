@@ -103,6 +103,11 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 免费的线路不少，可以智能连接，看一段广告就可以使用VIP加速了。
 
+### 客户端+机场（稳定）
+
+1. 在 [客户端](#windowsmacosandroidios客户端)（也可在下面下载地址获取高速下载链接） 下载适配适配 Android手机的客户端（推荐：Clash、Surfboard、shadowsocks-android）
+2. 在下面机场选择对应的节点导入即可
+
 
 ## Android手机APP下载地址
 
@@ -120,27 +125,29 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 | [karing](https://github.com/KaringX/karing)：兼容 Clash、V2ray/V2fly、Sing-box、Shadowsocks、Sub、Github 订阅 | [Win](https://github.com/KaringX/karing/releases/latest)、[Mac](https://apps.apple.com/us/app/karing/id6472431552)、[Android](https://github.com/KaringX/karing/releases/latest)、[iOS](https://apps.apple.com/us/app/karing/id6472431552) | 2024 |
 | [sing-box](https://github.com/SagerNet/sing-box) | [MacOS、iOS](https://sing-box.sagernet.org/zh/clients/apple/)（需要美区账号：[Apple Store注册外国Apple ID教程](https://www.wangdu.site/course/705.html)）、[Android](https://sing-box.sagernet.org/zh/clients/android/) | 2024 |
 |  | Clash系列 |  |
+|[clash-verge新版👍🏻](https://github.com/clash-verge-rev/clash-verge-rev)（[新版下载地址](https://clash-verge-rev.github.io/install.html)）|Win、Mac、Linux|2024|
+| [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)| Mac | 2023 |
 |  [Clash](https://github.com/Fndroid/clash_for_windows_pkg)(已删库：20231103)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[备份版本：0.20.39](https://app.nloli.xyz/static/Clash.for.Windows.Setup.0.20.39.exe)、[备份](https://archive.org/details/clash_for_windows_pkg)  |       Win       |     2022     |
-|[clash-verge](https://github.com/zzzgydi/clash-verge)（clash暂时替代品【老版已停更】）、[新版](https://github.com/clash-verge-rev/clash-verge-rev)|Win、Mac、Linux|2023|
-|[ClashDotNetFramework](https://github.com/ClashDotNetFramework/experimental-clash)|Win、Linux|2021|
+|[clash-verge](https://github.com/zzzgydi/clash-verge)（clash暂时替代品【老版已停更】）、|Win、Mac、Linux|2023|
 |[clashN](https://github.com/2dust/clashN)|Win|2023|
 | [Fclash](https://github.com/Fclash/Fclash)（20231102只读，没有Release安装包） |  Windows、MacOS、Android   |     2023     |
-|       [clashX](https://github.com/yichengchen/clashX)        |       Mac       |     2022     |
-| [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)| Mac | 2023 |
+| [Clash Nyanpasu](https://github.com/keiko233/clash-nyanpasu) | Win、Mac、Linux | 2023 |
 | [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter) | Win、Mac、Linux | 2023 |
 | [Clashy](https://github.com/SpongeNobody/Clashy) | Win、Mac、Ubuntu | 2022 |
 | [ClashPro](https://github.com/ClashForIOS/ClashPro) | Win、Mac、iOS | 2023 |
-| [Clash Nyanpasu](https://github.com/keiko233/clash-nyanpasu) | Win、Mac、Linux | 2023 |
+|       [clashX](https://github.com/yichengchen/clashX)        |       Mac       |     2022     |
+|[ClashDotNetFramework](https://github.com/ClashDotNetFramework/experimental-clash)|Win、Linux|2021|
 | | V2Ray系列 |  |
 | [V2RayW](https://github.com/Cenmrev/V2RayW) | Win | 2019 |
 | [V2RayN](https://github.com/2dust/v2rayN) | Win | 2022 |
 |         [v2rayNG](https://github.com/2dust/v2rayNG)          |     Android     |     2022     |
 | [V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) | Mac、Win、Linux |     2022     |
 | [V2rayU](https://github.com/yanue/V2rayU) | Mac | 2021 |
-|  | SS系列 |  |
-| [SS](https://github.com/shadowsocks/shadowsocks-windows/releases) |       Win       |     2022     |
+|  | SS系列（shadowsocks） |  |
+| [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases) |       Win       |     2022     |
+| [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | Android | 2023 |
 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) |       Mac       |     2019     |
-| [SSR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) |       Win       |     2019     |
+| [shadowsocksr(SSR)](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) |       Win       |     2019     |
 |  | 其他 |  |
 | [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费，不在国区👍 |       iOS       |     2022     |
 | [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费，不在国区 |       iOS       |     2022     |
