@@ -23,7 +23,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ## 🔥推荐Ti子服务器
 
-- [RackNerd最新优惠活动整理（2024年5月）](https://www.wangdu.site/fuliyouhui/1266.html)：可自行[Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
+- [RackNerd高性价比VPS优惠码和最新促销活动整理（2024年6月）](https://www.wangdu.site/fuliyouhui/1266.html)：可自行[Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 
 ## ChatGPT
 >ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
@@ -117,6 +117,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 |                          客户端名称                          |    支持系统     | 最后更新时间 |
 | :----------------------------------------------------------: | :-------------: | :----------: |
+| [karing](https://github.com/KaringX/karing)：兼容 Clash、V2ray/V2fly、Sing-box、Shadowsocks、Sub、Github 订阅 | [Win](https://github.com/KaringX/karing/releases/latest)、[Mac](https://apps.apple.com/us/app/karing/id6472431552)、[Android](https://github.com/KaringX/karing/releases/latest)、[iOS](https://apps.apple.com/us/app/karing/id6472431552) | 2024 |
 | [sing-box](https://github.com/SagerNet/sing-box) | [MacOS、iOS](https://sing-box.sagernet.org/zh/clients/apple/)（需要美区账号：[Apple Store注册外国Apple ID教程](https://www.wangdu.site/course/705.html)）、[Android](https://sing-box.sagernet.org/zh/clients/android/) | 2024 |
 |  | Clash系列 |  |
 |  [Clash](https://github.com/Fndroid/clash_for_windows_pkg)(已删库：20231103)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[备份版本：0.20.39](https://app.nloli.xyz/static/Clash.for.Windows.Setup.0.20.39.exe)、[备份](https://archive.org/details/clash_for_windows_pkg)  |       Win       |     2022     |
@@ -168,6 +169,10 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 ### 博主自建Clash订阅链接
 
 Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a9094e1092d60d2fc0cdfa/raw/`（其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建）
+
+### 机场
+
+1. [XBoard](https://xboard.fovt.live/)：优惠码：`LinuxDO`（注册无需邮箱验证，切勿恶意注册）
 
 ### 免费SS账号
 
