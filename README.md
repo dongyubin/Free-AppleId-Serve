@@ -247,15 +247,18 @@ PS：最好月付，防止跑路！
 - 一次性：60G/5.8，150G/13.8，1000G/78，2000G/136
 - 周期：月付3，每月30G；月付10，每月220G，解锁流媒体；月付20，每月380G，解锁流媒体；月付28，每月480G，解锁流媒体
 
-### IKUUU
+### YepFast
 
-[IKUUU](https://ikuuu.pw/auth/register?code=BKCw)：免费流量50G，免费节点（日本）
+[YepFast](https://portal.yepfast2.cc/#/register?code=G8n2THKO) 有自家的Windows、MacOS、Android客户端，更加方便快捷，iOS用户还是得需要[下载小火箭](#shadowrocket账号)使用
 
-专业版：12元/月
+套餐：
 
-> 节点国家与地区：香港、新加坡、日本、美国、台湾、韩国、欧洲、欧洲、俄罗斯、印度、英国原生、阿根廷、土耳其、马来西亚、泰国、菲律宾
->
-> 付款方式：支付宝、微信
+- 10元/月（年付￥99）
+- 150G 流量/月
+- 20+ 椰汁畅享中继线路
+- 解锁 Netflix、Disney+、ChatGPT
+- 不限设备数量，不保证带宽速度
+- 每月购买日免费重置流量
 
 
 ## Shadowrocket账号
