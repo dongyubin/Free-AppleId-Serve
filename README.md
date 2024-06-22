@@ -230,15 +230,15 @@ PS：最好月付，防止跑路！
 - 每月购买日免费重置流量
 
 <details>
-<summary>YepFast测速图&解锁图</summary>
+  <summary>YepFast测速图&解锁图</summary>
 
-YepFast测速图
+  YepFast测速图
 
-![YepFast](images/yepfast.jpeg)
+  ![YepFast](images/yepfast.jpeg)
 
-YepFast解锁图
+  YepFast解锁图
 
-![YepFast](images/yepfast-jiesuo.jpeg)
+  ![YepFast](images/yepfast-jiesuo.jpeg)
 
 </details>
 
@@ -263,6 +263,16 @@ YepFast解锁图
 2. 年付8折（站内折上折，高达64折 ）优惠码：`2461880` 可重复使用3次
 
 活动时间：即日起至2024年6月29日23点59分
+
+<details>
+  <summary>FlyingBird测速图</summary>
+
+  FlyingBird测速图
+
+  ![FlyingBird测速图](images/FlyingBird.webp)
+</details>
+
+
 
 ### 懂得都懂（博主在用）
 
