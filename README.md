@@ -240,7 +240,7 @@ YepFast解锁图
 
 ![YepFast](images/yepfast-jiesuo.jpeg)
 
-<details>
+</details>
 
 ### FlyingBird（博主在用）
 
