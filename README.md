@@ -216,6 +216,32 @@ PS：**下面仓库中付费的内容，请谨慎购买，只推荐使用免费*
 
 PS：最好月付，防止跑路！
 
+### YepFast（博主在用👍🏻）
+
+[YepFast](https://portal.yepfast2.cc/#/register?code=G8n2THKO) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](#shadowrocket账号) 使用
+
+套餐：
+
+- 10元/月（年付￥99）
+- 150G 流量/月
+- 20+ 椰汁畅享中继线路
+- 解锁 Netflix、Disney+、ChatGPT
+- 不限设备数量，不保证带宽速度
+- 每月购买日免费重置流量
+
+<details>
+<summary>YepFast测速图&解锁图</summary>
+
+YepFast测速图
+
+![YepFast](images/yepfast.jpeg)
+
+YepFast解锁图
+
+![YepFast](images/yepfast-jiesuo.jpeg)
+
+<details>
+
 ### FlyingBird（博主在用）
 
 [FlyingBird](https://fbinv01.fbaff.cc/auth/register?code=jvQ5)
@@ -247,19 +273,6 @@ PS：最好月付，防止跑路！
 - 一次性：60G/5.8，150G/13.8，1000G/78，2000G/136
 - 周期：月付3，每月30G；月付10，每月220G，解锁流媒体；月付20，每月380G，解锁流媒体；月付28，每月480G，解锁流媒体
 
-### YepFast
-
-[YepFast](https://portal.yepfast2.cc/#/register?code=G8n2THKO) 有自家的Windows、MacOS、Android客户端，更加方便快捷，iOS用户还是得需要[下载小火箭](#shadowrocket账号)使用
-
-套餐：
-
-- 10元/月（年付￥99）
-- 150G 流量/月
-- 20+ 椰汁畅享中继线路
-- 解锁 Netflix、Disney+、ChatGPT
-- 不限设备数量，不保证带宽速度
-- 每月购买日免费重置流量
-
 ### 一元机场
 
 [一元机场](https://xn--4gq62f52gdss.ink/#/register?code=HUliZ7Oi)：适用追求价格便宜，对上外网需求不大，稳定性不高；求稳请看上面几款付费机场
@@ -277,7 +290,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024年6月19日 16:31:07**
+更新时间：**2024年6月22日 15:38:07**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
