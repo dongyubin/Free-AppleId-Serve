@@ -1,5 +1,7 @@
 🌍 *[English](README-EN.md) ∙ [简体中文](README.md)*
 
+[国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/wang-shang-xue-ke)
+
 ## 目录导航
 
 点击文章右上角的三条横杠查看
