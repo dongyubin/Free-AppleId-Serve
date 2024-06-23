@@ -184,6 +184,8 @@ Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a909
 ### 机场
 
 1. [XBoard](https://xboard.fovt.live/)：优惠码：`LinuxDO`（注册无需邮箱验证，切勿恶意注册）
+2. [宝可梦](https://love.52pokemon.cc/#/sign-up?code=DIkpn3HU)：普通套餐一个月兑换码：`52pokemon.cc`
+   - 节点：香港、日本、新加坡、越南、美国、英国、荷兰
 
 ### 免费SS账号
 
