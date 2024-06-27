@@ -192,23 +192,21 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 
 **链接或二维码方式配置节点**
 
-在你购买完成节点后会为该套餐节点自动生成二维码信息，如相关客户端支持扫描二维码导入配置信息，就可以采用这种方法来配置节点，在后台节点信息找到选项 `DNS Link + QR` 选项，这个是使用**域名作为服务器地址**使用，推荐使用，点击进去就能看到链接和二维码，如下图所示。
+在你购买完成节点后会为该套餐节点自动生成二维码信息，如相关客户端支持扫描二维码导入配置信息，就可以采用这种方法来配置节点，在后台节点信息找到选项 `DNS Link + QR` 选项，这个是使用 **域名作为服务器地址** 使用（推荐使用），点击进去就能看到链接和二维码，如下图所示。
 
 ![justmysocks节点二维码](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271021917.webp)
 
-### Just My Socks 节点链接
+1. Just My Socks 节点链接
 
-如上图所示，点击 Copy 就可以复制节点链接，然后在相关客户端软件导入链接即可。
+   如上图所示，点击 Copy 就可以复制节点链接，然后在相关客户端软件导入链接即可。
 
-其中以 `ss://` 开头的是 Shadowsocks 节点链接，以 `vmess://` 开头的是 V2Ray 节点链接。
+   其中以 `ss://` 开头的是 Shadowsocks 节点链接，以 `vmess://` 开头的是 V2Ray 节点链接。
 
-### Just My Socks 节点二维码
+2. Just My Socks 节点二维码
 
-只需要用支持二维码扫描的客户端设备扫描二维码即可自动配置节点。
+   只需要用支持二维码扫描的客户端设备扫描二维码即可自动配置节点。
 
-特别说明
-
-后台节点信息找到选项 `DNS Link + QR` 选项，是使用 **IP 作为服务器地址**，不推荐使用。
+特别说明：后台节点信息找到选项 `DNS Link + QR` 选项，是使用 **IP 作为服务器地址**，不推荐使用。
 
 ### 订阅方式配置节点
 
@@ -244,23 +242,23 @@ Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只
 
 ![justmysocks服务器信息](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271021622.webp)
 
-#### 配置 Shadowsocks 服务器
+1. 配置 Shadowsocks 服务器
 
-找到 `Server Type` 为 `Shadowsocks` 的服务器行，该行显示的信息即为 Shadowsocks 节点信息，其中 `Encryption` 为加密方式，在配置 Shadowsocks 客户端填写的时候需要选择，务必选择正确，密码即为上图的 `Shadowsocks Password`。
+   找到 `Server Type` 为 `Shadowsocks` 的服务器行，该行显示的信息即为 Shadowsocks 节点信息，其中 `Encryption` 为加密方式，在配置 Shadowsocks 客户端填写的时候需要选择，务必选择正确，密码即为上图的 `Shadowsocks Password`。
 
-配置 Shadowsocks 相对来说比较简单，只需要**服务器地址、加密方式、端口、密码**，这四样就可以科学上网。
+   配置 Shadowsocks 相对来说比较简单，只需要**服务器地址、加密方式、端口、密码**，这四样就可以科学上网。
 
-#### 配置 V2Ray 服务器
+2. 配置 V2Ray 服务器
 
-找到 `Server Type` 为 `V2Ray` 的服务器行，该行显示的信息为 V2Ray 节点信息，其中 `Protocol` 为传输协议，在配置 V2Ray 客户端的时候也务必选择正确。
+   找到 `Server Type` 为 `V2Ray` 的服务器行，该行显示的信息为 V2Ray 节点信息，其中 `Protocol` 为传输协议，在配置 V2Ray 客户端的时候也务必选择正确。
 
-配置 V2Ray 需要的其他信息，看上图中 V2Ray 开头的相关信息，用户 ID 就是 `V2Ray uuid`，额外ID（Alterid）即为 `V2Ray Alt Id`，这里是`0`，加密方式为 `auto`，传输协议为 `TCP`，伪装类型（type）即为 V2Ray Camouflage，这里为 `none`。
+   配置 V2Ray 需要的其他信息，看上图中 V2Ray 开头的相关信息，用户 ID 就是 `V2Ray uuid`，额外ID（Alterid）即为 `V2Ray Alt Id`，这里是`0`，加密方式为 `auto`，传输协议为 `TCP`，伪装类型（type）即为 V2Ray Camouflage，这里为 `none`。
 
-#### 手动配置节点说明
+3. 手动配置节点说明
 
-不管是 Shadowsocks 还是 V2Ray，他们的端口都是一样的。
+   不管是 Shadowsocks 还是 V2Ray，他们的端口都是一样的。
 
-各服务器之间的配置都是一样的，只是服务器地址不同，另外服务器地址推荐使用域名，而不是 IP 地址，如本文开头所说的，Just My Socks 能做到 IP 被墙后会**自动切换 IP**，所以使用域名来配置节点可以省去来回配置的时间。
+   各服务器之间的配置都是一样的，只是服务器地址不同，另外服务器地址推荐使用域名，而不是 IP 地址，如本文开头所说的，Just My Socks 能做到 IP 被墙后会**自动切换 IP**，所以使用域名来配置节点可以省去来回配置的时间。
 
 </details>
 

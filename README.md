@@ -27,6 +27,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ## 🔥推荐Ti子服务器
 
+- [Just My Socks 免搭建富强服务👍](JustMySocks.md)
 - [RackNerd高性价比VPS优惠码和最新促销活动整理（2024年6月）](https://www.wangdu.site/fuliyouhui/1266.html)：可自行[Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 - [2024年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)
 
