@@ -209,6 +209,7 @@ PS：**下面仓库中付费的内容，请谨慎购买，只推荐使用免费*
 
 - 小火箭 / V2RAY 订阅地址：`https://www.xrayvip.com/free.txt`
 - Clash 订阅地址：`https://www.xrayvip.com/free.yaml`
+- Clash 订阅地址：`https://github.com/aiboboxx/clashfree/blob/main/clash.yml`（来自：[clashfree](https://github.com/aiboboxx/clashfree)）
 - [getNode](https://github.com/Flik6/getNode)：每小时更新最新的 Clash、v2ray 节点信息
 - [v2cross](https://v2cross.com/archives/1884)：SS 节点（富强获取）
 - [Free-servers](https://github.com/Pawdroid/Free-servers): 6小时更新一次，免费ss/v2ray/trojan节点
