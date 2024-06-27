@@ -10,13 +10,11 @@ Just My Socks最大的优势是：`保证IP不被墙，如果IP被墙，会自�
 
 ## Just My Socks介绍
 
-**Just My Socks靠谱吗？**不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近2年了（2018年10月推出的）。
-
-**Just My Socks怎么样？**线路优质，包括最快的搬瓦工CN2 GIA线路。
-
-**哪些人适合用Just My Socks？**不想自己搭建ss/ssr或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。**Just My Socks缺点**：无法看Netflix。
-
-**支持的协议：TCP或UDP？** Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使用YouTube等大多数流媒体服务。从Just My Socks 500开始的所有套餐均支持TCP和UDP协议（请参阅下面的注释）。语音协议（如WhatsApp和某些VOIP实现）可能需要UDP协议。如果您的套餐是Just My Socks 100，并且您想使用UDP协议，那么您将需要升级到Just My Socks 500套餐。
+- **Just My Socks靠谱吗？**不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近2年了（2018年10月推出的）。
+- **Just My Socks怎么样？**线路优质，包括最快的搬瓦工CN2 GIA线路。
+- **哪些人适合用Just My Socks？**不想自己搭建ss/ssr或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。
+- **Just My Socks缺点**：无法看Netflix。
+- **支持的协议：TCP或UDP？** Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使用YouTube等大多数流媒体服务。从Just My Socks 500开始的所有套餐均支持TCP和UDP协议（请参阅下面的注释）。语音协议（如WhatsApp和某些VOIP实现）可能需要UDP协议。如果您的套餐是Just My Socks 100，并且您想使用UDP协议，那么您将需要升级到Just My Socks 500套餐。
 
 ## Just My Socks 支持哪些支付方式
 
