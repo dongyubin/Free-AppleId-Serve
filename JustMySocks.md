@@ -162,20 +162,19 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 <details>
 <summary>Just My Socks 菜单详细介绍</summary>
 
+1. Service Settings
 
-### Service Settings
+   这里可以更改节点端口、更改密码及 UUID，更换协议。
 
-这里可以更改节点端口、更改密码及 UUID，更换协议。
+2. Billing Information
 
-### Billing Information
+   这里能看到当前套餐的流量使用情况以及付款相关信息。
 
-这里能看到当前套餐的流量使用情况以及付款相关信息。
+   其中 `Counter resets monthly on day 16 – Los Angeles time zone` 即说明每月的16号重置流量，根据付款的时间来确定，日期时间以美国洛杉矶时间为准。
 
-其中 `Counter resets monthly on day 16 – Los Angeles time zone` 即说明每月的16号重置流量，根据付款的时间来确定，日期时间以美国洛杉矶时间为准。
+3. Billing Requests
 
-#### Billing Requests
-
-这里可以进行一些关于此节点的操作请求，如下表所示。
+   这里可以进行一些关于此节点的操作请求，如下表所示。
 
 | 名称                 | 说明                                           |
 | -------------------- | ---------------------------------------------- |
@@ -183,8 +182,6 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 | Change Billing Cycle | 更改该节点的计费周期，如按月付款更改为按年付款 |
 | Stop Service Renewal | 在当前付费期结束后自动取消服务                 |
 | Request Refund       | 请求退款                                       |
-
-节点操作请求
 
 </details>
 
