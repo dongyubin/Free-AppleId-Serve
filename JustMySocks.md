@@ -27,7 +27,7 @@ Just My Socks 官网支持 `支付宝`、Paypal 及 银联卡付款，7天内不
 由于某些特殊原因，会不定时的更换官网的镜像地址，方便不能访问的网友访问 Just My Socks 官网，以下是所有的官网镜像列表，如以上官网地址不能访问，可用下面的官网备用网址访问。
 
 - 官网备用1：[https://justmysocks1.net/](https://justmysocks1.net/members/aff.php?aff=31458)（被墙）
-- 官网备用2：[https://justmysocks2.net/](https://justmysocks.net2/members/aff.php?aff=31458)
+- 官网备用2：[https://justmysocks2.net/](https://justmysocks2.net/members/aff.php?aff=31458)
 - 官网备用3：[https://justmysocks3.net/](https://justmysocks3.net/members/aff.php?aff=31458)
 - 官网备用4：[https://justmysocks5.net/](https://justmysocks5.net/members/aff.php?aff=31458)
 
