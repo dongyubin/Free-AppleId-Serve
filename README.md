@@ -175,9 +175,13 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 [DuyaoSS](https://www.duyaoss.com/)
 
-## 免费机场（不保证都可用/多切换试试）
+## 免费机场、节点（不保证都可用/多切换试试）
 
 可以使用 [在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点) 转为符合自己客户端的链接
+
+- 尝鲜可选择免费机场或节点
+
+- 求稳定请选择[付费机场](#付费机场推荐)
 
 ### 博主自建Clash订阅链接
 
@@ -188,7 +192,7 @@ Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a909
 1. [宝可梦](https://love.52pokemon.cc/#/sign-up?code=DIkpn3HU)：普通套餐一个月兑换码：`52pokemon.cc`
    - 节点：香港、日本、新加坡、越南、美国、英国、荷兰
 
-### 免费SS账号
+### 免费VLESS账号
 
 [https://free-ss.site](https://free-ss.site/)
 
@@ -197,6 +201,7 @@ Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a909
 *   [https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub](https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub)
 *   [https://www.liesauer.net/yogurt/subscribe](https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb)
 *   [免费ssr节点分享](https://freefq.com/free-ssr/)：所有账号、节点或服务器均源自国际互联网
+*   [免费SSR节点分享](https://lncn.org/)（需富强访问）
 
 ### 免费节点GitHub库
 
