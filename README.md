@@ -31,11 +31,13 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 - [RackNerd高性价比VPS优惠码和最新促销活动整理（2024年6月）](https://www.wangdu.site/fuliyouhui/1266.html)：可自行[Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 - [2024年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)
 
-## ChatGPT
+## ChatGPT免费服务
 >ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
 >—— 维基百科
 
 - [ChatGPT个人注册教程](https://www.wangdu.site/course/1302.html)
+- [免费ChatGPT-4o服务👍](https://www.wangdu.site/course/2097.html)
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。
 
 
 ## Shadowsocks软件介绍
@@ -61,11 +63,11 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ### Shadowsocks 节点获取
 
-机场请看下面的免费机场、付费机场（机场里就是节点）
+机场请看下面的免费机场、[付费机场](#付费机场推荐)（机场里就是节点）
 
 ## 小火箭+机场教程（稳定）👍
 
-机场请看下面的免费机场、付费机场（机场里就是节点）
+机场请看下面的免费机场、[付费机场](#付费机场推荐)（机场里就是节点）
 
 ![使用教程](./images/20230504.png)
 
@@ -175,9 +177,9 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 [DuyaoSS](https://www.duyaoss.com/)
 
-## 免费机场、节点（不保证都可用/多切换试试）
+## 免费机场、节点
 
-可以使用 [在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点) 转为符合自己客户端的链接
+PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点) 转为符合自己客户端的链接
 
 - 尝鲜可选择免费机场或节点
 
