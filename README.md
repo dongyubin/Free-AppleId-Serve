@@ -132,6 +132,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 | :----------------------------------------------------------: | :-------------: | :----------: |
 | [karing](https://github.com/KaringX/karing)：兼容 Clash、V2ray/V2fly、Sing-box、Shadowsocks、Sub、Github 订阅 | [Win](https://github.com/KaringX/karing/releases/latest)、[Mac](https://apps.apple.com/us/app/karing/id6472431552)、[Android](https://github.com/KaringX/karing/releases/latest)、[iOS](https://apps.apple.com/us/app/karing/id6472431552) | 2024 |
 | [sing-box](https://github.com/SagerNet/sing-box) | [MacOS、iOS](https://sing-box.sagernet.org/zh/clients/apple/)（需要美区账号：[Apple Store注册外国Apple ID教程](https://www.wangdu.site/course/705.html)）、[Android](https://sing-box.sagernet.org/zh/clients/android/) | 2024 |
+| [Hiddify](https://github.com/hiddify/hiddify-next)（[官网地址](https://hiddify.com/)）：全面的协议支持：Vless、Vmess、Reality、TUIC、Wireguard、Hysteria、SSH；多种订阅链接和配置文件格式支持： Sing-box、V2ray、Clash、Clash meta | Win、Mac、Linux、安卓、iOS | 2024 |
 |  | Clash系列 |  |
 |[clash-verge新版👍🏻](https://github.com/clash-verge-rev/clash-verge-rev)（[新版下载地址](https://clash-verge-rev.github.io/install.html)）|Win、Mac、Linux|2024|
 | [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)| Mac | 2023 |
@@ -191,7 +192,7 @@ Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a909
 
 ### 机场
 
-1. [宝可梦](https://love.52pokemon.cc/#/sign-up?code=DIkpn3HU)：普通套餐一个月兑换码：`52pokemon.cc`
+1. [宝可梦](https://love.52pokemon.cc/#/sign-up?code=PTTDIVzz)：普通套餐一个月兑换码：`52pokemon.cc`
    - 节点：香港、日本、新加坡、越南、美国、英国、荷兰
 
 ### 免费VLESS账号
