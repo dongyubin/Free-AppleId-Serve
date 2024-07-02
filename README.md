@@ -286,17 +286,6 @@ PS：最好月付，防止跑路！
   ![FlyingBird测速图](images/FlyingBird.webp)
 </details>
 
-
-
-### 懂得都懂（博主在用）
-
-[懂得都懂](https://dddd.pics/#/register?code=JMLF7NrI)：有 1 元尝试款
-
-套餐：
-
-- 一次性：60G/5.8，150G/13.8，1000G/78，2000G/136
-- 周期：月付3，每月30G；月付10，每月220G，解锁流媒体；月付20，每月380G，解锁流媒体；月付28，每月480G，解锁流媒体
-
 ### 一元机场
 
 [一元机场](https://xn--4gq62f52gdss.ink/#/register?code=HUliZ7Oi)：适用追求价格便宜，对上外网需求不大，稳定性不高；求稳请看上面几款付费机场
@@ -336,7 +325,6 @@ PS：最好月付，防止跑路！
 - [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket、stash、Quantumult X、不带收费App的美区账号、台湾区、日本区、韩国区、香港区账号
 - [id宝](https://idbao.vip/)：里面有美国、香港、国区、日本、台湾、韩国账号，需要Q群获取暗号来获取
 - [AneeoApple](https://ios.aneeo.com/books/verification)：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取
-- [免费appleid-公益美区id-小火箭id下载](https://idfree.top/)
 
 
 ### 使用教程
