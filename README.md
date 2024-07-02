@@ -221,10 +221,17 @@ PS：**下面仓库中付费的内容，请谨慎购买，只推荐使用免费*
 ### TG群
 
 - [长风分享频道](https://t.me/changfengchannel)：每4小时更新一次，最多一次显示50条
+- [订阅分享中心](https://t.me/dingyue_Center)
 
 ### 网站
 
 - [长风分享](https://www.cfmem.com/search/label/free)：每天更新 Clash、v2ray 节点信息
+
+### 搜索免费订阅链接技巧
+
+1. 在 Github 搜索：`/api/v1/client/subscribe`  ，找到订阅链接 如`https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=xxx`复制`sub1.smallstrawberry.com` 到网站搜索栏中进行搜索，找更新日期最新的，左侧 Filter by 选择 `Code`，找到订阅链接使用即可。
+2. 在 Github 搜索：`lzysub.online path:/^sub\/2024\/7\//`，左侧 Filter by 选择 `Code`，找到订阅链接使用即可（[点此直达](https://github.com/search?q=lzysub.online+path%3A%2F%5Esub%5C%2F2024%5C%2F7%5C%2F%2F&type=code)）
+3. 在 Google 搜索：`api v1 client subscribe token`，工具 - 时间筛选，找到最新的订阅链接使用即可
 
 ## 付费机场推荐
 
