@@ -1,6 +1,10 @@
+<center>
+
 🌍 *[English](README-EN.md) ∙ [简体中文](README.md)*
 
 [国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/wang-shang-xue-ke)
+
+</center>
 
 ## 目录导航
 
@@ -310,7 +314,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024年6月27日 15:38:07**
+更新时间：**2024年7月4日 15:38:13**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -325,11 +329,15 @@ PS：最好月付，防止跑路！
 
 ### 共享苹果ID站点
 
+![2024年最新iOS免费小火箭ShadowRocket共享账号](images/shadowrocket-shared-account.webp)
+
 此为第三方站长，只做分享，不保证质量安全，不解决使用中出现的问题
 
 **🔴️ 使用免费共享苹果账号必须从 App Store 登录，千万不要登录「iCloud」，否则可能导致锁机或者隐私泄漏！**
 
 - [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket、stash、Quantumult X、不带收费App的美区账号、台湾区、日本区、韩国区、香港区账号
+- [最新小火箭账号/已购shadowrocket id共享Apple ID](https://shenhouyun.com/ios/)
+- [宝盒](https://ccbaohe.com/appleID/)
 - [id宝](https://idbao.vip/)：里面有美国、香港、国区、日本、台湾、韩国账号，需要Q群获取暗号来获取
 - [AneeoApple](https://ios.aneeo.com/books/verification)：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取
 
