@@ -41,26 +41,31 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 
 使用此**搬瓦工机场优惠码**可享受 5.2% **永久优惠**，续费也可使用，可在结算订单页面输入优惠码获得优惠，参考本文优惠码购买结算订单章节。
 
+## Just My Socks 懒人版
+
+1. [点击购买 洛杉矶CN2 GIA（高性价比👍）](https://justmysocks3.net/members/aff.php?aff=31458&pid=2&language=chinese)
+2. [Just My Socks](https://justmysocks3.net/members/aff.php?aff=31458&language=chinese) 自家的专用客户端：[Jamjams](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS）
+
 ## Just My Socks 节点套餐列表
 
 |                   数据中心 | 套餐名                  | 每月流量 | 月付价格 | 设备限制 | 购买链接                                                     |
 | -------------------------: | ----------------------- | -------- | -------- | -------- | ------------------------------------------------------------ |
-|                       东京 | Tokyo 100               | 100 GB   | $29.99   | 3        | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=5&language=chinese) |
-|                       东京 | Tokyo 500               | 500 GB   | $135.99  | 5        | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=6&language=chinese) |
-|                       东京 | Tokyo 1000              | 1 TB     | $239.00  | 无限制   | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=22&language=chinese) |
-|                伦敦联通VIP | London 500              | 500 GB   | $6.80    | 5        | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=12&language=chinese) |
-|                伦敦联通VIP | London 1000             | 1 TB     | $11.29   | 无限制   | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=14&language=chinese) |
-| 洛杉矶CN2 GIA（高性价比👍） | LA 500                  | 500 GB   | $5.88    | 5        | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=2&language=chinese) |
-|              洛杉矶CN2 GIA | LA 1000                 | 1 TB     | $9.88    | 无限制   | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=3&language=chinese) |
-|              洛杉矶CN2 GIA | LA 5000                 | 5 TB     | $48.99   | 无限制   | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=4&language=chinese) |
-|              洛杉矶CN2 GIA | LA 10000                | 10 TB    | $93.99   | 无限制   | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=23&language=chinese) |
-|                       香港 | HK CMI+NTT Plan 500     | 500 GB   | $8.99    | 5        | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=13&language=chinese) |
-|                       香港 | HK CMI+NTT Plan 1000    | 1 TB     | $14.90   | 无限制   | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=15&language=chinese) |
-|                       香港 | Hong Kong 100           | 100 GB   | $34.99   | 3        | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=7&language=chinese) |
-|                       香港 | Hong Kong 500           | 500 GB   | $149.99  | 5        | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=8&language=chinese) |
-|                       香港 | Hong Kong 1000          | 1 TB     | $279.99  | 无限制   | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=11&language=chinese) |
-|                       香港 | HK 300 V2 EARLY ACCESS  | 300 GB   | $21.00   | 3        | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=18&language=chinese) |
-|                       香港 | HK 1000 V2 EARLY ACCESS | 1 TB     | $59.00   | 无限制   | [优惠购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=21&language=chinese) |
+|                       东京 | Tokyo 100               | 100 GB   | $29.99   | 3        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=5&language=chinese) |
+|                       东京 | Tokyo 500               | 500 GB   | $135.99  | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=6&language=chinese) |
+|                       东京 | Tokyo 1000              | 1 TB     | $239.00  | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=22&language=chinese) |
+|                伦敦联通VIP | London 500              | 500 GB   | $6.80    | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=12&language=chinese) |
+|                伦敦联通VIP | London 1000             | 1 TB     | $11.29   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=14&language=chinese) |
+| 洛杉矶CN2 GIA（高性价比👍） | LA 500                  | 500 GB   | $5.88    | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=2&language=chinese) |
+|              洛杉矶CN2 GIA | LA 1000                 | 1 TB     | $9.88    | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=3&language=chinese) |
+|              洛杉矶CN2 GIA | LA 5000                 | 5 TB     | $48.99   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=4&language=chinese) |
+|              洛杉矶CN2 GIA | LA 10000                | 10 TB    | $93.99   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=23&language=chinese) |
+|                       香港 | HK CMI+NTT Plan 500     | 500 GB   | $8.99    | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=13&language=chinese) |
+|                       香港 | HK CMI+NTT Plan 1000    | 1 TB     | $14.90   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=15&language=chinese) |
+|                       香港 | Hong Kong 100           | 100 GB   | $34.99   | 3        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=7&language=chinese) |
+|                       香港 | Hong Kong 500           | 500 GB   | $149.99  | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=8&language=chinese) |
+|                       香港 | Hong Kong 1000          | 1 TB     | $279.99  | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=11&language=chinese) |
+|                       香港 | HK 300 V2 EARLY ACCESS  | 300 GB   | $21.00   | 3        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=18&language=chinese) |
+|                       香港 | HK 1000 V2 EARLY ACCESS | 1 TB     | $59.00   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=21&language=chinese) |
 
 ### 速度评测
 
