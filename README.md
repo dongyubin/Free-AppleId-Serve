@@ -35,6 +35,14 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 - [2024年国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/docs/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 - [2024年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)（[RackNerd](https://www.wangdu.site/fuliyouhui/1266.html)、[CloudCone](https://www.wangdu.site/fuliyouhui/2115.html)、[EthernetServers](https://www.wangdu.site/fuliyouhui/2116.html)、[DMIT](https://www.wangdu.site/?golink=aHR0cHM6Ly93d3cuZG1pdC5pby9hZmYucGhwP2FmZj03OTUy) 多家VPS价格动态对比表格）
 
+<details>
+  <summary>Just My Socks 懒人版（只需2步，轻松富强上网）</summary>
+
+1. [点击购买 洛杉矶CN2 GIA（高性价比👍）](https://justmysocks3.net/members/aff.php?aff=31458&pid=2&language=chinese)
+2. [Just My Socks](https://justmysocks3.net/members/aff.php?aff=31458&language=chinese) 自家的专用客户端：[Jamjams](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS）
+
+</details>
+
 ## ChatGPT免费服务
 >ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
 >—— 维基百科
