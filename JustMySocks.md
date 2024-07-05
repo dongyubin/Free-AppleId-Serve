@@ -259,6 +259,8 @@ Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只
 
 ## 客户端
 
+- [Just My Socks](https://justmysocks3.net/members/aff.php?aff=31458&language=chinese) 新推出了他们自己的专用客户端：[Jamjams](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS），登录后可以在[这个页面](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)进行下载。因为网络协议都是通用的，你依然可以继续使用其它的通用代理工具或者 Open­Wrt 软路由。
+
 - [Shadowsock 客户端](README.md#windowsmacosandroidios客户端)
 - [ShadowsocksR 客户端](README.md#windowsmacosandroidios客户端)
 - [V2Ray 客户端](README.md#windowsmacosandroidios客户端)
