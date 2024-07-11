@@ -25,6 +25,8 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 - [2024年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
 
+- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2024年7月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+
 ## 友情赞助
 
 <a href="https://buymeacoffee.com/dongyubin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -202,11 +204,6 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a9094e1092d60d2fc0cdfa/raw/`（其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建）
 
-### 机场
-
-1. [宝可梦](https://love.52pokemon.cc/#/sign-up?code=PTTDIVzz)：普通套餐一个月兑换码：`52pokemon.cc`
-   - 节点：香港、日本、新加坡、越南、美国、英国、荷兰
-
 ### 免费VLESS账号
 
 [https://free-ss.site](https://free-ss.site/)
@@ -289,14 +286,6 @@ PS：最好月付，防止跑路！
 - 全节点支持ChatGPT等AI工具
 - 支持大陆及海外全球用户使用
 
-618活动！来了来了！
-最宠你们的，还是飞鸟！
-
-1. 月/季/半年付 85折 , 优惠码：`2461885` 可重复使用3次
-2. 年付8折（站内折上折，高达64折 ）优惠码：`2461880` 可重复使用3次
-
-活动时间：即日起至2024年6月29日23点59分
-
 <details>
   <summary>FlyingBird测速图</summary>
 
@@ -351,9 +340,9 @@ PS：最好月付，防止跑路！
 
 
 ### 使用教程
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060908426.jpg)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.jpg)
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302060909853.jpg)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060909853.jpg)
 
 ## 作者网站
 
