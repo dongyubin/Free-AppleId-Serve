@@ -276,6 +276,11 @@ PS：最好月付，防止跑路！
 
 [FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=jvQ5)
 
+官网网址: [https://www.fbweb.cc](https://www.fbweb.cc/auth/register?code=jvQ5)
+备用网址: [https://fbweb02.flyingbird.la](https://fbweb02.flyingbird.la/auth/register?code=jvQ5)
+备用网址: [https://fbweb02.flyingbird.id](https://fbweb02.flyingbird.id/auth/register?code=jvQ5)
+备用网址: [https://web02.fbcn.pro](https://web02.fbcn.pro/auth/register?code=jvQ5)
+
 套餐：
 
 - 100GB / 15元 / 30 天
@@ -311,7 +316,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024年7月12日 09:43:56**
+更新时间：**2024年7月16日 13:34:56**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -340,9 +345,9 @@ PS：最好月付，防止跑路！
 
 
 ### 使用教程
-![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.jpg)
+![Apple Store切换账号](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.jpg)
 
-![](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060909853.jpg)
+![App Store下载Shadowrocket](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060909853.jpg)
 
 ## 作者网站
 
