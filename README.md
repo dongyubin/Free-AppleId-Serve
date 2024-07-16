@@ -276,9 +276,12 @@ PS：最好月付，防止跑路！
 
 [FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=jvQ5)
 
-官网网址: [https://www.fbweb.cc](https://www.fbweb.cc/auth/register?code=jvQ5)
+备用网址: [https://www.fbweb.cc](https://www.fbweb.cc/auth/register?code=jvQ5)
+
 备用网址: [https://fbweb02.flyingbird.la](https://fbweb02.flyingbird.la/auth/register?code=jvQ5)
+
 备用网址: [https://fbweb02.flyingbird.id](https://fbweb02.flyingbird.id/auth/register?code=jvQ5)
+
 备用网址: [https://web02.fbcn.pro](https://web02.fbcn.pro/auth/register?code=jvQ5)
 
 套餐：
