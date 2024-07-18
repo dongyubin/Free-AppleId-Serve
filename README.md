@@ -250,6 +250,9 @@ PS：最好月付，防止跑路！
 
 [YepFast](https://portal.yepfast2.cc/#/register?code=G8n2THKO) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](#shadowrocket账号) 使用
 
+- 备用网址：[YepFast](https://portal.yepfast.xyz/#/register?code=G8n2THKO)
+- 备用网址：[YepFast](https://portal.yep.top/#/register?code=G8n2THKO)
+
 套餐：
 
 - 10元/月（年付￥99）
@@ -276,13 +279,13 @@ PS：最好月付，防止跑路！
 
 [FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=jvQ5)
 
-备用网址: [https://www.fbweb.cc](https://www.fbweb.cc/auth/register?code=jvQ5)
+- 备用网址: [FlyingBird](https://www.fbweb.cc/auth/register?code=jvQ5)
 
-备用网址: [https://fbweb02.flyingbird.la](https://fbweb02.flyingbird.la/auth/register?code=jvQ5)
+- 备用网址: [FlyingBird](https://fbweb02.flyingbird.la/auth/register?code=jvQ5)
 
-备用网址: [https://fbweb02.flyingbird.id](https://fbweb02.flyingbird.id/auth/register?code=jvQ5)
+- 备用网址: [FlyingBird](https://fbweb02.flyingbird.id/auth/register?code=jvQ5)
 
-备用网址: [https://web02.fbcn.pro](https://web02.fbcn.pro/auth/register?code=jvQ5)
+- 备用网址: [FlyingBird](https://web02.fbcn.pro/auth/register?code=jvQ5)
 
 套餐：
 
@@ -319,7 +322,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024年7月16日 13:34:56**
+更新时间：**2024年7月18日**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
