@@ -200,9 +200,11 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 - 求稳定请选择[付费机场](#付费机场推荐)
 
-### 博主自建Clash订阅链接
+### 免费clash订阅链接
 
-Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a9094e1092d60d2fc0cdfa/raw/`（其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建）
+- Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a9094e1092d60d2fc0cdfa/raw/`（其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建）
+- `https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=dcc4a450768e3d2bd79c143e2c6babd1`
+- `https://v1.mk/xct5NlC`
 
 ### 免费VLESS账号
 
