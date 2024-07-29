@@ -210,6 +210,7 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 - Clash 订阅地址：`https://fcyv3.fca1b2.com/api/v1/client/subscribe?token=47d4c6dedc86ab7987d60afc162304ea`
 - Clash 订阅地址：`https://www.xrayvip.com/free.yaml`
 - Clash 订阅地址：`https://github.com/aiboboxx/clashfree/blob/main/clash.yml`（来自：[clashfree](https://github.com/aiboboxx/clashfree)）
+- Clash 订阅地址：`https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=74d030d627ee52512ff49ad9e068a31b`
 
 ### 免费VLESS账号
 
@@ -327,7 +328,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024年7月18日**
+更新时间：**2024年7月29日**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
