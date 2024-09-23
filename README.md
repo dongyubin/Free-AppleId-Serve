@@ -1,14 +1,15 @@
-<center>
 
 🌍 *[English](README-EN.md) ∙ [简体中文](README.md)*
 
 [国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/wang-shang-xue-ke)
 
-</center>
+[小火箭共享账号每日更新](https://ios.wwkejishe.top/)
 
 ## 活动通知
 
-TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
+1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
+2. [付费机场](#付费机场推荐)
+   - FlyingBird 中秋活动优惠中
 
 ## 目录导航
 
@@ -21,7 +22,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看<a href="#付费机场">付费机场</a>）
+TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看[付费机场](#付费机场推荐)）
 
 - [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
 
@@ -33,7 +34,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ## 友情赞助
 
-<a href="https://buymeacoffee.com/dongyubin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/dongyubin)
 
 ## 🔥推荐Ti子服务器
 
@@ -48,14 +49,6 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 2. [Just My Socks](https://justmysocks3.net/members/aff.php?aff=31458&language=chinese) 自家的专用客户端：[Jamjams](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS）
 
 </details>
-
-## ChatGPT免费服务
->ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
->—— 维基百科
-
-- [ChatGPT个人注册教程](https://www.wangdu.site/course/1302.html)
-- [免费ChatGPT-4o服务👍](https://www.wangdu.site/course/2097.html)
-- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。
 
 
 ## Shadowsocks软件介绍
@@ -297,6 +290,11 @@ PS：最好月付，防止跑路！
 
 - 备用网址: [FlyingBird](https://web02.fbcn.pro/auth/register?code=jvQ5)
 
+> 活动时间：即日起至2024年9月30日23点59分
+>
+> 1. 月/季/半年付 85折 , 优惠码：24ZQ85（可重复使用3次）
+> 2. 年付8折（站内折上折，高达6.4折 ）优惠码：24ZQ80（可重复使用3次）
+
 套餐：
 
 - 100GB / 15元 / 30 天
@@ -332,7 +330,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024年7月29日**
+更新时间：**2024年9月23日 14:52:18**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -365,10 +363,20 @@ PS：最好月付，防止跑路！
 
 ![App Store下载Shadowrocket](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060909853.jpg)
 
+## ChatGPT免费服务
+
+>ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
+>—— 维基百科
+
+- [ChatGPT个人注册教程](https://www.wangdu.site/course/1302.html)
+- [免费ChatGPT-4o服务👍](https://www.wangdu.site/course/2097.html)
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。
+
 ## 作者网站
 
 - [文武科技柜](https://www.wangdu.site/)：实用工具、黑苹果、高效教程、Nas
 - [文武软件百科](https://wiki.wangdu.site/)：致力于软件的百科全书
+- [文武帮助中心](https://help.wwkejishe.top/)：包含小火箭共享账号及使用教程、IPTV直播源、Skinny电话卡
 
 ## Star History
 
