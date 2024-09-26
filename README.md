@@ -446,6 +446,223 @@ PS：最好月付，防止跑路！
 
 ![App Store下载Shadowrocket](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060909853.jpg)
 
+## 客户端使用教程
+
+### Windows-v2rayN使用教程
+
+<details>
+  <summary>Windows-v2rayN使用教程</summary>
+
+1. 在 [付费机场](#付费机场推荐) 已经购买好套餐，下载v2rayN客户端 [点击下载](https://dl.flyingbird.vip/apps/v2rayn_win.zip) 下载后解压并运行 v2rayN.exe
+
+   ![解压并并运行v2rayN](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724231884.jpg)
+
+2. 登陆机场官网`复制SS通用订阅地址 / 导入Shadowrocket`
+
+   ![复制SS通用订阅地址](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724231933.png)
+
+3. 点击v2rayN订阅 --> 订阅设置 --> 添加订阅并确定
+
+   ![v2rayN订阅设置](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724231962.jpg)
+
+   ![v2rayN添加订阅](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724231981.jpg)
+
+   ![v2rayN订阅链接](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232001.jpg)
+
+4. 更新订阅 --> 得到服务器节点
+
+   ![v2rayN更新订阅](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232069.jpg)
+
+   ![v2rayN显示节点](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232082.jpg)
+
+5. 选择节点并回车选中
+
+   ![v2rayN选择节点](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232154.jpg)
+
+6. 在电脑右下角任务栏开启你的代理并尽情享用高速网络
+
+   ![v2rayN开启代理](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232172.png)
+
+</details>
+
+### Windows-Clash使用教程
+
+<details>
+  <summary>Windows-Clash使用教程</summary>
+
+1. 在 [付费机场](#付费机场推荐) 已经购买好套餐，下载Clash客户端 [点击下载](https://dl.flyingbird.vip/apps/clash_win.zip) 并解压运行 Clash for Windows.exe
+
+   ![Clash for Windows](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290871.png)
+
+2. 打开机场官网，点击`一键导入Clash配置`
+
+   ![机场便捷导入Clash for Windows](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290900.png)
+
+   ![Clash for Windows Profile](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290952.png)
+
+3. 导入后选 Proxies，并选择 Rule 模式和节点
+
+   ![Clash for Windows Proxies Rule模式](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290965.png)
+
+4. 选 General 并启用系统代理，尽情享受高速上网
+
+   ![Clash for Windows启动系统代理](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290994.png)
+
+</details>
+
+### Shadowsocks软件介绍及使用教程
+
+<details>
+  <summary>Shadowsocks软件介绍</summary>
+
+**SS**，全称为 **Shadowsocks**（下文简称为`SS`），是一种基于 Socks5 代理方式的网络数据加密传输包的工具，可以使用其于**科学上网** _也就是翻墙_ ，是目前最稳定，最常用的科学上网工具之一，**全平台支持**
+
+**SSR**，全称为 **ShadowsocksR**（下文简称为`SSR`）。ShadowsocksR 是breakwa11发起的Shadowsocks分支，在Shadowsocks的基础上增加了一些数据混淆方式，称修复了部分安全问题并可以提高QoS优先级。后来贡献者Librehat也为Shadowsocks补上了一些此类特性，甚至增加了类似Tor的可插拔传输层功能。
+
+</details>
+
+<details>
+  <summary>Shadowsocks使用教程</summary>
+
+>以SS为例，SSR差不多
+
+1.  （**具体信息**的订阅地址）右击**小飞机**，打开**服务器 - 编辑服务器**，输入服务器信息即可。
+2.  （**图片二维码**的订阅地址）右击**小飞机**，打开**服务器 - 扫描屏幕上的二维码**，服务器信息自动导入。
+3.  （**长链接**的订阅地址）右击**小飞机**，打开**服务器 - 从剪切板导入URL**，服务器信息自动导入。
+
+**Shadowsocks 节点获取**
+
+机场请看下面的[免费机场](#免费机场)、[付费机场](#付费机场推荐)（机场里就是节点）
+
+</details>
+
+### MacOS-ClashX Pro使用教程
+
+<details>
+  <summary>MacOS-ClashX Pro使用教程</summary>
+
+1. 在 [付费机场](#付费机场推荐) 已经购买好套餐，下载MAC版本ClashX Pro [点击下载](https://dl.flyingbird.vip/apps/clashx_mac.dmg) ，安装并启动
+
+2. 打开机场官网，点击`一键导入ClashX配置`
+
+   ![机场电脑导入ClashX配置](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289948.png)
+
+3. 点击`一键导入Clash/ClashX配置`后会跳出上面对话框，然后点OK
+
+   ![ClashX导入配置](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290017.png)
+
+4. 软件会自动加载订阅，当你看到上面的日期后就是导入成功，然后关掉就可以了。
+
+   ![ClashX Remote Configs](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290054.png)
+
+5. 在你电脑的最顶上状态栏里会出现 ClashX Pro 的图标，如果没看到这处图标就是你开太多东西了，关掉一些应用程序，直到你看到这个图标。
+
+   ![ClashX Pro 图标](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290090.png)
+
+6. 选择 Rule 模式
+
+   ![ClashX选择Rule模式](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290201.png)
+
+7. 选择节点
+
+   ![ClashX选择节点](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290206.png)
+
+8. 启动系统代理！到这一步你就可以正常浏览器代理上网了。如果你想让整台电脑所有的应用都开启代理，可以把下面的Enhanced Mode也打勾就可以了。
+
+   ![ClashX启动系统代理](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290224.png)
+
+</details>
+
+### Android安卓-Clash使用教程
+
+<details>
+  <summary>Android安卓-Clash使用教程</summary>
+
+1. 在 [付费机场](#付费机场推荐) 已经购买好套餐，下载安卓Android-Clash [点击下载](https://dl.flyingbird.vip/apps/clash_android.apk) ，安装并启动
+
+   ![启动 Android Clash](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289502.png)
+
+2. 打开机场官网，点击`一键导入Clash配置`
+
+   ![机场便捷导入](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289572.png)
+
+   ![Clash导入配置文件](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289607.png)
+
+3. 选择配置并激活机场配置
+
+   ![Clash配置机场](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289722.png)
+
+   ![Clash选择机场](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408281724833565.png)
+
+4. 运行代理并选择节点，享受高速上网
+
+   ![Clash启动代理](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289751.png)
+
+   ![Clash代理节点](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289757.png)
+
+</details>
+
+### iOS苹果-Shadowrocket使用教程
+
+[iOS苹果-Shadowrocket使用教程](#小火箭机场教程稳定)
+
+### CloudFlare WARP客户端使用教程
+
+> 推荐使用上面客户端+机场的组合
+
+Cloudflare WARP 是一种由Cloudflare推出的网络加速和安全服务，旨在通过将用户的网络流量路由到Cloudflare的全球骨干网络中来实现加速和优化用户的网络体验。它使用了现代的加密协议（如WireGuard），以确保用户数据的安全性和隐私性。
+
+<details>
+  <summary>CloudFlare WARP客户端使用教程</summary>
+
+1. Windows版优选和更换IP，解压文件后（看下图解）
+
+   ![Windows版优选WARP和更换IP](https://img.ccbaohe.com/bf9976cf31e53a0d3fd03fd2e2aa1f9e.png)
+
+   - 下载[Warp优选IP和更换IP.rar](https://img.ccbaohe.com/warp优选IP和更换IP.rar) / [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)（「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~） 并解压，点击优选ip，优选完毕后会自动生成 result.csv 文件。
+   - 打开  result.csv 文件，任意复制一条IP。
+   - 打开更换IP，输入复制的IP。回车既可更换可以用IP
+
+2. 下载并安装客户端：打开官方地址： [https://1.1.1.1/zh-Hans/](https://1.1.1.1/zh-Hans/) ，选择适合自己平台的客户端下载
+
+   ![下载Warp客户端](https://img.ccbaohe.com/e5989ad79a79964a3ad914c304f2bf25.jpg)
+
+3. Warp+24PB 无限流量密钥
+
+   - 使用Telegram电报搜索：[@generatewarpplusbot](https://t.me/generatewarpplusbot)，找到这个机器人，点击开始，然后点击`/generate`。它要求我们订阅三个群组，这个直接订阅就行。
+
+   - 再次点击`/generate`，就会给我们生成密钥。
+
+   ![Warp密钥](https://img.ccbaohe.com/a6c6b9560e382ac078188bab2d5bcd51.png)
+
+4. 客户端安装并启动客户端并连接节点
+
+   启动CloudFlare WARP时候，有可能遇到无法注册的问题：由于注册服务域名被GFW阻断。
+
+   第一次打开客户端之前，需要打开代理软件的真全局模式（例如：Clash的TUN模式），如在手机上则打开任意代理软件即可 进入设置选项，Device ID出现非0000的字符串时，即为注册成功
+
+   ![Warp Device ID](https://img.ccbaohe.com/579bebca8ac54d9bc0c065c45f476900.jpg)
+
+   ![Warp Device ID](https://img.ccbaohe.com/22db1aee67f1dd036f34ea3e481f379f.jpg)
+
+   断开并关闭代理软件，连接 WARP。如出现 Connected 即为连接成功
+
+   ![Warp Connected](https://img.ccbaohe.com/40ed6cac705f5f693b0e1d7f588f8daa.jpg)
+
+   如一直处在 Connecting 状态，则说明目前 WARP 服务已被 GFW 阻断；更换 WARP+ 密钥
+
+   ![Windows更换WARP+密钥](https://img.ccbaohe.com/8be219fe391d75e4d4bff9cc79ee01b1.jpg)
+
+   ![Android更换WARP+密钥](https://img.ccbaohe.com/637b033524f1f5f967cb3d1155e7f981.png)
+
+   切换为Teams账户：打开客户端之前，需要打开代理软件的真全局模式（例如：Clash的TUN模式)，如在手机上则打开任意代理软件即可 打开WARP客户端 按照下图操作
+
+   ![img](https://img.ccbaohe.com/470b5dda5ca2d2a739c930137ec617cf.jpg)
+
+   ![img](https://img.ccbaohe.com/19663c547ea146e665d2041f72d74209.jpg)
+
+</details>
+
 ## ChatGPT免费服务
 
 >ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
