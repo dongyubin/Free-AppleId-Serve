@@ -284,13 +284,7 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建
 
-- Clash订阅链接：`https://gist.githubusercontent.com/dongyubin/28769a2a50a9094e1092d60d2fc0cdfa/raw/`
-- Clash 订阅地址：`https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=dcc4a450768e3d2bd79c143e2c6babd1`
-- Clash 订阅地址：`https://v1.mk/xct5NlC`
-- Clash 订阅地址：`https://fcyv3.fca1b2.com/api/v1/client/subscribe?token=47d4c6dedc86ab7987d60afc162304ea`
-- Clash 订阅地址：`https://www.xrayvip.com/free.yaml`
-- Clash 订阅地址：`https://github.com/aiboboxx/clashfree/blob/main/clash.yml`（来自：[clashfree](https://github.com/aiboboxx/clashfree)）
-- Clash 订阅地址：`https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=74d030d627ee52512ff49ad9e068a31b`
+- clash订阅链接：`https://qyoo.aibvs.cn/api/v1/client/subscribe?token=d1238234772e17cc53229bcbb74980ed`
 
 ### 免费VLESS账号
 
