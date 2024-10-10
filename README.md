@@ -189,12 +189,14 @@ Clash 是一款开源的跨平台代理工具，主要用于帮助用户科学�
 |       [clashX](https://github.com/yichengchen/clashX)        |             MacOS              |     2022     |
 | [ClashDotNetFramework](https://github.com/ClashDotNetFramework/experimental-clash) |         Windows、Linux         |     2021     |
 
+- [clash-rules](https://github.com/Loyalsoldier/clash-rules?tab=readme-ov-file)：🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
 ### V2Ray系列
 
 |                          客户端名称                          |       支持系统        | 最后更新时间 |
 | :----------------------------------------------------------: | :-------------------: | :----------: |
+|          [V2RayN](https://github.com/2dust/v2rayN)           |        Windows        |     2024     |
 |         [V2RayW](https://github.com/Cenmrev/V2RayW)          |        Windows        |     2019     |
-|          [V2RayN](https://github.com/2dust/v2rayN)           |        Windows        |     2022     |
 |         [v2rayNG](https://github.com/2dust/v2rayNG)          |        Android        |     2022     |
 | [V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) | Windows、MacOS、Linux |     2022     |
 |          [V2rayU](https://github.com/yanue/V2rayU)           |         MacOS         |     2021     |
