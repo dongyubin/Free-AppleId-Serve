@@ -333,10 +333,10 @@ PS：最好月付，防止跑路！
 
 ### YepFast（博主在用👍🏻）
 
-[YepFast](https://panel.yepfast1.cc/#/auth/signup;referral=G8n2THKO) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](#shadowrocket账号) 使用
+[YepFast](https://dash.yep.top/#/auth/signup;referral=G8n2THKO) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](#shadowrocket账号) 使用
 
-- 备用网址：[YepFast](https://panel.yepfast1.cc/#/auth/signup;referral=G8n2THKO)
-- 备用网址：[YepFast](https://panel.yepfast1.cc/#/auth/signup;referral=G8n2THKO)
+- 备用网址：[YepFast](https://panel.yepfast.cc/#/auth/signup;referral=G8n2THKO)
+- 备用网址：[YepFast](https://panel.yepfast.xyz/#/auth/signup;referral=G8n2THKO)
 
 套餐：
 
