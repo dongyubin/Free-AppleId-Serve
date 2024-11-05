@@ -289,7 +289,8 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建
 
-- clash订阅链接：`https://qyoo.aibvs.cn/api/v1/client/subscribe?token=d1238234772e17cc53229bcbb74980ed`
+- clash 订阅链接：`https://qyoo.aibvs.cn/api/v1/client/subscribe?token=d1238234772e17cc53229bcbb74980ed`
+- Clash 订阅地址：`http://777.hz.cz/Clash-11041936.yaml`
 
 ### 免费VLESS账号
 
@@ -434,8 +435,10 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024年10月30日 10:59:03**
+更新时间：**2024年11月5日 10:59:03**
 <!-- updateTime ends -->
+
+[小火箭共享账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
