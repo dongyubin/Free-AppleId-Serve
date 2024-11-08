@@ -466,9 +466,9 @@ PS：最好月付，防止跑路！
 
 
 ### 使用教程
-![Apple Store切换账号](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.jpg)
+![Apple Store切换账号](https://cdn.wwkejishe.top/wp-cdn-02/2023/202302060908426.webp)
 
-![App Store下载Shadowrocket](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060909853.jpg)
+![App Store下载Shadowrocket](https://cdn.wwkejishe.top/wp-cdn-02/2023/202302060909853.webp)
 
 ## 客户端使用教程
 
