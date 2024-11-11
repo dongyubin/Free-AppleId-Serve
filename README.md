@@ -174,7 +174,7 @@ Clash 是一款开源的跨平台代理工具，主要用于帮助用户科学�
 | :----------------------------------------------------------: | :----------------------------: | :----------: |
 | [clash-verge新版👍🏻](https://github.com/clash-verge-rev/clash-verge-rev)（[新版下载地址](https://clash-verge-rev.github.io/install.html)） |     Windows、MacOS、Linux      |     2024     |
 | [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) |     Windows、MacOS、Linux      |     2024     |
-| [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) |           Win、Linux           |     2024     |
+| [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)（[安装指南](https://gui-for-cores.github.io/zh/guide/01-install)） |     Windows、MacOS、Linux      |     2024     |
 |       [FlClash](https://github.com/chen08209/FlClash)        | Windows、MacOS、Linux、Android |     2024     |
 | [mihomo-party](https://github.com/pompurin404/mihomo-party?tab=readme-ov-file) |     Windows、MacOS、Linux      |     2024     |
 | [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) |             MacOS              |     2023     |
@@ -225,7 +225,7 @@ Clash 是一款开源的跨平台代理工具，主要用于帮助用户科学�
 |                                                              |                          Clash系列                           |         |       |       |      |           |         |        |              |
 | [clash-verge新版👍🏻](https://github.com/clash-verge-rev/clash-verge-rev)（[新版下载地址](https://clash-verge-rev.github.io/install.html)） |                    Windows、MacOS、Linux                     | ✅       | ✅     | ✅     |      |           |         |        |     2024     |
 | [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) |                    Windows、MacOS、Linux                     | ✅       | ✅     | ✅     |      |           |         |        |     2024     |
-| [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) |                        Windows、Linux                        | ✅       |       | ✅     |      |           |         |        |     2024     |
+| [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) |                    Windows、MacOS、Linux                     | ✅       | ✅     | ✅     |      |           |         |        |     2024     |
 |  [FlClash](https://github.com/chen08209/FlClash/tree/main)   |                Windows、MacOS、Linux、Android                | ✅       | ✅     | ✅     |      |           | ✅       |        |     2024     |
 | [mihomo-party](https://github.com/pompurin404/mihomo-party?tab=readme-ov-file) |                    Windows、MacOS、Linux                     | ✅       | ✅     | ✅     |      |           |         |        |     2024     |
 | [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) |                            MacOS                             |         | ✅     |       |      |           |         |        |     2023     |
