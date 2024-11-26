@@ -1,9 +1,7 @@
 
 🌍 *[English](README-EN.md) ∙ [简体中文](README.md)*
 
-[国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/wang-shang-xue-ke)
-
-[小火箭共享账号每日更新](https://ios.wwkejishe.top/)
+[国内可访问版本](https://help.wwkejishe.top/free-shadowrocket)（内容与本页面一致，有需要的可以收藏到书签里）
 
 ## 活动通知
 
@@ -20,7 +18,7 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看[付费机场](#付费机场推荐)）
+TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看 [付费机场](#付费机场推荐)）
 
 - [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
 
@@ -28,7 +26,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 - [2024年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
 
-- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2024年9月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2024年11月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源 iptv4/iptv6
 
 ## 友情赞助
 
@@ -49,26 +47,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 </details>
 
 
-## Shadowsocks软件介绍
-
-**SS**，全称为 **Shadowsocks**（下文简称为`SS`），是一种基于 Socks5 代理方式的网络数据加密传输包的工具，可以使用其于**科学上网** _也就是翻墙_ ，是目前最稳定，最常用的科学上网工具之一，**全平台支持**
-
-**SSR**，全称为 **ShadowsocksR**（下文简称为`SSR`）
-来历：
-
-> ShadowsocksR是breakwa11发起的Shadowsocks分支，在Shadowsocks的基础上增加了一些数据混淆方式，称修复了部分安全问题并可以提高QoS优先级。后来贡献者Librehat也为Shadowsocks补上了一些此类特性，甚至增加了类似Tor的可插拔传输层功能。
->
-> ShadowsocksR开始时曾有过违反GPL、发放二进制时不发放源码的争议，不过后来ShadowsocksR项目由breakwa11转为了与Shadowsocks相同的GPL、Apache许可证、MIT许可证等多重自由软件许可协议。
->
-> 2017年7月19日，ShadowsocksR作者breakwa11在Telegram频道ShadowsocksR news里转发了深圳市启用SS协议检测并被大量用户转发，引发恐慌。7月24日，breakwa11发布了闭源的SS被动检测程序，引发争议。 2017年7月27日，breakwa11遭到自称 “ESU.TV” 的不明身份人士人身攻击，对方宣称如果不停止开发并阻止用户讨论此事件将发布更多包含个人隐私的资料，随后breakwa11表示遭到对方人肉搜索并公开个人资料的是无关人士，为了防止对方继续伤害无关人士，breakwa11将删除GitHub上的所有代码、解散相关交流群组，停止ShadowsocksR项目。但项目已被多人fork。并有人在其基础上继续发布新的版本，例如SSRR
->
-> **引用于维基百科**
-
-### 使用教程（以SS为例，SSR差不多）
-
-1.  （**具体信息**的订阅地址）右击**小飞机**，打开**服务器-编辑服务器**，输入服务器信息即可。
-2.  （**图片二维码**的订阅地址）右击**小飞机**，打开**服务器-扫描屏幕上的二维码**，服务器信息自动导入。
-3.  （**长链接**的订阅地址）右击**小飞机**，打开**服务器-从剪切板导入URL**，服务器信息自动导入。
+## Shadowsocks软件
 
 ### Shadowsocks 节点获取
 
@@ -429,10 +408,10 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024年11月5日 10:59:03**
+更新时间：**2024年11月26日 **
 <!-- updateTime ends -->
 
-[小火箭共享账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
+[小火箭共享Shadowrocket账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
@@ -553,6 +532,10 @@ PS：最好月付，防止跑路！
 机场请看下面的[免费机场](#免费机场)、[付费机场](#付费机场推荐)（机场里就是节点）
 
 </details>
+
+### shadowsocks怎么添加ss节点
+
+[shadowsocks添加ss节点教程](./Shadowsocks-ss.md)
 
 ### MacOS-ClashX Pro使用教程
 
@@ -681,13 +664,19 @@ Cloudflare WARP 是一种由Cloudflare推出的网络加速和安全服务，旨
 
 </details>
 
+## 常见问题
+
+### clash支持naiveproxy吗
+
+不支持
+
 ## ChatGPT免费服务
 
 >ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出。该程序使用基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练。
 >—— 维基百科
 
 - [ChatGPT个人注册教程](https://www.wangdu.site/course/1302.html)
-- [免费ChatGPT-4o服务👍](https://www.wangdu.site/course/2097.html)
+- [免费ChatGPT-4o服务及API申请👍](https://www.wangdu.site/course/2097.html)
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。
 
 ## 作者网站
@@ -695,6 +684,7 @@ Cloudflare WARP 是一种由Cloudflare推出的网络加速和安全服务，旨
 - [文武科技柜](https://www.wangdu.site/)：实用工具、黑苹果、高效教程、Nas
 - [文武软件百科](https://wiki.wangdu.site/)：致力于软件的百科全书
 - [文武帮助中心](https://help.wwkejishe.top/)：包含小火箭共享账号及使用教程、IPTV直播源、Skinny电话卡
+- [文武VPS推荐](https://bestvps.wwkejishe.top/)：主要收录国内和国外VPS、云服务器、独立服务器的优惠活动、测评体验、使用教程的网站
 
 ## Star History
 
