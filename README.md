@@ -11,7 +11,9 @@
 
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
 1. [付费机场](#付费机场推荐)
-   - FlyingBird双旦活动开启咯！
+   - FlyingBird 双旦活动开启咯！
+   - YepFast 圣诞&元旦"双旦"活动
+   - 鹿语云 圣诞&元旦"双旦"活动
 
 ## 目录导航
 
@@ -349,10 +351,18 @@ PS：最好月付，防止跑路！
 
 ### YepFast（博主在用👍🏻）
 
-[YepFast](https://dash.yep.top/#/auth/signup;referral=G8n2THKO) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](#shadowrocket账号) 使用
+[YepFast](https://dash.yep.top/#/auth/signup;referral=G8n2THKO) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](#shadowrocket账号) 使用（稳定极速，40+节点，高端节点，海外团队，安全可靠）
 
 - 备用网址：[YepFast](https://panel.yepfast.cc/#/auth/signup;referral=G8n2THKO)
 - 备用网址：[YepFast](https://panel.yepfast.xyz/#/auth/signup;referral=G8n2THKO)
+
+>特别福利： 全站套餐85折，可与活动一叠加享折上折。
+>
+>1. 85折优惠码：`yep85`
+>
+>活动时间：2024年12月25日 - 2025年1月2日
+>
+>在活动期间内，若在优惠前2天内正价购买过年付及以上的套餐，可发送工单支持退差价至账户余额，月付升级季付/年付套餐会自动折抵请放心升级。
 
 套餐：
 
@@ -378,7 +388,7 @@ PS：最好月付，防止跑路！
 
 ### FlyingBird（博主在用）
 
-[FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=jvQ5)
+[FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=jvQ5)（70+节点，全专线IPLC，不限速，不限设备数量，超稳晚高峰，流媒体全解锁！全节点解锁chatgpt！）
 
 - 备用网址: [FlyingBird](https://www.fbweb.cc/auth/register?code=jvQ5)
 
@@ -413,6 +423,40 @@ PS：最好月付，防止跑路！
   FlyingBird测速图
 
   ![FlyingBird测速图](images/FlyingBird.webp)
+</details>
+
+### 鹿语云（IEPL专线机场，博主在用）
+
+[鹿语云](https://鹿语云.com/register?code=CZoLVxMH)：注册即送3天5G流量试用（稳定极速，20+节点，全节点IEPL专线，全节点流媒体解锁，全节点支持ChatGPT等AI工具，海外团队，安全可靠）
+
+- 备用地址：[鹿语云](https://luyuyun.com/register?code=CZoLVxMH)
+
+>1. 月/季/半年付9折 , 优惠码：`luyu9`
+>2. 年付8折，优惠码：`luyu8`
+>
+> （不限时套餐不参与活动）
+>
+> 活动有效期：2024/12/24 至 2025/1/2
+
+套餐
+
+- 50GB / 16元 / 1月（年付：119元）
+- 150GB / 26元 / 1月（年付：259元）
+- 全节点IEPL专线，低延迟，支持游戏加速
+- 全节点流媒体解锁
+- 全节点支持ChatGPT等AI工具
+
+<details>
+  <summary>鹿语云测速图&解锁图</summary>
+
+  鹿语云测速图
+
+  ![鹿语云](images/luyuyun.jpg)
+
+  YepFast解锁图
+
+  ![鹿语云](images/luyuyun-jiesuo.jpg)
+
 </details>
 
 ### 可乐云（博主在用）
