@@ -492,19 +492,19 @@ PS：最好月付，防止跑路！
 - 请知悉无退款服务
 
 
-## Shadowrocket账号
+## Shadowrocket小火箭账号
 
 <!-- updateTime starts -->
-更新时间：**2024年12月18日 17:36:25**
+更新时间：**2024年12月27日 17:36:25**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
-1. 成品账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wwkejishe.top/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
+1. 美区AppleID成品账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wwkejishe.top/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
 2. 共享账号容易失效，需要稳定的可购买成品账号
-3. [租用已购此App账号](https://fk.wwkejishe.top/buy/7)下载（租用仅需 ¥3），租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
+3. 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://fk.wwkejishe.top/buy/7)下载（租用仅需 ¥3），租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
 
 <!-- apple starts -->
 
