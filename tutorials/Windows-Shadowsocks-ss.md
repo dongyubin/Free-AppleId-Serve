@@ -14,15 +14,17 @@
 
 ## 第二步 使用教程
 
-1、下载后解压文件，打开EXE文件安装后，右键单击左下角任务栏的Shadowsocks【小飞机图标】进行配置。
+1、下载后解压文件，打开EXE文件安装后，右键单击左下角任务栏的 Shadowsocks【小飞机图标】进行配置。
 
 2、在 【服务器】 菜单添加服务器节点。【服务器节点获取】详见：[SS/ShadowsocksR 服务器节点 点击获取](https://shadowsockshelp.github.io/Shadowsocks/ss.html)
 
 3、选择 【启用系统代理】来启用系统代理。注：请禁用浏览器里的代理插件，或把它们设置为使用系统代理。
 
-4、然后可以打开 www.google.com 进行测试。注：若游览器无法打开google.com等网页，可能是你的游览器有插件或者设置了代理，可以尝试更换游览器测试一下。
+4、然后可以打开 [www.google.com](www.google.com) 进行测试。
 
-![img](https://shadowsockshelp.github.io/Shadowsocks/img/windows1.PNG)
+> 注：若游览器无法打开 google.com 等网页，可能是你的游览器有插件或者设置了代理，可以尝试更换游览器测试一下。
+
+![Windows Shadowsocks](https://shadowsockshelp.github.io/Shadowsocks/img/windows1.PNG)
 
 ## 最后 其他设置说明
 
@@ -68,26 +70,24 @@
 
 ### 三、其他
 
-1、服务器自动切换
+1. 服务器自动切换
 
-负载均衡：随机选择服务器
+   - 负载均衡：随机选择服务器
 
-高可用：根据延迟和丢包率自动选择服务器
 
-累计丢包率：通过定时 ping 来测速和选择。如果要使用本功能，请打开菜单里的统计可用性。
+   - 高可用：根据延迟和丢包率自动选择服务器
 
-也可以实现 IStrategy 接口来自定义切换规则，然后给我们发一个 pull request。
 
-2、UDP
+   - 累计丢包率：通过定时 ping 来测速和选择。如果要使用本功能，请打开菜单里的统计可用性。
 
-对于 UDP，请使用 SocksCap 或 ProxyCap 强制你想使用的程序走代理。
 
-3、多实例
+   - 也可以实现 IStrategy 接口来自定义切换规则，然后给我们发一个 pull request。
 
-如果想使用其它工具如 SwitchyOmega 管理多个服务器，可以启动多个 Shadowsocks。 为了避免配置产生冲突，把 Shadowsocks 复制到一个新目录里，并给它设置一个新的本地端口。
 
-4、插件
+2. UDP：对于 UDP，请使用 SocksCap 或 ProxyCap 强制你想使用的程序走代理。
 
-若想通过插件来连接服务器，请到编辑服务器界面填入插件程序（相对路径或绝对路径）
+3. 多实例：如果想使用其它工具如 SwitchyOmega 管理多个服务器，可以启动多个 Shadowsocks。 为了避免配置产生冲突，把 Shadowsocks 复制到一个新目录里，并给它设置一个新的本地端口。
 
-注意： 在启用插件后，正向代理会被停用。
+4. 插件：若想通过插件来连接服务器，请到编辑服务器界面填入插件程序（相对路径或绝对路径）
+
+> 注意： 在启用插件后，正向代理会被停用。

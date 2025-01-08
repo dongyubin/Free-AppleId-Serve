@@ -34,7 +34,7 @@ Just My Socks 官网支持 `支付宝`、Paypal 及 银联卡付款，7天内不
 
 ### 官网界面预览
 
-![Just My Socks 官网](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271020621.webp)
+![Just My Socks 官网](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271020621.webp)
 
 ## Just My Socks 优惠码
 
@@ -90,7 +90,7 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 
 在上面的表格中选择合适的节点，点击 `优惠购买` 即可。
 
-![Just My Socks 年付套餐](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271020029.webp)
+![Just My Socks 年付套餐](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271020029.webp)
 
 在 `Choose Billing Cycle` 下拉菜单选择购买的时间：`$xx.xx USD Aunually`，表示按年付款。
 
@@ -115,11 +115,11 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 
 输入完优惠码后，点击 `Validate Code`
 
-![Just My Socks 优惠码购买](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271020892.webp)
+![Just My Socks 优惠码购买](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271020892.webp)
 
 如下图所示，这是已经使用了优惠码的，在价格那边显示了优惠了 $5.14 及折扣后的金额 $93.74。
 
-![搬瓦工机场优惠码](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271020792.webp)
+![搬瓦工机场优惠码](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271020792.webp)
 
 如果没什么问题，点击 `Checkout` 继续。
 
@@ -135,7 +135,7 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 >
 >选择支付方式为：Paypal（Paypal更安全）或 Alipay（支付宝）
 
-![Just My Socks 订单结算](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271020951.webp)
+![Just My Socks 订单结算](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271020951.webp)
 
 在上图中，`Country` 选项记得选择 `China`，然后付款方式可选择 `Alipay`（支付宝）。
 
@@ -153,7 +153,7 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 
 打开 [Just My Socks 官网](https://justmysocks6.net/members/aff.php?aff=31458)，在菜单中选择 `Services` > `My Services`，就可以看到你购买的产品信息，列表中的 **Status** 显示 `Active` 的，即为可用节点，如下图所示。
 
-![justmysocks可用节点列表](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271021402.webp)
+![justmysocks可用节点列表](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271021402.webp)
 
 点击这个 `Avtive` 的套餐进去就可以看到套餐的节点配置信息了，如下图所示，显示了该节点的所有信息。
 
@@ -161,7 +161,7 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 
 **注意：默认的SS/SSR加密方式为aes-256-gcm，aes-256-gcm加密方式必须使用 SS 客户端，SSR客户端不支持aes-256-gcm。如果想用SSR客户端，在界面上操作一下就可以自动把aes-256-gcm加密方式改为SSR客户端支持的aes-256-cfb。**
 
-![justmysocks节点信息](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271021932.webp)
+![justmysocks节点信息](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271021932.webp)
 
 <details>
 <summary>Just My Socks 菜单详细介绍</summary>
@@ -195,7 +195,7 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 
 在你购买完成节点后会为该套餐节点自动生成二维码信息，如相关客户端支持扫描二维码导入配置信息，就可以采用这种方法来配置节点，在后台节点信息找到选项 `DNS Link + QR` 选项，这个是使用 **域名作为服务器地址** 使用（推荐使用），点击进去就能看到链接和二维码，如下图所示。
 
-![justmysocks节点二维码](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271021917.webp)
+![justmysocks节点二维码](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271021917.webp)
 
 1. Just My Socks 节点链接
 
@@ -213,7 +213,7 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 
 Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只要复制订阅链接地址就可以在相关客户端自动配置，省去手动配置的烦恼，如下图所示，在后台节点信息找到选项 `Subscription` 选项，这里显示 `Application subscription` 下面的一串网址就是订阅链接。
 
-![justmysocks订阅链接](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271021898.webp)
+![justmysocks订阅链接](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271021898.webp)
 
 点击 **Copy** 按钮即可复制 **justmysocks 订阅链接**。
 
@@ -241,7 +241,7 @@ Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只
 
 在后台节点信息找到选项 `Servers` 选项，点击进去就能看到该节点的相关配置信息，如下图所示。
 
-![justmysocks服务器信息](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271021622.webp)
+![justmysocks服务器信息](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271021622.webp)
 
 1. 配置 Shadowsocks 服务器
 

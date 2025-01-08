@@ -10,7 +10,7 @@
 
 1. 点击桌面或开始菜单中安装好的的Clash Verge图标打开软件
 
-2. 点击一键导入
+2. 在 [付费机场](https://help.wwkejishe.top/free-shadowrocket#fu-fei-ji-chang)（[备用地址](https://github.com/dongyubin/Free-AppleId-Serve#%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90)） 已经购买好套餐，点击 [一键导入](https://help.wwkejishe.top/free-shadowrocket#fu-fei-ji-chang)
 
 3. 在弹出的提示框中点击红圈圈出的按钮即可导入订阅（该提示框可能于不同浏览器中有不同外观，本教程使用的是谷歌Chrome浏览器）
 

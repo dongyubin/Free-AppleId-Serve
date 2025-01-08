@@ -24,15 +24,15 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看[付费机场](#付费机场推荐)）
+TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看 [付费机场](#付费机场推荐)）
 
 - [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
 
 - [Skinny 手机卡](https://fk.wwkejishe.top/buy/13)（[常见问题指南](https://www.wangdu.site/fuliyouhui/2019.html)）：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（价格优惠，先到先得）
 
-- [2024年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
+- [2025年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
 
-- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2024年9月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2025年1月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
 
 ## 友情赞助
 
@@ -41,8 +41,8 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 ## 🔥推荐Ti子服务器
 
 - [Just My Socks 免搭建，直接使用富强服务👍](JustMySocks.md)（[国内可访问版本，有需要的可以收藏到书签里](https://help.wwkejishe.top/justmysocks)）
-- [2024年国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
-- [2024年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)（[RackNerd](https://www.wangdu.site/fuliyouhui/1266.html)、[CloudCone](https://www.wangdu.site/fuliyouhui/2115.html)、[EthernetServers](https://www.wangdu.site/fuliyouhui/2116.html)、[DMIT](https://www.wangdu.site/?golink=aHR0cHM6Ly93d3cuZG1pdC5pby9hZmYucGhwP2FmZj03OTUy) 多家VPS价格动态对比表格）
+- [2025年国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
+- [2025年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)（[RackNerd](https://www.wangdu.site/fuliyouhui/1266.html)、[CloudCone](https://www.wangdu.site/fuliyouhui/2115.html)、[EthernetServers](https://www.wangdu.site/fuliyouhui/2116.html)、[DMIT](https://www.wangdu.site/?golink=aHR0cHM6Ly93d3cuZG1pdC5pby9hZmYucGhwP2FmZj03OTUy) 多家VPS价格动态对比表格）
 
 <details>
   <summary>Just My Socks 懒人版（只需2步，轻松富强上网，点我展开）</summary>
@@ -98,7 +98,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ### 小火箭添加订阅链接
 
-![订阅](./images/20231122.png)
+![小火箭添加订阅链接图文教程](./images/20231122.png)
 
 ## Android手机APP推荐👍
 
@@ -108,7 +108,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 免费的看视频没问题，资金雄厚的可以300多购买2年的优惠
 
-![](https://b2.wwkejishe.top/WP-CDN-02/2023/202303071054112.jpg)
+![Panda（APP）](https://b2.wwkejishe.top/WP-CDN-02/2023/202303071054112.jpg)
 
 如果用着好用，请填写我的邀请码：**28712435**，让我为你的奖励发光发热
 
@@ -509,9 +509,9 @@ PS：最好月付，防止跑路！
 
 
 ### 使用教程
-![Apple Store切换账号](https://cdn.wwkejishe.top/wp-cdn-02/2023/202302060908426.webp)
+![Apple Store切换账号](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060908426.webp)
 
-![App Store下载Shadowrocket](https://cdn.wwkejishe.top/wp-cdn-02/2023/202302060909853.webp)
+![App Store下载Shadowrocket](https://b2.wwkejishe.top/WP-CDN-02/2023/202302060909853.webp)
 
 ## 客户端使用教程
 
@@ -522,33 +522,33 @@ PS：最好月付，防止跑路！
 
 1. 在 [付费机场](#付费机场推荐) 已经购买好套餐，下载v2rayN客户端 [点击下载](https://dl.flyingbird.vip/apps/v2rayn_win.zip) 下载后解压并运行 v2rayN.exe
 
-   ![解压并并运行v2rayN](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724231884.jpg)
+   ![解压并并运行v2rayN](https://b2.wwkejishe.top/WP-CDN-02/2024/202408211724231884.jpg)
 
 2. 登陆机场官网`复制SS通用订阅地址 / 导入Shadowrocket`
 
-   ![复制SS通用订阅地址](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724231933.png)
+   ![复制SS通用订阅地址](https://b2.wwkejishe.top/WP-CDN-02/2024/202408211724231933.png)
 
 3. 点击v2rayN订阅 --> 订阅设置 --> 添加订阅并确定
 
-   ![v2rayN订阅设置](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724231962.jpg)
+   ![v2rayN订阅设置](https://b2.wwkejishe.top/WP-CDN-02/2024/202408211724231962.jpg)
 
-   ![v2rayN添加订阅](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724231981.jpg)
+   ![v2rayN添加订阅](https://b2.wwkejishe.top/WP-CDN-02/2024/202408211724231981.jpg)
 
-   ![v2rayN订阅链接](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232001.jpg)
+   ![v2rayN订阅链接](https://b2.wwkejishe.top/WP-CDN-02/2024/202408211724232001.jpg)
 
 4. 更新订阅 --> 得到服务器节点
 
-   ![v2rayN更新订阅](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232069.jpg)
+   ![v2rayN更新订阅](https://b2.wwkejishe.top/WP-CDN-02/2024/202408211724232069.jpg)
 
-   ![v2rayN显示节点](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232082.jpg)
+   ![v2rayN显示节点](https://b2.wwkejishe.top/WP-CDN-02/2024/202408211724232082.jpg)
 
 5. 选择节点并回车选中
 
-   ![v2rayN选择节点](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232154.jpg)
+   ![v2rayN选择节点](https://b2.wwkejishe.top/WP-CDN-02/2024/202408211724232154.jpg)
 
 6. 在电脑右下角任务栏开启你的代理并尽情享用高速网络
 
-   ![v2rayN开启代理](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408211724232172.png)
+   ![v2rayN开启代理](https://b2.wwkejishe.top/WP-CDN-02/2024/202408211724232172.png)
 
 </details>
 
@@ -559,21 +559,21 @@ PS：最好月付，防止跑路！
 
 1. 在 [付费机场](#付费机场推荐) 已经购买好套餐，下载Clash客户端 [点击下载](https://dl.flyingbird.vip/apps/clash_win.zip) 并解压运行 Clash for Windows.exe
 
-   ![Clash for Windows](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290871.png)
+   ![Clash for Windows](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290871.png)
 
 2. 打开机场官网，点击`一键导入Clash配置`
 
-   ![机场便捷导入Clash for Windows](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290900.png)
+   ![机场便捷导入Clash for Windows](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290900.png)
 
-   ![Clash for Windows Profile](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290952.png)
+   ![Clash for Windows Profile](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290952.png)
 
 3. 导入后选 Proxies，并选择 Rule 模式和节点
 
-   ![Clash for Windows Proxies Rule模式](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290965.png)
+   ![Clash for Windows Proxies Rule模式](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290965.png)
 
 4. 选 General 并启用系统代理，尽情享受高速上网
 
-   ![Clash for Windows启动系统代理](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290994.png)
+   ![Clash for Windows启动系统代理](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290994.png)
 
 </details>
 
@@ -612,31 +612,31 @@ PS：最好月付，防止跑路！
 
 2. 打开机场官网，点击`一键导入ClashX配置`
 
-   ![机场电脑导入ClashX配置](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289948.png)
+   ![机场电脑导入ClashX配置](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724289948.png)
 
 3. 点击`一键导入Clash/ClashX配置`后会跳出上面对话框，然后点OK
 
-   ![ClashX导入配置](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290017.png)
+   ![ClashX导入配置](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290017.png)
 
 4. 软件会自动加载订阅，当你看到上面的日期后就是导入成功，然后关掉就可以了。
 
-   ![ClashX Remote Configs](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290054.png)
+   ![ClashX Remote Configs](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290054.png)
 
 5. 在你电脑的最顶上状态栏里会出现 ClashX Pro 的图标，如果没看到这处图标就是你开太多东西了，关掉一些应用程序，直到你看到这个图标。
 
-   ![ClashX Pro 图标](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290090.png)
+   ![ClashX Pro 图标](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290090.png)
 
 6. 选择 Rule 模式
 
-   ![ClashX选择Rule模式](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290201.png)
+   ![ClashX选择Rule模式](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290201.png)
 
 7. 选择节点
 
-   ![ClashX选择节点](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290206.png)
+   ![ClashX选择节点](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290206.png)
 
 8. 启动系统代理！到这一步你就可以正常浏览器代理上网了。如果你想让整台电脑所有的应用都开启代理，可以把下面的Enhanced Mode也打勾就可以了。
 
-   ![ClashX启动系统代理](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290224.png)
+   ![ClashX启动系统代理](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724290224.png)
 
 </details>
 
@@ -647,25 +647,25 @@ PS：最好月付，防止跑路！
 
 1. 在 [付费机场](#付费机场推荐) 已经购买好套餐，下载安卓Android-Clash [点击下载](https://dl.flyingbird.vip/apps/clash_android.apk) ，安装并启动
 
-   ![启动 Android Clash](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289502.png)
+   ![启动 Android Clash](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724289502.png)
 
 2. 打开机场官网，点击`一键导入Clash配置`
 
-   ![机场便捷导入](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289572.png)
+   ![机场便捷导入](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724289572.png)
 
-   ![Clash导入配置文件](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289607.png)
+   ![Clash导入配置文件](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724289607.png)
 
 3. 选择配置并激活机场配置
 
-   ![Clash配置机场](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289722.png)
+   ![Clash配置机场](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724289722.png)
 
-   ![Clash选择机场](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408281724833565.png)
+   ![Clash选择机场](https://b2.wwkejishe.top/WP-CDN-02/2024/202408281724833565.png)
 
 4. 运行代理并选择节点，享受高速上网
 
-   ![Clash启动代理](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289751.png)
+   ![Clash启动代理](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724289751.png)
 
-   ![Clash代理节点](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724289757.png)
+   ![Clash代理节点](https://b2.wwkejishe.top/WP-CDN-02/2024/202408221724289757.png)
 
 </details>
 
