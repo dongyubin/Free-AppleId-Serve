@@ -12,6 +12,8 @@
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
 1. [付费机场](#付费机场推荐)
    - FlyingBird 新春活动开启咯！（低至5.6折限时开起！赶紧上车！）
+   - YepFast 新春活动开启
+   - 鹿语云 新春活动开启
 
 ## 目录导航
 
@@ -391,6 +393,12 @@ PS：最好月付，防止跑路！
 - 备用网址：[YepFast](https://panel.yepfast.cc/#/auth/signup;referral=G8n2THKO)
 - 备用网址：[YepFast](https://panel.yepfast.xyz/#/auth/signup;referral=G8n2THKO)
 
+> 1. 月/季付85折，优惠码：`yep85`（可重复使用3次）
+>
+> 2. 半年/年付8折，优惠码：`yep8`（可重复使用3次）
+>
+> 活动有效期：即日起至 2025/02/12 23:59
+
 套餐：
 
 - 10元/月（年付￥99）
@@ -418,6 +426,11 @@ PS：最好月付，防止跑路！
 [鹿语云](https://鹿语云.com/register?code=CZoLVxMH)：注册即送3天5G流量试用（稳定极速，20+节点，全节点IEPL专线，全节点流媒体解锁，全节点支持ChatGPT等AI工具，海外团队，安全可靠）
 
 - 备用地址：[鹿语云](https://luyuyun.com/register?code=CZoLVxMH)
+
+>1. 月/季付85折，优惠码：`newyear85`（可重复使用3次）
+>2. 半年/年付8折，优惠码：`newyear8`（可重复使用3次）
+>
+>即日起至 2025/02/12 23:59
 
 套餐
 
@@ -476,7 +489,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭账号
 
 <!-- updateTime starts -->
-更新时间：**2025年1月7日 15:19:38**
+更新时间：**2025年1月21日 15:19:38**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
