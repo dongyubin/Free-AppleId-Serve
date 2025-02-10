@@ -291,7 +291,7 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 ### 免费机场
 
-- [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，白嫖码：`2025年一起加油`
+- [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，白嫖码：`喷火龙`
 
 ### 免费clash订阅链接
 
@@ -489,7 +489,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭账号
 
 <!-- updateTime starts -->
-更新时间：**2025年1月21日 15:19:38**
+更新时间：**2025年2月10日 09:26:47**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
