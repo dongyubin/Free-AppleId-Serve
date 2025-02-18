@@ -30,7 +30,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 - [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
 
-- [Skinny 手机卡](https://fk.wwkejishe.top/buy/13)（[常见问题指南](https://www.wangdu.site/fuliyouhui/2019.html)）：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（价格优惠，先到先得）
+- [Skinny 手机卡](https://fk.wangdu.site/buy/13)（[常见问题指南](https://www.wangdu.site/fuliyouhui/2019.html)）：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（价格优惠，先到先得）
 
 - [2025年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
 
@@ -161,8 +161,8 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 |                          客户端名称                          |             支持系统             | 最后更新时间 |
 | :----------------------------------------------------------: | :------------------------------: | :----------: |
-| [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费（$2.99)，美区（[点击购买小火箭永久账号](https://fk.wwkejishe.top/buy/6)）👍 |          iOS、Apple TV           |     2024     |
-| [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费（$7.99），美区（[点击购买Quantumult X永久账号](https://fk.wwkejishe.top/buy/11)） |       MacOS、iOS、Apple TV       |     2024     |
+| [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费（$2.99)，美区（[点击购买小火箭永久账号](https://fk.wangdu.site/buy/6)）👍 |          iOS、Apple TV           |     2024     |
+| [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费（$7.99），美区（[点击购买Quantumult X永久账号](https://fk.wangdu.site/buy/11)） |       MacOS、iOS、Apple TV       |     2024     |
 | [Loon on the App Store](https://apps.apple.com/us/app/loon/id1373567447?platform=iphone)：收费（$5.99），美区 |          iOS、Apple TV           |     2024     |
 | [Stash on the App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=iphone)：收费（$3.99），美区 |          iOS、Apple TV           |     2024     |
 | [Choc on the App Store](https://apps.apple.com/us/app/choc/id1582542227)：收费（$2.99），美区 |               iOS                |     2022     |
@@ -256,8 +256,8 @@ Clash 是一款开源的跨平台代理工具，主要用于帮助用户科学�
 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) |                            MacOS                             |         | ✅     |       |      |           |         |        |     2019     |
 | [shadowsocksr(SSR)](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) |                           Windows                            | ✅       |       |       |      |           |         |        |     2019     |
 |                                                              |                             其他                             |         |       |       |      |           |         |        |              |
-| [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费（$2.99)，美区（[点击购买小火箭永久账号](https://fk.wwkejishe.top/buy/6)）👍 |                        iOS、Apple TV                         |         |       |       | ✅    | ✅         |         |        |     2024     |
-| [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费（$7.99），美区（[点击购买Quantumult X永久账号](https://fk.wwkejishe.top/buy/11)） |                     MacOS、iOS、Apple TV                     |         | ✅     |       | ✅    | ✅         |         |        |     2024     |
+| [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费（$2.99)，美区（[点击购买小火箭永久账号](https://fk.wangdu.site/buy/6)）👍 |                        iOS、Apple TV                         |         |       |       | ✅    | ✅         |         |        |     2024     |
+| [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费（$7.99），美区（[点击购买Quantumult X永久账号](https://fk.wangdu.site/buy/11)） |                     MacOS、iOS、Apple TV                     |         | ✅     |       | ✅    | ✅         |         |        |     2024     |
 | [Loon on the App Store](https://apps.apple.com/us/app/loon/id1373567447?platform=iphone)：收费（$5.99），美区 |                        iOS、Apple TV                         |         |       |       | ✅    | ✅         |         |        |     2024     |
 | [Stash on the App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=iphone)：收费（$3.99），美区 |                        iOS、Apple TV                         |         |       |       | ✅    | ✅         |         |        |     2024     |
 |     [Surge](https://nssurge.com/)：收费（$49.99），美区      |                          MacOS、iOS                          |         | ✅     |       | ✅    |           |         |        |     2024     |
@@ -485,9 +485,9 @@ PS：最好月付，防止跑路！
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
-1. 美区AppleID成品账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wwkejishe.top/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
+1. 美区AppleID成品账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wangdu.site/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
 2. 共享账号容易失效，需要稳定的可购买成品账号
-3. 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://fk.wwkejishe.top/buy/7)下载（租用仅需 ¥3），租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
+3. 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://fk.wangdu.site/buy/7)下载（租用仅需 ¥3），租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
 
 <!-- apple starts -->
 
