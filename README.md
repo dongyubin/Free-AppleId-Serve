@@ -7,13 +7,13 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
+更新日期：**2025年2月18日**
+
 ## 活动通知
 
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
 1. [付费机场](#付费机场推荐)
    - FlyingBird 新春活动开启咯！（低至5.6折限时开起！赶紧上车！）
-   - YepFast 新春活动开启
-   - 鹿语云 新春活动开启
 
 ## 目录导航
 
@@ -34,7 +34,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 - [2025年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
 
-- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2025年1月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2025年2月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
 
 ## 友情赞助
 
@@ -393,12 +393,6 @@ PS：最好月付，防止跑路！
 - 备用网址：[YepFast](https://panel.yepfast.cc/#/auth/signup;referral=G8n2THKO)
 - 备用网址：[YepFast](https://panel.yepfast.xyz/#/auth/signup;referral=G8n2THKO)
 
-> 1. 月/季付85折，优惠码：`yep85`（可重复使用3次）
->
-> 2. 半年/年付8折，优惠码：`yep8`（可重复使用3次）
->
-> 活动有效期：即日起至 2025/02/12 23:59
-
 套餐：
 
 - 10元/月（年付￥99）
@@ -426,11 +420,6 @@ PS：最好月付，防止跑路！
 [鹿语云](https://鹿语云.com/register?code=CZoLVxMH)：注册即送3天5G流量试用（稳定极速，20+节点，全节点IEPL专线，全节点流媒体解锁，全节点支持ChatGPT等AI工具，海外团队，安全可靠）
 
 - 备用地址：[鹿语云](https://luyuyun.com/register?code=CZoLVxMH)
-
->1. 月/季付85折，优惠码：`newyear85`（可重复使用3次）
->2. 半年/年付8折，优惠码：`newyear8`（可重复使用3次）
->
->即日起至 2025/02/12 23:59
 
 套餐
 
@@ -486,10 +475,10 @@ PS：最好月付，防止跑路！
 - 请知悉无退款服务
 
 
-## Shadowrocket小火箭账号
+## Shadowrocket小火箭共享账号
 
 <!-- updateTime starts -->
-更新时间：**2025年2月10日 09:26:47**
+更新时间：**2025年2月18日 09:26:47**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
@@ -512,7 +501,7 @@ PS：最好月付，防止跑路！
 
 **🔴️ 使用免费共享苹果账号必须从 App Store 登录，千万不要登录「iCloud」，否则可能导致锁机或者隐私泄漏！**
 
-- [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket、stash、Quantumult X、不带收费App的美区账号、台湾区、日本区、韩国区、香港区账号
+- [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket的美区账号、台湾区、日本区、韩国区、香港区、英国区、土耳其区账号
 - [最新小火箭账号/已购shadowrocket id共享Apple ID](https://shenhouyun.com/ios/)
 - [宝盒](https://ccbaohe.com/appleID/)
 - [id宝](https://idbao.vip/)：里面有美国、香港、国区、日本、台湾、韩国账号，需要Q群获取暗号来获取

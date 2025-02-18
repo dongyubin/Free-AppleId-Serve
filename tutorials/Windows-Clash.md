@@ -1,6 +1,6 @@
 # Windows-Clash使用教程
 
-1. 在 [付费机场](https://help.wwkejishe.top/free-shadowrocket#fu-fei-ji-chang)（[备用地址](https://github.com/dongyubin/Free-AppleId-Serve#%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90)）已经购买好套餐，下载Clash客户端 [点击下载](https://dl.flyingbird.vip/apps/clash_win.zip) 并解压运行 Clash for Windows.exe
+1. 在 [付费机场](https://help.wwkejishe.top/free-shadowrocket#fu-fei-ji-chang)（[备用地址](https://github.com/dongyubin/Free-AppleId-Serve#%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90)）已经购买好套餐，下载Clash客户端 并解压运行 [Clash for Windows.exe](https://pan.quark.cn/s/b591ae08d08b)
 
    ![Clash for Windows](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408221724290871.png)
 
