@@ -7,7 +7,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年2月25日**
+更新日期：**2025年2月28日**
 
 ## 活动通知
 
@@ -289,15 +289,12 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 ### 免费机场
 
-- [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，白嫖码：`喷火龙`
+- [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，3月白嫖码：`妙蛙种子`
 
 ### 免费clash订阅链接
 
 其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建
 
-- Clash：`https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3`
-  - 订阅流量：1000 GB
-  - 到期时间：2025-02-23 23:29:43
 - Clash 订阅链接：`https://fsc.jiediandingyuejiji.homes/answer/land?token=e02a3d82b890063289349d7e6dbe660e`
   - 总流量：100.00GB
   - 该订阅将于 2025-12-11 22:07:51 +0000 UTC 过期,距离到期还有 364天14小时34分12秒
@@ -469,7 +466,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭共享账号
 
 <!-- updateTime starts -->
-更新时间：**2025年2月25日 09:26:47**
+更新时间：**2025年2月28日 09:26:47**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
@@ -486,7 +483,7 @@ PS：最好月付，防止跑路！
 
 ### 共享苹果ID站点
 
-![2024年最新iOS免费小火箭ShadowRocket共享账号](images/shadowrocket-shared-account.webp)
+![2025年最新iOS免费小火箭ShadowRocket共享账号](images/shadowrocket-shared-account.webp)
 
 此为第三方站长，只做分享，不保证质量安全，不解决使用中出现的问题
 
