@@ -7,12 +7,12 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年4月22日**
+更新日期：**2025年4月28日**
 
 ## 活动通知
 
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
-   - [FlyingBird](#付费机场推荐)：**五一活动底至5.6折劲爆开启，赶紧上车！**
+   - [FlyingBird](#付费机场推荐)、YepFast、鹿语云：**五一活动底至5.6折劲爆开启，赶紧上车！**
 
 ## 目录导航
 
@@ -388,6 +388,13 @@ PS：最好月付，防止跑路！
 - 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
 - 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
 
+>活动时间：即日起至2025年5月6日
+>
+>⭐️ 活动内容：
+>
+>- 月/季/半年付85折，优惠码：`94UQNAV4`
+>- 年付8折，优惠码：`jmUGMlR4`
+
 套餐：
 
 - 10元/月（年付￥99）
@@ -415,6 +422,11 @@ PS：最好月付，防止跑路！
 [鹿语云](https://鹿语云.com/register?code=CZoLVxMH)：（稳定极速，20+节点，全节点IEPL专线，全节点流媒体解锁，全节点支持ChatGPT等AI工具，海外团队，安全可靠）
 
 - 备用地址：[鹿语云](https://luyuyun.com/register?code=CZoLVxMH)
+
+>- 月/季/半年付85折，优惠码：`q6FCCfLB`
+>- 年付8折，优惠码：`LkR1aEiF`
+>
+>活动有效期： 即日起至2025/05/06 23:59
 
 套餐
 
@@ -473,7 +485,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭共享账号
 
 <!-- updateTime starts -->
-更新时间：**2025年4月22日 09:26:47**
+更新时间：**2025年4月28日 09:26:47**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
