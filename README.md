@@ -7,12 +7,12 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年5月8日**
+更新日期：**2025年5月15日**
 
 ## 活动通知
 
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
-   - [FlyingBird](#付费机场推荐)、YepFast、鹿语云：**五一活动底至5.6折劲爆开启，赶紧上车！**
+   - [FlyingBird](#付费机场推荐)：**五一活动底至5.6折劲爆开启，赶紧上车！**
 
 ## 目录导航
 
@@ -160,7 +160,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 |                          客户端名称                          |             支持系统             | 最后更新时间 |
 | :----------------------------------------------------------: | :------------------------------: | :----------: |
-| [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费（$2.99)，美区（[点击购买小火箭永久账号](https://fk.wangdu.site/buy/6)）👍 |          iOS、Apple TV           |     2024     |
+| [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费（$2.99)，美区（[点击购买小火箭永久账号](https://fk.wangdu.site/buy/6)）👍 |          iOS、Apple TV           |     2025     |
 | [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费（$7.99），美区（[点击购买Quantumult X永久账号](https://fk.wangdu.site/buy/11)） |       MacOS、iOS、Apple TV       |     2024     |
 | [Loon on the App Store](https://apps.apple.com/us/app/loon/id1373567447?platform=iphone)：收费（$5.99），美区 |          iOS、Apple TV           |     2024     |
 | [Stash on the App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=iphone)：收费（$3.99），美区 |          iOS、Apple TV           |     2024     |
@@ -175,10 +175,11 @@ Clash 是一款开源的跨平台代理工具，主要用于帮助用户科学�
 
 |                          客户端名称                          |            支持系统            | 最后更新时间 |
 | :----------------------------------------------------------: | :----------------------------: | :----------: |
-| [clash-verge新版👍🏻](https://github.com/clash-verge-rev/clash-verge-rev)（[新版下载地址](https://clash-verge-rev.github.io/install.html)） |     Windows、MacOS、Linux      |     2024     |
-| [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) |     Windows、MacOS、Linux      |     2024     |
-| [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)（[安装指南](https://gui-for-cores.github.io/zh/guide/01-install)） |     Windows、MacOS、Linux      |     2024     |
-|       [FlClash](https://github.com/chen08209/FlClash)        | Windows、MacOS、Linux、Android |     2024     |
+|       [FlyClash](https://github.com/GtxFury/FlyClash)        |            Windows             |     2025     |
+| [clash-verge新版👍🏻](https://github.com/clash-verge-rev/clash-verge-rev)（[新版下载地址](https://clash-verge-rev.github.io/install.html)） |     Windows、MacOS、Linux      |     2025     |
+| [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) |     Windows、MacOS、Linux      |     2025     |
+| [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)（[安装指南](https://gui-for-cores.github.io/zh/guide/01-install)） |     Windows、MacOS、Linux      |     2025     |
+|       [FlClash](https://github.com/chen08209/FlClash)        | Windows、MacOS、Linux、Android |     2025     |
 | [mihomo-party](https://github.com/pompurin404/mihomo-party?tab=readme-ov-file) |     Windows、MacOS、Linux      |     2024     |
 | [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) |             MacOS              |     2023     |
 | [Clash](https://github.com/Fndroid/clash_for_windows_pkg)(已删库：20231103)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[备份版本：0.20.39](https://app.nloli.xyz/static/Clash.for.Windows.Setup.0.20.39.exe)、[备份](https://archive.org/details/clash_for_windows_pkg)、[clash for windows 中文汉化备份](https://github.com/clash-hub/clash_for_windows_chinese/releases)、[clash_for_windows_pkg](https://github.com/lantongxue/clash_for_windows_pkg/releases) |            Windows             |     2022     |
@@ -509,7 +510,6 @@ PS：最好月付，防止跑路！
 - [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket的美区账号、台湾区、日本区、韩国区、香港区、英国区、土耳其区账号
 - [最新小火箭账号/已购shadowrocket id共享Apple ID](https://shenhouyun.com/ios/)
 - [宝盒](https://ccbaohe.com/appleID/)
-- [id宝](https://idbao.vip/)：里面有美国、香港、国区、日本、台湾、韩国账号，需要Q群获取暗号来获取
 - [AneeoApple](https://ios.aneeo.com/books/verification)：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取
 
 
