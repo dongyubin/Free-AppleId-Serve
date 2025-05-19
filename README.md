@@ -7,12 +7,12 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年5月15日**
+更新日期：**2025年5月19日**
 
 ## 活动通知
 
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
-   - [FlyingBird](#付费机场推荐)：**五一活动底至5.6折劲爆开启，赶紧上车！**
+   - [FlyingBird](#付费机场推荐)：**618超值购低至5.6折劲爆开启，赶紧上车！**
 
 ## 目录导航
 
@@ -356,11 +356,10 @@ PS：最好月付，防止跑路！
 
 - 备用网址: [FlyingBird](https://web02.fbcn.pro/auth/register?code=jvQ5)
 
->1: 月/季/半年付 85折 , 优惠码：`fb255185` 可重复使用5次
+>1: 月/季/半年付 85折 , 优惠码：`fb2561885` （可重复使用5次）
+>2: 年付8折（站内折上折，高达64折 ）优惠码：`fb2561880`（可重复使用5次）
 >
->2: 年付8折（站内折上折，高达64折 ）优惠码：`fb255180` 可重复使用5次
->
->活动时间：即日至2025年5月16日23点59分
+>活动时间：即日至2025年6月20日23点59分
 
 套餐：
 
