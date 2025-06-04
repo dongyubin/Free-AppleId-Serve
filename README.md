@@ -7,12 +7,12 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年5月29日**
+更新日期：**2025年6月4日**
 
 ## 活动通知
 
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
-   - [FlyingBird](#付费机场推荐)、YepFast：**618超值购低至5.6折劲爆开启，赶紧上车！**
+   - [FlyingBird](#付费机场推荐)：**618超值购低至5.6折劲爆开启，赶紧上车！**
 
 ## 目录导航
 
@@ -27,13 +27,11 @@
 
 TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看 [付费机场](#付费机场推荐)）
 
-- [福利：免费领取京豆](https://www.wangdu.site/software/950.html)
-
-- [Skinny 手机卡](https://fk.wangdu.site/buy/13)（[常见问题指南](https://www.wangdu.site/fuliyouhui/2019.html)）：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（价格优惠，先到先得）
+- [Skinny 手机卡](https://fk.wangdu.site/buy/13)（[常见问题指南](https://www.wangdu.site/fuliyouhui/2019.html)）：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（国内现货，价格优惠，先到先得）
 
 - [2025年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
 
-- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2025年5月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2025年6月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
 
 ## 友情赞助
 
@@ -291,19 +289,13 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 ### 免费机场
 
-- [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，5月白嫖码：`呆河马`
+- [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，6月白嫖码：`喵喵`
 
 ### 免费clash订阅链接
 
 其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建
 
-- Clash 订阅链接：`https://fsc.jiediandingyuejiji.homes/answer/land?token=e02a3d82b890063289349d7e6dbe660e`
-  - 总流量：100.00GB
-  - 该订阅将于 2025-12-11 22:07:51 +0000 UTC 过期,距离到期还有 364天14小时34分12秒
-- Clash订阅地址（2024年12月12日）：`https://dawson0207.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=2593bfa3291f0eac52bbdad81e4f93f9`
-  - 总流量：200.00GB
-  - 该订阅将于 2025-10-29 04:07:04 +0000 UTC 过期,距离到期还有 320天20小时33分8秒
-- Clash 订阅地址：`http://777.hz.cz/Clash-11041936.yaml`
+- `https://url.v1.mk/sub?target=clash&url=vless%3A%2F%2Fbm9uZTo3MmQ2Y2YxZC0yNGJkLTQxMGMtOWRhYi0yMzFlZjM4MTY5ZjlAMTA3LjE3NC4xNzIuMTg1OjEzMTUw%3Fremarks%3Dvl-reality-racknerd-e100504%26tls%3D1%26peer%3Dwww.yahoo.com%26xtls%3D2%26pbk%3DqyS7oCgaNf05SBAH4WYYp_kkivkDz1aF8oMPiV9QPBc%26sid%3D84aa8b34&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true`
 
 
 ### 免费VLESS账号
@@ -386,17 +378,6 @@ PS：最好月付，防止跑路！
 - 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
 - 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
 
->⭐️ **活动时间：**即日起至2025年6月3日
->⭐️ **活动内容：**
->
->- 全场85折优惠码：`yep85`
->- 全场限时免支付手续费
->
->⭐️ **活动说明：**
->
->1. 月付升级季付/年付套餐会自动折抵金额；
->2. 优惠码请在2025年6月4日前使用，过期将自动失效。
-
 套餐：
 
 - 10元/月（年付￥99）
@@ -424,11 +405,6 @@ PS：最好月付，防止跑路！
 [鹿语云](https://鹿语云.com/register?code=CZoLVxMH)：（稳定极速，20+节点，全节点IEPL专线，全节点流媒体解锁，全节点支持ChatGPT等AI工具，海外团队，安全可靠）
 
 - 备用地址：[鹿语云](https://luyuyun.com/register?code=CZoLVxMH)
-
->- 月/季/半年付85折，优惠码：`q6FCCfLB`
->- 年付8折，优惠码：`LkR1aEiF`
->
->活动有效期： 即日起至2025/05/06 23:59
 
 套餐
 
@@ -484,19 +460,20 @@ PS：最好月付，防止跑路！
 - 请知悉无退款服务
 
 
-## Shadowrocket小火箭共享账号
+## Shadowrocket小火箭共享账号（博主自维护）
 
 <!-- updateTime starts -->
-更新时间：**2025年4月28日 09:26:47**
+更新时间：**2025年6月4日 10:43:26**
 <!-- updateTime ends -->
 
-[小火箭共享账号每日更新](https://ios.wwkejishe.top/)（博主自维护）
+[小火箭共享账号每日更新](https://ios.wwkejishe.top/)
 
-注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
+注意：**切勿在设置登陆iCloud账号！！切勿在设置登陆iCloud账号！！以防锁机！！不要点升级！不要点升级！不要点升级！**
 
 1. 美区AppleID成品账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wangdu.site/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
 2. 共享账号容易失效，需要稳定的可购买成品账号
 3. 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://fk.wangdu.site/buy/7)下载（租用仅需 ¥3），租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
+4. [美国 | 下载号 稳定老号 未激活iCloud](https://fk.wwkejishe.top/buy/9)、[日本 | 下载号 稳定老号 未激活iCloud](https://fk.wwkejishe.top/buy/30)
 
 <!-- apple starts -->
 
