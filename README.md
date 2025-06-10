@@ -144,7 +144,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------: |
 |   [Pandora-Box](https://github.com/snakem982/Pandora-Box)    |                    Windows、MacOS、Linux                     |     2025     |
 | [mihomo-party](https://github.com/mihomo-party-org/mihomo-party) |                    Windows、MacOS、Linux                     |     2025     |
-| [karing](https://github.com/KaringX/karing)：兼容 Clash、V2ray/V2fly、Sing-box、Shadowsocks、Sub、Github 订阅 | [Win](https://github.com/KaringX/karing/releases/latest)、[Mac](https://apps.apple.com/us/app/karing/id6472431552)、[Android](https://github.com/KaringX/karing/releases/latest)、[iOS](https://apps.apple.com/us/app/karing/id6472431552) |     2025     |
+| [karing](https://github.com/KaringX/karing)：兼容 Clash、V2ray/V2fly、Sing-box、Shadowsocks、Sub、Github 订阅（[使用教程](https://karing.app/quickstart)） | [Win](https://github.com/KaringX/karing/releases/latest)、[Mac](https://apps.apple.com/us/app/karing/id6472431552)、[Android](https://github.com/KaringX/karing/releases/latest)、[iOS](https://apps.apple.com/us/app/karing/id6472431552) |     2025     |
 |       [sing-box](https://github.com/SagerNet/sing-box)       | [MacOS、iOS](https://sing-box.sagernet.org/zh/clients/apple/)（需要美区账号：[Apple Store注册外国Apple ID教程](https://www.wangdu.site/course/705.html)）、[Android](https://sing-box.sagernet.org/zh/clients/android/) |     2025     |
 | [Hiddify](https://github.com/hiddify/hiddify-next)（[官网地址](https://hiddify.com/)）：全面的协议支持：Vless、Vmess、Reality、TUIC、Wireguard、Hysteria、SSH；多种订阅链接和配置文件格式支持： Sing-box、V2ray、Clash、Clash meta |             Windows、MacOS、Linux、Android、iOS              |     2025     |
 |                                                              |                             其他                             |              |
@@ -178,6 +178,7 @@ Clash 是一款开源的跨平台代理工具，主要用于帮助用户科学�
 | [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) |     Windows、MacOS、Linux      |     2025     |
 | [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)（[安装指南](https://gui-for-cores.github.io/zh/guide/01-install)） |     Windows、MacOS、Linux      |     2025     |
 |       [FlClash](https://github.com/chen08209/FlClash)        | Windows、MacOS、Linux、Android |     2025     |
+| [Clash Mi](https://clashmi.app/download)（[使用教程](https://clashmi.app/guide/)） |   iOS、MacOS、Android、Linux   |     2025     |
 | [mihomo-party](https://github.com/pompurin404/mihomo-party?tab=readme-ov-file) |     Windows、MacOS、Linux      |     2024     |
 | [ClashX Pro👍🏻](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) |             MacOS              |     2023     |
 | [Clash](https://github.com/Fndroid/clash_for_windows_pkg)(已删库：20231103)、[Clash汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)、[备份版本：0.20.39](https://app.nloli.xyz/static/Clash.for.Windows.Setup.0.20.39.exe)、[备份](https://archive.org/details/clash_for_windows_pkg)、[clash for windows 中文汉化备份](https://github.com/clash-hub/clash_for_windows_chinese/releases)、[clash_for_windows_pkg](https://github.com/lantongxue/clash_for_windows_pkg/releases) |            Windows             |     2022     |
@@ -463,7 +464,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭共享账号（博主自维护）
 
 <!-- updateTime starts -->
-更新时间：**2025年6月4日 10:43:26**
+更新时间：**2025年6月10日 10:43:26**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
