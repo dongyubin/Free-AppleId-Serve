@@ -7,7 +7,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年6月4日**
+更新日期：**2025年6月16日**
 
 ## 活动通知
 
@@ -381,12 +381,12 @@ PS：最好月付，防止跑路！
 
 套餐：
 
-- 10元/月（年付￥99）
-- 150G 流量/月
-- 20+ 椰汁畅享中继线路
-- 解锁 Netflix、Disney+、ChatGPT
-- 不限设备数量，不保证带宽速度
-- 每月购买日免费重置流量
+- 11.9元/月（年付￥120）
+- 160G 流量/月
+- 40+ 椰汁畅享中继线路
+- 支持港澳台及国外地区使用
+- 完美使用海外流媒体 及 AI 服务
+- 不限本人设备数，最高500Mbps速率
 
 <details>
   <summary>YepFast测速图&解锁图</summary>
