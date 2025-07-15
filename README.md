@@ -269,16 +269,6 @@ Clash 是一款开源的跨平台代理工具，主要用于帮助用户科学�
 
 </details>
 
-## 其他教程
-
-- [使用不限流量的cloudflare VPN并且自选IP](https://duangks.com/archives/124/)：需要富强
-- [WARP-Clash-API👍](https://github.com/vvbbnn00/WARP-Clash-API)：该项目可以让你通过订阅的方式使用 Cloudflare WARP+，自动获取流量（[在线服务](https://tofree.zeabur.app/)：支持Clash、Surge、Shadowrocket）
-- [使用Github Action搭建全自动永久免费获取机场节点/订阅](https://linux.do/t/topic/96234)
-
-## 机场测速
-
-[DuyaoSS](https://www.duyaoss.com/)
-
 ## 免费机场、节点
 
 PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点) 转为符合自己客户端的链接
@@ -705,6 +695,16 @@ Cloudflare WARP 是一种由Cloudflare推出的网络加速和安全服务，旨
    ![img](https://img.ccbaohe.com/19663c547ea146e665d2041f72d74209.jpg)
 
 </details>
+
+## 其他教程
+
+- [使用不限流量的cloudflare VPN并且自选IP](https://duangks.com/archives/124/)：需要富强
+- [WARP-Clash-API👍](https://github.com/vvbbnn00/WARP-Clash-API)：该项目可以让你通过订阅的方式使用 Cloudflare WARP+，自动获取流量（[在线服务](https://tofree.zeabur.app/)：支持Clash、Surge、Shadowrocket）
+- [使用Github Action搭建全自动永久免费获取机场节点/订阅](https://linux.do/t/topic/96234)
+
+## 机场测速
+
+[DuyaoSS](https://www.duyaoss.com/)
 
 ## ChatGPT免费服务
 
