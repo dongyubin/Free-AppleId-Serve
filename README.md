@@ -158,7 +158,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 |                          客户端名称                          |             支持系统             | 最后更新时间 |
 | :----------------------------------------------------------: | :------------------------------: | :----------: |
 | [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费（$2.99)，美区（[点击购买小火箭永久账号](https://fk.wangdu.site/buy/6)）👍 |          iOS、Apple TV           |     2025     |
-| [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费（$7.99），美区（[点击购买Quantumult X永久账号](https://fk.wangdu.site/buy/11)） |       MacOS、iOS、Apple TV       |     2024     |
+| [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费（$7.99），美区（[点击购买Quantumult X永久账号](https://fk.wangdu.site/buy/11)） |       MacOS、iOS、Apple TV       |     2025     |
 | [Loon on the App Store](https://apps.apple.com/us/app/loon/id1373567447?platform=iphone)：收费（$5.99），美区 |          iOS、Apple TV           |     2024     |
 | [Stash on the App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=iphone)：收费（$3.99），美区 |          iOS、Apple TV           |     2024     |
 | [Choc on the App Store](https://apps.apple.com/us/app/choc/id1582542227)：收费（$2.99），美区 |               iOS                |     2022     |
@@ -289,13 +289,11 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 ### 免费机场
 
-- [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，6月白嫖码：`喵喵`
+- [宝可梦](https://web3.52pokemon.cc/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，7月白嫖码：`可达鸭`
 
 ### 免费clash订阅链接
 
 其他客户端可通过[在线订阅转换链接](#免费机场如何转为小火箭shadowrocket节点)自行转换，喜欢折腾的可以通过 [教程](#其他教程) 自行搭建
-
-- `https://url.v1.mk/sub?target=clash&url=vless%3A%2F%2Fbm9uZTo3MmQ2Y2YxZC0yNGJkLTQxMGMtOWRhYi0yMzFlZjM4MTY5ZjlAMTA3LjE3NC4xNzIuMTg1OjEzMTUw%3Fremarks%3Dvl-reality-racknerd-e100504%26tls%3D1%26peer%3Dwww.yahoo.com%26xtls%3D2%26pbk%3DqyS7oCgaNf05SBAH4WYYp_kkivkDz1aF8oMPiV9QPBc%26sid%3D84aa8b34&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true`
 
 
 ### 免费VLESS账号
@@ -347,11 +345,6 @@ PS：最好月付，防止跑路！
 - 备用网址: [FlyingBird](https://fbweb02.flyingbird.id/auth/register?code=jvQ5)
 
 - 备用网址: [FlyingBird](https://web02.fbcn.pro/auth/register?code=jvQ5)
-
->1. 月/季/半年付 85折 , 优惠码：`fb2561885` （可重复使用5次）
->2. 年付8折（站内折上折，高达64折 ）优惠码：`fb2561880`（可重复使用5次）
->
->活动时间：即日至2025年6月20日23点59分
 
 套餐：
 
