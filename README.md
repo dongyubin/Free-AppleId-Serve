@@ -468,8 +468,6 @@ PS：最好月付，防止跑路！
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
 
-<iframe src="https://ios.wwkejishe.top/" width="800px" height="800px" frameborder="0" scrolling="no"> </iframe>
-
 注意：**切勿在设置登陆iCloud账号！！切勿在设置登陆iCloud账号！！以防锁机！！不要点升级！不要点升级！不要点升级！**
 
 1. 美区AppleID成品账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wangdu.site/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
