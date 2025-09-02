@@ -446,7 +446,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭共享账号（博主自维护）
 
 <!-- updateTime starts -->
-更新时间：**2025年7月15日 10:35:38**
+更新时间：**2025年9月2日**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
