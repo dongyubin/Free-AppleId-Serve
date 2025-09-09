@@ -7,7 +7,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年9月3日**
+更新日期：**2025年9月9日**
 
 ## 活动通知
 
@@ -453,7 +453,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭共享账号（博主自维护）
 
 <!-- updateTime starts -->
-更新时间：**2025年9月2日**
+更新时间：**2025年9月9日**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
@@ -462,7 +462,7 @@ PS：最好月付，防止跑路！
 
 1. 美区AppleID成品账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wangdu.site/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
 2. 共享账号容易失效，需要稳定的可购买成品账号
-3. 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://fk.wangdu.site/buy/7)下载（租用仅需 ¥3），租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
+3. 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://fk.wangdu.site/buy/7)下载，租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
 4. [美国 | 下载号 稳定老号 未激活iCloud](https://fk.wwkjs.top/buy/9)、[日本 | 下载号 稳定老号 未激活iCloud](https://fk.wwkjs.top/buy/30)
 
 <!-- apple starts -->
