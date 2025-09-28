@@ -367,7 +367,12 @@ PS：最好月付，防止跑路！
 [YepFast](https://dash.yep.top/#/auth/signup;referral=G8n2THKO) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](#shadowrocket账号) 使用（稳定极速，40+节点，高端节点，海外团队，安全可靠）
 
 - 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
-- 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
+- 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)⭐️ **活动内容：**
+
+- 月/季/半年付85折，优惠码：`yep85`
+- 年付/两年付8折，优惠码：`yep8`
+
+**活动时间：**即日起至 2025/10/10 23:59
 
 套餐：
 
