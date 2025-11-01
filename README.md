@@ -279,7 +279,7 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 ### 免费机场
 
-- [宝可梦](https://love1.go52pokemon.com/#/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，10月白嫖码：`瓦斯弹`
+- [宝可梦](https://love1.go52pokemon.com/#/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥5.9，11月白嫖码：`不倒翁`
 
 ### 免费clash订阅链接
 
