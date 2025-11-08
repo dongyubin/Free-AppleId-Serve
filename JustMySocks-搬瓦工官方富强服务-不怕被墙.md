@@ -1,6 +1,6 @@
 # Just My Socks：搬瓦工官方富强服务，多条线路，IP不怕被墙
 
-Just My Socks 是知名 ss/ssr/v2ray VPS 服务商（机场） ,由搬瓦工官方运营的代理机场，比较适合不想自己搭建 V2Ray 节点服务器的网友使用，使用高速 CN2 及 CN2 GIA 线路，IP 被墙后会自动切换，非常稳定，是除了自己搭建 V2Ray 节点服务器科学上网的良好替代方案。目前支持 Shadowsocks 及 V2Ray 协议。
+Just My Socks 是知名 ss/ssr/v2ray VPS 服务商（机场） ,由搬瓦工（BandwagonHost）官方运营的代理机场，比较适合不想自己搭建 V2Ray 节点服务器的网友使用，使用高速 CN2 及 CN2 GIA 线路，IP 被墙后会自动切换，非常稳定，是除了自己搭建 V2Ray 节点服务器科学上网的良好替代方案。目前支持 Shadowsocks 及 V2Ray 协议。
 
 Just My Socks最大的优势是：`保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户`。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
 
@@ -8,7 +8,7 @@ Just My Socks最大的优势是：`保证IP不被墙，如果IP被墙，会自�
 
 **购买一个套餐即可以同时使用多台节点服务器。**
 
-## Just My Socks介绍
+## Just My Socks 介绍
 
 - **Just My Socks靠谱吗？** 不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近6年了（2018年10月推出的）。
 - **Just My Socks怎么样？** 线路优质，包括最快的搬瓦工CN2 GIA线路。
@@ -366,19 +366,19 @@ PS：**简单点就是最后一条线路没有前面5条线路好，所以使用
 
 ## Just My Socks 常见问题
 
-### 是否有优惠码
+### Just My Socks 是否有优惠码
 
 在 Just My Socks 订单结算页面，使用 justmysocks 优惠码：`JMS9272283`，使用此**搬瓦工机场优惠码**可享受 5.2% **永久优惠**。
 
-### 是否支持退款
+### Just My Socks 是否支持退款
 
 目前提供7天无理由退款，即只要购买时间在7天之内就可以退款。
 
-### 是否支持 UDP
+### Just My Socks 是否支持 UDP
 
 所有地区的 v2Ray 节点均不支持 UDP，所有地区的 Shadowsocks 除了 LA 100 外（目前已停售）均支持 UDP。
 
-### 为什么有多个不同域名的订阅链接
+### 为什么 Just My Socks 有多个不同域名的订阅链接
 
 因为有的订阅链接域名会被宽带运营商“**DNS下毒污染**“。
 
@@ -388,7 +388,7 @@ PS：**简单点就是最后一条线路没有前面5条线路好，所以使用
 | 中国联通   | 正常访问                                                     |                                                              |
 | 中国移动   | 默认的jmssub.net和jjsubmarines.com域名订阅链接有时候无法更新节点信息。  但是justmysocks3.net订阅域名可以正常使用 | 中国移动会下毒污染部分订阅链接的域名；中国移动运营商在防火墙GFW内，增加了自己设计的中国移动版本的防火墙，也叫”移动墙中墙”，会“污染”订阅链接开头的域名，导致无法使用订阅链接。 |
 
-### Just My Socks订阅链接被污染怎么办？
+### Just My Socks 订阅链接被污染怎么办？
 
 #### 方法1：多域名准备
 
