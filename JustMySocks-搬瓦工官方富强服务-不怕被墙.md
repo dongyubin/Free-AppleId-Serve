@@ -1,6 +1,6 @@
 # Just My Socks：搬瓦工官方富强服务，多条线路，IP不怕被墙
 
-Just My Socks 是知名 VPS 服务商 搬瓦工 官方运营的代理机场，比较适合不想自己搭建 V2Ray 节点服务器的网友使用，使用高速 CN2 及 CN2 GIA 线路，IP 被墙后会自动切换，非常稳定，是除了自己搭建 V2Ray 节点服务器科学上网的良好替代方案。目前支持 Shadowsocks 及 V2Ray 协议。
+Just My Socks 是知名 ss/ssr/v2ray VPS 服务商（机场） ,由搬瓦工官方运营的代理机场，比较适合不想自己搭建 V2Ray 节点服务器的网友使用，使用高速 CN2 及 CN2 GIA 线路，IP 被墙后会自动切换，非常稳定，是除了自己搭建 V2Ray 节点服务器科学上网的良好替代方案。目前支持 Shadowsocks 及 V2Ray 协议。
 
 Just My Socks最大的优势是：`保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户`。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
 
@@ -10,7 +10,7 @@ Just My Socks最大的优势是：`保证IP不被墙，如果IP被墙，会自�
 
 ## Just My Socks介绍
 
-- **Just My Socks靠谱吗？**不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近2年了（2018年10月推出的）。
+- **Just My Socks靠谱吗？**不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近6年了（2018年10月推出的）。
 - **Just My Socks怎么样？**线路优质，包括最快的搬瓦工CN2 GIA线路。
 - **哪些人适合用Just My Socks？**不想自己搭建ss/ssr或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。
 - **Just My Socks缺点**：无法看Netflix。
@@ -26,11 +26,11 @@ Just My Socks 官网支持 `支付宝`、Paypal 及 银联卡付款，7天内不
 
 由于某些特殊原因，会不定时的更换官网的镜像地址，方便不能访问的网友访问 Just My Socks 官网，以下是所有的官网镜像列表，如以上官网地址不能访问，可用下面的官网备用网址访问。
 
-- 官网备用1：[https://justmysocks1.net/](https://justmysocks1.net/members/aff.php?aff=31458)（国内无法访问）
-- 官网备用2：[https://justmysocks2.net/](https://justmysocks2.net/members/aff.php?aff=31458)（国内无法访问）
-- 官网备用3：[https://justmysocks6.net/](https://justmysocks6.net/members/aff.php?aff=31458)（国内无法访问）
-- 官网备用4：[https://justmysocks5.net/](https://justmysocks5.net/members/aff.php?aff=31458)（国内无法访问）
-- 官网备用5：[https://justmysocks6.net/](https://justmysocks6.net/members/aff.php?aff=31458)
+- 官网备用1：[https://justmysocks2.net/](https://justmysocks2.net/members/aff.php?aff=31458)（国内大陆可以访问）
+- 官网备用2：[https://justmysocks3.net/](https://justmysocks3.net/members/aff.php?aff=31458)（国内大陆可以访问）
+- 官网备用3：[https://justmysocks6.net/](https://justmysocks6.net/members/aff.php?aff=31458)（国内大陆可以访问）
+- 官网备用4：[https://justmysocks5.net/](https://justmysocks5.net/members/aff.php?aff=31458)（国内大陆无法访问）
+- 官网备用5：[https://justmysocks1.net/](https://justmysocks1.net/members/aff.php?aff=31458)（国内大陆无法访问）
 
 ### 官网界面预览
 
@@ -44,8 +44,23 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 
 ## Just My Socks 懒人版
 
-1. [点击购买 洛杉矶CN2 GIA（高性价比👍）](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese)（享受 5.2% 永久优惠，优惠码：`JMS9272283`）
-2. [Just My Socks](https://justmysocks6.net/members/aff.php?aff=31458&language=chinese) 自家的专用客户端：[Jamjams](https://justmysocks6.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS）
+1. 点击购买 [洛杉矶CN2 GIA（高性价比👍）](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese)（ [洛杉矶CN2 GIA（高性价比👍） 备用购买地址](https://justmysocks3.net/members/aff.php?aff=31458&pid=2&language=chinese)）（享受 5.2% 永久优惠，优惠码：`JMS9272283`）
+2. [Just My Socks](https://justmysocks6.net/members/aff.php?aff=31458&language=chinese)（[Just My Socks 备用购买地址](https://justmysocks3.net/members/aff.php?aff=31458&language=chinese)） 自家的专用客户端：[Jamjams](https://justmysocks6.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS）
+
+## Just My Socks 优势
+
+区别于其他的机场，由于有搬瓦工官方背书，数据安全及稳定性是可以放心的，无须有任何顾虑，主要有以下十大优势。
+
+1. 搬瓦工官方出品安全可靠
+2. 长期可用稳定性绝佳
+3. 支持7天无理由退款
+4. 支持支付宝及银联卡付款
+5. 高速 CN2 GIA 线路
+6. 被墙自动换 IP 无须担心 IP 被墙
+7. 支持域名绑定免去频繁配置
+8. TCP & UDP 协议支持
+9. 支持自定义服务器密码
+10. 支持自定义服务器端口
 
 ## Just My Socks 节点套餐列表
 
@@ -84,7 +99,7 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 
 关于设备限制，Just My Socks 官网中 `∞ devices` 即表示不限制设备，`5 devices` 表示同时支持5台设备使用。
 
-## Just My Socks 购买
+## Just My Socks 购买教程
 
 ### 添加到购物车
 
