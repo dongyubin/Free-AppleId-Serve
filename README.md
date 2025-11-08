@@ -39,8 +39,8 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ## 🔥推荐Ti子服务器
 
-- [Just My Socks 免搭建，直接使用富强服务👍](./JustMySocks.md)（[国内可访问版本，有需要的可以收藏到书签里](https://help.wwkejishe.top/justmysocks)）
-- [2025年国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
+- [Just My Socks 免搭建，直接使用富强服务👍](./JustMySocks-搬瓦工官方富强服务-不怕被墙.md)（[国内可访问版本，有需要的可以收藏到书签里](https://help.wwkejishe.top/justmysocks)）
+- [2025年11月国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 - [2025年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)（[RackNerd](https://www.wangdu.site/fuliyouhui/1266.html)、[CloudCone](https://www.wangdu.site/fuliyouhui/2115.html)、[EthernetServers](https://www.wangdu.site/fuliyouhui/2116.html)、[DMIT](https://www.wangdu.site/?golink=aHR0cHM6Ly93d3cuZG1pdC5pby9hZmYucGhwP2FmZj03OTUy) 多家VPS价格动态对比表格）
 
 <details>
