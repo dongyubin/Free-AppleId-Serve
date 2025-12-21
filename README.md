@@ -491,8 +491,9 @@ PS：最好月付，防止跑路！
 
 **🔴️ 使用免费共享苹果账号必须从 App Store 登录，千万不要登录「iCloud」，否则可能导致锁机或者隐私泄漏！**
 
-- [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket的美区账号、台湾区、日本区、韩国区、香港区、英国区、土耳其区账号
+- [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket的美区账号、台湾区、日本区、韩国区、香港区、英国区、土耳其区、俄罗斯账号
 - [AneeoApple](https://ios.aneeo.com/books/verification)：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取
+- [Shadowrocket共享账号 - 免费小火箭Apple ID分享 | iOS下载教程](https://shadowrocket.best/)
 
 
 ### 使用教程
