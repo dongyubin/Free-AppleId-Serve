@@ -7,7 +7,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年12月16日**
+更新日期：**2025年12月21日**
 
 ## 活动通知
 
@@ -31,7 +31,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 - [2025年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
 
-- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2025年11月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2025年12月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
 
 ## 友情赞助
 
@@ -40,7 +40,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 ## 🔥推荐Ti子服务器
 
 - [Just My Socks 免搭建，直接使用富强服务👍](./JustMySocks-搬瓦工官方富强服务-不怕被墙.md)（[国内可访问版本，有需要的可以收藏到书签里](https://help.wwkejishe.top/justmysocks)）
-- [2025年11月国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
+- [2025年12月国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 - [2025年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)（[RackNerd](https://www.wangdu.site/fuliyouhui/1266.html)、[CloudCone](https://www.wangdu.site/fuliyouhui/2115.html)、[EthernetServers](https://www.wangdu.site/fuliyouhui/2116.html)、[DMIT](https://www.wangdu.site/?golink=aHR0cHM6Ly93d3cuZG1pdC5pby9hZmYucGhwP2FmZj03OTUy) 多家VPS价格动态对比表格）
 
 <details>
@@ -76,6 +76,26 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 ### Shadowsocks 节点获取
 
 机场请看下面的免费机场、[付费机场](#付费机场推荐)（机场里就是节点）
+
+## 什么是Shadowrocket（小火箭加速器）
+
+Shadowrocket（俗称"小火箭"）是iOS平台上最受欢迎的 shadowrocket 代理工具客户端，支持 SS、V2Ray、VLESS、VMESS、Trojan、Hysteria2 等多种协议。由于其强大的功能和稳定的性能，被广大 iOS 用户称为"小火箭加速器"，是shadowrocket ios平台上最受欢迎的代理工具。
+
+- 应用售价：$2.99（美区App Store）
+- 中国区无法下载，需使用shadowrocket apple id
+- 需要使用海外Apple ID（本站提供免费小火箭共享账号）
+- 支持多种代理协议，配置小火箭节点即可使用
+
+### 小火箭账号获取
+
+- [免费小火箭共享账号每日更新](https://ios.wwkejishe.top/)：本站提供最新的免费小火箭共享账号（shadowrocket apple id），每小时自动检测可用性并更新。使用这些shadowrocket ios账号即可免费下载小火箭加速器，无需付费购买。
+
+注意：**切勿在设置登陆iCloud账号！！切勿在设置登陆iCloud账号！！以防锁机！！不要点升级！不要点升级！不要点升级！**
+
+- 美区 AppleID 成品独享账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wangdu.site/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
+- 共享账号容易失效，需要稳定的可购买成品账号
+- 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://fk.wangdu.site/buy/7)下载，租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
+- [美国 | 下载号 稳定老号 未激活iCloud](https://shop.wwkejishe.top/buy/9)、[日本 | 下载号 稳定老号 未激活iCloud](https://shop.wwkejishe.top/buy/30)
 
 ## 小火箭+机场教程（稳定）👍
 
@@ -174,7 +194,7 @@ Clash 是一款开源的跨平台代理工具，主要用于帮助用户科学�
 |                          客户端名称                          |            支持系统            | 最后更新时间 |
 | :----------------------------------------------------------: | :----------------------------: | :----------: |
 |       [FlyClash](https://github.com/GtxFury/FlyClash)        |            Windows             |     2025     |
-| [clash-verge新版👍🏻](https://github.com/clash-verge-rev/clash-verge-rev)（[新版下载地址](https://clash-verge-rev.github.io/install.html)） |     Windows、MacOS、Linux      |     2025     |
+| [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)👍🏻（[新版下载地址](https://clash-verge-rev.github.io/install.html)） |     Windows、MacOS、Linux      |     2025     |
 | [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) |     Windows、MacOS、Linux      |     2025     |
 | [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)（[安装指南](https://gui-for-cores.github.io/zh/guide/01-install)） |     Windows、MacOS、Linux      |     2025     |
 |       [FlClash](https://github.com/chen08209/FlClash)        | Windows、MacOS、Linux、Android |     2025     |
@@ -447,7 +467,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭共享账号（博主自维护）
 
 <!-- updateTime starts -->
-更新时间：**2025年9月9日**
+更新时间：**2025年12月21日**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
@@ -457,7 +477,7 @@ PS：最好月付，防止跑路！
 1. 美区AppleID成品账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wangdu.site/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
 2. 共享账号容易失效，需要稳定的可购买成品账号
 3. 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://fk.wangdu.site/buy/7)下载，租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
-4. [美国 | 下载号 稳定老号 未激活iCloud](https://fk.wwkjs.top/buy/9)、[日本 | 下载号 稳定老号 未激活iCloud](https://fk.wwkjs.top/buy/30)
+4. [美国 | 下载号 稳定老号 未激活iCloud](https://shop.wwkejishe.top/buy/9)、[日本 | 下载号 稳定老号 未激活iCloud](https://shop.wwkejishe.top/buy/30)
 
 <!-- apple starts -->
 
@@ -721,6 +741,64 @@ Cloudflare WARP 是一种由Cloudflare推出的网络加速和安全服务，旨
 - [文武科技柜](https://www.wangdu.site/)：实用工具、黑苹果、高效教程、Nas
 - [文武软件百科](https://wiki.wangdu.site/)：致力于软件的百科全书
 - [文武帮助中心](https://help.wwkejishe.top/)：包含小火箭共享账号及使用教程、IPTV直播源、Skinny电话卡
+
+## 常见问题
+
+### 为什么不能在"设置"中登录小火箭共享账号？
+
+在"设置"中登录shadowrocket apple id会同步iCloud数据，可能导致您的个人数据泄露或被覆盖。小火箭共享账号仅应在App Store中使用。
+
+### shadowrocket共享账号提示"已锁定"或"密码错误"？
+
+小火箭共享账号可能因使用人数过多而被临时锁定。请等待页面自动更新新的shadowrocket apple id，或稍后再试。本站每小时都会检测小火箭共享账号可用性并自动更新。
+
+### 如何获取shadowrocket节点订阅链接？
+
+订阅链接是包含多个节点配置信息的URL地址，Shadowrocket可以通过订阅链接自动导入所有节点。您可以通过以下方式获取订阅链接：
+
+- **🏆 购买稳定机场**（推荐）- 注册机场服务商账号后，在用户中心或订阅页面可以找到订阅链接，复制后添加到Shadowrocket即可。选择稳定可靠的机场服务商，确保节点质量和稳定性。
+- ❌ 搜索不稳定的节点分享网站（不推荐）- 这些网站的节点通常质量差，频繁掉线、速度慢、经常失效，不适合长期使用
+- ⚙️ 自建服务器生成订阅（需要技术能力）- 如果您有自己的VPS服务器，可以自行搭建代理服务并生成订阅链接
+
+获取订阅链接后，按照上方"订阅链接导入"部分的步骤操作即可完成配置。
+
+### 连接后无法上网怎么办？
+
+可能的原因和解决方案：
+
+1. 节点失效 - 尝试切换其他节点
+2. 订阅过期 - 联系服务商续费
+3. 路由设置问题 - 检查全局路由设置
+4. 网络限制 - 尝试切换WiFi或移动网络
+
+### Windows/macOS/Linux电脑操作系统如何使用shadowrocket？
+
+Shadowrocket 只适用于iOS系统，电脑端无法直接使用小火箭。如果您需要在 Windows、macOS 或 Linux 电脑上使用代理工具，推荐使用 [Clash Verge Rev](#Clash系列)。
+
+## 故障排查
+
+### 节点延迟很高
+
+使用Shadowrocket的「连通性测试」功能测试所有节点，选择延迟最低的使用。如果所有节点延迟都很高，建议更换机场服务商。
+
+### 为什么推荐稳定的机场服务？
+
+**不稳定机场的问题：**
+
+- 频繁掉线，需不断更换
+- 速度慢，延迟高
+- 高峰期拥挤卡顿
+- 安全性无保障
+- 无法解锁ChatGPT、Netflix等
+
+**稳定机场的优势：**
+
+- IEPL/IPLC专线，速度快延迟低
+- 稳定可靠，7x24小时运营
+- 完美解锁各类流媒体
+- 专业客服支持
+- 价格实惠
+-  [付费机场](#付费机场推荐)
 
 ## Star History
 
