@@ -7,7 +7,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年12月27日**
+更新日期：**2025年12月28日**
 
 ## 活动通知
 
@@ -53,6 +53,49 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 </details>
 
+### 国外访问国内服务
+
+[快帆](https://af.kuaifan.club/scripts/chm1f4?a_aid=68381ef23e3a7&a_bid=cdf44841)
+
+<details>
+  <summary>快帆详细介绍（只需2步，轻松富强上网，点我展开）</summary>
+
+#### 适用场景
+
+- **定位**：给海外用户把网络“切回中国大陆”，解锁仅限大陆 IP 的视频/音乐/直播/办公/社交等内容；支持按应用加速。
+- **平台覆盖**：提供 Android / iOS / Windows / macOS / Android TV 客户端。
+
+#### 关键功能与特性
+
+- **按应用走代理**：Android 端可选择哪些 App 使用代理。
+- **线路与模式**：宣称 **150+ 加速线路**、含“游戏专线/直连/中转”等，iOS 端强调 **Fanster™ 专线**。
+- **并发设备**：**同一账号最多 3 台设备同时在线**（设备类型不限制）。支持企业/团队**扩容并发**与**定制独享大陆 IP [专线](https://www.wallmama.com/best-vps-to-bypass-gfw/)**。
+- **TV 大屏**：有独立 **Android TV** 客户端，适配机顶盒/智能电视。
+
+#### 价格与退款（以实际页面为准）
+
+- **官网套餐页**（人民币）：**360 天 ¥480、90 天 ¥125、30 天 ¥45**。
+- **iOS 内购**（美元示例）：**年 $55.99–74.99、季 $12.99、月 $4.49–6.99**（页面会随地区/版本变动）。
+- **退款政策**：官网帮助中心写明 **7 天内可退**；按已用天数+约 **6% 手续费**扣除；App Store 购入需按苹果规则。自动续费条款也在服务协议中单列（自动扣费期内通常**不退**）。
+
+#### 隐私与口碑
+
+- App Store 隐私页：可能用于追踪的数据含联系方式、标识符等；开发者名显示 **Beijing next generation access Acceleration CO.LTD**。
+- Google Play“数据安全”页：声明**不与第三方共享数据**；应用可能收集个人/财务信息、设备 ID 等。开发者信息显示 **BOHAN TECHNOLOGY LIMITED / KuaiFan Global**。
+- **评分参考**：iOS 约 **4.8/5（~926 评）**；Google Play 约 **4.5/5（~885 评，10万+ 下载）**。口碑受地区/时段/线路影响波动较大。
+
+#### 快速优缺点
+
+**优点**
+
+多平台一键用、移动端有**免费线路**可试；3 端并发；提供企业定制（并发/独享大陆 IP）。
+
+**注意/不足**
+
+- **主要面向“回国”方向**；游戏加速效果依网络与地区差异较大（官方也建议换线路/环境排障）。
+- 价格在同类中属中等偏上；不同渠道（官网/内购）价格与退款规则不一致，购买前需核实。
+
+</details>
 
 ## Shadowsocks软件介绍
 
