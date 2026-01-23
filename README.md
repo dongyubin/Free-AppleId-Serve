@@ -3,18 +3,17 @@
 
 [国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/wang-shang-xue-ke)
 
-[小火箭共享账号每日更新](https://ios.wwkejishe.top/)
+- [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2025年12月28日**
+更新日期：**2026年1月23日**
 
 ## 活动通知
 
 1. TG群：[wwkjs888](https://t.me/wwkjs888)（进群置顶消息，一年免费订阅链接，4000G流量/每月）
 1. [免费机场](#免费机场)（白嫖 60GB/月）
 1. [付费机场](#付费机场推荐)
-   - FlyingBird：双旦活动开启，截止到`2026年1月20日23点59分`
 
 ## 目录导航
 
@@ -546,6 +545,9 @@ PS：最好月付，防止跑路！
 - [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket的美区账号、台湾区、日本区、韩国区、香港区、英国区、土耳其区、俄罗斯账号
 - [AneeoApple](https://ios.aneeo.com/books/verification)：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取
 - [Shadowrocket共享账号 - 免费小火箭Apple ID分享 | iOS下载教程](https://shadowrocket.best/)
+- [【免费】2026 小火箭共享账号 | 美区ID / 苹果ID共享 (已购Shadowrocket) - 翻墙男](https://fanqiangnan.com/appleid.html)
+  - 提供 **已购 Shadowrocket 的美区 Apple ID**，同时覆盖 **港区 / 日区 / 台区**，账号状态 **每 30 分钟自动检测并更新**
+
 
 
 ### 使用教程
