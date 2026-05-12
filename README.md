@@ -26,13 +26,13 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看 [付费机场](#付费机场推荐)）
+TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节点，求稳还是请看 [付费机场](#付费机场推荐)、动手能力强的小伙伴，请看 [用 CODEX 在 VPS 一键部署代理 - 自动化保姆级教程](#用 CODEX 在 VPS 一键部署代理 - 自动化保姆级教程)）
 
-- [Skinny 手机卡](https://fk.wangdu.site/buy/13)（[常见问题指南](https://www.wangdu.site/fuliyouhui/2019.html)）：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（国内现货，价格优惠，先到先得）
+- ~~[Skinny 手机卡](https://fk.wangdu.site/buy/13)（[常见问题指南](https://www.wangdu.site/fuliyouhui/2019.html)）~~：0月租稳定使用的新西兰手机卡，可用来注册 **脸书、推特、Telegram、Gmail、Tiktok、ChatGPT**（国内暂无现货，价格优惠，先到先得）
 
-- [2025年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
+- [2026年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
 
-- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2025年12月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2026年5月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
 
 ## 友情赞助
 
@@ -41,14 +41,68 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 ## 🔥推荐Ti子服务器
 
 - [Just My Socks 免搭建，直接使用富强服务👍](./JustMySocks-搬瓦工官方富强服务-不怕被墙.md)（[国内可访问版本，有需要的可以收藏到书签里](https://help.wwkejishe.top/justmysocks)）
-- [2025年12月国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
-- [2025年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)（[RackNerd](https://www.wangdu.site/fuliyouhui/1266.html)、[CloudCone](https://www.wangdu.site/fuliyouhui/2115.html)、[EthernetServers](https://www.wangdu.site/fuliyouhui/2116.html)、[DMIT](https://www.wangdu.site/?golink=aHR0cHM6Ly93d3cuZG1pdC5pby9hZmYucGhwP2FmZj03OTUy) 多家VPS价格动态对比表格）
+- [2026年5月国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
+- [2026年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)（[RackNerd](https://www.wangdu.site/fuliyouhui/1266.html)、[CloudCone](https://www.wangdu.site/fuliyouhui/2115.html)、[EthernetServers](https://www.wangdu.site/fuliyouhui/2116.html)、[DMIT](https://www.wangdu.site/?golink=aHR0cHM6Ly93d3cuZG1pdC5pby9hZmYucGhwP2FmZj03OTUy) 多家VPS价格动态对比表格）
 
 <details>
   <summary>Just My Socks 懒人版（只需2步，轻松富强上网，点我展开）</summary>
 
 1. 点击购买 [洛杉矶CN2 GIA（高性价比👍）](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese)（ [洛杉矶CN2 GIA（高性价比👍） 备用购买地址](https://justmysocks3.net/members/aff.php?aff=31458&pid=2&language=chinese)）（享受 5.2% 永久优惠，优惠码：`JMS9272283`）
 2. [Just My Socks](https://justmysocks6.net/members/aff.php?aff=31458&language=chinese)（[Just My Socks 备用购买地址](https://justmysocks3.net/members/aff.php?aff=31458&language=chinese)） 自家的专用客户端：[Jamjams](https://justmysocks6.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS）
+
+</details>
+
+### 用 CODEX 在 VPS 一键部署代理 - 自动化保姆级教程
+
+<details>
+  <summary>用 CODEX 一键部署 VPS - 自动化保姆级教程</summary>
+> 不管你是用 **Codex**、**Claude Code**、**OpenClaw** 还是 **Hermes Agent**，只要是通用 Agent，**10 分钟内**就能零基础部署好属于你自己的 VPS 服务器
+>
+> 没有Codex的小伙伴，可以在这里开通 [ChatGPT Plus](https://shop.wwkejishe.top/buy/53)
+
+
+1. 购买 [搬瓦工 CN2 GIA-E ](https://bwh88.net/aff.php?aff=75023&pid=87)(最推荐，三网直连，速度超快) VPS，购买后获取 **服务器IP** 和 **root密码**
+
+2. 直接复制下面全部内容，**把【】里的内容换成你真实的信息，包括电脑系统和刚刚买的VPS的真实 IP 和密码**，提示词越严谨，codex越不会卡壳
+
+    ```markdown
+    你现在是我的专业服务器运维 + 最强多看板自动搭建专家（用 Marzban 作为代理管理后台）
+    我的本地电脑是【】系统，VPS 是【】 系统，服务商给了我 root 账号密码。我完全不懂 SSH 和 Linux，但我想全程让你自动接管。 
+    
+    服务器 IP：【填你的 IP】
+    root 用户名：root
+    root 密码：【填你的密码】 
+    
+    请你**全程自动接管**，先教我如何从 Windows 11 用 PowerShell 连接 VPS，然后用 SSH 密码方式登录服务器，按以下最优顺序完整执行（我只会把你给的每一条命令复制粘贴执行，然后把终端输出完整贴回给你）：
+    
+    1. 指导我从 Windows 11 用 PowerShell 连接 VPS（给出完整命令 + 每一步详细操作，包括第一次连接确认 yes 和输入密码）。
+    2. SSH 登录成功后，先检查当前系统版本，然后更新系统（apt update && apt upgrade -y）。
+    3. 安装 Cockpit（网页文字级服务器看板），自动开启并启动服务，告诉我浏览器访问地址，并用最白话解释这个看板有哪些页面、怎么用。
+    4. 安装 Netdata（漂亮的实时监控看板），用 Docker 方式自动部署，告诉我访问地址和彩色图表用法。
+    5. 安装 Docker（官方一键脚本）。
+    6. 用官方脚本安装最新版 Marzban 面板：sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install
+    7. 安装完成后，自动创建最安全的 Marzban 管理员账号和密码（如果有交互提示，请告诉我最优答案）。
+    8. 在 Marzban 里创建一个最强抗封锁入站：VLESS + Reality + uTLS（可混合 Hysteria2），自动开放必要端口 + 开启 BBR 速度优化。
+    9. 生成订阅链接、二维码和客户端配置文件（Clash Meta、v2rayN、Nekobox、Shadowrocket）。
+    10. 最后用最白话一步一步输出：
+        - Cockpit 看板访问地址 + 每个页面的用途和操作方法
+        - Netdata 看板访问地址 + 彩色图表到底看什么
+        - Marzban 看板访问地址 + 每个主要页面（首页看板、用户列表、入站设置、订阅管理、实时流量数据图表等）怎么用
+        - 安全建议（改成 SSH 密钥登录 + 禁用密码登录）
+    
+    整个过程严格用“编号 + 代码块”形式输出命令，我每执行完一条就回复“已完成”并贴完整输出，你再给下一条。
+    目标：让我用 Windows 11 电脑也能零基础让 CODEX 自动装好 Marzban（随时打开浏览器就能看到所有实时代理数据）+ Cockpit + Netdata 的完整出海代理系统。
+    
+    现在开始！
+    ```
+
+3. codex会输出完整的计划，你只需要点同意即可，同意计划后，你只需要等codex工作结束即可就完成了。
+
+4. 按codex的指引，用账号密码登录
+
+5. 登陆进去就可以看到vps上部署的看板
+
+6. 把 vps 配置到手机/电脑。电脑用订阅连接，手机扫二维码配置
 
 </details>
 
