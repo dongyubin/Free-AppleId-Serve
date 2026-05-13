@@ -56,6 +56,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 <details>
   <summary>用 CODEX 一键部署 VPS - 自动化保姆级教程</summary>
+
 > 不管你是用 **Codex**、**Claude Code**、**OpenClaw** 还是 **Hermes Agent**，只要是通用 Agent，**10 分钟内**就能零基础部署好属于你自己的 VPS 服务器
 >
 > 没有Codex的小伙伴，可以在这里开通 [ChatGPT Plus](https://shop.wwkejishe.top/buy/53)
