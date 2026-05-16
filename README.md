@@ -7,7 +7,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2026年5月12日**
+更新日期：**2026年5月16日**
 
 ## 活动通知
 
@@ -476,10 +476,9 @@ PS：最好月付，防止跑路！
 
 ### YepFast（博主在用👍🏻）
 
-[YepFast](https://dash.yep.top/#/auth/signup;referral=G8n2THKO) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](#shadowrocket账号) 使用（稳定极速，40+节点，高端节点，海外团队，安全可靠）
+[YepFast](https://g8n2thko.yepfast.link) 有自家的 `Windows、macOS、Android` 客户端，更加方便快捷，iOS 用户还是得需要 [下载小火箭](#shadowrocket账号) 使用（稳定极速，40+节点，高端节点，海外团队，安全可靠）
 
-- 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
-- 备用网址：[YepFast](https://yep.top/#register?code=G8n2THKO)
+- 备用网址：[YepFast](https://g8n2thko.yepfast.link)
 
 套餐：
 
@@ -505,9 +504,9 @@ PS：最好月付，防止跑路！
 
 ### 鹿语云（IEPL专线机场，博主在用）
 
-[鹿语云](https://鹿语云.com/register?code=CZoLVxMH)：（稳定极速，20+节点，全节点IEPL专线，全节点流媒体解锁，全节点支持ChatGPT等AI工具，海外团队，安全可靠）
+[鹿语云](https://czolvxmh.luyuyun.link)：（稳定极速，20+节点，全节点IEPL专线，全节点流媒体解锁，全节点支持ChatGPT等AI工具，海外团队，安全可靠）
 
-- 备用地址：[鹿语云](https://luyuyun.com/register?code=CZoLVxMH)
+- 备用地址：[鹿语云](https://czolvxmh.luyuyun.link)
 
 套餐
 
@@ -549,6 +548,24 @@ PS：最好月付，防止跑路！
   ![可乐云测速图](images/keleyun.png)
 </details>
 
+### 一云梯
+
+[一云梯](https://i03.1ytaff.com/register?aff=wJoFff14)：始于2024年/“便宜机场”/（100GB/￥15/月起）/Vless机场/IEPL专线/综合性价比较高
+
+套餐：
+
+- 100G / 15元 / 1月（年付：144元）
+- 200G / 30元 / 1月（年付：288元）
+- 全IPLC专线，不限速
+
+- 原生IP解锁流媒体
+
+- 解锁 Chatgpt，Tiktok
+
+- 高效客服响应
+
+- 不限制客户端
+
 ### 一元机场
 
 [一元机场](https://xn--4gq62f52gdss.ink/#/register?code=HUliZ7Oi)：适用追求价格便宜，对上外网需求不大，稳定性不高；求稳请看上面几款付费机场
@@ -566,7 +583,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭共享账号（博主自维护）
 
 <!-- updateTime starts -->
-更新时间：**2025年12月21日**
+更新时间：**2026年5月16日**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
