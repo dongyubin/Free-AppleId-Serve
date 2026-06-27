@@ -1,6 +1,6 @@
 # Just My Socks：搬瓦工官方富强服务，多条线路，IP不怕被墙
 
-Just My Socks 是知名 ss/ssr/v2ray VPS 服务商（机场） ,由搬瓦工（BandwagonHost）官方运营的代理机场，比较适合不想自己搭建 V2Ray 节点服务器的网友使用，使用高速 CN2 及 CN2 GIA 线路，IP 被墙后会自动切换，非常稳定，是除了自己搭建 V2Ray 节点服务器科学上网的良好替代方案。目前支持 Shadowsocks 及 V2Ray 协议。
+[Just My Socks](https://justmysocks3.net/members/aff.php?aff=31458) 是知名 ss/ssr/v2ray VPS 服务商（机场） ,由搬瓦工（BandwagonHost）官方运营的代理机场，比较适合不想自己搭建 V2Ray 节点服务器的网友使用，使用高速 CN2 及 CN2 GIA 线路，IP 被墙后会自动切换，非常稳定，是除了自己搭建 V2Ray 节点服务器科学上网的良好替代方案。目前支持 Shadowsocks 及 V2Ray 协议。
 
 Just My Socks最大的优势是：`保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户`。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
 
