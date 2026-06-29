@@ -22,8 +22,8 @@
 2. [什么是 Shadowrocket（小火箭加速器）](##什么是-shadowrocket小火箭加速器)
 3. [小火箭+机场教程（稳定）👍](#小火箭+机场教程（稳定）👍)
 4. [Android手机APP推荐👍](#Android手机APP推荐👍)
-5. [Windows、MacOS、Android、iOS客户端](#Windows、MacOS、Android、iOS客户端)
-6. [免费机场、节点](#免费机场、节点)
+5. [Windows、MacOS、Android、iOS客户端](#windowsmacosandroidios客户端)
+6. [免费机场、节点](#免费机场节点)
 7. [付费机场推荐](#付费机场推荐)：稳定省心
 
 点击文章右上角的三条横杠查看
