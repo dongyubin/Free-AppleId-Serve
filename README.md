@@ -8,7 +8,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2026年6月27日**
+更新日期：**2026年6月29日**
 
 ## 活动通知
 
@@ -19,7 +19,7 @@
 ## 目录导航
 
 1. [自建🪜服务器推荐](#🔥推荐Ti子服务器)
-2. [什么是 Shadowrocket（小火箭加速器）](#什么是 Shadowrocket（小火箭加速器）)
+2. [什么是 Shadowrocket（小火箭加速器）](##什么是-shadowrocket小火箭加速器)
 3. [小火箭+机场教程（稳定）👍](#小火箭+机场教程（稳定）👍)
 4. [Android手机APP推荐👍](#Android手机APP推荐👍)
 5. [Windows、MacOS、Android、iOS客户端](#Windows、MacOS、Android、iOS客户端)
