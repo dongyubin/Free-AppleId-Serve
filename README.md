@@ -8,7 +8,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2026年7月2日**
+更新日期：**2026年7月23日**
 
 ## 活动通知
 
@@ -207,9 +207,9 @@ Shadowrocket（俗称"小火箭"）是iOS平台上最受欢迎的 shadowrocket �
 
 注意：**切勿在设置登陆iCloud账号！！切勿在设置登陆iCloud账号！！以防锁机！！不要点升级！不要点升级！不要点升级！**
 
-- 美区 AppleID 成品独享账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://fk.wangdu.site/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
+- 美区 AppleID 成品独享账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://shop.wwkejishe.top/buy/6)（**账号购买后可以修改密码、密保，并永久使用**）
 - 共享账号容易失效，需要稳定的可购买成品账号
-- 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://fk.wangdu.site/buy/7)下载，租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
+- 美区AppleID共享小火箭：[小火箭id共享账号，租用已购此App账号](https://shop.wwkejishe.top/buy/7)下载，租用与独享账号下载的 App 没有区别，下载的 App 只要不删除永久可用，`只是后续不能升级`。
 - [美国 | 下载号 稳定老号 未激活iCloud](https://shop.wwkejishe.top/buy/9)、[日本 | 下载号 稳定老号 未激活iCloud](https://shop.wwkejishe.top/buy/30)
 
 ## 小火箭+机场教程（稳定）👍
@@ -447,10 +447,6 @@ PS：**下面仓库中付费的内容，请谨慎购买，只推荐使用免费*
 
 - [长风分享频道](https://t.me/changfengchannel)：每4小时更新一次，最多一次显示50条
 - [订阅分享中心](https://t.me/dingyue_Center)
-
-### 网站
-
-- [长风分享](https://www.cfmem.com/search/label/free)：每天更新 Clash、v2ray 节点信息
 
 ### 搜索免费订阅链接技巧
 
