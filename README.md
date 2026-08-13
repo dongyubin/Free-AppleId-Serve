@@ -913,4 +913,4 @@ Shadowrocket 只适用于iOS系统，电脑端无法直接使用小火箭。如�
 
 ## Star History
 
-![](https://api.star-history.com/svg?repos=dongyubin/Free-AppleId-Serve&type=Date)
+![](https://star-history.dera.page/svg?repos=dongyubin/Free-AppleId-Serve&type=Date)
