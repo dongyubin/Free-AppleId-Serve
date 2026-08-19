@@ -8,7 +8,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2026年8月17日**
+更新日期：**2026年8月18日**
 
 ## 活动通知
 
@@ -121,7 +121,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ### 快帆
 
-[快帆](https://af.kuaifan.club/scripts/chm1f4?a_aid=68381ef23e3a7&a_bid=cdf44841)：给海外用户把网络“切回中国大陆”，解锁仅限大陆 IP 的视频（打开爱奇艺优酷或腾讯视频，经常显示**「您所在的地区无法观看该视频」**想看却看不了？）/音乐（网易云音乐、QQ音乐，歌单总是灰色？）/直播/办公/社交等内容；支持按应用加速。
+[快帆加速器](https://af.kuaifan.club/scripts/chm1f4?a_aid=68381ef23e3a7&a_bid=cdf44841)：给海外用户把网络“切回中国大陆”，解锁仅限大陆 IP 的视频（打开爱奇艺优酷或腾讯视频，经常显示 **「您所在的地区无法观看该视频」** 想看却看不了？）/音乐（网易云音乐、QQ音乐，歌单总是灰色？）/直播/办公/社交等内容；支持按应用加速。
 
 <details>
   <summary>快帆详细介绍（只需2步，轻松富强上网，点我展开）</summary>
@@ -165,10 +165,18 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 ### Malus
 
-[Malus](https://getmalus.com/buy?affid=A328464971F) 
+Malus 加速器官网：[Malus](https://getmalus.com/buy?affid=A328464971F) 
 
-- 身处海外，玩游戏、听音乐、看直播，经常延迟高、卡顿丢包、无法连接和播放？用 [Malus](https://getmalus.com/buy?affid=A328464971F) 回国加速器一键加速，超低延迟不丢包，畅玩全球游戏，提高网络稳定性。加速王者荣耀、魔兽世界、原神、和平精英等国服/美服/亚服/欧服国际服游戏、还可以加速优酷、Bilibili、爱奇艺、腾讯视频、QQ音乐、网易云音乐、酷狗音乐、CCTV、腾讯体育NBA、YY语音、央视CCTV、咪咕视频等平台。
-- 身在海外玩国服游戏延迟高经常掉线？使用 [Malus](https://getmalus.com/buy?affid=A328464971F) 加速器，一键加速国服游戏，降低海外延迟，极速稳定不丢包，完美支持加速Windows、iOS、Android、macOS等多平台使用，加速王者荣耀、和平精英、LOL英雄联盟 、魔兽世界、原神、永劫无间、剑网3、CS:GO等国服游戏，同时支持YY语音、OBS、直播姬、QQ音乐、网易云音乐、Bilibili、爱奇艺、优酷等软件。
+- 身在海外玩国服游戏延迟高经常掉线？玩游戏、听音乐、看直播，经常延迟高、卡顿丢包、无法连接和播放？用 [Malus](https://getmalus.com/buy?affid=A328464971F) 回国加速器一键加速，超低延迟不丢包，畅玩全球游戏，提高网络稳定性。加速王者荣耀、魔兽世界、LOL英雄联盟 、原神、和平精英、永劫无间、剑网3、CS:GO等等国服/美服/亚服/欧服国际服游戏、还可以加速优酷、Bilibili、爱奇艺、腾讯视频、QQ音乐、网易云音乐、酷狗音乐、CCTV、腾讯体育NBA、YY语音、央视CCTV、咪咕视频、OBS、直播姬等平台。
+- **全平台支持，随时随地回国加速**：[Malus](https://getmalus.com/buy?affid=A328464971F) 加速器，现已全面支持苹果iPhone & iPad移动设备、Android手机、Windows PC系列、苹果 macOS 电脑、也可以支持 Android 系统的TV电视盒子。确保您在任何一个设备和平台上都可以顺畅加速回国。
+- **一键智能加速**：[Malus](https://getmalus.com/buy?affid=A328464971F) 回国加速器使用独创的边缘节点技术加速，服务器智能分流，按需加速，效果稳定快速。智能加速模式，系统自动根据您所在地区自动选择最佳节点。
+- **国际高速线路，超稳定，低延迟**：[Malus](https://getmalus.com/buy?affid=A328464971F) 回国加速器在全球提供上百条高速线路，实时监控带宽流量动态调整，保证节点通道畅通，不限流量，不限时长，满足各个地区和国家的加速需求。线路动态分配，自动选择最优，为您提供沉浸式加速体验。
+
+### 穿梭
+
+[穿梭](https://www.transocks.com/payment?affiliate-code=m75z3zj) 成立于2017年，也是一款老牌回国VPN，在全球部署了100多条回国专线，采用先进的智能选择线路技术，连接稳定且速度较快，支持Windows、Mac、iOS、Android和智能电视等设备，价格相对较为便宜，每天仅需0.72元，也提供24/7中文在线客服。
+
+- 穿梭现已全面支持iPhone & iPad、Android手机、Windows、macOS、Android电视盒子，更有浏览器插件可供选择
 
 ## Shadowsocks软件介绍
 
