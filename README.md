@@ -8,17 +8,27 @@
 
 ---
 
+>- **适合谁：** 怕麻烦、不想折腾虚拟卡、不是iPhone用户、或者就想快点搞定的朋友。
+
+- [ChatGPT 普号 mail邮箱](https://shop.wwkejishe.top/buy/8)：**可免费使用 GPT-5.6 功能，可用于升级 ChatGPT Plus。**
 - [【GPT充值】代充值1个月 ChatGPT PLUS](https://shop.wwkejishe.top/buy/53)：充值到个人账号，支持使用Codex、GPT Image 2、GPT-6 Astra等与官方功能保持一致
 - [【GPT充值】代充ChatGPT Pro 1个月 PRO 5x 100刀](https://shop.wwkejishe.top/buy/50)：充值到个人账号
 - [【GPT充值】代充ChatGPT Pro 1个月 PRO 质保售后版 x20 200刀](https://shop.wwkejishe.top/buy/51) ：充值到个人账号
 
+>通过正规渠道 2 分钟内即可完成 ChatGPT 充值，让每个人都能轻松订阅 ChatGPT Plus/Pro。
+>
 >**使用的时候如果需要手机号接码验证，需要自行解决该问题，该情况为官方风控账号，跟订阅无关。**
 >
 >⚠️请注意:如果账号被封禁则无法质保,一般是账号或者使用问题，无法处理。
+>
+>- **充值失败全额退款**：充值失败 100% 全额退款，请放心使用我们的服务。
+>- **无需海外信用卡**：没有海外信用卡也不用愁，支付宝/微信即可完成 ChatGPT Plus 代充，人人都能轻松开通。
+>- **安全可靠保障**：正规代充渠道，无需提供账号密码，全程保护您的账户信息安全。
+>- **极速到账**：通常 1–5 分钟内完成充值到账，Plus/Pro/Codex 全自动处理。
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2026年9月5日**
+更新日期：**2026年9月7日**
 
 ## 活动通知
 
