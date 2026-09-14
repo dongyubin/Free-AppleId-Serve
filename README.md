@@ -629,7 +629,6 @@ PS：最好月付，防止跑路！
 ## Shadowrocket小火箭共享账号（博主自维护）
 
 <!-- updateTime starts -->
-更新时间：**2026年8月27日**
 <!-- updateTime ends -->
 
 [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
@@ -645,7 +644,7 @@ PS：最好月付，防止跑路！
 
 <!-- apple ends -->
 
-### 共享苹果ID站点
+### 共享苹果ID站点（第三方网站）
 
 ![2026年最新iOS免费小火箭ShadowRocket共享账号](images/shadowrocket-shared-account.webp)
 
@@ -653,8 +652,8 @@ PS：最好月付，防止跑路！
 
 **🔴️ 使用免费共享苹果账号必须从 App Store 登录，千万不要登录「iCloud」，否则可能导致锁机或者隐私泄漏！**
 
-- [免费共享shadowrocket小火箭账号](https://ao.ke/)：有带shadowrocket的美区账号、台湾区、日本区、韩国区、香港区、英国区、土耳其区、俄罗斯账号
-- [AneeoApple](https://ios.aneeo.com/books/verification)：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取
+- ~~免费共享shadowrocket小火箭账号：有带shadowrocket的美区账号、台湾区、日本区、韩国区、香港区、英国区、土耳其区、俄罗斯账号~~
+- ~~AneeoApple：里面有美国、国区账号，密码需要关注Telegram群/公众号来获取~~
 - [Shadowrocket共享账号 - 免费小火箭Apple ID分享 | iOS下载教程](https://shadowrocket.best/)
 - [【免费】2026 小火箭共享账号 | 美区ID / 苹果ID共享 (已购Shadowrocket) - 翻墙男](https://fanqiangnan.com/appleid.html)
   - 提供 **已购 Shadowrocket 的美区 Apple ID**，同时覆盖 **港区 / 日区 / 台区**，账号状态 **每 30 分钟自动检测并更新**
