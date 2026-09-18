@@ -3,7 +3,7 @@
 
 [国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/free-shadowrocket)
 
-更新日期：**2026年9月14日**
+更新日期：**2026年9月18日**
 
 ## 免费共享小火箭账号、永久shadowrocket账号
 
@@ -566,6 +566,14 @@ PS：最好月付，防止跑路！
   ![YepFast](images/yepfast-jiesuo.jpeg)
 
 </details>
+
+>**节点使用 AnyTLS 协议**，请确保您的第三方客户端为最新版本，以正常使用。如无法使用请点击帮助，使用官方客户端。
+>
+>不支持的客户端：
+>
+>- Clash for Windows（内核过旧需更换）
+>- 远古版本的 ClashX、Clash Meta、Clash for Android（内核过旧需更新）
+>- Hiddify、v2rayNG、Xray 等不支持 AnyTLS 协议的内核及客户端
 
 ### 鹿语云（IEPL专线机场，博主在用）
 
