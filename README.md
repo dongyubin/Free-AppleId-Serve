@@ -3,7 +3,7 @@
 
 [国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/free-shadowrocket)
 
-更新日期：**2026年9月18日**
+更新日期：**2026年9月21日**
 
 ## 免费共享小火箭账号、永久shadowrocket账号
 
@@ -329,7 +329,8 @@ Shadowrocket（俗称"小火箭"）是iOS平台上最受欢迎的 shadowrocket �
 |   [Pandora-Box](https://github.com/snakem982/Pandora-Box)    |                    Windows、MacOS、Linux                     |     2026     |
 | [karing](https://github.com/KaringX/karing)：兼容 Clash、V2ray/V2fly、Sing-box、Shadowsocks、Sub、Github 订阅（[使用教程](https://karing.app/quickstart)） | [Win](https://github.com/KaringX/karing/releases/latest)、[Mac](https://apps.apple.com/us/app/karing/id6472431552)、[Android](https://github.com/KaringX/karing/releases/latest)、[iOS](https://apps.apple.com/us/app/karing/id6472431552) |     2026     |
 |       [sing-box](https://github.com/SagerNet/sing-box)       | [MacOS、iOS](https://sing-box.sagernet.org/zh/clients/apple/)（需要美区账号：[Apple Store注册外国Apple ID教程](https://www.wangdu.site/course/705.html)）、[Android](https://sing-box.sagernet.org/zh/clients/android/) |     2026     |
-| [Hiddify](https://github.com/hiddify/hiddify-next)（[官网地址](https://hiddify.com/)）：全面的协议支持：Vless、Vmess、Reality、TUIC、Wireguard、Hysteria、SSH；多种订阅链接和配置文件格式支持： Sing-box、V2ray、Clash、Clash meta |             Windows、MacOS、Linux、Android、iOS              |     2025     |
+| [Hiddify](https://github.com/hiddify/hiddify-next)（[官网地址](https://hiddify.com/)）：全面的协议支持：Vless、Vmess、Reality、TUIC、Wireguard、Hysteria、SSH；多种订阅链接和配置文件格式支持： Sing-box、V2ray、Clash、Clash meta |             Windows、MacOS、Linux、Android、iOS              |     2026     |
+| [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox)： 是一款使用Mihomo(Clash Meta)内核、基于FlClash早期版本进行重构的、多平台网络调试及规则分流客户端** |                Windows、MacOS、Linux、Android                |     2026     |
 |                                                              |                             其他                             |              |
 | [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)👍🏻 |                           Android                            |     2026     |
 |        [Surfboard](https://manual.getsurfboard.com/)         |                           Android                            |     2026     |
