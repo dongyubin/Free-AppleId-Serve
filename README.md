@@ -3,7 +3,7 @@
 
 [国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/free-shadowrocket)
 
-更新日期：**2026年9月27日**
+更新日期：**2026年10月13日**
 
 ## 免费共享小火箭账号、永久shadowrocket账号
 
@@ -467,7 +467,7 @@ PS：**不保证都可用/多切换试试**，可以使用 [在线订阅转换�
 
 ### 免费机场
 
-- [宝可梦](https://love.p6m6.com/#/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥7.9，9月白嫖码：`吉利蛋`
+- [宝可梦](https://love.p6m6.com/#/register?code=OD5C6b6T)：白嫖 60GB/月，入门套餐 ￥7.9，10月白嫖码：`赫拉克罗斯`
 
 ### 免费clash订阅链接
 
