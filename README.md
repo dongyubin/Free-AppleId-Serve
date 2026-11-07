@@ -230,6 +230,7 @@ PS：最好月付，防止跑路！
 [无忧链接](https://itxh888.worryfreeaff.com/#/?code=z3Ys3Jv2)：2025 年开业的 IPLC 专线机场，海外团队运营，全线 VLESS 协议。解锁 ChatGPT、Gemini 等 AI 服务与 Netflix、Disney+、YouTube 等流媒体，TikTok 多地区可用；不限速、不限制同时在线设备数量，全天客服轮班。
 
 - [官网地址](https://itxh888.worryfreeaff.com/#/?code=z3Ys3Jv2)
+- [无忧链接落地页](https://wyit.site/)：套餐对比、优惠说明、客户端导入与常见问题
 
 | 项目 | 说明 |
 | :--- | :--- |
