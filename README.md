@@ -3,14 +3,15 @@
 
 [国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/free-shadowrocket)
 
-更新日期：**2026年11月9日**
+更新日期：**2026年11月20日**
 
-## 免费共享小火箭账号、永久shadowrocket账号
+## 小火箭共享账号网站：免费 Shadowrocket 共享 Apple ID，打开即取
 
-> 小火箭需搭配下面[免费机场](#免费机场)、[付费机场推荐](#付费机场推荐)使用
+**号池在站内实时出，本页不缓存账号。** 打开 [ios.wwkejishe.top](https://ios.wwkejishe.top/) 就能看到当前可用数量与最近检测时间，按地区筛选后直接复制美区 Apple ID 和密码，在 App Store 登录即可下载 Shadowrocket（小火箭）——不用注册，也不用等本页更新。
 
-- [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
-- 美区 AppleID 成品独享账号：[小火箭 Shadowrocket 成品号 美国区](https://shop.wwkejishe.top/buy/6)（付费共享号近期不稳定已下架，**账号购买后可以修改密码、密保，并永久使用**）
+- **免费领号**：[小火箭共享账号 / 免费小火箭共享 ID](https://ios.wwkejishe.top/)——shadowrocket 共享账号每 30 分钟自动检测，失效即换，美区为主、多地区可筛
+- **要稳定就买成品号**：[美区 Apple ID 成品独享账号](https://shop.wwkejishe.top/buy/6)——一人一号，可改密码与密保，永久使用（付费共享号近期不稳定，已下架）
+- **账号必须配节点才能上网**：[免费机场](#免费机场)（白嫖 60GB/月）或 [付费机场推荐](#付费机场推荐)；下载与登录步骤见 [小火箭账号获取](#小火箭账号获取)
 
 ## 活动通知
 
@@ -18,26 +19,6 @@
 1. [免费机场](#免费机场)（白嫖 60GB/月）
 1. [付费机场推荐](#付费机场推荐)：稳定省心
 1. [Just My Socks：独享富强服务](#just-my-socks-懒人版)：搬瓦工官方富强服务，多条线路，IP不怕被墙
-
-## ChatGPT
-
->- **适合谁：** 怕麻烦、不想折腾虚拟卡、不是iPhone用户、或者就想快点搞定的朋友。
-
-- [ChatGPT 普号 mail邮箱](https://shop.wwkejishe.top/buy/8)：**可免费使用 GPT-5.6 功能，可用于升级 ChatGPT Plus。**
-- [【GPT充值】代充值1个月 ChatGPT PLUS](https://shop.wwkejishe.top/buy/53)：充值到个人账号，支持使用Codex、GPT Image 2、GPT-6 Astra等与官方功能保持一致
-- [【GPT充值】代充ChatGPT Pro 1个月 PRO 5x 100刀](https://shop.wwkejishe.top/buy/50)：充值到个人账号
-- [【GPT充值】代充ChatGPT Pro 1个月 PRO 质保售后版 x20 200刀](https://shop.wwkejishe.top/buy/51) ：充值到个人账号
-
->通过正规渠道 2 分钟内即可完成 ChatGPT 充值，让每个人都能轻松订阅 ChatGPT Plus/Pro。
->
->**使用的时候如果需要手机号接码验证，需要自行解决该问题，该情况为官方风控账号，跟订阅无关。**
->
->⚠️请注意:如果账号被封禁则无法质保,一般是账号或者使用问题，无法处理。
->
->- **充值失败全额退款**：充值失败 100% 全额退款，请放心使用我们的服务。
->- **无需海外信用卡**：没有海外信用卡也不用愁，支付宝/微信即可完成 ChatGPT Plus 代充，人人都能轻松开通。
->- **安全可靠保障**：正规代充渠道，无需提供账号密码，全程保护您的账户信息安全。
->- **极速到账**：通常 1–5 分钟内完成充值到账，Plus/Pro/Codex 全自动处理。
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
@@ -56,6 +37,26 @@
 
 点击文章右上角的三条横杠查看
 ![目录导航](./images/muludaohang.png)
+
+## ChatGPT 账号与 Plus / Pro 代充
+
+>- **适合谁：** 怕麻烦、不想折腾虚拟卡、不是iPhone用户、或者就想快点搞定的朋友。
+
+- [ChatGPT 普号 mail邮箱](https://shop.wwkejishe.top/buy/8)：**可免费使用 GPT-5.6 功能，可用于升级 ChatGPT Plus。**
+- [【GPT充值】代充值1个月 ChatGPT PLUS](https://shop.wwkejishe.top/buy/53)：充值到个人账号，支持使用Codex、GPT Image 2、GPT-6 Astra等与官方功能保持一致
+- [【GPT充值】代充ChatGPT Pro 1个月 PRO 5x 100刀](https://shop.wwkejishe.top/buy/50)：充值到个人账号
+- [【GPT充值】代充ChatGPT Pro 1个月 PRO 质保售后版 x20 200刀](https://shop.wwkejishe.top/buy/51) ：充值到个人账号
+
+>通过正规渠道 2 分钟内即可完成 ChatGPT 充值，让每个人都能轻松订阅 ChatGPT Plus/Pro。
+>
+>**使用的时候如果需要手机号接码验证，需要自行解决该问题，该情况为官方风控账号，跟订阅无关。**
+>
+>⚠️请注意:如果账号被封禁则无法质保,一般是账号或者使用问题，无法处理。
+>
+>- **充值失败全额退款**：充值失败 100% 全额退款，请放心使用我们的服务。
+>- **无需海外信用卡**：没有海外信用卡也不用愁，支付宝/微信即可完成 ChatGPT Plus 代充，人人都能轻松开通。
+>- **安全可靠保障**：正规代充渠道，无需提供账号密码，全程保护您的账户信息安全。
+>- **极速到账**：通常 1–5 分钟内完成充值到账，Plus/Pro/Codex 全自动处理。
 
 ## 前言声明
 
@@ -370,7 +371,7 @@ Shadowrocket（俗称"小火箭"）是iOS平台上最受欢迎的 shadowrocket �
 
 ### 小火箭账号获取
 
-- [免费小火箭共享账号每日更新](https://ios.wwkejishe.top/)：本站提供最新的免费小火箭共享账号（shadowrocket apple id），每小时自动检测可用性并更新。使用这些shadowrocket ios账号即可免费下载小火箭加速器，无需付费购买。
+- [免费小火箭共享账号每日更新](https://ios.wwkejishe.top/)：站内实时提供美区为主的免费小火箭共享账号（shadowrocket apple id / 小火箭共享 ID），每 30 分钟自动检测可用性，失效即换，支持按地区筛选。用这些 shadowrocket ios 账号即可免费下载小火箭加速器，无需付费购买。
 
 注意：**切勿在设置登陆iCloud账号！！切勿在设置登陆iCloud账号！！以防锁机！！不要点升级！不要点升级！不要点升级！**
 
@@ -764,12 +765,12 @@ PS：最好月付，防止跑路！
 - 请知悉无退款服务
 
 
-## Shadowrocket小火箭共享账号（博主自维护）
+## Shadowrocket 小火箭共享账号（实时号池在站内）
 
 <!-- updateTime starts -->
 <!-- updateTime ends -->
 
-[小火箭共享账号每日更新](https://ios.wwkejishe.top/)
+本页不缓存账号，**实时号池请直达 [小火箭共享账号网站 ios.wwkejishe.top](https://ios.wwkejishe.top/)**：站内显示当前可用数量与最近检测时间，每 30 分钟自动更新，支持按地区筛选，打开即取。
 
 注意：**切勿在设置登陆iCloud账号！！切勿在设置登陆iCloud账号！！以防锁机！！不要点升级！不要点升级！不要点升级！**
 
